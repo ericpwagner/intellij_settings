@@ -29,7 +29,6 @@
         <entry>}</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL2Fja2VkL3RyaWdnZXJlZC9nYw==</entry>
         <entry encoding="base64">JzwsJz5zL3RyaWdnZXJlZC9hY2tlZA==</entry>
         <entry encoding="base64">JzwsJz5zLyxcICdhY2tlZCcpLykv</entry>
         <entry encoding="base64">JzwsJz5zLygncmVzb2x2ZWQnLCdhY2tlZCcpLygncmVzb2x2ZWQnKS8=</entry>
@@ -49,6 +48,7 @@
         <entry encoding="base64">JzwsJz5zLyIvXFwiL2c=</entry>
         <entry encoding="base64">JzwsJz5zL30vXFx9L2c=</entry>
         <entry>w</entry>
+        <entry>x</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -91,15 +91,17 @@
       <file name="/Dummy.txt" timestamp="1588003869846">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GitHub/data-db-loader/serverless.yml" timestamp="1588011594205">
-        <mark key="[" line="189" column="27" />
+      <file name="$USER_HOME$/GitHub/data-db-loader/serverless.yml" timestamp="1588027840958">
+        <mark key="[" line="189" column="31" />
+        <mark key="]" line="189" column="27" />
+        <mark key="^" line="189" column="27" />
+        <mark key="." line="189" column="26" />
       </file>
       <file name="/Python Console" timestamp="1587583517293">
         <mark key="]" line="6" column="6" />
         <mark key="^" line="6" column="6" />
         <mark key="." line="6" column="6" />
       </file>
-      <file name="$USER_HOME$/GitHub/data-db-loader/tests/conftest.py" timestamp="1587746790890" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_58.py" timestamp="1587053523974">
         <mark key="[" line="6" column="48" />
         <mark key="]" line="14" column="20" />
@@ -135,7 +137,6 @@
         <mark key="." line="78" column="103" />
         <mark key="^" line="78" column="104" />
       </file>
-      <file name="$USER_HOME$/GitHub/data-db-loader/db_loader/entry/account_removal.py" timestamp="1588010139096" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_57.py" timestamp="1587051078336">
         <mark key="[" line="2" column="13" />
         <mark key="]" line="5" column="19" />
@@ -317,7 +318,7 @@
         <text encoding="base64">Pj4+Pj4+PiBiNjIxZmEwLi4uIGFkIGhvYyByZWNvbiBkb2NrZXIgZGVwbG95cwo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>x</text>
       </register>
     </registers>
   </component>
