@@ -1,32 +1,343 @@
 <application>
   <component name="VimEditorSettings">
-    <editor />
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry>acked</entry>
+        <entry>triggered</entry>
+        <entry>,\ 'acked')</entry>
+        <entry>('resolved','acked')</entry>
+        <entry>#%% md</entry>
+        <entry>DATA</entry>
+        <entry>AC_</entry>
+        <entry>77a97d606ce9d2e8ae579c3f72202441</entry>
+        <entry>5e3abbe43b572b6a439d649c594725ec</entry>
+        <entry encoding="base64">b25seS4mcXVvdDsmI3hkOw==</entry>
+        <entry>What\ follows\ is\ an\ absurdly\ long\ entity_display_name:</entry>
+        <entry>_AC_</entry>
+        <entry>$entity_id</entry>
+        <entry>${entity_id}</entry>
+        <entry encoding="base64">JnF1b3Q7OiZxdW90O0NSSVRJQ0FMJnF1b3Q7LCYjeGQ7</entry>
+        <entry>org_id</entry>
+        <entry>vlaue}</entry>
+        <entry>event_at</entry>
+        <entry>&quot;</entry>
+        <entry>}</entry>
+      </history-search>
+      <history-cmd>
+        <entry encoding="base64">JzwsJz5zL3RyaWdnZXJlZC9hY2tlZA==</entry>
+        <entry encoding="base64">JzwsJz5zLyxcICdhY2tlZCcpLykv</entry>
+        <entry encoding="base64">JzwsJz5zLygncmVzb2x2ZWQnLCdhY2tlZCcpLygncmVzb2x2ZWQnKS8=</entry>
+        <entry encoding="base64">JzwsJz5zL19BQ18vX0FDX1NUR18v</entry>
+        <entry encoding="base64">JzwsJz5zL0RBVEEvQ09SRS8=</entry>
+        <entry encoding="base64">JzwsJz5zL0FDXy8v</entry>
+        <entry encoding="base64">JzwsJz5zLzc3YTk3ZDYwNmNlOWQyZThhZTU3OWMzZjcyMjAyNDQxL1tmaWxsaW5d</entry>
+        <entry>%s/77a97d606ce9d2e8ae579c3f72202441/[fillin]</entry>
+        <entry>%s/5e3abbe43b572b6a439d649c594725ec/[fillin]</entry>
+        <entry encoding="base64">JXMvb25seS4mcXVvdDsmI3hkOy9vbmx5LiZxdW90OywmI3hkOy9nYw==</entry>
+        <entry encoding="base64">JXMvb25seS4mcXVvdDsmI3hkOy9vbmx5LiZxdW90OywmI3hkOy9n</entry>
+        <entry encoding="base64">JzwsJz5zL1doYXRcIGZvbGxvd3NcIGlzXCBhblwgYWJzdXJkbHlcIGxvbmdcIGVudGl0eV9kaXNwbGF5X25hbWU6L0Fic3VyZGx5XCBsb25nXCBuYW1lOi9n</entry>
+        <entry encoding="base64">JzwsJz5zL19BQ18vXy9n</entry>
+        <entry encoding="base64">JzwsJz5zL29yZ19pZC9pbmNpZGVudF9pZC9n</entry>
+        <entry encoding="base64">JzwsJz5zL3ZsYXVlfS92YWx1ZVs6LTZdfS9n</entry>
+        <entry>wq</entry>
+        <entry encoding="base64">JzwsJz5zLyIvXFwiL2c=</entry>
+        <entry encoding="base64">JzwsJz5zL30vXFx9L2c=</entry>
+        <entry>w</entry>
+        <entry>x</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
   </component>
   <component name="VimKeySettings">
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1588090590575">
+      <file name="$USER_HOME$/GitHub/data-db-loader/db_loader/aws_s3_common.py" timestamp="1587140638439">
+        <mark key="[" line="1" column="9" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1588086011642">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/" timestamp="1588089633473">
+      <file name="$USER_HOME$/GitHub/data-db-loader/serverless.yml" timestamp="1588027840958">
+        <mark key="[" line="189" column="31" />
+        <mark key="]" line="189" column="27" />
+        <mark key="^" line="189" column="27" />
+        <mark key="." line="189" column="26" />
+      </file>
+      <file name="/Python Console" timestamp="1588087294031">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="6" column="6" />
+        <mark key="^" line="6" column="6" />
+        <mark key="." line="6" column="6" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_58.py" timestamp="1587053523974">
+        <mark key="[" line="6" column="48" />
+        <mark key="]" line="14" column="20" />
+        <mark key="^" line="6" column="10" />
+        <mark key="." line="14" column="20" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_59.py" timestamp="1587092042072">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/GitHub/data-db-loader/db_loader/entry/reconciliation.py" timestamp="1587086847471">
+        <mark key="[" line="500" column="29" />
+        <mark key="]" line="537" column="0" />
+        <mark key="." line="537" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_56.py" timestamp="1586978864045">
+        <mark key="[" line="0" column="11" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="/org_traffic.ipynb" timestamp="1587487292748">
+        <mark key="'" line="331" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="39" column="38" />
+        <mark key="." line="39" column="38" />
+        <mark key="^" line="39" column="38" />
+      </file>
+      <file name="$USER_HOME$/GitHub/data-db-loader/db_loader/entry/adhoc_kinesis_lambda.py" timestamp="1587746549185">
+        <mark key="[" line="78" column="91" />
+        <mark key="]" line="78" column="104" />
+        <mark key="." line="78" column="103" />
+        <mark key="^" line="78" column="104" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_57.py" timestamp="1587051078336">
+        <mark key="[" line="2" column="13" />
+        <mark key="]" line="5" column="19" />
+        <mark key="." line="5" column="19" />
+      </file>
+      <file name="/SE-736_analysis.ipynb" timestamp="1587487291538">
+        <mark key="a" line="493" column="10" />
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/current_tables.ipynb" timestamp="1587487292917">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_55.py" timestamp="1586895187012">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="4" column="25" />
+        <mark key="." line="4" column="25" />
+      </file>
+      <file name="$USER_HOME$/GitHub/data-db-loader/tests/ad_hoc_kinesis_s3/test_ad_hoc_kinesis_s3.py" timestamp="1587746562580">
+        <mark key="[" line="94" column="111" />
+        <mark key="]" line="84" column="35" />
+        <mark key="." line="84" column="34" />
+        <mark key="^" line="84" column="35" />
+      </file>
+      <file name="$USER_HOME$/GitHub/data-db-loader/Makefile" timestamp="1588003578876">
+        <mark key="'" line="34" column="0" />
+        <mark key="[" line="36" column="12" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="41" column="112" />
+        <mark key="^" line="42" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_60.py" timestamp="1587154179731">
+        <mark key="[" line="19" column="46" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="109" column="0" filename="/SE-736_analysis.ipynb" />
+      <jump line="121" column="0" filename="/SE-736_analysis.ipynb" />
+      <jump line="133" column="0" filename="/SE-736_analysis.ipynb" />
+      <jump line="108" column="0" filename="/se_736_research.ipynb" />
+      <jump line="184" column="0" filename="/SE-736_analysis.ipynb" />
+      <jump line="2" column="0" filename="/org_traffic_SE-736.ipynb" />
+      <jump line="53" column="24" filename="/org_traffic_SE-736.ipynb" />
+      <jump line="118" column="0" filename="/se_736_research.ipynb" />
+      <jump line="151" column="0" filename="/SE-736_analysis.ipynb" />
+      <jump line="220" column="0" filename="/SE-736_analysis.ipynb" />
+      <jump line="225" column="0" filename="/SE-736_analysis.ipynb" />
+      <jump line="219" column="0" filename="/SE-736_analysis.ipynb" />
+      <jump line="228" column="0" filename="/SE-736_analysis.ipynb" />
+      <jump line="329" column="32" filename="/org_traffic.ipynb" />
+      <jump line="330" column="0" filename="/org_traffic.ipynb" />
+      <jump line="34" column="0" filename="$USER_HOME$/GitHub/data_misc/analysis_misc/.env" />
+      <jump line="39" column="0" filename="$USER_HOME$/GitHub/data_misc/analysis_misc/.env" />
+      <jump line="3" column="0" filename="$USER_HOME$/GitHub/data_misc/analysis_misc/.env.template" />
+      <jump line="11" column="31" filename="$USER_HOME$/GitHub/data_misc/analysis_misc/.env.template" />
+      <jump line="119" column="659" filename="$USER_HOME$/GitLab/jmeter/tests/SE-736_testing.jmx" />
+      <jump line="129" column="133" filename="$USER_HOME$/GitLab/jmeter/tests/SE-736_testing.jmx" />
+      <jump line="146" column="191" filename="$USER_HOME$/GitLab/jmeter/tests/SE-736_testing.jmx" />
+      <jump line="63" column="12" filename="$USER_HOME$/GitLab/jmeter/tests/SE-736_testing.jmx" />
+      <jump line="181" column="12" filename="$USER_HOME$/GitLab/jmeter/tests/SE-736_testing.jmx" />
+      <jump line="621" column="30" filename="$USER_HOME$/GitLab/jmeter/tests/SE-736_testing.jmx" />
+      <jump line="41" column="0" filename="$USER_HOME$/GitHub/data_misc/analysis_misc/.env" />
+      <jump line="47" column="0" filename="$USER_HOME$/GitHub/data_misc/analysis_misc/.env" />
+      <jump line="0" column="0" filename="$USER_HOME$/GitLab/jmeter/tests/SE-736_testing.jmx" />
+      <jump line="224" column="32" filename="$USER_HOME$/GitLab/jmeter/tests/SE-736_testing.jmx" />
+      <jump line="146" column="4" filename="$USER_HOME$/GitLab/jmeter/tests/data_analytics_team/dat_verbose_high_volume_playground.jmx" />
+      <jump line="440" column="10" filename="$USER_HOME$/GitLab/jmeter/tests/data_analytics_team/dat_verbose_high_volume_playground.jmx" />
+      <jump line="1" column="78" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_51.py" />
+      <jump line="1118" column="188" filename="$USER_HOME$/GitLab/jmeter/tests/data_analytics_team/dat_verbose_high_volume_playground.jmx" />
+      <jump line="1292" column="22" filename="$USER_HOME$/GitLab/jmeter/tests/data_analytics_team/dat_verbose_high_volume_playground.jmx" />
+      <jump line="1515" column="22" filename="$USER_HOME$/GitLab/jmeter/tests/data_analytics_team/dat_verbose_high_volume_playground.jmx" />
+      <jump line="119" column="0" filename="$USER_HOME$/GitLab/jmeter/tests/data_analytics_team/dat_verbose_high_volume_playground.jmx" />
+      <jump line="802" column="190" filename="$USER_HOME$/GitLab/jmeter/tests/data_analytics_team/dat_verbose_high_volume_playground.jmx" />
+      <jump line="1969" column="192" filename="$USER_HOME$/GitLab/jmeter/tests/data_analytics_team/dat_verbose_high_volume_playground.jmx" />
+      <jump line="1466" column="22" filename="$USER_HOME$/GitLab/jmeter/tests/data_analytics_team/dat_verbose_high_volume_playground.jmx" />
+      <jump line="117" column="22" filename="$USER_HOME$/GitLab/jmeter/tests/data_analytics_team/dat_verbose_high_volume_playground.jmx" />
+      <jump line="792" column="22" filename="$USER_HOME$/GitLab/jmeter/tests/data_analytics_team/dat_verbose_high_volume_playground.jmx" />
+      <jump line="1042" column="4" filename="$USER_HOME$/GitLab/jmeter/tests/data_analytics_team/dat_verbose_high_volume_playground.jmx" />
+      <jump line="524" column="12" filename="$USER_HOME$/GitLab/jmeter/tests/data_analytics_team/dat_verbose_high_volume_playground.jmx" />
+      <jump line="1109" column="4" filename="$USER_HOME$/GitLab/jmeter/tests/data_analytics_team/dat_verbose_high_volume_playground.jmx" />
+      <jump line="459" column="4" filename="$USER_HOME$/GitLab/jmeter/tests/data_analytics_team/dat_verbose_high_volume_playground.jmx" />
+      <jump line="472" column="4" filename="$USER_HOME$/GitLab/jmeter/tests/data_analytics_team/dat_verbose_high_volume_playground.jmx" />
+      <jump line="1595" column="4" filename="$USER_HOME$/GitLab/jmeter/tests/data_analytics_team/dat_verbose_high_volume_playground.jmx" />
+      <jump line="1054" column="16" filename="$USER_HOME$/GitLab/jmeter/tests/data_analytics_team/dat_verbose_high_volume_playground.jmx" />
+      <jump line="523" column="14" filename="$USER_HOME$/GitLab/jmeter/tests/data_analytics_team/dat_verbose_high_volume_playground.jmx" />
+      <jump line="1003" column="4" filename="$USER_HOME$/GitLab/jmeter/tests/data_analytics_team/dat_verbose_high_volume_playground.jmx" />
+      <jump line="1593" column="4" filename="$USER_HOME$/GitLab/jmeter/tests/data_analytics_team/dat_verbose_high_volume_playground.jmx" />
+      <jump line="1166" column="12" filename="$USER_HOME$/GitLab/jmeter/tests/data_analytics_team/dat_verbose_high_volume_playground.jmx" />
+      <jump line="1017" column="4" filename="$USER_HOME$/GitLab/jmeter/tests/data_analytics_team/dat_verbose_high_volume_playground.jmx" />
+      <jump line="1090" column="10" filename="$USER_HOME$/GitLab/jmeter/tests/data_analytics_team/dat_verbose_high_volume_playground.jmx" />
+      <jump line="500" column="12" filename="$USER_HOME$/GitLab/jmeter/tests/data_analytics_team/dat_verbose_high_volume_playground.jmx" />
+      <jump line="12" column="0" filename="$USER_HOME$/Library/Application Support/iTerm2/Scripts/ssh_tunnels.py" />
+      <jump line="150" column="0" filename="/se_736_research.ipynb" />
+      <jump line="243" column="22" filename="/SE-736_analysis.ipynb" />
+      <jump line="199" column="0" filename="/SE-736_analysis.ipynb" />
+      <jump line="269" column="4" filename="/SE-736_analysis.ipynb" />
+      <jump line="234" column="0" filename="/SE-736_analysis.ipynb" />
+      <jump line="261" column="0" filename="/SE-736_analysis.ipynb" />
+      <jump line="280" column="4" filename="/SE-736_analysis.ipynb" />
+      <jump line="339" column="45" filename="/SE-736_analysis.ipynb" />
+      <jump line="371" column="105" filename="/SE-736_analysis.ipynb" />
+      <jump line="372" column="1" filename="/SE-736_analysis.ipynb" />
+      <jump line="283" column="4" filename="/SE-736_analysis.ipynb" />
+      <jump line="13" column="8" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_52.py" />
+      <jump line="6" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_52.py" />
+      <jump line="376" column="3" filename="/SE-736_analysis.ipynb" />
+      <jump line="172" column="0" filename="/SE-736_analysis.ipynb" />
+      <jump line="181" column="0" filename="/SE-736_analysis.ipynb" />
+      <jump line="186" column="0" filename="/SE-736_analysis.ipynb" />
+      <jump line="195" column="0" filename="/SE-736_analysis.ipynb" />
+      <jump line="200" column="0" filename="/SE-736_analysis.ipynb" />
+      <jump line="213" column="0" filename="/SE-736_analysis.ipynb" />
+      <jump line="218" column="0" filename="/SE-736_analysis.ipynb" />
+      <jump line="230" column="0" filename="/SE-736_analysis.ipynb" />
+      <jump line="235" column="0" filename="/SE-736_analysis.ipynb" />
+      <jump line="246" column="0" filename="/SE-736_analysis.ipynb" />
+      <jump line="210" column="0" filename="/SE-736_analysis.ipynb" />
+      <jump line="30" column="0" filename="$USER_HOME$/Library/Application Support/iTerm2/Scripts/ssh_tunnels.py" />
+      <jump line="8" column="20" filename="$USER_HOME$/GitHub/data-db-loader/db_loader/entry/adhoc_kinesis_lambda.py" />
+      <jump line="20" column="28" filename="$USER_HOME$/GitHub/data-db-loader/db_loader/entry/adhoc_kinesis_lambda.py" />
+      <jump line="35" column="3" filename="$USER_HOME$/GitHub/data-db-loader/db_loader/entry/adhoc_kinesis_lambda.py" />
+      <jump line="29" column="43" filename="$USER_HOME$/GitHub/data-db-loader/db_loader/entry/adhoc_kinesis_lambda.py" />
+      <jump line="25" column="31" filename="$USER_HOME$/GitHub/data-db-loader/db_loader/entry/adhoc_kinesis_lambda.py" />
+      <jump line="39" column="46" filename="$USER_HOME$/GitHub/data-db-loader/db_loader/entry/adhoc_kinesis_lambda.py" />
+      <jump line="40" column="14" filename="$USER_HOME$/GitHub/data-db-loader/db_loader/entry/adhoc_kinesis_lambda.py" />
+      <jump line="41" column="15" filename="$USER_HOME$/GitHub/data-db-loader/db_loader/entry/adhoc_kinesis_lambda.py" />
+      <jump line="44" column="42" filename="$USER_HOME$/GitHub/data-db-loader/db_loader/entry/adhoc_kinesis_lambda.py" />
+      <jump line="42" column="7" filename="$USER_HOME$/GitHub/data-db-loader/tests/ad_hoc_kinesis_s3/test_ad_hoc_kinesis_s3.py" />
+      <jump line="5" column="0" filename="$USER_HOME$/GitHub/data-db-loader/tests/ad_hoc_kinesis_s3/test_ad_hoc_kinesis_s3.py" />
+      <jump line="43" column="0" filename="$USER_HOME$/GitHub/data-db-loader/tests/ad_hoc_kinesis_s3/test_ad_hoc_kinesis_s3.py" />
+      <jump line="99" column="0" filename="$USER_HOME$/GitHub/data-db-loader/db_loader/entry/adhoc_kinesis_lambda.py" />
+      <jump line="57" column="7" filename="$USER_HOME$/GitHub/data-db-loader/db_loader/entry/adhoc_kinesis_lambda.py" />
+      <jump line="303" column="0" filename="$USER_HOME$/GitHub/data-db-loader/serverless.yml" />
+      <jump line="65" column="46" filename="$USER_HOME$/GitHub/data-db-loader/db_loader/entry/adhoc_kinesis_lambda.py" />
+      <jump line="29" column="0" filename="$USER_HOME$/GitHub/data-db-loader/Makefile" />
+      <jump line="34" column="0" filename="$USER_HOME$/GitHub/data-db-loader/Makefile" />
+    </jumps>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZGVwbG95X3BsYXlfYmFja2ZpbGw6IGJ1aWxkX3NlcnZlcmxlc3NfaW1hZ2UKCWRvY2tlciBydW4gLWl0IC0tcm1cCgkgICAgICAgICAgIC12ICQoSE9NRSkvLmF3czovcm9vdC8uYXdzXAoJCQkgICAtdiAkKFBXRCk6L2FwcCAtdyAvYXBwXAoJCQkgICAtdyAvYXBwXAoJCQkgICBkYl9sb2FkZXIvc2VydmVybGVzcyAtLXN0YWdlICQoQVdTX1BST0ZJTEUpIGRlcGxveSBmdW5jdGlvbiAtLWZ1bmN0aW9uIGFsZXJ0Y29yZV9raW5lc2lzX2JhY2tmaWxsCg==</text>
+      </register>
+      <register name="-" type="4">
+        <text>3</text>
+      </register>
+      <register name="/" type="4">
+        <text>}</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ZGVwbG95X3BsYXlfYmFja2ZpbGw6IGJ1aWxkX3NlcnZlcmxlc3NfaW1hZ2UKCWRvY2tlciBydW4gLWl0IC0tcm1cCgkgICAgICAgICAgIC12ICQoSE9NRSkvLmF3czovcm9vdC8uYXdzXAoJCQkgICAtdiAkKFBXRCk6L2FwcCAtdyAvYXBwXAoJCQkgICAtdyAvYXBwXAoJCQkgICBkYl9sb2FkZXIvc2VydmVybGVzcyAtLXN0YWdlICQoQVdTX1BST0ZJTEUpIGRlcGxveSBmdW5jdGlvbiAtLWZ1bmN0aW9uIGFsZXJ0Y29yZV9raW5lc2lzX2JhY2tmaWxsCg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Pj4+Pj4+PiA0ZTRhZWRhLi4uIGZpeCBtaW5vciBlcnJvcnMK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBmImZlZWQ9aW5jaWRlbnRfdjEvZGF0YWxha2VfcmVjZWl2ZWRfYXQ9e2RheX0ve2hvdXJ9L2JhY2tmaWxsX2lkPVNFLTczNi9iYWNrZmlsbF9kYXRlPXt0b2RheX0ve2ZpbGVfbmFtZX0iCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">PT09PT09PQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Pj4+Pj4+PiA0ZTRhZWRhLi4uIGZpeCBtaW5vciBlcnJvcnMK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">PT09PT09PQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">PDw8PDw8PCBIRUFEago=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Pj4+Pj4+PiAyMmQyZGU3Li4uIGFkZCBkZXBsb3ltZW50IG9mIG5ldyBsYW1iZGEK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Pj4+Pj4+PiBiNjIxZmEwLi4uIGFkIGhvYyByZWNvbiBkb2NrZXIgZGVwbG95cwo=</text>
+      </register>
+      <register name=":" type="4">
+        <text>x</text>
+      </register>
+    </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-dir>0</last-dir>
+      <last-search>}</last-search>
+      <last-offset />
+      <last-pattern>}</last-pattern>
+      <last-replace>\\}</last-replace>
+      <last-substitute>}</last-substitute>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
     <state version="6" enabled="true" />
     <notifications>
-      <idea-join enabled="false" />
+      <idea-join enabled="true" />
       <idea-put enabled="false" />
     </notifications>
   </component>

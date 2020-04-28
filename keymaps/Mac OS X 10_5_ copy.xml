@@ -1,0 +1,39 @@
+<keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id="ActivatePythonConsoleToolWindow">
+    <keyboard-shortcut first-keystroke="meta alt c" />
+  </action>
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="shift ctrl t" />
+  </action>
+  <action id="IntroduceConstant" />
+  <action id="IntroduceVariable" />
+  <action id="Jdbc.RunSqlScript" />
+  <action id="JupyterClearOutputsAction">
+    <keyboard-shortcut first-keystroke="shift ctrl x" />
+  </action>
+  <action id="JupyterInsertCodeCellToTheEndAction">
+    <keyboard-shortcut first-keystroke="shift ctrl c" />
+  </action>
+  <action id="JupyterInsertMarkdownCellToTheEndAction">
+    <keyboard-shortcut first-keystroke="shift ctrl m" />
+  </action>
+  <action id="JupyterRestartKernelAction">
+    <keyboard-shortcut first-keystroke="shift ctrl k" />
+  </action>
+  <action id="JupyterRunAllAction">
+    <keyboard-shortcut first-keystroke="shift ctrl enter" />
+  </action>
+  <action id="JupyterRunAllBelowAction">
+    <keyboard-shortcut first-keystroke="shift ctrl meta enter" />
+  </action>
+  <action id="JupyterStartServerAction">
+    <keyboard-shortcut first-keystroke="shift ctrl equals" />
+  </action>
+  <action id="JupyterStopServerAction">
+    <keyboard-shortcut first-keystroke="shift ctrl s" />
+  </action>
+  <action id="NextEditorTab" />
+  <action id="PreviousEditorTab" />
+  <action id="RunClass" />
+  <action id="RunDashboard.Run" />
+</keymap>
