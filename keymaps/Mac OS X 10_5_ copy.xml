@@ -2,6 +2,9 @@
   <action id="ActivatePythonConsoleToolWindow">
     <keyboard-shortcut first-keystroke="meta alt c" />
   </action>
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="shift ctrl t" />
+  </action>
   <action id="IntroduceConstant" />
   <action id="IntroduceVariable" />
   <action id="Jdbc.RunSqlScript" />
