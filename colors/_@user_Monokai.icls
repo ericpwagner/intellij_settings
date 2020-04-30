@@ -4,7 +4,7 @@
     <property name="created">2018-07-30T08:14:20</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2018.1.4.0.0</property>
-    <property name="modified">2020-04-30T09:43:24</property>
+    <property name="modified">2020-04-30T15:01:44</property>
     <property name="originalScheme">Monokai</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
@@ -227,7 +227,7 @@
     </option>
     <option name="CONSOLE_CYAN_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="6b8b8" />
+        <option name="FOREGROUND" value="6e6e6" />
       </value>
     </option>
     <option name="CONSOLE_ERROR_OUTPUT">
@@ -272,7 +272,7 @@
     </option>
     <option name="CONSOLE_YELLOW_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="754200" />
+        <option name="FOREGROUND" value="e38d00" />
       </value>
     </option>
     <option name="CSS.COMMENT">
