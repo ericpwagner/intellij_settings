@@ -88,16 +88,13 @@
       <file name="$USER_HOME$/GitHub/data-db-loader/db_loader/aws_s3_common.py" timestamp="1587140638439">
         <mark key="[" line="1" column="9" />
       </file>
-      <file name="/Dummy.txt" timestamp="1588086011642">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/GitHub/data-db-loader/serverless.yml" timestamp="1588702804454">
         <mark key="[" line="305" column="0" />
         <mark key="]" line="305" column="0" />
         <mark key="^" line="304" column="90" />
         <mark key="." line="305" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1588087294031">
+      <file name="/Python Console" timestamp="1588707398790">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="6" column="6" />
         <mark key="^" line="6" column="6" />
@@ -107,29 +104,54 @@
         <mark key="'" line="0" column="0" />
         <mark key="[" line="32" column="91" />
       </file>
-      <file name="$USER_HOME$/GitHub/data-db-loader/tests/conftest.py" timestamp="1588704852545" />
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_58.py" timestamp="1587053523974">
-        <mark key="[" line="6" column="48" />
-        <mark key="]" line="14" column="20" />
-        <mark key="^" line="6" column="10" />
-        <mark key="." line="14" column="20" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_59.py" timestamp="1587092042072">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/GitHub/data-db-loader/db_loader/entry/reconciliation.py" timestamp="1587086847471">
-        <mark key="[" line="500" column="29" />
-        <mark key="]" line="537" column="0" />
-        <mark key="." line="537" column="0" />
-      </file>
       <file name="/org_traffic.ipynb" timestamp="1587487292748">
         <mark key="'" line="331" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="39" column="38" />
         <mark key="." line="39" column="38" />
         <mark key="^" line="39" column="38" />
+      </file>
+      <file name="/SE-736_analysis.ipynb" timestamp="1587487291538">
+        <mark key="a" line="493" column="10" />
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736_analysis.ipynb" timestamp="1588708355547">
+        <mark key="[" line="399" column="54" />
+        <mark key="]" line="460" column="0" />
+        <mark key="." line="460" column="0" />
+      </file>
+      <file name="$USER_HOME$/GitHub/data-db-loader/tests/ad_hoc_kinesis_s3/test_ad_hoc_kinesis_s3.py" timestamp="1588705589111">
+        <mark key="[" line="113" column="0" />
+        <mark key="]" line="113" column="0" />
+        <mark key="^" line="127" column="65" />
+        <mark key="." line="113" column="0" />
+      </file>
+      <file name="$USER_HOME$/GitHub/data-db-loader/sls_config/stg.json" timestamp="1588700905174">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="32" column="91" />
+        <mark key="]" line="33" column="28" />
+        <mark key="^" line="33" column="28" />
+        <mark key="." line="33" column="27" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_60.py" timestamp="1587154179731">
+        <mark key="[" line="19" column="46" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/GitHub/data_misc/analysis_misc/Pipfile" timestamp="1588707670554">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="22" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1588086011642">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/GitHub/data-db-loader/tests/conftest.py" timestamp="1588704852545" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_59.py" timestamp="1587092042072">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/GitHub/data-db-loader/db_loader/entry/adhoc_kinesis_lambda.py" timestamp="1588705323139">
         <mark key="'" line="76" column="3" />
@@ -143,21 +165,11 @@
         <mark key="]" line="111" column="0" />
         <mark key="." line="111" column="0" />
       </file>
-      <file name="/SE-736_analysis.ipynb" timestamp="1587487291538">
-        <mark key="a" line="493" column="10" />
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/current_tables.ipynb" timestamp="1587487292917">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/" timestamp="1588705409362">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/GitHub/data-db-loader/tests/ad_hoc_kinesis_s3/test_ad_hoc_kinesis_s3.py" timestamp="1588705589111">
-        <mark key="[" line="113" column="0" />
-        <mark key="]" line="113" column="0" />
-        <mark key="^" line="127" column="65" />
-        <mark key="." line="113" column="0" />
       </file>
       <file name="$USER_HOME$/GitHub/data-db-loader/Makefile" timestamp="1588003578876">
         <mark key="'" line="34" column="0" />
@@ -172,18 +184,6 @@
         <mark key="]" line="35" column="35" />
         <mark key="^" line="35" column="35" />
         <mark key="." line="35" column="34" />
-      </file>
-      <file name="$USER_HOME$/GitHub/data-db-loader/sls_config/stg.json" timestamp="1588700905174">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="32" column="91" />
-        <mark key="]" line="33" column="28" />
-        <mark key="^" line="33" column="28" />
-        <mark key="." line="33" column="27" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_60.py" timestamp="1587154179731">
-        <mark key="[" line="19" column="46" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -310,7 +310,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CmRlZiB0ZXN0X21pc3NpbmdfZW52aXJvbm1lbnRfbmFtZSgpOgogICAgIiIiIE1ha2Ugc3VyZSBhIGtleSBlcnJvciBpcyB0aHJvd24gd2hlbiB0aGUgZW52aXJvbm1lbnQgbmFtZSB2YXJpYWJsZSBpcyBub3QgcHJvdmlkZWQiIiIKICAgIHdpdGggcHl0ZXN0LnJhaXNlcyhLZXlFcnJvcikgYXMgZToKICAgICAgICBhc3NlcnQgYWRob2Nfa2luZXNpc19sYW1iZGEuZ2V0X2Vudmlyb25tZW50KCkKICAgICMgYXNzZXJ0IHN0cihlLnZhbHVlKSA9PSAnREFUQV9FTlZJUk9OTUVOVF9OQU1FIHZhcmlhYmxlIGRvZXMgbm90IG1hdGNoIGFueSAocGxheWdyb3VuZCwgc3RnLCBwcm9kKSc=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -319,16 +319,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">CiMlJSBtZAoKZGlzcGxheV9yYXdfY291bnRzKGN1cnJlbnRfdGFibGVfcmF3X2NvdW50LCBhY3RpdmVfaW5jaWRlbnRzX3Jhd19jb3VudCkKZGlzcGxheV9hZmZlY3RlZF9jdXN0b21lcl9kYXRhKG1pc3NpbmdfZGYpCgoKCgojJSUgbWQKCiMgPHNwYW4gc3R5bGU9ImNvbG9yOmZ1Y2hzaWEiPkRpc3BsYXkgUmVzdWx0czwvc3Bhbj4KCiMlJQoKZGlzcGxheV9yYXdfY291bnRzKGN1cnJlbnRfdGFibGVfcmF3X2NvdW50LCBhY3RpdmVfaW5jaWRlbnRzX3Jhd19jb3VudCkKZGlzcGxheV9hZmZlY3RlZF9jdXN0b21lcl9kYXRhKG1pc3NpbmdfZGYpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHl0aG9uLWRvdGVudj0iKiIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CmRlZiB0ZXN0X2NvbnRleHQoa2luZXNpc19ldmVudCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CmRlZiB0ZXN0X2NvbnRleHQoa2luZXNpc19ldmVudCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
