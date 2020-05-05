@@ -153,12 +153,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GitHub/data-db-loader/db_loader/entry/adhoc_kinesis_lambda.py" timestamp="1588710853141">
-        <mark key="'" line="76" column="3" />
-        <mark key="[" line="77" column="15" />
-        <mark key="]" line="84" column="16" />
-        <mark key="." line="84" column="16" />
-        <mark key="^" line="84" column="12" />
+      <file name="$USER_HOME$/GitHub/data-db-loader/db_loader/entry/adhoc_kinesis_lambda.py" timestamp="1588711649286">
+        <mark key="'" line="75" column="0" />
+        <mark key="[" line="85" column="100" />
+        <mark key="]" line="85" column="0" />
+        <mark key="." line="85" column="0" />
       </file>
       <file name="$USER_HOME$/GitHub/data-db-loader/db_loader/entry/loader_lambda.py" timestamp="1588702194291">
         <mark key="[" line="111" column="0" />
@@ -187,7 +186,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="24" filename="/org_traffic_SE-736.ipynb" />
       <jump line="118" column="0" filename="/se_736_research.ipynb" />
       <jump line="151" column="0" filename="/SE-736_analysis.ipynb" />
       <jump line="220" column="0" filename="/SE-736_analysis.ipynb" />
@@ -287,12 +285,13 @@
       <jump line="48" column="4" filename="$USER_HOME$/GitHub/data-db-loader/db_loader/entry/adhoc_kinesis_lambda.py" />
       <jump line="138" column="19" filename="$USER_HOME$/GitHub/data-db-loader/db_loader/entry/adhoc_kinesis_lambda.py" />
       <jump line="74" column="3" filename="$USER_HOME$/GitHub/data-db-loader/db_loader/entry/adhoc_kinesis_lambda.py" />
+      <jump line="75" column="0" filename="$USER_HOME$/GitHub/data-db-loader/db_loader/entry/adhoc_kinesis_lambda.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICMgb3MucHV0ZW52KCdEQVRBX0VOVklST05NRU5UX05BTUUnLCAncHJvZCcpCg==</text>
+        <text encoding="base64">ICAgICAgICBmdWxsX2VudiA9ICdiYWRfZW52Jwo=</text>
       </register>
       <register name="-" type="4">
         <text>wrong</text>
@@ -304,31 +303,31 @@
         <text encoding="base64">ICAgIG9zLmVudmlyb25bJ0RBVEFfRU5WSVJPTk1FTlRfTkFNRSddID0gJ3N0ZycK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgb3MucHV0ZW52KCdEQVRBX0VOVklST05NRU5UX05BTUUnLCAncHJvZCcpCg==</text>
+        <text encoding="base64">ICAgICAgICBmdWxsX2VudiA9ICdiYWRfZW52Jwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG9zLnB1dGVudignREFUQV9FTlZJUk9OTUVOVF9OQU1FJywgJ3N0ZycpCg==</text>
+        <text encoding="base64">ICAgICAgICByYWlzZSBFeGNlcHRpb24oIkRBVEFfRU5WSVJPTk1FTlRfTkFNRSB2YXJpYWJsZSBkb2VzIG5vdCBtYXRjaCBhbnkgKHBsYXlncm91bmQsIHN0ZywgcHJvZCkiKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG1vY2tlZF9lbnYuc3RhcnQoKQo=</text>
+        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG9zLnB1dGVudlsnREFUQV9FTlZJUk9OTUVOVF9OQU1FJ10gPSAncHJvZCcKICAgIGFzc2VydCBhZGhvY19raW5lc2lzX2xhbWJkYS5nZXRfZW52aXJvbm1lbnQoKSA9PSAoJ3Byb2QnLCAncHJvZHVjdGlvbicpCgo=</text>
+        <text encoding="base64">ICAgIHJldHVybiAoZW52LCBmdWxsX2VudikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiAoZW52LCBmdWxsX2VudikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgIGV4Y2VwdCBLZXlFcnJvciBhcyBlOgogICAgICAgIHByaW50KGYiTm8gZW52aXJvbm1lbnQgdmFyaWFibGUgZm9yIERBVEFfRU5WSVJPTk1FTlRfTkFNRToge2V9IikKICAgICAgICByYWlzZSBl</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gKGVudiwgZnVsbF9lbnYpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
