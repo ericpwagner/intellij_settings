@@ -91,17 +91,21 @@
       <file name="/Dummy.txt" timestamp="1588086011642">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GitHub/data-db-loader/serverless.yml" timestamp="1588027840958">
-        <mark key="[" line="189" column="31" />
-        <mark key="]" line="189" column="27" />
-        <mark key="^" line="189" column="27" />
-        <mark key="." line="189" column="26" />
+      <file name="$USER_HOME$/GitHub/data-db-loader/serverless.yml" timestamp="1588701462236">
+        <mark key="[" line="305" column="0" />
+        <mark key="]" line="305" column="0" />
+        <mark key="^" line="304" column="90" />
+        <mark key="." line="305" column="0" />
       </file>
       <file name="/Python Console" timestamp="1588087294031">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="6" column="6" />
         <mark key="^" line="6" column="6" />
         <mark key="." line="6" column="6" />
+      </file>
+      <file name="$USER_HOME$/GitHub/data-db-loader/sls_config/prod.json" timestamp="1588700841364">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="32" column="91" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_58.py" timestamp="1587053523974">
         <mark key="[" line="6" column="48" />
@@ -168,6 +172,20 @@
         <mark key="." line="41" column="112" />
         <mark key="^" line="42" column="0" />
       </file>
+      <file name="$USER_HOME$/GitHub/data-db-loader/sls_config/playground.json" timestamp="1588700868322">
+        <mark key="'" line="36" column="1" />
+        <mark key="[" line="35" column="34" />
+        <mark key="]" line="35" column="35" />
+        <mark key="^" line="35" column="35" />
+        <mark key="." line="35" column="34" />
+      </file>
+      <file name="$USER_HOME$/GitHub/data-db-loader/sls_config/stg.json" timestamp="1588700905174">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="32" column="91" />
+        <mark key="]" line="33" column="28" />
+        <mark key="^" line="33" column="28" />
+        <mark key="." line="33" column="27" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_60.py" timestamp="1587154179731">
         <mark key="[" line="19" column="46" />
         <mark key="]" line="13" column="0" />
@@ -175,9 +193,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="109" column="0" filename="/SE-736_analysis.ipynb" />
-      <jump line="121" column="0" filename="/SE-736_analysis.ipynb" />
-      <jump line="133" column="0" filename="/SE-736_analysis.ipynb" />
       <jump line="108" column="0" filename="/se_736_research.ipynb" />
       <jump line="184" column="0" filename="/SE-736_analysis.ipynb" />
       <jump line="2" column="0" filename="/org_traffic_SE-736.ipynb" />
@@ -275,15 +290,18 @@
       <jump line="65" column="46" filename="$USER_HOME$/GitHub/data-db-loader/db_loader/entry/adhoc_kinesis_lambda.py" />
       <jump line="29" column="0" filename="$USER_HOME$/GitHub/data-db-loader/Makefile" />
       <jump line="34" column="0" filename="$USER_HOME$/GitHub/data-db-loader/Makefile" />
+      <jump line="35" column="1" filename="$USER_HOME$/GitHub/data-db-loader/sls_config/playground.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/GitHub/data-db-loader/sls_config/prod.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/GitHub/data-db-loader/sls_config/stg.json" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZGVwbG95X3BsYXlfYmFja2ZpbGw6IGJ1aWxkX3NlcnZlcmxlc3NfaW1hZ2UKCWRvY2tlciBydW4gLWl0IC0tcm1cCgkgICAgICAgICAgIC12ICQoSE9NRSkvLmF3czovcm9vdC8uYXdzXAoJCQkgICAtdiAkKFBXRCk6L2FwcCAtdyAvYXBwXAoJCQkgICAtdyAvYXBwXAoJCQkgICBkYl9sb2FkZXIvc2VydmVybGVzcyAtLXN0YWdlICQoQVdTX1BST0ZJTEUpIGRlcGxveSBmdW5jdGlvbiAtLWZ1bmN0aW9uIGFsZXJ0Y29yZV9raW5lc2lzX2JhY2tmaWxsCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text>T</text>
       </register>
       <register name="/" type="4">
         <text>}</text>
@@ -292,31 +310,31 @@
         <text encoding="base64">ZGVwbG95X3BsYXlfYmFja2ZpbGw6IGJ1aWxkX3NlcnZlcmxlc3NfaW1hZ2UKCWRvY2tlciBydW4gLWl0IC0tcm1cCgkgICAgICAgICAgIC12ICQoSE9NRSkvLmF3czovcm9vdC8uYXdzXAoJCQkgICAtdiAkKFBXRCk6L2FwcCAtdyAvYXBwXAoJCQkgICAtdyAvYXBwXAoJCQkgICBkYl9sb2FkZXIvc2VydmVybGVzcyAtLXN0YWdlICQoQVdTX1BST0ZJTEUpIGRlcGxveSBmdW5jdGlvbiAtLWZ1bmN0aW9uIGFsZXJ0Y29yZV9raW5lc2lzX2JhY2tmaWxsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiA0ZTRhZWRhLi4uIGZpeCBtaW5vciBlcnJvcnMK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBmImZlZWQ9aW5jaWRlbnRfdjEvZGF0YWxha2VfcmVjZWl2ZWRfYXQ9e2RheX0ve2hvdXJ9L2JhY2tmaWxsX2lkPVNFLTczNi9iYWNrZmlsbF9kYXRlPXt0b2RheX0ve2ZpbGVfbmFtZX0iCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Pj4+Pj4+PiA0ZTRhZWRhLi4uIGZpeCBtaW5vciBlcnJvcnMK</text>
       </register>
-      <register name="6" type="2">
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBmImZlZWQ9aW5jaWRlbnRfdjEvZGF0YWxha2VfcmVjZWl2ZWRfYXQ9e2RheX0ve2hvdXJ9L2JhY2tmaWxsX2lkPVNFLTczNi9iYWNrZmlsbF9kYXRlPXt0b2RheX0ve2ZpbGVfbmFtZX0iCg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">PT09PT09PQo=</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Pj4+Pj4+PiA0ZTRhZWRhLi4uIGZpeCBtaW5vciBlcnJvcnMK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFEago=</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Pj4+Pj4+PiAyMmQyZGU3Li4uIGFkZCBkZXBsb3ltZW50IG9mIG5ldyBsYW1iZGEK</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFEago=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBiNjIxZmEwLi4uIGFkIGhvYyByZWNvbiBkb2NrZXIgZGVwbG95cwo=</text>
+        <text encoding="base64">Pj4+Pj4+PiAyMmQyZGU3Li4uIGFkZCBkZXBsb3ltZW50IG9mIG5ldyBsYW1iZGEK</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
