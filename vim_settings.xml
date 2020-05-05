@@ -107,6 +107,7 @@
         <mark key="'" line="0" column="0" />
         <mark key="[" line="32" column="91" />
       </file>
+      <file name="$USER_HOME$/GitHub/data-db-loader/tests/conftest.py" timestamp="1588704852545" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_58.py" timestamp="1587053523974">
         <mark key="[" line="6" column="48" />
         <mark key="]" line="14" column="20" />
@@ -130,22 +131,17 @@
         <mark key="." line="39" column="38" />
         <mark key="^" line="39" column="38" />
       </file>
-      <file name="$USER_HOME$/GitHub/data-db-loader/db_loader/entry/adhoc_kinesis_lambda.py" timestamp="1588704465130">
+      <file name="$USER_HOME$/GitHub/data-db-loader/db_loader/entry/adhoc_kinesis_lambda.py" timestamp="1588705323139">
         <mark key="'" line="76" column="3" />
-        <mark key="[" line="88" column="0" />
-        <mark key="]" line="87" column="69" />
-        <mark key="." line="87" column="68" />
-        <mark key="^" line="87" column="69" />
+        <mark key="[" line="84" column="8" />
+        <mark key="]" line="83" column="16" />
+        <mark key="." line="83" column="16" />
+        <mark key="^" line="83" column="12" />
       </file>
       <file name="$USER_HOME$/GitHub/data-db-loader/db_loader/entry/loader_lambda.py" timestamp="1588702194291">
         <mark key="[" line="111" column="0" />
         <mark key="]" line="111" column="0" />
         <mark key="." line="111" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_57.py" timestamp="1587051078336">
-        <mark key="[" line="2" column="13" />
-        <mark key="]" line="5" column="19" />
-        <mark key="." line="5" column="19" />
       </file>
       <file name="/SE-736_analysis.ipynb" timestamp="1587487291538">
         <mark key="a" line="493" column="10" />
@@ -154,12 +150,14 @@
       <file name="/current_tables.ipynb" timestamp="1587487292917">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/" timestamp="1588703366316">
+      <file name="/" timestamp="1588705409362">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GitHub/data-db-loader/tests/ad_hoc_kinesis_s3/test_ad_hoc_kinesis_s3.py" timestamp="1588704554834">
-        <mark key="[" line="126" column="102" />
-        <mark key="." line="111" column="111" />
+      <file name="$USER_HOME$/GitHub/data-db-loader/tests/ad_hoc_kinesis_s3/test_ad_hoc_kinesis_s3.py" timestamp="1588704791948">
+        <mark key="[" line="134" column="63" />
+        <mark key="]" line="134" column="63" />
+        <mark key="." line="134" column="63" />
+        <mark key="^" line="134" column="65" />
       </file>
       <file name="$USER_HOME$/GitHub/data-db-loader/Makefile" timestamp="1588003578876">
         <mark key="'" line="34" column="0" />
@@ -293,8 +291,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>staging</text>
       </register>
       <register name="-" type="4">
         <text>staging</text>
@@ -303,7 +301,7 @@
         <text>}</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGVsc2UgaWYgZW52ID0gJ3N0Zyc6CiAgICAgICAgZnVsbF9lbnYgPSAnc3RhZ2luZycK</text>
+        <text encoding="base64">ICAgIG9zLmVudmlyb25bJ0RBVEFfRU5WSVJPTk1FTlRfTkFNRSddID0gJ3N0ZycK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
