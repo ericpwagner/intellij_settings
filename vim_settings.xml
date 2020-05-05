@@ -153,11 +153,11 @@
       <file name="/" timestamp="1588705409362">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GitHub/data-db-loader/tests/ad_hoc_kinesis_s3/test_ad_hoc_kinesis_s3.py" timestamp="1588704791948">
-        <mark key="[" line="134" column="63" />
-        <mark key="]" line="134" column="63" />
-        <mark key="." line="134" column="63" />
-        <mark key="^" line="134" column="65" />
+      <file name="$USER_HOME$/GitHub/data-db-loader/tests/ad_hoc_kinesis_s3/test_ad_hoc_kinesis_s3.py" timestamp="1588705589111">
+        <mark key="[" line="113" column="0" />
+        <mark key="]" line="113" column="0" />
+        <mark key="^" line="127" column="65" />
+        <mark key="." line="113" column="0" />
       </file>
       <file name="$USER_HOME$/GitHub/data-db-loader/Makefile" timestamp="1588003578876">
         <mark key="'" line="34" column="0" />
@@ -291,8 +291,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>staging</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>staging</text>
@@ -310,25 +310,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">CmRlZiB0ZXN0X21pc3NpbmdfZW52aXJvbm1lbnRfbmFtZSgpOgogICAgIiIiIE1ha2Ugc3VyZSBhIGtleSBlcnJvciBpcyB0aHJvd24gd2hlbiB0aGUgZW52aXJvbm1lbnQgbmFtZSB2YXJpYWJsZSBpcyBub3QgcHJvdmlkZWQiIiIKICAgIHdpdGggcHl0ZXN0LnJhaXNlcyhLZXlFcnJvcikgYXMgZToKICAgICAgICBhc3NlcnQgYWRob2Nfa2luZXNpc19sYW1iZGEuZ2V0X2Vudmlyb25tZW50KCkKICAgICMgYXNzZXJ0IHN0cihlLnZhbHVlKSA9PSAnREFUQV9FTlZJUk9OTUVOVF9OQU1FIHZhcmlhYmxlIGRvZXMgbm90IG1hdGNoIGFueSAocGxheWdyb3VuZCwgc3RnLCBwcm9kKSc=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CmRlZiB0ZXN0X2NvbnRleHQoa2luZXNpc19ldmVudCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CmRlZiB0ZXN0X2NvbnRleHQoa2luZXNpc19ldmVudCkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoKICAgIGxhbWJkYV9oYW5kbGVyKHsnUmVjb3Jkcyc6eydldmVudF9hdCc6JzIwMjAtMDUtMDVUMDA6MDA6MDAnfX0sICcnKQo=</text>
+        <text encoding="base64">CmRlZiB0ZXN0X2NvbnRleHQoa2luZXNpc19ldmVudCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50KGNvbnRleHRfZGljdCkK</text>
+        <text encoding="base64">CmRlZiB0ZXN0X2NvbnRleHQoa2luZXNpc19ldmVudCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
