@@ -120,11 +120,11 @@
         <mark key="]" line="460" column="0" />
         <mark key="." line="460" column="0" />
       </file>
-      <file name="$USER_HOME$/GitHub/data-db-loader/tests/ad_hoc_kinesis_s3/test_ad_hoc_kinesis_s3.py" timestamp="1588710971964">
-        <mark key="[" line="126" column="0" />
-        <mark key="]" line="126" column="0" />
-        <mark key="." line="126" column="0" />
-        <mark key="^" line="126" column="40" />
+      <file name="$USER_HOME$/GitHub/data-db-loader/tests/ad_hoc_kinesis_s3/test_ad_hoc_kinesis_s3.py" timestamp="1588712055627">
+        <mark key="[" line="122" column="25" />
+        <mark key="]" line="122" column="25" />
+        <mark key="." line="122" column="24" />
+        <mark key="^" line="122" column="25" />
       </file>
       <file name="$USER_HOME$/GitHub/data-db-loader/sls_config/stg.json" timestamp="1588700905174">
         <mark key="'" line="0" column="0" />
@@ -144,10 +144,12 @@
         <mark key="^" line="22" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1588086011642">
+      <file name="/Dummy.txt" timestamp="1588712432038">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GitHub/data-db-loader/tests/conftest.py" timestamp="1588704852545" />
+      <file name="$USER_HOME$/GitHub/data-db-loader/tests/conftest.py" timestamp="1588712113294" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_59.py" timestamp="1587092042072">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -170,11 +172,11 @@
       <file name="/" timestamp="1588705409362">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GitHub/data-db-loader/Makefile" timestamp="1588003578876">
+      <file name="$USER_HOME$/GitHub/data-db-loader/Makefile" timestamp="1588712476798">
         <mark key="'" line="34" column="0" />
-        <mark key="[" line="36" column="12" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="41" column="112" />
+        <mark key="[" line="34" column="65" />
+        <mark key="]" line="34" column="65" />
+        <mark key="." line="34" column="57" />
         <mark key="^" line="42" column="0" />
       </file>
       <file name="$USER_HOME$/GitHub/data-db-loader/sls_config/playground.json" timestamp="1588700868322">
@@ -290,11 +292,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBmdWxsX2VudiA9ICdiYWRfZW52Jwo=</text>
+      <register name="&quot;" type="4">
+        <text>) deploy</text>
       </register>
       <register name="-" type="4">
-        <text>wrong</text>
+        <text>) deploy</text>
       </register>
       <register name="/" type="4">
         <text>}</text>
@@ -303,31 +305,32 @@
         <text encoding="base64">ICAgIG9zLmVudmlyb25bJ0RBVEFfRU5WSVJPTk1FTlRfTkFNRSddID0gJ3N0ZycK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmdWxsX2VudiA9ICdiYWRfZW52Jwo=</text>
+        <text>HmockAVE MAKEFILE PICK UP ENVIRONMENT VARIABLE AWS_PROFILE SO WE CAN DEPLOY TO THE VARIOUS ENVIRONMENTS WITHOUT REQUIRING MANUAL CHANGES.
+CREATE INDIVIDUAL TARGETS FOR DEPLOYING EVERYTHING VS DEPLOYING THE BACKFILL LAMBDA</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZSBFeGNlcHRpb24oIkRBVEFfRU5WSVJPTk1FTlRfTkFNRSB2YXJpYWJsZSBkb2VzIG5vdCBtYXRjaCBhbnkgKHBsYXlncm91bmQsIHN0ZywgcHJvZCkiKQo=</text>
+        <text encoding="base64">ICAgICAgICBmdWxsX2VudiA9ICdiYWRfZW52Jwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
+        <text encoding="base64">ICAgICAgICByYWlzZSBFeGNlcHRpb24oIkRBVEFfRU5WSVJPTk1FTlRfTkFNRSB2YXJpYWJsZSBkb2VzIG5vdCBtYXRjaCBhbnkgKHBsYXlncm91bmQsIHN0ZywgcHJvZCkiKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAoZW52LCBmdWxsX2VudikK</text>
+        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgIHJldHVybiAoZW52LCBmdWxsX2VudikK</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgIHJldHVybiAoZW52LCBmdWxsX2VudikK</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">ICAgIGV4Y2VwdCBLZXlFcnJvciBhcyBlOgogICAgICAgIHByaW50KGYiTm8gZW52aXJvbm1lbnQgdmFyaWFibGUgZm9yIERBVEFfRU5WSVJPTk1FTlRfTkFNRToge2V9IikKICAgICAgICByYWlzZSBl</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gKGVudiwgZnVsbF9lbnYpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
