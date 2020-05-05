@@ -120,11 +120,11 @@
         <mark key="]" line="460" column="0" />
         <mark key="." line="460" column="0" />
       </file>
-      <file name="$USER_HOME$/GitHub/data-db-loader/tests/ad_hoc_kinesis_s3/test_ad_hoc_kinesis_s3.py" timestamp="1588710280342">
-        <mark key="[" line="126" column="37" />
-        <mark key="]" line="126" column="38" />
-        <mark key="^" line="124" column="45" />
-        <mark key="." line="126" column="38" />
+      <file name="$USER_HOME$/GitHub/data-db-loader/tests/ad_hoc_kinesis_s3/test_ad_hoc_kinesis_s3.py" timestamp="1588710971964">
+        <mark key="[" line="126" column="0" />
+        <mark key="]" line="126" column="0" />
+        <mark key="." line="126" column="0" />
+        <mark key="^" line="126" column="40" />
       </file>
       <file name="$USER_HOME$/GitHub/data-db-loader/sls_config/stg.json" timestamp="1588700905174">
         <mark key="'" line="0" column="0" />
@@ -153,12 +153,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GitHub/data-db-loader/db_loader/entry/adhoc_kinesis_lambda.py" timestamp="1588710022964">
+      <file name="$USER_HOME$/GitHub/data-db-loader/db_loader/entry/adhoc_kinesis_lambda.py" timestamp="1588710853141">
         <mark key="'" line="76" column="3" />
-        <mark key="[" line="84" column="8" />
-        <mark key="]" line="83" column="16" />
-        <mark key="." line="83" column="16" />
-        <mark key="^" line="83" column="12" />
+        <mark key="[" line="77" column="15" />
+        <mark key="]" line="84" column="16" />
+        <mark key="." line="84" column="16" />
+        <mark key="^" line="84" column="12" />
       </file>
       <file name="$USER_HOME$/GitHub/data-db-loader/db_loader/entry/loader_lambda.py" timestamp="1588702194291">
         <mark key="[" line="111" column="0" />
@@ -291,11 +291,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ID0gJ3Byb2Qn</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICMgb3MucHV0ZW52KCdEQVRBX0VOVklST05NRU5UX05BTUUnLCAncHJvZCcpCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ID0gJ3Byb2Qn</text>
+        <text>wrong</text>
       </register>
       <register name="/" type="4">
         <text>}</text>
@@ -304,16 +304,16 @@
         <text encoding="base64">ICAgIG9zLmVudmlyb25bJ0RBVEFfRU5WSVJPTk1FTlRfTkFNRSddID0gJ3N0ZycK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG9zLnB1dGVudlsnREFUQV9FTlZJUk9OTUVOVF9OQU1FJ10gPSAncHJvZCcKICAgIGFzc2VydCBhZGhvY19raW5lc2lzX2xhbWJkYS5nZXRfZW52aXJvbm1lbnQoKSA9PSAoJ3Byb2QnLCAncHJvZHVjdGlvbicpCgo=</text>
+        <text encoding="base64">ICAgICMgb3MucHV0ZW52KCdEQVRBX0VOVklST05NRU5UX05BTUUnLCAncHJvZCcpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG9zLnB1dGVudignREFUQV9FTlZJUk9OTUVOVF9OQU1FJywgJ3N0ZycpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG1vY2tlZF9lbnYuc3RhcnQoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG9zLnB1dGVudlsnREFUQV9FTlZJUk9OTUVOVF9OQU1FJ10gPSAncHJvZCcKICAgIGFzc2VydCBhZGhvY19raW5lc2lzX2xhbWJkYS5nZXRfZW52aXJvbm1lbnQoKSA9PSAoJ3Byb2QnLCAncHJvZHVjdGlvbicpCgo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -322,10 +322,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiMlJSBtZAoKZGlzcGxheV9yYXdfY291bnRzKGN1cnJlbnRfdGFibGVfcmF3X2NvdW50LCBhY3RpdmVfaW5jaWRlbnRzX3Jhd19jb3VudCkKZGlzcGxheV9hZmZlY3RlZF9jdXN0b21lcl9kYXRhKG1pc3NpbmdfZGYpCgoKCgojJSUgbWQKCiMgPHNwYW4gc3R5bGU9ImNvbG9yOmZ1Y2hzaWEiPkRpc3BsYXkgUmVzdWx0czwvc3Bhbj4KCiMlJQoKZGlzcGxheV9yYXdfY291bnRzKGN1cnJlbnRfdGFibGVfcmF3X2NvdW50LCBhY3RpdmVfaW5jaWRlbnRzX3Jhd19jb3VudCkKZGlzcGxheV9hZmZlY3RlZF9jdXN0b21lcl9kYXRhKG1pc3NpbmdfZGYpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cHl0aG9uLWRvdGVudj0iKiIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
