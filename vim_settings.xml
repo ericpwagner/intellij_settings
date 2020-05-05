@@ -47,8 +47,8 @@
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz5zLyIvXFwiL2c=</entry>
         <entry encoding="base64">JzwsJz5zL30vXFx9L2c=</entry>
-        <entry>w</entry>
         <entry>x</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -91,7 +91,7 @@
       <file name="/Dummy.txt" timestamp="1588086011642">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GitHub/data-db-loader/serverless.yml" timestamp="1588701462236">
+      <file name="$USER_HOME$/GitHub/data-db-loader/serverless.yml" timestamp="1588702804454">
         <mark key="[" line="305" column="0" />
         <mark key="]" line="305" column="0" />
         <mark key="^" line="304" column="90" />
@@ -123,12 +123,6 @@
         <mark key="]" line="537" column="0" />
         <mark key="." line="537" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_56.py" timestamp="1586978864045">
-        <mark key="[" line="0" column="11" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="/org_traffic.ipynb" timestamp="1587487292748">
         <mark key="'" line="331" column="0" />
         <mark key="[" line="0" column="0" />
@@ -136,11 +130,12 @@
         <mark key="." line="39" column="38" />
         <mark key="^" line="39" column="38" />
       </file>
-      <file name="$USER_HOME$/GitHub/data-db-loader/db_loader/entry/adhoc_kinesis_lambda.py" timestamp="1588702450313">
-        <mark key="'" line="138" column="19" />
-        <mark key="[" line="138" column="19" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
+      <file name="$USER_HOME$/GitHub/data-db-loader/db_loader/entry/adhoc_kinesis_lambda.py" timestamp="1588704465130">
+        <mark key="'" line="76" column="3" />
+        <mark key="[" line="88" column="0" />
+        <mark key="]" line="87" column="69" />
+        <mark key="." line="87" column="68" />
+        <mark key="^" line="87" column="69" />
       </file>
       <file name="$USER_HOME$/GitHub/data-db-loader/db_loader/entry/loader_lambda.py" timestamp="1588702194291">
         <mark key="[" line="111" column="0" />
@@ -159,11 +154,12 @@
       <file name="/current_tables.ipynb" timestamp="1587487292917">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GitHub/data-db-loader/tests/ad_hoc_kinesis_s3/test_ad_hoc_kinesis_s3.py" timestamp="1587746562580">
-        <mark key="[" line="94" column="111" />
-        <mark key="]" line="84" column="35" />
-        <mark key="." line="84" column="34" />
-        <mark key="^" line="84" column="35" />
+      <file name="/" timestamp="1588703366316">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/GitHub/data-db-loader/tests/ad_hoc_kinesis_s3/test_ad_hoc_kinesis_s3.py" timestamp="1588704554834">
+        <mark key="[" line="126" column="102" />
+        <mark key="." line="111" column="111" />
       </file>
       <file name="$USER_HOME$/GitHub/data-db-loader/Makefile" timestamp="1588003578876">
         <mark key="'" line="34" column="0" />
@@ -193,7 +189,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="0" filename="/org_traffic_SE-736.ipynb" />
       <jump line="53" column="24" filename="/org_traffic_SE-736.ipynb" />
       <jump line="118" column="0" filename="/se_736_research.ipynb" />
       <jump line="151" column="0" filename="/SE-736_analysis.ipynb" />
@@ -293,48 +288,49 @@
       <jump line="0" column="0" filename="$USER_HOME$/GitHub/data-db-loader/sls_config/stg.json" />
       <jump line="48" column="4" filename="$USER_HOME$/GitHub/data-db-loader/db_loader/entry/adhoc_kinesis_lambda.py" />
       <jump line="138" column="19" filename="$USER_HOME$/GitHub/data-db-loader/db_loader/entry/adhoc_kinesis_lambda.py" />
+      <jump line="74" column="3" filename="$USER_HOME$/GitHub/data-db-loader/db_loader/entry/adhoc_kinesis_lambda.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50KGNvbnRleHRfZGljdCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>T</text>
+        <text>staging</text>
       </register>
       <register name="/" type="4">
         <text>}</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZGVwbG95X3BsYXlfYmFja2ZpbGw6IGJ1aWxkX3NlcnZlcmxlc3NfaW1hZ2UKCWRvY2tlciBydW4gLWl0IC0tcm1cCgkgICAgICAgICAgIC12ICQoSE9NRSkvLmF3czovcm9vdC8uYXdzXAoJCQkgICAtdiAkKFBXRCk6L2FwcCAtdyAvYXBwXAoJCQkgICAtdyAvYXBwXAoJCQkgICBkYl9sb2FkZXIvc2VydmVybGVzcyAtLXN0YWdlICQoQVdTX1BST0ZJTEUpIGRlcGxveSBmdW5jdGlvbiAtLWZ1bmN0aW9uIGFsZXJ0Y29yZV9raW5lc2lzX2JhY2tmaWxsCg==</text>
+        <text encoding="base64">ICAgIGVsc2UgaWYgZW52ID0gJ3N0Zyc6CiAgICAgICAgZnVsbF9lbnYgPSAnc3RhZ2luZycK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KGNvbnRleHRfZGljdCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KGNvbnRleHQpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Pj4+Pj4+PiA0ZTRhZWRhLi4uIGZpeCBtaW5vciBlcnJvcnMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBmImZlZWQ9aW5jaWRlbnRfdjEvZGF0YWxha2VfcmVjZWl2ZWRfYXQ9e2RheX0ve2hvdXJ9L2JhY2tmaWxsX2lkPVNFLTczNi9iYWNrZmlsbF9kYXRlPXt0b2RheX0ve2ZpbGVfbmFtZX0iCg==</text>
+        <text encoding="base64">CmRlZiB0ZXN0X2NvbnRleHQoa2luZXNpc19ldmVudCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">CmRlZiB0ZXN0X2NvbnRleHQoa2luZXNpc19ldmVudCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Pj4+Pj4+PiA0ZTRhZWRhLi4uIGZpeCBtaW5vciBlcnJvcnMK</text>
+        <text encoding="base64">aWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoKICAgIGxhbWJkYV9oYW5kbGVyKHsnUmVjb3Jkcyc6eydldmVudF9hdCc6JzIwMjAtMDUtMDVUMDA6MDA6MDAnfX0sICcnKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAgIHByaW50KGNvbnRleHRfZGljdCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
