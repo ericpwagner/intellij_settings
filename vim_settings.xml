@@ -126,12 +126,12 @@
         <mark key="." line="122" column="24" />
         <mark key="^" line="122" column="25" />
       </file>
-      <file name="$USER_HOME$/GitHub/data-db-loader/sls_config/stg.json" timestamp="1588713060564">
+      <file name="$USER_HOME$/GitHub/data-db-loader/sls_config/stg.json" timestamp="1588713956183">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="33" column="27" />
-        <mark key="]" line="33" column="27" />
-        <mark key="^" line="33" column="28" />
-        <mark key="." line="33" column="27" />
+        <mark key="[" line="32" column="92" />
+        <mark key="]" line="34" column="27" />
+        <mark key="^" line="34" column="28" />
+        <mark key="." line="34" column="27" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_60.py" timestamp="1587154179731">
         <mark key="[" line="19" column="46" />
@@ -179,7 +179,7 @@
         <mark key="." line="34" column="57" />
         <mark key="^" line="42" column="0" />
       </file>
-      <file name="$USER_HOME$/GitHub/data-db-loader/sls_config/playground.json" timestamp="1588713076604">
+      <file name="$USER_HOME$/GitHub/data-db-loader/sls_config/playground.json" timestamp="1588713876178">
         <mark key="'" line="36" column="1" />
         <mark key="[" line="35" column="34" />
         <mark key="]" line="35" column="34" />
