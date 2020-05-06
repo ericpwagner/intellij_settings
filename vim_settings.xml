@@ -85,9 +85,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/GitHub/data-db-loader/db_loader/aws_s3_common.py" timestamp="1587140638439">
-        <mark key="[" line="1" column="9" />
-      </file>
       <file name="$USER_HOME$/GitHub/data-db-loader/serverless.yml" timestamp="1588716832068">
         <mark key="[" line="305" column="0" />
         <mark key="]" line="305" column="0" />
@@ -118,6 +115,11 @@
         <mark key="a" line="493" column="10" />
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/GitHub/victorops_audits/VictorOps_User_Audit_PUBLIC.py" timestamp="1588798959671">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736_analysis.ipynb" timestamp="1588708355547">
         <mark key="[" line="399" column="54" />
         <mark key="]" line="460" column="0" />
@@ -147,16 +149,16 @@
         <mark key="^" line="22" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1588781995833">
+      <file name="/Dummy.txt" timestamp="1588798726750">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/GitHub/data-db-loader/tests/conftest.py" timestamp="1588712113294" />
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_59.py" timestamp="1587092042072">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/GitHub/victorops_audits/VictorOps_User_Audit_INTERNAL.py" timestamp="1588798966733">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/GitHub/data-db-loader/db_loader/entry/adhoc_kinesis_lambda.py" timestamp="1588782040597">
         <mark key="'" line="75" column="0" />
@@ -297,7 +299,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Pj4+Pj4+PiA1YjhlZDdhLi4uIFJlbmFtZSBhbGwgaW5zdGFuY2VzIG9mIGJhdGNoIHRvIHNsb3cK</text>
+        <text encoding="base64">ZnJvbSBkYXRldXRpbCBpbXBvcnQgcGFyc2VyIGFzIGRwCmZyb20gY29sbGVjdGlvbnMgaW1wb3J0IENvdW50ZXIK</text>
       </register>
       <register name="-" type="4">
         <text>env_names</text>
@@ -309,13 +311,13 @@
         <text encoding="base64">ICAgIGFzc2VydCBhZGhvY19raW5lc2lzX2xhbWJkYS5nZXRfZW52aXJvbm1lbnQoKSA9PSAoJ3N0ZycsICdzdGFnaW5nJywgJ3N0ZycpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiA1YjhlZDdhLi4uIFJlbmFtZSBhbGwgaW5zdGFuY2VzIG9mIGJhdGNoIHRvIHNsb3cK</text>
+        <text encoding="base64">ZnJvbSBkYXRldXRpbCBpbXBvcnQgcGFyc2VyIGFzIGRwCmZyb20gY29sbGVjdGlvbnMgaW1wb3J0IENvdW50ZXIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ZnJvbSBkYXRldXRpbCBpbXBvcnQgcGFyc2VyIGFzIGRwCmZyb20gY29sbGVjdGlvbnMgaW1wb3J0IENvdW50ZXIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ZnJvbSBkYXRldXRpbCBpbXBvcnQgcGFyc2VyIGFzIGRwCmZyb20gY29sbGVjdGlvbnMgaW1wb3J0IENvdW50ZXIK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Pj4+Pj4+PiA1YjhlZDdhLi4uIFJlbmFtZSBhbGwgaW5zdGFuY2VzIG9mIGJhdGNoIHRvIHNsb3cK</text>
