@@ -120,10 +120,10 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736_analysis.ipynb" timestamp="1588708355547">
-        <mark key="[" line="399" column="54" />
-        <mark key="]" line="460" column="0" />
-        <mark key="." line="460" column="0" />
+      <file name="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736_analysis.ipynb" timestamp="1588868529711">
+        <mark key="[" line="27" column="11" />
+        <mark key="]" line="27" column="11" />
+        <mark key="." line="27" column="11" />
       </file>
       <file name="$USER_HOME$/GitHub/data-db-loader/tests/ad_hoc_kinesis_s3/test_ad_hoc_kinesis_s3.py" timestamp="1588782035980">
         <mark key="[" line="124" column="47" />
@@ -155,10 +155,11 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/GitHub/data-db-loader/tests/conftest.py" timestamp="1588712113294" />
-      <file name="$USER_HOME$/GitHub/victorops_audits/VictorOps_User_Audit_INTERNAL.py" timestamp="1588798966733">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/GitHub/victorops_audits/VictorOps_User_Audit_INTERNAL.py" timestamp="1588868928225">
+        <mark key="[" line="16" column="40" />
+        <mark key="]" line="16" column="38" />
+        <mark key="." line="16" column="37" />
+        <mark key="^" line="16" column="38" />
       </file>
       <file name="$USER_HOME$/GitHub/data-db-loader/db_loader/entry/adhoc_kinesis_lambda.py" timestamp="1588782040597">
         <mark key="'" line="75" column="0" />
@@ -298,11 +299,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBkYXRldXRpbCBpbXBvcnQgcGFyc2VyIGFzIGRwCmZyb20gY29sbGVjdGlvbnMgaW1wb3J0IENvdW50ZXIK</text>
+      <register name="&quot;" type="4">
+        <text>stg</text>
       </register>
       <register name="-" type="4">
-        <text>env_names</text>
+        <text>stg</text>
       </register>
       <register name="/" type="4">
         <text>}</text>
