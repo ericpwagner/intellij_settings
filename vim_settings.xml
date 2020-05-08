@@ -85,17 +85,17 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1588968212588">
+      <file name="/Dummy.txt" timestamp="1588970440035">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GitHub/data-db-loader/serverless.yml" timestamp="1588958449278">
+      <file name="$USER_HOME$/GitHub/data-db-loader/serverless.yml" timestamp="1588968564098">
         <mark key="'" line="68" column="37" />
         <mark key="[" line="316" column="18" />
-        <mark key="]" line="316" column="22" />
-        <mark key="^" line="316" column="22" />
-        <mark key="." line="316" column="21" />
+        <mark key="]" line="320" column="19" />
+        <mark key="^" line="320" column="19" />
+        <mark key="." line="320" column="18" />
       </file>
       <file name="/Python Console" timestamp="1588871385288">
         <mark key="[" line="0" column="0" />
@@ -116,17 +116,12 @@
         <mark key="." line="16" column="37" />
         <mark key="^" line="16" column="38" />
       </file>
-      <file name="$USER_HOME$/GitHub/data-db-loader/db_loader/entry/adhoc_kinesis_lambda.py" timestamp="1588968206271">
+      <file name="$USER_HOME$/GitHub/data-db-loader/db_loader/entry/adhoc_kinesis_lambda.py" timestamp="1588970369386">
         <mark key="'" line="153" column="8" />
         <mark key="[" line="83" column="29" />
         <mark key="]" line="83" column="29" />
         <mark key="^" line="45" column="18" />
         <mark key="." line="83" column="29" />
-      </file>
-      <file name="$USER_HOME$/GitHub/data-db-loader/db_loader/entry/loader_lambda.py" timestamp="1588702194291">
-        <mark key="[" line="111" column="0" />
-        <mark key="]" line="111" column="0" />
-        <mark key="." line="111" column="0" />
       </file>
       <file name="$USER_HOME$/GitHub/data-db-loader/docker-compose.yml" timestamp="1588958131779" />
       <file name="$USER_HOME$/GitHub/victorops_audits/VictorOps_User_Audit_PUBLIC.py" timestamp="1588798959671">
@@ -150,18 +145,24 @@
         <mark key="." line="445" column="21" />
         <mark key="^" line="445" column="22" />
       </file>
+      <file name="$USER_HOME$/GitHub/data-db-loader/tools/aws_glue/config/incident_raw/stg.json" timestamp="1588970573430">
+        <mark key="[" line="8" column="25" />
+        <mark key="]" line="19" column="1" />
+        <mark key="^" line="19" column="1" />
+        <mark key="." line="19" column="0" />
+      </file>
       <file name="$USER_HOME$/GitHub/data-db-loader/tests/ad_hoc_kinesis_s3/test_ad_hoc_kinesis_s3.py" timestamp="1588968229561">
         <mark key="[" line="95" column="40" />
         <mark key="]" line="131" column="0" />
         <mark key="." line="130" column="0" />
         <mark key="^" line="131" column="0" />
       </file>
-      <file name="$USER_HOME$/GitHub/data-db-loader/Makefile" timestamp="1588712476798">
-        <mark key="'" line="34" column="0" />
-        <mark key="[" line="34" column="65" />
-        <mark key="]" line="34" column="65" />
-        <mark key="." line="34" column="57" />
-        <mark key="^" line="42" column="0" />
+      <file name="$USER_HOME$/GitHub/data-db-loader/Makefile" timestamp="1588970784477">
+        <mark key="'" line="33" column="0" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="41" column="0" />
       </file>
       <file name="$USER_HOME$/GitHub/data-db-loader/sls_config/playground.json" timestamp="1588958283084">
         <mark key="'" line="34" column="1" />
@@ -301,11 +302,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>d</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
@@ -314,31 +315,31 @@
         <text encoding="base64">ZGVmIGV4cG9ydF90b19jc3YoZGY6IHBkLkRhdGFGcmFtZSkgLT4gb2JqZWN0OgogICAgIiIiIFdyaXRlIHRoZSByZXN1bHRzIHRvIGEgY3N2IGZpbGUgIiIiCiAgICB0cmltbWVkX2RmID0gZGZbWydvcmdfaWQnLCAnaW5jaWRlbnRfaWQnLCAnaW5jaWRlbnRfcGhhc2UnXV0KICAgIHBhdGggPSBnZXRfdXNlcl9kb3dubG9hZHNfZmlsZV9wYXRoKCkgKyAnL3NlXzczNl9iYWNrZmlsbF9kYXRhLmNzdicKICAgIHRyeToKICAgICAgICB3aXRoIG9wZW4ocGF0aCwgJ3cnKSBhcyBmaWxlOgogICAgICAgICAgICByZXR1cm4gdHJpbW1lZF9kZi50b19jc3YoZmlsZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbHVtbnM9WydvcmdfaWQnLCAnaW5jaWRlbnRfaWQnLCAnaW5jaWRlbnRfcGhhc2UnXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGluZGV4PUZhbHNlLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbW9kZT0ndycsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBoZWFkZXI9VHJ1ZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVuY29kaW5nPSd1dGY4JywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICkKICAgICAgICBwcmludChmIkNTViBmaWxlIGV4cG9ydGVkIHRvIHtwYXRofSIpCiAgICBleGNlcHQ6CiAgICAgICAgcHJpbnQoIlVuYWJsZSB0byBleHBvcnQgdG8gQ1NWIikKICAgIApwcmludCgiRnVuY3Rpb25zIGltcG9ydGVkIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGpzb25fbG9nID0gCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y2xlYW51cCBwcmludCBzdGF0ZW1lbnRzCg==</text>
+        <text encoding="base64">ICAgIGpzb25fbG9nID0gCg==</text>
       </register>
       <register name="3" type="2">
-        <text>cleanup print statements</text>
+        <text encoding="base64">Y2xlYW51cCBwcmludCBzdGF0ZW1lbnRzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBmImZlZWQ9aW5jaWRlbnRfdjEvZGF0YWxha2VfcmVjZWl2ZWRfYXQ9e2RheX0ve2hvdXJ9L2JhY2tmaWxsX2lkPVNFLTczNi1yZXNvbHZlcy13aXRoLWRldGFpbHMvIiBcCg==</text>
+        <text>cleanup print statements</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzM19kZXN0aW5hdGlvbikK</text>
+        <text encoding="base64">ICAgIHJldHVybiBmImZlZWQ9aW5jaWRlbnRfdjEvZGF0YWxha2VfcmVjZWl2ZWRfYXQ9e2RheX0ve2hvdXJ9L2JhY2tmaWxsX2lkPVNFLTczNi1yZXNvbHZlcy13aXRoLWRldGFpbHMvIiBcCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50KGNvbnRleHQpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChzM19kZXN0aW5hdGlvbikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Pj4+Pj4+PiA5ZDk4MDZkLi4uIExhbWJkYSBmb3IgYWQgaG9jIGJhY2tmaWxscyB2aWEgS2luZXNpcwo=</text>
+        <text encoding="base64">ICAgIHByaW50KGNvbnRleHQpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">Pj4+Pj4+PiA5ZDk4MDZkLi4uIExhbWJkYSBmb3IgYWQgaG9jIGJhY2tmaWxscyB2aWEgS2luZXNpcwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
