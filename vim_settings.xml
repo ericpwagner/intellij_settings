@@ -88,6 +88,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1589231254684">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/GitHub/data-db-loader/serverless.yml" timestamp="1588968564098">
         <mark key="'" line="68" column="37" />
         <mark key="[" line="316" column="18" />
@@ -106,8 +111,13 @@
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/GitHub/data-db-loader/docker-compose.yml" timestamp="1589208711048" />
-      <file name="$USER_HOME$/GitHub/data-db-loader/build_docker.sh" timestamp="1589227859010" />
+      <file name="$USER_HOME$/GitHub/data-db-loader/db_loader/entry/adhoc_kinesis_lambda.py" timestamp="1589230024983">
+        <mark key="'" line="153" column="8" />
+        <mark key="[" line="97" column="91" />
+        <mark key="]" line="83" column="29" />
+        <mark key="^" line="45" column="18" />
+        <mark key="." line="83" column="29" />
+      </file>
       <file name="$USER_HOME$/GitHub/data-db-loader/.env" timestamp="1588959942874">
         <mark key="[" line="0" column="28" />
         <mark key="]" line="5" column="39" />
@@ -118,6 +128,9 @@
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
+      </file>
+      <file name="/" timestamp="1588880623688">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/GitLab/extractinator/src/incident_migrator.py" timestamp="1589213799005">
         <mark key="'" line="147" column="12" />
@@ -134,29 +147,6 @@
         <mark key="." line="130" column="0" />
         <mark key="^" line="131" column="0" />
       </file>
-      <file name="$USER_HOME$/GitHub/data-db-loader/sls_config/stg.json" timestamp="1588958308327">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="^" line="33" column="28" />
-        <mark key="." line="36" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1589231254684">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/GitHub/data-db-loader/tests/conftest.py" timestamp="1589230289736" />
-      <file name="$USER_HOME$/GitHub/data-db-loader/db_loader/entry/adhoc_kinesis_lambda.py" timestamp="1589230024983">
-        <mark key="'" line="153" column="8" />
-        <mark key="[" line="97" column="91" />
-        <mark key="]" line="83" column="29" />
-        <mark key="^" line="45" column="18" />
-        <mark key="." line="83" column="29" />
-      </file>
-      <file name="/" timestamp="1588880623688">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/GitHub/data-db-loader/Makefile" timestamp="1588970784477">
         <mark key="'" line="33" column="0" />
         <mark key="[" line="18" column="0" />
@@ -169,6 +159,13 @@
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="0" />
         <mark key="^" line="34" column="35" />
+        <mark key="." line="36" column="0" />
+      </file>
+      <file name="$USER_HOME$/GitHub/data-db-loader/sls_config/stg.json" timestamp="1588958308327">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="^" line="33" column="28" />
         <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/GitLab/extractinator/src/queries.py" timestamp="1589218594760">
@@ -289,11 +286,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text>FreturnIX LINT ERROR TOO MANY VARIABLES</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>return</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>FROM</text>
