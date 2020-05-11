@@ -107,6 +107,7 @@
         <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/GitHub/data-db-loader/docker-compose.yml" timestamp="1589208711048" />
+      <file name="$USER_HOME$/GitHub/data-db-loader/build_docker.sh" timestamp="1589227859010" />
       <file name="$USER_HOME$/GitHub/data-db-loader/.env" timestamp="1588959942874">
         <mark key="[" line="0" column="28" />
         <mark key="]" line="5" column="39" />
@@ -176,13 +177,6 @@
         <mark key="]" line="291" column="34" />
         <mark key="." line="291" column="33" />
         <mark key="^" line="291" column="34" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" timestamp="1588870571549">
-        <mark key="'" line="2" column="5" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="7" column="19" />
-        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/GitHub/data-db-loader/Dokerfile.Eric.Test.py37" timestamp="1588949812533">
         <mark key="[" line="0" column="20" />
