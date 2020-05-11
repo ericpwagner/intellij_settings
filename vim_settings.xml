@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>,\ 'acked')</entry>
         <entry>('resolved','acked')</entry>
         <entry>#%% md</entry>
         <entry>DATA</entry>
@@ -27,6 +26,7 @@
         <entry>}</entry>
         <entry>pip</entry>
         <entry>print</entry>
+        <entry encoding="base64">XDxwcmludFw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3RyaWdnZXJlZC9hY2tlZA==</entry>
@@ -190,7 +190,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="0" filename="$USER_HOME$/GitHub/data_misc/analysis_misc/.env.template" />
       <jump line="11" column="31" filename="$USER_HOME$/GitHub/data_misc/analysis_misc/.env.template" />
       <jump line="119" column="659" filename="$USER_HOME$/GitLab/jmeter/tests/SE-736_testing.jmx" />
       <jump line="129" column="133" filename="$USER_HOME$/GitLab/jmeter/tests/SE-736_testing.jmx" />
@@ -290,18 +289,19 @@
       <jump line="114" column="8" filename="$USER_HOME$/GitHub/data-db-loader/db_loader/entry/adhoc_kinesis_lambda.py" />
       <jump line="143" column="8" filename="$USER_HOME$/GitHub/data-db-loader/db_loader/entry/adhoc_kinesis_lambda.py" />
       <jump line="153" column="8" filename="$USER_HOME$/GitHub/data-db-loader/db_loader/entry/adhoc_kinesis_lambda.py" />
+      <jump line="446" column="2" filename="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736_analysis.ipynb" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGVudmlyb25tZW50Ogo=</text>
+      <register name="&quot;" type="4">
+        <text>p</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
-        <text>print</text>
+        <text encoding="base64">XDxwcmludFw+</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ZGVmIGV4cG9ydF90b19jc3YoZGY6IHBkLkRhdGFGcmFtZSkgLT4gb2JqZWN0OgogICAgIiIiIFdyaXRlIHRoZSByZXN1bHRzIHRvIGEgY3N2IGZpbGUgIiIiCiAgICB0cmltbWVkX2RmID0gZGZbWydvcmdfaWQnLCAnaW5jaWRlbnRfaWQnLCAnaW5jaWRlbnRfcGhhc2UnXV0KICAgIHBhdGggPSBnZXRfdXNlcl9kb3dubG9hZHNfZmlsZV9wYXRoKCkgKyAnL3NlXzczNl9iYWNrZmlsbF9kYXRhLmNzdicKICAgIHRyeToKICAgICAgICB3aXRoIG9wZW4ocGF0aCwgJ3cnKSBhcyBmaWxlOgogICAgICAgICAgICByZXR1cm4gdHJpbW1lZF9kZi50b19jc3YoZmlsZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbHVtbnM9WydvcmdfaWQnLCAnaW5jaWRlbnRfaWQnLCAnaW5jaWRlbnRfcGhhc2UnXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGluZGV4PUZhbHNlLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbW9kZT0ndycsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBoZWFkZXI9VHJ1ZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVuY29kaW5nPSd1dGY4JywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICkKICAgICAgICBwcmludChmIkNTViBmaWxlIGV4cG9ydGVkIHRvIHtwYXRofSIpCiAgICBleGNlcHQ6CiAgICAgICAgcHJpbnQoIlVuYWJsZSB0byBleHBvcnQgdG8gQ1NWIikKICAgIApwcmludCgiRnVuY3Rpb25zIGltcG9ydGVkIikK</text>
@@ -340,12 +340,12 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>print</last-search>
+      <last-search encoding="base64">XDxwcmludFw+</last-search>
       <last-offset />
-      <last-pattern>print</last-pattern>
+      <last-pattern encoding="base64">XDxwcmludFw+</last-pattern>
       <last-replace>\\}</last-replace>
       <last-substitute>}</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
