@@ -88,7 +88,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1589231254684">
+      <file name="/Dummy.txt" timestamp="1589316137568">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -100,7 +100,8 @@
         <mark key="^" line="320" column="19" />
         <mark key="." line="320" column="18" />
       </file>
-      <file name="/Python Console" timestamp="1589214688021">
+      <file name="/Python Console" timestamp="1589316127775">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="41" column="6" />
         <mark key="^" line="41" column="6" />
         <mark key="." line="41" column="6" />
@@ -111,7 +112,6 @@
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/GitHub/data-db-loader/tests/conftest.py" timestamp="1589299119882" />
       <file name="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736-acks.ipynb" timestamp="1589249766818">
         <mark key="'" line="219" column="7" />
         <mark key="[" line="485" column="0" />
@@ -119,12 +119,12 @@
         <mark key="^" line="239" column="9" />
         <mark key="." line="485" column="0" />
       </file>
-      <file name="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736_resolves.ipynb" timestamp="1589312392954">
+      <file name="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736_resolves.ipynb" timestamp="1589316859932">
         <mark key="'" line="47" column="0" />
-        <mark key="[" line="239" column="7" />
-        <mark key="]" line="240" column="8" />
-        <mark key="." line="240" column="7" />
+        <mark key="[" line="321" column="28" />
+        <mark key="]" line="482" column="0" />
         <mark key="^" line="240" column="8" />
+        <mark key="." line="482" column="0" />
       </file>
       <file name="$USER_HOME$/GitHub/data-db-loader/db_loader/entry/adhoc_kinesis_lambda.py" timestamp="1589302919909">
         <mark key="'" line="153" column="8" />
