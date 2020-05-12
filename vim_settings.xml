@@ -88,7 +88,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1589318308379">
+      <file name="/Dummy.txt" timestamp="1589319844936">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -100,8 +100,7 @@
         <mark key="^" line="320" column="19" />
         <mark key="." line="320" column="18" />
       </file>
-      <file name="/Python Console" timestamp="1589316127775">
-        <mark key="[" line="0" column="0" />
+      <file name="/Python Console" timestamp="1589320494235">
         <mark key="]" line="41" column="6" />
         <mark key="^" line="41" column="6" />
         <mark key="." line="41" column="6" />
@@ -112,19 +111,19 @@
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736-acks.ipynb" timestamp="1589249766818">
-        <mark key="'" line="219" column="7" />
-        <mark key="[" line="485" column="0" />
-        <mark key="]" line="485" column="0" />
-        <mark key="^" line="239" column="9" />
-        <mark key="." line="485" column="0" />
+      <file name="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736-acks.ipynb" timestamp="1589320189299">
+        <mark key="'" line="316" column="0" />
+        <mark key="[" line="353" column="4" />
+        <mark key="]" line="472" column="0" />
+        <mark key="^" line="324" column="4" />
+        <mark key="." line="472" column="0" />
       </file>
-      <file name="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736_resolves.ipynb" timestamp="1589318702182">
+      <file name="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736_resolves.ipynb" timestamp="1589320263524">
         <mark key="'" line="47" column="0" />
-        <mark key="[" line="304" column="80" />
-        <mark key="]" line="483" column="0" />
+        <mark key="[" line="318" column="0" />
+        <mark key="]" line="318" column="0" />
         <mark key="^" line="240" column="8" />
-        <mark key="." line="483" column="0" />
+        <mark key="." line="318" column="0" />
       </file>
       <file name="$USER_HOME$/GitHub/data-db-loader/db_loader/entry/adhoc_kinesis_lambda.py" timestamp="1589302919909">
         <mark key="'" line="153" column="8" />
@@ -197,7 +196,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="119" column="0" filename="$USER_HOME$/GitLab/jmeter/tests/data_analytics_team/dat_verbose_high_volume_playground.jmx" />
       <jump line="802" column="190" filename="$USER_HOME$/GitLab/jmeter/tests/data_analytics_team/dat_verbose_high_volume_playground.jmx" />
       <jump line="1969" column="192" filename="$USER_HOME$/GitLab/jmeter/tests/data_analytics_team/dat_verbose_high_volume_playground.jmx" />
       <jump line="1466" column="22" filename="$USER_HOME$/GitLab/jmeter/tests/data_analytics_team/dat_verbose_high_volume_playground.jmx" />
@@ -297,12 +295,13 @@
       <jump line="186" column="0" filename="$USER_HOME$/GitLab/extractinator/src/queries.py" />
       <jump line="219" column="7" filename="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736-acks.ipynb" />
       <jump line="47" column="0" filename="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736_resolves.ipynb" />
+      <jump line="316" column="0" filename="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736-acks.ipynb" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZiIgRkFMU0UgUE9TSVRJVkUgRk9VTkQ6IHtyb3cub3JnX2lkfS17cm93LmluY2lkZW50X2lkfSIpCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">YW5kIA==</text>
@@ -314,15 +313,27 @@
         <text encoding="base64">ICAgICAgICAgICAgTE9XRVIoY3VycmVudF9waGFzZSkgIT0gJ3RyaWdnZXJlZCcK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZiIgRkFMU0UgUE9TSVRJVkUgRk9VTkQ6IHtyb3cub3JnX2lkfS17cm93LmluY2lkZW50X2lkfSIpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KGYie29yZ19pZH0gLSB7aW5jaWRlbnRfaWR9IC0gcmVwOiB7cmVwX3Jlc3VsdH0gLS0gYWM6IHthY19yZXN1bHR9IikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHJpbnQoIi0iKQo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgIHdoaWxlIG5vdCBub3RfYWN0dWFsbHlfbWlzc2luZzoK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text>#%%
 
 display_raw_counts(current_table_raw_count, active_incidents_raw_count)
@@ -334,20 +345,8 @@ display_affected_customer_data(missing_df)
 display_raw_counts(current_table_raw_count, active_incidents_raw_count)
 display_affected_customer_data(missing_df)</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CiMlJQoKZGlzcGxheV9yYXdfY291bnRzKGN1cnJlbnRfdGFibGVfcmF3X2NvdW50LCBhY3RpdmVfaW5jaWRlbnRzX3Jhd19jb3VudCkKZGlzcGxheV9hZmZlY3RlZF9jdXN0b21lcl9kYXRhKG1pc3NpbmdfZGYpCgoKIyUlCgpkaXNwbGF5X3Jhd19jb3VudHMoY3VycmVudF90YWJsZV9yYXdfY291bnQsIGFjdGl2ZV9pbmNpZGVudHNfcmF3X2NvdW50KQpkaXNwbGF5X2FmZmVjdGVkX2N1c3RvbWVyX2RhdGEobWlzc2luZ19kZikK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgIExPV0VSKGN1cnJlbnRfcGhhc2UpICE9ICdhY2tub3dsZWRnZWQnCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTE9XRVIoY3VycmVudF9waGFzZSkgPSAnYWNrbm93bGVkZ2VkJw==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
