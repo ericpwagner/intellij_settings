@@ -119,7 +119,8 @@
         <mark key="^" line="239" column="9" />
         <mark key="." line="485" column="0" />
       </file>
-      <file name="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736_resolves.ipynb" timestamp="1589249731038">
+      <file name="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736_resolves.ipynb" timestamp="1589312392954">
+        <mark key="'" line="47" column="0" />
         <mark key="[" line="239" column="7" />
         <mark key="]" line="240" column="8" />
         <mark key="." line="240" column="7" />
@@ -196,7 +197,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1515" column="22" filename="$USER_HOME$/GitLab/jmeter/tests/data_analytics_team/dat_verbose_high_volume_playground.jmx" />
       <jump line="119" column="0" filename="$USER_HOME$/GitLab/jmeter/tests/data_analytics_team/dat_verbose_high_volume_playground.jmx" />
       <jump line="802" column="190" filename="$USER_HOME$/GitLab/jmeter/tests/data_analytics_team/dat_verbose_high_volume_playground.jmx" />
       <jump line="1969" column="192" filename="$USER_HOME$/GitLab/jmeter/tests/data_analytics_team/dat_verbose_high_volume_playground.jmx" />
@@ -296,6 +296,7 @@
       <jump line="162" column="0" filename="$USER_HOME$/GitLab/extractinator/src/queries.py" />
       <jump line="186" column="0" filename="$USER_HOME$/GitLab/extractinator/src/queries.py" />
       <jump line="219" column="7" filename="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736-acks.ipynb" />
+      <jump line="47" column="0" filename="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736_resolves.ipynb" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
