@@ -118,12 +118,11 @@
         <mark key="^" line="324" column="4" />
         <mark key="." line="472" column="0" />
       </file>
-      <file name="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736_resolves.ipynb" timestamp="1589320263524">
-        <mark key="'" line="47" column="0" />
-        <mark key="[" line="318" column="0" />
-        <mark key="]" line="318" column="0" />
-        <mark key="^" line="240" column="8" />
-        <mark key="." line="318" column="0" />
+      <file name="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736_resolves.ipynb" timestamp="1589380974389">
+        <mark key="'" line="48" column="0" />
+        <mark key="[" line="313" column="67" />
+        <mark key="]" line="306" column="0" />
+        <mark key="." line="306" column="0" />
       </file>
       <file name="$USER_HOME$/GitHub/data-db-loader/db_loader/entry/adhoc_kinesis_lambda.py" timestamp="1589302919909">
         <mark key="'" line="153" column="8" />
@@ -301,7 +300,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZiIgRkFMU0UgUE9TSVRJVkUgRk9VTkQ6IHtyb3cub3JnX2lkfS17cm93LmluY2lkZW50X2lkfSIpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">YW5kIA==</text>
@@ -313,19 +312,19 @@
         <text encoding="base64">ICAgICAgICAgICAgTE9XRVIoY3VycmVudF9waGFzZSkgIT0gJ3RyaWdnZXJlZCcK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZiIgRkFMU0UgUE9TSVRJVkUgRk9VTkQ6IHtyb3cub3JnX2lkfS17cm93LmluY2lkZW50X2lkfSIpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KGYie29yZ19pZH0gLSB7aW5jaWRlbnRfaWR9IC0gcmVwOiB7cmVwX3Jlc3VsdH0gLS0gYWM6IHthY19yZXN1bHR9IikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZiIgRkFMU0UgUE9TSVRJVkUgRk9VTkQ6IHtyb3cub3JnX2lkfS17cm93LmluY2lkZW50X2lkfSIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cHJpbnQoIi0iKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KGYie29yZ19pZH0gLSB7aW5jaWRlbnRfaWR9IC0gcmVwOiB7cmVwX3Jlc3VsdH0gLS0gYWM6IHthY19yZXN1bHR9IikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHdoaWxlIG5vdCBub3RfYWN0dWFsbHlfbWlzc2luZzoK</text>
+        <text encoding="base64">cHJpbnQoIi0iKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHdoaWxlIG5vdCBub3RfYWN0dWFsbHlfbWlzc2luZzoK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -334,6 +333,9 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
         <text>#%%
 
 display_raw_counts(current_table_raw_count, active_incidents_raw_count)
@@ -344,9 +346,6 @@ display_affected_customer_data(missing_df)
 
 display_raw_counts(current_table_raw_count, active_incidents_raw_count)
 display_affected_customer_data(missing_df)</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
