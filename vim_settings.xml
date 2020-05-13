@@ -122,7 +122,6 @@
         <mark key="^" line="324" column="4" />
         <mark key="." line="472" column="0" />
       </file>
-      <file name="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736_resolves.ipynb" timestamp="1589407379049" />
       <file name="$USER_HOME$/GitHub/data-db-loader/db_loader/entry/adhoc_kinesis_lambda.py" timestamp="1589302919909">
         <mark key="'" line="153" column="8" />
         <mark key="[" line="97" column="101" />
@@ -298,11 +297,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IyUlCg==</text>
+      <register name="&quot;" type="4">
+        <text>Raw Counts Query:</text>
       </register>
       <register name="-" type="4">
-        <text>query</text>
+        <text>Raw Counts Query:</text>
       </register>
       <register name="/" type="4">
         <text>FROM</text>
