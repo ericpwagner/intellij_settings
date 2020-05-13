@@ -83,6 +83,9 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed 2</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
@@ -118,11 +121,11 @@
         <mark key="^" line="324" column="4" />
         <mark key="." line="472" column="0" />
       </file>
-      <file name="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736_resolves.ipynb" timestamp="1589382437857">
+      <file name="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736_resolves.ipynb" timestamp="1589383788021">
         <mark key="'" line="48" column="0" />
-        <mark key="[" line="316" column="87" />
-        <mark key="]" line="316" column="78" />
-        <mark key="." line="316" column="78" />
+        <mark key="[" line="425" column="34" />
+        <mark key="]" line="316" column="85" />
+        <mark key="." line="316" column="85" />
       </file>
       <file name="$USER_HOME$/GitHub/data-db-loader/db_loader/entry/adhoc_kinesis_lambda.py" timestamp="1589302919909">
         <mark key="'" line="153" column="8" />
@@ -299,11 +302,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBUcnVlLCBsaXN0KCkK</text>
+      <register name="&quot;" type="4">
+        <text>'],</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YW5kIA==</text>
+        <text>'],</text>
       </register>
       <register name="/" type="4">
         <text>FROM</text>
