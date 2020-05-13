@@ -91,7 +91,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1589391002529">
+      <file name="/Dummy.txt" timestamp="1589407383824">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -122,13 +122,7 @@
         <mark key="^" line="324" column="4" />
         <mark key="." line="472" column="0" />
       </file>
-      <file name="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736_resolves.ipynb" timestamp="1589390788004">
-        <mark key="'" line="47" column="0" />
-        <mark key="[" line="377" column="40" />
-        <mark key="]" line="391" column="29" />
-        <mark key="^" line="319" column="96" />
-        <mark key="." line="391" column="29" />
-      </file>
+      <file name="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736_resolves.ipynb" timestamp="1589407379049" />
       <file name="$USER_HOME$/GitHub/data-db-loader/db_loader/entry/adhoc_kinesis_lambda.py" timestamp="1589302919909">
         <mark key="'" line="153" column="8" />
         <mark key="[" line="97" column="101" />
@@ -304,8 +298,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>query</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IyUlCg==</text>
       </register>
       <register name="-" type="4">
         <text>query</text>
@@ -317,31 +311,31 @@
         <text encoding="base64">ICAgICAgICAgICAgTE9XRVIoY3VycmVudF9waGFzZSkgIT0gJ3RyaWdnZXJlZCcK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQo=</text>
+        <text encoding="base64">IyUlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">UmVwIE9yZyBJbmNpZGVudCBRdWVyeQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KGYiIiJcbi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">e3F1ZXJ5fSIiIikK</text>
+        <text encoding="base64">CiMgVGhpcyBpcyBhIHZhbGlkYXRpb24gY2hlY2sgdGhhdCBkb2VzIG5vdCBuZWVkIHRvIGJlIHJ1biB3aXRoIGV2ZXJ5IHVzZSBvZiB0aGUgbm90ZWJvb2sgdW5sZXNzIHdlIHN1c3BlY3QgdGhlIGRhdGEgZm9yCiMgc29tZSByZWFzb24uIEl0IHRha2VzIGEgbG9uZyB0aW1lIHNvIHRlc3QgYSBzbWFsbCB3aW5kb3cgYXQgYSB0aW1lIGlmIHBvc3NpYmxlLgojIHByaW50KCJWYWxpZGF0aW5nIGRpZmZzLi4uIikKIyByZXN1bHQsIGZhbHNlX3Bvc2l0aXZlcyA9IHZlcmlmeV9pbmNpZGVudHMocHJvZF9kYXBfZGJfY29ubiwgcHJvZF9jb3JlX2RiX2Nvbm4sIG1pc3NpbmdfZGYpCiMgaWYgcmVzdWx0OgojICAgICBwcmludCgiUkVTVUxUUyBWQUxJREFURUQiKQojIGVsc2U6CiMgICAgIHByaW50KCJDb3VsZCBub3QgdmVyaWZ5IG1pc3NpbmcgaW5jaWRlbnQgZGF0YSIpCiMgICAgIHByaW50KGZhbHNlX3Bvc2l0aXZlcyk=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBxdWVyeQo=</text>
+        <text encoding="base64">LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50KGYiIiJcbi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KQWxlcnRjb3JlIE9yZyBJbmNpZGVudCBRdWVyeQotLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCntxdWVyeX0iIiIpCiAgICByZXR1cm4gcXVlcnkK</text>
+        <text encoding="base64">UmVwIE9yZyBJbmNpZGVudCBRdWVyeQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICAgIHByaW50KGYiIiJcbi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSB0eXBpbmcgaW1wb3J0IFVuaW9uCg==</text>
+        <text encoding="base64">e3F1ZXJ5fSIiIikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBUcnVlLCBsaXN0KCkK</text>
+        <text encoding="base64">ICAgIHJldHVybiBxdWVyeQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
