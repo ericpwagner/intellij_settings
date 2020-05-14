@@ -91,17 +91,17 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1589493798308">
+      <file name="/Dummy.txt" timestamp="1589493904795">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/6_month_teams_analysis.py" timestamp="1589493597253">
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/6_month_teams_analysis.py" timestamp="1589494800204">
         <mark key="b" line="43" column="60" />
-        <mark key="[" line="79" column="20" />
-        <mark key="]" line="92" column="0" />
-        <mark key="." line="92" column="0" />
-        <mark key="^" line="92" column="17" />
+        <mark key="[" line="90" column="70" />
+        <mark key="]" line="88" column="0" />
+        <mark key="." line="88" column="0" />
+        <mark key="^" line="88" column="0" />
       </file>
       <file name="$USER_HOME$/GitHub/data-db-loader/serverless.yml" timestamp="1588968564098">
         <mark key="'" line="68" column="37" />
@@ -116,7 +116,7 @@
         <mark key="." line="2" column="8" />
         <mark key="^" line="2" column="9" />
       </file>
-      <file name="/Python Console" timestamp="1589493798263">
+      <file name="/Python Console" timestamp="1589493899378">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="41" column="6" />
         <mark key="^" line="41" column="6" />
@@ -304,43 +304,43 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRhdF9kZiA9IHNwbGl0RGF0YUZyYW1lTGlzdChnZXRfdGVhbV9kZihkZiwgJ0RhdGEgQW5hbHl0aWNzJyksICcgUGFnZWQgVXNlcnMnLCAnLCcpCg==</text>
+        <text encoding="base64">ICAgIHVzZXJfYWNrc19kZiA9IGRmW2RmWycgQWNrbm93bGVkZ2VkIEJ5J10gPT0gdXNlcl0K</text>
       </register>
       <register name="-" type="4">
-        <text>O</text>
+        <text>len(user_df['Incident Number'].unique().tolist()),</text>
       </register>
       <register name="/" type="4">
         <text>FROM</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTE9XRVIoY3VycmVudF9waGFzZSkgIT0gJ3RyaWdnZXJlZCcK</text>
+        <text encoding="base64">ICAgIHVzZXJfcGFnZXNfZGYgPSBkZltkZlsnIFBhZ2VkIFVzZXJzJ10gPT0gdXNlcl0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRhdF9kZiA9IHNwbGl0RGF0YUZyYW1lTGlzdChnZXRfdGVhbV9kZihkZiwgJ0RhdGEgQW5hbHl0aWNzJyksICcgUGFnZWQgVXNlcnMnLCAnLCcpCg==</text>
+        <text encoding="base64">ICAgIHVzZXJfYWNrc19kZiA9IGRmW2RmWycgQWNrbm93bGVkZ2VkIEJ5J10gPT0gdXNlcl0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KHRlYW1zKQo=</text>
+        <text encoding="base64">ICAgIGRhdF9kZiA9IHNwbGl0RGF0YUZyYW1lTGlzdChnZXRfdGVhbV9kZihkZiwgJ0RhdGEgQW5hbHl0aWNzJyksICcgUGFnZWQgVXNlcnMnLCAnLCcpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJ0aGlzIikK</text>
+        <text encoding="base64">ICAgIHByaW50KHRlYW1zKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50KGRmLmNvbHVtbnMudG9fbGlzdCgpKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KCJ0aGlzIikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICMgZmlsZSA9IHN0cihzeXMuYXJndlswXSkKICAgIGZpbGUgPSAnfi9Eb3dubG9hZHMvSW5jaWRlbnRGcmVxdWVuY3lfMjAyMDA0MTQtMjAyMDA1MTUuY3N2Jwo=</text>
+        <text encoding="base64">ICAgIHByaW50KGRmLmNvbHVtbnMudG9fbGlzdCgpKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRmID0gCg==</text>
+        <text encoding="base64">ICAgICMgZmlsZSA9IHN0cihzeXMuYXJndlswXSkKICAgIGZpbGUgPSAnfi9Eb3dubG9hZHMvSW5jaWRlbnRGcmVxdWVuY3lfMjAyMDA0MTQtMjAyMDA1MTUuY3N2Jwo=</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgIGRmID0gCg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICcgVGltZSB0byBBY2tub3dsZWRnZSAoc2Vjb25kcyknLAogICAgICAgICAgICAgICAgICAgICAgJyBUaW1lIHRvIFJlc29sdmUgKHNlY29uZHMpJw==</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAnIEFja25vd2xlZGdlZCBUJywgJyBSZXNvbHZlZCBUaW1lIChVVEMpJyw=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICcgVGltZSB0byBBY2tub3dsZWRnZSAoc2Vjb25kcyknLAogICAgICAgICAgICAgICAgICAgICAgJyBUaW1lIHRvIFJlc29sdmUgKHNlY29uZHMpJw==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
