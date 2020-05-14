@@ -91,17 +91,17 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1589493904795">
+      <file name="/Dummy.txt" timestamp="1589497560095">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/6_month_teams_analysis.py" timestamp="1589496501531">
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/6_month_teams_analysis.py" timestamp="1589497580080">
         <mark key="b" line="42" column="60" />
-        <mark key="[" line="124" column="47" />
-        <mark key="]" line="29" column="0" />
-        <mark key="^" line="107" column="70" />
-        <mark key="." line="29" column="0" />
+        <mark key="[" line="139" column="8" />
+        <mark key="]" line="142" column="26" />
+        <mark key="^" line="142" column="26" />
+        <mark key="." line="142" column="25" />
       </file>
       <file name="$USER_HOME$/GitHub/data-db-loader/serverless.yml" timestamp="1588968564098">
         <mark key="'" line="68" column="37" />
@@ -116,7 +116,7 @@
         <mark key="." line="2" column="8" />
         <mark key="^" line="2" column="9" />
       </file>
-      <file name="/Python Console" timestamp="1589493899378">
+      <file name="/Python Console" timestamp="1589497560060">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="41" column="6" />
         <mark key="^" line="41" column="6" />
@@ -303,11 +303,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHVuaXF1ZV9pbmNpZGVudHM6IExpc3RbRGljdFtzdHIsIEFueV1dCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">CgpkZWY=</text>
       </register>
       <register name="-" type="4">
-        <text>s,</text>
+        <text>incidents = get_unique_values(df, ' Entity Display Name')</text>
       </register>
       <register name="/" type="4">
         <text>FROM</text>
@@ -315,32 +315,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHVzZXJfcGFnZXNfZGYgPSBkZltkZlsnIFBhZ2VkIFVzZXJzJ10gPT0gdXNlcl0K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHVuaXF1ZV9pbmNpZGVudHM6IExpc3RbRGljdFtzdHIsIEFueV1dCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">CgpkZWY=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgdW5pcXVlX2luY2lkZW50cz1pbmNpZGVudAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHVzZXJfYWNrc19kZiA9IGRmW2RmWycgQWNrbm93bGVkZ2VkIEJ5J10gPT0gdXNlcl0K</text>
+        <text encoding="base64">ICAgIGRhdF9kZiA9IGdldF90ZWFtX2RmKGRmLCAnRGF0YSBBbmFseXRpY3MnKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRhdF9kZiA9IHNwbGl0RGF0YUZyYW1lTGlzdChnZXRfdGVhbV9kZihkZiwgJ0RhdGEgQW5hbHl0aWNzJyksICcgUGFnZWQgVXNlcnMnLCAnLCcpCg==</text>
+        <text encoding="base64">ICAgIHVuaXF1ZV9pbmNpZGVudHM6IExpc3RbRGljdFtzdHIsIEFueV1dCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50KHRlYW1zKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgdW5pcXVlX2luY2lkZW50cz1pbmNpZGVudAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJ0aGlzIikK</text>
+        <text encoding="base64">ICAgIHVzZXJfYWNrc19kZiA9IGRmW2RmWycgQWNrbm93bGVkZ2VkIEJ5J10gPT0gdXNlcl0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50KGRmLmNvbHVtbnMudG9fbGlzdCgpKQo=</text>
+        <text encoding="base64">ICAgIGRhdF9kZiA9IHNwbGl0RGF0YUZyYW1lTGlzdChnZXRfdGVhbV9kZihkZiwgJ0RhdGEgQW5hbHl0aWNzJyksICcgUGFnZWQgVXNlcnMnLCAnLCcpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgZmlsZSA9IHN0cihzeXMuYXJndlswXSkKICAgIGZpbGUgPSAnfi9Eb3dubG9hZHMvSW5jaWRlbnRGcmVxdWVuY3lfMjAyMDA0MTQtMjAyMDA1MTUuY3N2Jwo=</text>
+        <text encoding="base64">ICAgIHByaW50KHRlYW1zKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRmID0gCg==</text>
+        <text encoding="base64">ICAgIHByaW50KCJ0aGlzIikK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
