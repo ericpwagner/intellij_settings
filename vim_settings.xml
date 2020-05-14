@@ -96,6 +96,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/6_month_teams_analysis.py" timestamp="1589487324797">
+        <mark key="[" line="0" column="49" />
+        <mark key="]" line="0" column="49" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="49" />
+      </file>
       <file name="$USER_HOME$/GitHub/data-db-loader/serverless.yml" timestamp="1588968564098">
         <mark key="'" line="68" column="37" />
         <mark key="[" line="316" column="18" />
@@ -103,8 +109,8 @@
         <mark key="^" line="320" column="19" />
         <mark key="." line="320" column="18" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_61.py" timestamp="1589485585773">
-        <mark key="[" line="4" column="35" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_61.py" timestamp="1589486795761">
+        <mark key="[" line="7" column="20" />
         <mark key="]" line="2" column="9" />
         <mark key="." line="2" column="8" />
         <mark key="^" line="2" column="9" />
@@ -128,7 +134,11 @@
         <mark key="^" line="324" column="4" />
         <mark key="." line="472" column="0" />
       </file>
-      <file name="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736_resolves.ipynb" timestamp="1589485571019" />
+      <file name="$USER_HOME$/GitHub/data_misc/analysis_misc/compare_sabre_reports.py" timestamp="1589487039854" />
+      <file name="/a.dummy" timestamp="1589486864196">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736_resolves.ipynb" timestamp="1589486714023" />
       <file name="$USER_HOME$/GitHub/data-db-loader/db_loader/entry/adhoc_kinesis_lambda.py" timestamp="1589302919909">
         <mark key="'" line="153" column="8" />
         <mark key="[" line="97" column="101" />
@@ -146,9 +156,6 @@
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
-      </file>
-      <file name="/" timestamp="1588880623688">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/GitLab/extractinator/src/incident_migrator.py" timestamp="1589213799005">
         <mark key="'" line="147" column="12" />
@@ -192,11 +199,6 @@
         <mark key="]" line="291" column="34" />
         <mark key="." line="291" column="33" />
         <mark key="^" line="291" column="34" />
-      </file>
-      <file name="$USER_HOME$/GitHub/data-db-loader/Dokerfile.Eric.Test.py37" timestamp="1588949812533">
-        <mark key="[" line="0" column="20" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -304,11 +306,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text>import pandas ad</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">UmVwb3J0IA==</text>
       </register>
       <register name="-" type="4">
-        <text>Raw Counts Query:</text>
+        <text encoding="base64">UmVwb3J0IA==</text>
       </register>
       <register name="/" type="4">
         <text>FROM</text>
