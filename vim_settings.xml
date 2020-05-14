@@ -7,13 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>acked</entry>
-        <entry>triggered</entry>
-        <entry>,\ 'acked')</entry>
-        <entry>('resolved','acked')</entry>
-        <entry>#%% md</entry>
-        <entry>DATA</entry>
-        <entry>AC_</entry>
         <entry>77a97d606ce9d2e8ae579c3f72202441</entry>
         <entry>5e3abbe43b572b6a439d649c594725ec</entry>
         <entry encoding="base64">b25seS4mcXVvdDsmI3hkOw==</entry>
@@ -27,6 +20,13 @@
         <entry>event_at</entry>
         <entry>&quot;</entry>
         <entry>}</entry>
+        <entry>pip</entry>
+        <entry>print</entry>
+        <entry encoding="base64">XDxwcmludFw+</entry>
+        <entry>get)users</entry>
+        <entry>get_users</entry>
+        <entry>select</entry>
+        <entry>FROM</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3RyaWdnZXJlZC9hY2tlZA==</entry>
@@ -44,11 +44,11 @@
         <entry encoding="base64">JzwsJz5zL19BQ18vXy9n</entry>
         <entry encoding="base64">JzwsJz5zL29yZ19pZC9pbmNpZGVudF9pZC9n</entry>
         <entry encoding="base64">JzwsJz5zL3ZsYXVlfS92YWx1ZVs6LTZdfS9n</entry>
-        <entry>wq</entry>
         <entry encoding="base64">JzwsJz5zLyIvXFwiL2c=</entry>
         <entry encoding="base64">JzwsJz5zL30vXFx9L2c=</entry>
-        <entry>w</entry>
         <entry>x</entry>
+        <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -80,137 +80,120 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed B</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/GitHub/data-db-loader/db_loader/aws_s3_common.py" timestamp="1587140638439">
-        <mark key="[" line="1" column="9" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1588086011642">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/GitHub/data-db-loader/serverless.yml" timestamp="1588027840958">
-        <mark key="[" line="189" column="31" />
-        <mark key="]" line="189" column="27" />
-        <mark key="^" line="189" column="27" />
-        <mark key="." line="189" column="26" />
-      </file>
-      <file name="/Python Console" timestamp="1588087294031">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="6" column="6" />
-        <mark key="^" line="6" column="6" />
-        <mark key="." line="6" column="6" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_58.py" timestamp="1587053523974">
-        <mark key="[" line="6" column="48" />
-        <mark key="]" line="14" column="20" />
-        <mark key="^" line="6" column="10" />
-        <mark key="." line="14" column="20" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_59.py" timestamp="1587092042072">
+      <file name="/Dummy.txt" timestamp="1589407383824">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GitHub/data-db-loader/db_loader/entry/reconciliation.py" timestamp="1587086847471">
-        <mark key="[" line="500" column="29" />
-        <mark key="]" line="537" column="0" />
-        <mark key="." line="537" column="0" />
+      <file name="$USER_HOME$/GitHub/data-db-loader/serverless.yml" timestamp="1588968564098">
+        <mark key="'" line="68" column="37" />
+        <mark key="[" line="316" column="18" />
+        <mark key="]" line="320" column="19" />
+        <mark key="^" line="320" column="19" />
+        <mark key="." line="320" column="18" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_56.py" timestamp="1586978864045">
-        <mark key="[" line="0" column="11" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="/org_traffic.ipynb" timestamp="1587487292748">
-        <mark key="'" line="331" column="0" />
+      <file name="/Python Console" timestamp="1589391002297">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="39" column="38" />
-        <mark key="." line="39" column="38" />
-        <mark key="^" line="39" column="38" />
+        <mark key="]" line="41" column="6" />
+        <mark key="^" line="41" column="6" />
+        <mark key="." line="41" column="6" />
       </file>
-      <file name="$USER_HOME$/GitHub/data-db-loader/db_loader/entry/adhoc_kinesis_lambda.py" timestamp="1587746549185">
-        <mark key="[" line="78" column="91" />
-        <mark key="]" line="78" column="104" />
-        <mark key="." line="78" column="103" />
-        <mark key="^" line="78" column="104" />
+      <file name="$USER_HOME$/GitHub/data-db-loader/sls_config/prod.json" timestamp="1588958299027">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_57.py" timestamp="1587051078336">
-        <mark key="[" line="2" column="13" />
-        <mark key="]" line="5" column="19" />
-        <mark key="." line="5" column="19" />
+      <file name="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736-acks.ipynb" timestamp="1589320189299">
+        <mark key="'" line="316" column="0" />
+        <mark key="[" line="353" column="4" />
+        <mark key="]" line="472" column="0" />
+        <mark key="^" line="324" column="4" />
+        <mark key="." line="472" column="0" />
       </file>
-      <file name="/SE-736_analysis.ipynb" timestamp="1587487291538">
-        <mark key="a" line="493" column="10" />
+      <file name="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736_resolves.ipynb" timestamp="1589427523064" />
+      <file name="$USER_HOME$/GitHub/data-db-loader/db_loader/entry/adhoc_kinesis_lambda.py" timestamp="1589302919909">
+        <mark key="'" line="153" column="8" />
+        <mark key="[" line="97" column="101" />
+        <mark key="]" line="83" column="29" />
+        <mark key="^" line="45" column="18" />
+        <mark key="." line="83" column="29" />
+      </file>
+      <file name="$USER_HOME$/GitHub/data-db-loader/.env" timestamp="1588959942874">
+        <mark key="[" line="0" column="28" />
+        <mark key="]" line="5" column="39" />
+        <mark key="." line="5" column="38" />
+        <mark key="^" line="5" column="39" />
+      </file>
+      <file name="$USER_HOME$/GitHub/data_misc/analysis_misc/docker-compose.yml" timestamp="1589208614043">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="/" timestamp="1588880623688">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/current_tables.ipynb" timestamp="1587487292917">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/GitLab/extractinator/src/incident_migrator.py" timestamp="1589213799005">
+        <mark key="'" line="147" column="12" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_55.py" timestamp="1586895187012">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="4" column="25" />
-        <mark key="." line="4" column="25" />
+      <file name="$USER_HOME$/GitHub/data-db-loader/tools/aws_glue/config/incident_raw/stg.json" timestamp="1588970573430">
+        <mark key="[" line="8" column="25" />
+        <mark key="]" line="17" column="1" />
+        <mark key="^" line="17" column="1" />
+        <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/GitHub/data-db-loader/tests/ad_hoc_kinesis_s3/test_ad_hoc_kinesis_s3.py" timestamp="1587746562580">
-        <mark key="[" line="94" column="111" />
-        <mark key="]" line="84" column="35" />
-        <mark key="." line="84" column="34" />
-        <mark key="^" line="84" column="35" />
+      <file name="$USER_HOME$/GitHub/data-db-loader/tests/ad_hoc_kinesis_s3/test_ad_hoc_kinesis_s3.py" timestamp="1589298226878">
+        <mark key="[" line="96" column="41" />
+        <mark key="]" line="131" column="0" />
+        <mark key="." line="130" column="0" />
+        <mark key="^" line="131" column="0" />
       </file>
-      <file name="$USER_HOME$/GitHub/data-db-loader/Makefile" timestamp="1588003578876">
-        <mark key="'" line="34" column="0" />
-        <mark key="[" line="36" column="12" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="41" column="112" />
-        <mark key="^" line="42" column="0" />
+      <file name="$USER_HOME$/GitHub/data-db-loader/Makefile" timestamp="1588970784477">
+        <mark key="'" line="33" column="0" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="41" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_60.py" timestamp="1587154179731">
-        <mark key="[" line="19" column="46" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/GitHub/data-db-loader/sls_config/playground.json" timestamp="1588958283084">
+        <mark key="'" line="34" column="1" />
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="^" line="34" column="35" />
+        <mark key="." line="36" column="0" />
+      </file>
+      <file name="$USER_HOME$/GitHub/data-db-loader/sls_config/stg.json" timestamp="1588958308327">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="^" line="33" column="28" />
+        <mark key="." line="36" column="0" />
+      </file>
+      <file name="$USER_HOME$/GitLab/extractinator/src/queries.py" timestamp="1589218594760">
+        <mark key="'" line="186" column="0" />
+        <mark key="[" line="290" column="7" />
+        <mark key="]" line="291" column="34" />
+        <mark key="." line="291" column="33" />
+        <mark key="^" line="291" column="34" />
+      </file>
+      <file name="$USER_HOME$/GitHub/data-db-loader/Dokerfile.Eric.Test.py37" timestamp="1588949812533">
+        <mark key="[" line="0" column="20" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="109" column="0" filename="/SE-736_analysis.ipynb" />
-      <jump line="121" column="0" filename="/SE-736_analysis.ipynb" />
-      <jump line="133" column="0" filename="/SE-736_analysis.ipynb" />
-      <jump line="108" column="0" filename="/se_736_research.ipynb" />
-      <jump line="184" column="0" filename="/SE-736_analysis.ipynb" />
-      <jump line="2" column="0" filename="/org_traffic_SE-736.ipynb" />
-      <jump line="53" column="24" filename="/org_traffic_SE-736.ipynb" />
-      <jump line="118" column="0" filename="/se_736_research.ipynb" />
-      <jump line="151" column="0" filename="/SE-736_analysis.ipynb" />
-      <jump line="220" column="0" filename="/SE-736_analysis.ipynb" />
-      <jump line="225" column="0" filename="/SE-736_analysis.ipynb" />
-      <jump line="219" column="0" filename="/SE-736_analysis.ipynb" />
-      <jump line="228" column="0" filename="/SE-736_analysis.ipynb" />
-      <jump line="329" column="32" filename="/org_traffic.ipynb" />
-      <jump line="330" column="0" filename="/org_traffic.ipynb" />
-      <jump line="34" column="0" filename="$USER_HOME$/GitHub/data_misc/analysis_misc/.env" />
-      <jump line="39" column="0" filename="$USER_HOME$/GitHub/data_misc/analysis_misc/.env" />
-      <jump line="3" column="0" filename="$USER_HOME$/GitHub/data_misc/analysis_misc/.env.template" />
-      <jump line="11" column="31" filename="$USER_HOME$/GitHub/data_misc/analysis_misc/.env.template" />
-      <jump line="119" column="659" filename="$USER_HOME$/GitLab/jmeter/tests/SE-736_testing.jmx" />
-      <jump line="129" column="133" filename="$USER_HOME$/GitLab/jmeter/tests/SE-736_testing.jmx" />
-      <jump line="146" column="191" filename="$USER_HOME$/GitLab/jmeter/tests/SE-736_testing.jmx" />
-      <jump line="63" column="12" filename="$USER_HOME$/GitLab/jmeter/tests/SE-736_testing.jmx" />
-      <jump line="181" column="12" filename="$USER_HOME$/GitLab/jmeter/tests/SE-736_testing.jmx" />
-      <jump line="621" column="30" filename="$USER_HOME$/GitLab/jmeter/tests/SE-736_testing.jmx" />
-      <jump line="41" column="0" filename="$USER_HOME$/GitHub/data_misc/analysis_misc/.env" />
-      <jump line="47" column="0" filename="$USER_HOME$/GitHub/data_misc/analysis_misc/.env" />
-      <jump line="0" column="0" filename="$USER_HOME$/GitLab/jmeter/tests/SE-736_testing.jmx" />
-      <jump line="224" column="32" filename="$USER_HOME$/GitLab/jmeter/tests/SE-736_testing.jmx" />
-      <jump line="146" column="4" filename="$USER_HOME$/GitLab/jmeter/tests/data_analytics_team/dat_verbose_high_volume_playground.jmx" />
-      <jump line="440" column="10" filename="$USER_HOME$/GitLab/jmeter/tests/data_analytics_team/dat_verbose_high_volume_playground.jmx" />
-      <jump line="1" column="78" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_51.py" />
-      <jump line="1118" column="188" filename="$USER_HOME$/GitLab/jmeter/tests/data_analytics_team/dat_verbose_high_volume_playground.jmx" />
-      <jump line="1292" column="22" filename="$USER_HOME$/GitLab/jmeter/tests/data_analytics_team/dat_verbose_high_volume_playground.jmx" />
-      <jump line="1515" column="22" filename="$USER_HOME$/GitLab/jmeter/tests/data_analytics_team/dat_verbose_high_volume_playground.jmx" />
-      <jump line="119" column="0" filename="$USER_HOME$/GitLab/jmeter/tests/data_analytics_team/dat_verbose_high_volume_playground.jmx" />
       <jump line="802" column="190" filename="$USER_HOME$/GitLab/jmeter/tests/data_analytics_team/dat_verbose_high_volume_playground.jmx" />
       <jump line="1969" column="192" filename="$USER_HOME$/GitLab/jmeter/tests/data_analytics_team/dat_verbose_high_volume_playground.jmx" />
       <jump line="1466" column="22" filename="$USER_HOME$/GitLab/jmeter/tests/data_analytics_team/dat_verbose_high_volume_playground.jmx" />
@@ -270,64 +253,100 @@
       <jump line="5" column="0" filename="$USER_HOME$/GitHub/data-db-loader/tests/ad_hoc_kinesis_s3/test_ad_hoc_kinesis_s3.py" />
       <jump line="43" column="0" filename="$USER_HOME$/GitHub/data-db-loader/tests/ad_hoc_kinesis_s3/test_ad_hoc_kinesis_s3.py" />
       <jump line="99" column="0" filename="$USER_HOME$/GitHub/data-db-loader/db_loader/entry/adhoc_kinesis_lambda.py" />
-      <jump line="57" column="7" filename="$USER_HOME$/GitHub/data-db-loader/db_loader/entry/adhoc_kinesis_lambda.py" />
       <jump line="303" column="0" filename="$USER_HOME$/GitHub/data-db-loader/serverless.yml" />
       <jump line="65" column="46" filename="$USER_HOME$/GitHub/data-db-loader/db_loader/entry/adhoc_kinesis_lambda.py" />
       <jump line="29" column="0" filename="$USER_HOME$/GitHub/data-db-loader/Makefile" />
       <jump line="34" column="0" filename="$USER_HOME$/GitHub/data-db-loader/Makefile" />
+      <jump line="35" column="1" filename="$USER_HOME$/GitHub/data-db-loader/sls_config/playground.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/GitHub/data-db-loader/sls_config/prod.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/GitHub/data-db-loader/sls_config/stg.json" />
+      <jump line="48" column="4" filename="$USER_HOME$/GitHub/data-db-loader/db_loader/entry/adhoc_kinesis_lambda.py" />
+      <jump line="138" column="19" filename="$USER_HOME$/GitHub/data-db-loader/db_loader/entry/adhoc_kinesis_lambda.py" />
+      <jump line="74" column="3" filename="$USER_HOME$/GitHub/data-db-loader/db_loader/entry/adhoc_kinesis_lambda.py" />
+      <jump line="75" column="0" filename="$USER_HOME$/GitHub/data-db-loader/db_loader/entry/adhoc_kinesis_lambda.py" />
+      <jump line="429" column="2" filename="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736_analysis.ipynb" />
+      <jump line="2" column="5" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" />
+      <jump line="365" column="0" filename="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736_analysis.ipynb" />
+      <jump line="99" column="37" filename="$USER_HOME$/GitHub/data-db-loader/serverless.yml" />
+      <jump line="68" column="37" filename="$USER_HOME$/GitHub/data-db-loader/serverless.yml" />
+      <jump line="46" column="0" filename="$USER_HOME$/GitHub/data-db-loader/db_loader/entry/adhoc_kinesis_lambda.py" />
+      <jump line="57" column="0" filename="$USER_HOME$/GitHub/data-db-loader/db_loader/entry/adhoc_kinesis_lambda.py" />
+      <jump line="68" column="4" filename="$USER_HOME$/GitHub/data-db-loader/db_loader/entry/adhoc_kinesis_lambda.py" />
+      <jump line="114" column="8" filename="$USER_HOME$/GitHub/data-db-loader/db_loader/entry/adhoc_kinesis_lambda.py" />
+      <jump line="143" column="8" filename="$USER_HOME$/GitHub/data-db-loader/db_loader/entry/adhoc_kinesis_lambda.py" />
+      <jump line="153" column="8" filename="$USER_HOME$/GitHub/data-db-loader/db_loader/entry/adhoc_kinesis_lambda.py" />
+      <jump line="446" column="2" filename="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736_analysis.ipynb" />
+      <jump line="57" column="14" filename="$USER_HOME$/GitLab/extractinator/src/incident_migrator.py" />
+      <jump line="147" column="12" filename="$USER_HOME$/GitLab/extractinator/src/incident_migrator.py" />
+      <jump line="100" column="58" filename="$USER_HOME$/GitLab/extractinator/src/queries.py" />
+      <jump line="120" column="4" filename="$USER_HOME$/GitLab/extractinator/src/queries.py" />
+      <jump line="154" column="4" filename="$USER_HOME$/GitLab/extractinator/src/queries.py" />
+      <jump line="171" column="4" filename="$USER_HOME$/GitLab/extractinator/src/queries.py" />
+      <jump line="192" column="4" filename="$USER_HOME$/GitLab/extractinator/src/queries.py" />
+      <jump line="208" column="4" filename="$USER_HOME$/GitLab/extractinator/src/queries.py" />
+      <jump line="223" column="4" filename="$USER_HOME$/GitLab/extractinator/src/queries.py" />
+      <jump line="239" column="4" filename="$USER_HOME$/GitLab/extractinator/src/queries.py" />
+      <jump line="111" column="0" filename="$USER_HOME$/GitLab/extractinator/src/queries.py" />
+      <jump line="146" column="10" filename="$USER_HOME$/GitLab/extractinator/src/queries.py" />
+      <jump line="163" column="11" filename="$USER_HOME$/GitLab/extractinator/src/queries.py" />
+      <jump line="162" column="0" filename="$USER_HOME$/GitLab/extractinator/src/queries.py" />
+      <jump line="186" column="0" filename="$USER_HOME$/GitLab/extractinator/src/queries.py" />
+      <jump line="219" column="7" filename="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736-acks.ipynb" />
+      <jump line="47" column="0" filename="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736_resolves.ipynb" />
+      <jump line="316" column="0" filename="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736-acks.ipynb" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZGVwbG95X3BsYXlfYmFja2ZpbGw6IGJ1aWxkX3NlcnZlcmxlc3NfaW1hZ2UKCWRvY2tlciBydW4gLWl0IC0tcm1cCgkgICAgICAgICAgIC12ICQoSE9NRSkvLmF3czovcm9vdC8uYXdzXAoJCQkgICAtdiAkKFBXRCk6L2FwcCAtdyAvYXBwXAoJCQkgICAtdyAvYXBwXAoJCQkgICBkYl9sb2FkZXIvc2VydmVybGVzcyAtLXN0YWdlICQoQVdTX1BST0ZJTEUpIGRlcGxveSBmdW5jdGlvbiAtLWZ1bmN0aW9uIGFsZXJ0Y29yZV9raW5lc2lzX2JhY2tmaWxsCg==</text>
+      <register name="&quot;" type="4">
+        <text>Raw Counts Query:</text>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text>Raw Counts Query:</text>
       </register>
       <register name="/" type="4">
-        <text>}</text>
+        <text>FROM</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZGVwbG95X3BsYXlfYmFja2ZpbGw6IGJ1aWxkX3NlcnZlcmxlc3NfaW1hZ2UKCWRvY2tlciBydW4gLWl0IC0tcm1cCgkgICAgICAgICAgIC12ICQoSE9NRSkvLmF3czovcm9vdC8uYXdzXAoJCQkgICAtdiAkKFBXRCk6L2FwcCAtdyAvYXBwXAoJCQkgICAtdyAvYXBwXAoJCQkgICBkYl9sb2FkZXIvc2VydmVybGVzcyAtLXN0YWdlICQoQVdTX1BST0ZJTEUpIGRlcGxveSBmdW5jdGlvbiAtLWZ1bmN0aW9uIGFsZXJ0Y29yZV9raW5lc2lzX2JhY2tmaWxsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTE9XRVIoY3VycmVudF9waGFzZSkgIT0gJ3RyaWdnZXJlZCcK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiA0ZTRhZWRhLi4uIGZpeCBtaW5vciBlcnJvcnMK</text>
+        <text encoding="base64">IyUlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBmImZlZWQ9aW5jaWRlbnRfdjEvZGF0YWxha2VfcmVjZWl2ZWRfYXQ9e2RheX0ve2hvdXJ9L2JhY2tmaWxsX2lkPVNFLTczNi9iYWNrZmlsbF9kYXRlPXt0b2RheX0ve2ZpbGVfbmFtZX0iCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">CiMgVGhpcyBpcyBhIHZhbGlkYXRpb24gY2hlY2sgdGhhdCBkb2VzIG5vdCBuZWVkIHRvIGJlIHJ1biB3aXRoIGV2ZXJ5IHVzZSBvZiB0aGUgbm90ZWJvb2sgdW5sZXNzIHdlIHN1c3BlY3QgdGhlIGRhdGEgZm9yCiMgc29tZSByZWFzb24uIEl0IHRha2VzIGEgbG9uZyB0aW1lIHNvIHRlc3QgYSBzbWFsbCB3aW5kb3cgYXQgYSB0aW1lIGlmIHBvc3NpYmxlLgojIHByaW50KCJWYWxpZGF0aW5nIGRpZmZzLi4uIikKIyByZXN1bHQsIGZhbHNlX3Bvc2l0aXZlcyA9IHZlcmlmeV9pbmNpZGVudHMocHJvZF9kYXBfZGJfY29ubiwgcHJvZF9jb3JlX2RiX2Nvbm4sIG1pc3NpbmdfZGYpCiMgaWYgcmVzdWx0OgojICAgICBwcmludCgiUkVTVUxUUyBWQUxJREFURUQiKQojIGVsc2U6CiMgICAgIHByaW50KCJDb3VsZCBub3QgdmVyaWZ5IG1pc3NpbmcgaW5jaWRlbnQgZGF0YSIpCiMgICAgIHByaW50KGZhbHNlX3Bvc2l0aXZlcyk=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Pj4+Pj4+PiA0ZTRhZWRhLi4uIGZpeCBtaW5vciBlcnJvcnMK</text>
+        <text encoding="base64">LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">UmVwIE9yZyBJbmNpZGVudCBRdWVyeQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFEago=</text>
+        <text encoding="base64">ICAgIHByaW50KGYiIiJcbi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Pj4+Pj4+PiAyMmQyZGU3Li4uIGFkZCBkZXBsb3ltZW50IG9mIG5ldyBsYW1iZGEK</text>
+        <text encoding="base64">e3F1ZXJ5fSIiIikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBiNjIxZmEwLi4uIGFkIGhvYyByZWNvbiBkb2NrZXIgZGVwbG95cwo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBxdWVyeQo=</text>
       </register>
       <register name=":" type="4">
-        <text>x</text>
+        <text>w</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>}</last-search>
+      <last-search>FROM</last-search>
       <last-offset />
-      <last-pattern>}</last-pattern>
+      <last-pattern>FROM</last-pattern>
       <last-replace>\\}</last-replace>
       <last-substitute>}</last-substitute>
       <last-dir>1</last-dir>
