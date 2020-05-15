@@ -91,17 +91,17 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1589497560095">
+      <file name="/Dummy.txt" timestamp="1589511161875">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/6_month_teams_analysis.py" timestamp="1589510277454">
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/6_month_teams_analysis.py" timestamp="1589510712642">
         <mark key="b" line="42" column="60" />
-        <mark key="[" line="138" column="16" />
-        <mark key="]" line="138" column="1" />
-        <mark key="^" line="138" column="16" />
-        <mark key="." line="138" column="1" />
+        <mark key="[" line="140" column="0" />
+        <mark key="]" line="137" column="90" />
+        <mark key="^" line="137" column="90" />
+        <mark key="." line="137" column="89" />
       </file>
       <file name="$USER_HOME$/GitHub/data-db-loader/serverless.yml" timestamp="1588968564098">
         <mark key="'" line="68" column="37" />
@@ -116,7 +116,7 @@
         <mark key="." line="2" column="8" />
         <mark key="^" line="2" column="9" />
       </file>
-      <file name="/Python Console" timestamp="1589497560060">
+      <file name="/Python Console" timestamp="1589511161829">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="41" column="6" />
         <mark key="^" line="41" column="6" />
