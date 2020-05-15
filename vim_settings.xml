@@ -173,12 +173,12 @@
         <mark key="." line="95" column="0" />
         <mark key="^" line="131" column="0" />
       </file>
-      <file name="$USER_HOME$/GitHub/data-db-loader/Makefile" timestamp="1588970784477">
+      <file name="$USER_HOME$/GitHub/data-db-loader/Makefile" timestamp="1589567264427">
         <mark key="'" line="34" column="0" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-        <mark key="^" line="42" column="0" />
+        <mark key="[" line="17" column="24" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+        <mark key="^" line="28" column="0" />
       </file>
       <file name="$USER_HOME$/GitHub/data-db-loader/sls_config/stg.json" timestamp="1588958308327">
         <mark key="'" line="0" column="0" />
@@ -301,7 +301,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>dict_to_write</text>
@@ -313,31 +313,31 @@
         <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZiJfX19fX19fX19fX19fX19fX19fX19fX19fX19cbiIKICAgICAgICAgICAgICAgICAgZiIgICB7cC51c2VybmFtZX1cbiIKICAgICAgICAgICAgICAgICAgZiItLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS1cbiIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Pj4+Pj4+PiA3MmJmOTNjLi4uIExhbWJkYSBmb3IgYWQgaG9jIGJhY2tmaWxscyB2aWEgS2luZXNpcwo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZiItZGV0YWlscy9iYWNrZmlsbF9kYXRlPXt0b2RheX0vc3RnLnNwbHVuay1zc2Mtdm8tc3RhZ2luZy52aWN0b3JvcHMubmV0LSIgXAo=</text>
+        <text encoding="base64">Pj4+Pj4+PiA3MmJmOTNjLi4uIExhbWJkYSBmb3IgYWQgaG9jIGJhY2tmaWxscyB2aWEgS2luZXNpcwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCBzM19wYXRoWzotb2Zmc2V0XT09ZiJmZWVkPWluY2lkZW50X3YxL2RhdGFsYWtlX3JlY2VpdmVkX2F0PTIwMjAtMDQtMTYvMjAvYmFja2ZpbGxfaWQ9U0UtNzM2LXJlc29sdmVzLXdpdGgiIFwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZiItZGV0YWlscy9iYWNrZmlsbF9kYXRlPXt0b2RheX0vc3RnLnNwbHVuay1zc2Mtdm8tc3RhZ2luZy52aWN0b3JvcHMubmV0LSIgXAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAgIGFzc2VydCBzM19wYXRoWzotb2Zmc2V0XT09ZiJmZWVkPWluY2lkZW50X3YxL2RhdGFsYWtlX3JlY2VpdmVkX2F0PTIwMjAtMDQtMTYvMjAvYmFja2ZpbGxfaWQ9U0UtNzM2LXJlc29sdmVzLXdpdGgiIFwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY29udGV4dD1jb250ZXh0X2RpY3QpCg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGZ1bmNfbG9nID0gZ2V0X3N0cnVjdGxvZygpLmJpbmQoa2luZXNpc19ldmVudD1ldmVudCwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY29udGV4dD1jb250ZXh0X2RpY3QpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnRleHRfZGljdCA9IGRpcihjb250ZXh0KQo=</text>
+        <text encoding="base64">ICAgIGZ1bmNfbG9nID0gZ2V0X3N0cnVjdGxvZygpLmJpbmQoa2luZXNpc19ldmVudD1ldmVudCwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Pj4+Pj4+PiA3MmJmOTNjLi4uIExhbWJkYSBmb3IgYWQgaG9jIGJhY2tmaWxscyB2aWEgS2luZXNpcwo=</text>
+        <text encoding="base64">ICAgIGNvbnRleHRfZGljdCA9IGRpcihjb250ZXh0KQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
