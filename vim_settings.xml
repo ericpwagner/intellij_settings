@@ -91,17 +91,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1589512153920">
+      <file name="/Dummy.txt" timestamp="1589407383824">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/6_month_teams_analysis.py" timestamp="1589512394806">
-        <mark key="b" line="42" column="60" />
-        <mark key="[" line="150" column="27" />
-        <mark key="]" line="151" column="12" />
-        <mark key="." line="151" column="11" />
-        <mark key="^" line="151" column="12" />
       </file>
       <file name="$USER_HOME$/GitHub/data-db-loader/serverless.yml" timestamp="1588968564098">
         <mark key="'" line="68" column="37" />
@@ -110,13 +103,7 @@
         <mark key="^" line="320" column="19" />
         <mark key="." line="320" column="18" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_61.py" timestamp="1589486795761">
-        <mark key="[" line="7" column="20" />
-        <mark key="]" line="2" column="9" />
-        <mark key="." line="2" column="8" />
-        <mark key="^" line="2" column="9" />
-      </file>
-      <file name="/Python Console" timestamp="1589512153877">
+      <file name="/Python Console" timestamp="1589391002297">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="41" column="6" />
         <mark key="^" line="41" column="6" />
@@ -128,9 +115,6 @@
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1589490187406">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736-acks.ipynb" timestamp="1589320189299">
         <mark key="'" line="316" column="0" />
         <mark key="[" line="353" column="4" />
@@ -138,11 +122,7 @@
         <mark key="^" line="324" column="4" />
         <mark key="." line="472" column="0" />
       </file>
-      <file name="$USER_HOME$/GitHub/data_misc/analysis_misc/compare_sabre_reports.py" timestamp="1589492355978" />
-      <file name="/a.dummy" timestamp="1589486864196">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736_resolves.ipynb" timestamp="1589486714023" />
+      <file name="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736_resolves.ipynb" timestamp="1589427523064" />
       <file name="$USER_HOME$/GitHub/data-db-loader/db_loader/entry/adhoc_kinesis_lambda.py" timestamp="1589302919909">
         <mark key="'" line="153" column="8" />
         <mark key="[" line="97" column="101" />
@@ -160,6 +140,9 @@
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
+      </file>
+      <file name="/" timestamp="1588880623688">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/GitLab/extractinator/src/incident_migrator.py" timestamp="1589213799005">
         <mark key="'" line="147" column="12" />
@@ -183,6 +166,13 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="41" column="0" />
       </file>
+      <file name="$USER_HOME$/GitHub/data-db-loader/sls_config/playground.json" timestamp="1588958283084">
+        <mark key="'" line="34" column="1" />
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="^" line="34" column="35" />
+        <mark key="." line="36" column="0" />
+      </file>
       <file name="$USER_HOME$/GitHub/data-db-loader/sls_config/stg.json" timestamp="1588958308327">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="36" column="0" />
@@ -196,6 +186,11 @@
         <mark key="]" line="291" column="34" />
         <mark key="." line="291" column="33" />
         <mark key="^" line="291" column="34" />
+      </file>
+      <file name="$USER_HOME$/GitHub/data-db-loader/Dokerfile.Eric.Test.py37" timestamp="1588949812533">
+        <mark key="[" line="0" column="20" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -303,44 +298,44 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBmIiIpCg==</text>
+      <register name="&quot;" type="4">
+        <text>Raw Counts Query:</text>
       </register>
       <register name="-" type="4">
-        <text>--------------------------------------------</text>
+        <text>Raw Counts Query:</text>
       </register>
       <register name="/" type="4">
         <text>FROM</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBmIntsZW4odGVhbV9zdGF0cy5wYWdpbmdfc3RhdHMpfSBVc2VycyBQYWdlZDpcbi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTE9XRVIoY3VycmVudF9waGFzZSkgIT0gJ3RyaWdnZXJlZCcK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBmIiIpCg==</text>
+        <text encoding="base64">IyUlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZiJ7bGVuKHRlYW1fc3RhdHMuaW5jaWRlbnRzKX0gSW5jaWRlbnRzOlxuLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChpbmNpZGVudHMpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChwYWdpbmdzKQo=</text>
+        <text encoding="base64">CiMgVGhpcyBpcyBhIHZhbGlkYXRpb24gY2hlY2sgdGhhdCBkb2VzIG5vdCBuZWVkIHRvIGJlIHJ1biB3aXRoIGV2ZXJ5IHVzZSBvZiB0aGUgbm90ZWJvb2sgdW5sZXNzIHdlIHN1c3BlY3QgdGhlIGRhdGEgZm9yCiMgc29tZSByZWFzb24uIEl0IHRha2VzIGEgbG9uZyB0aW1lIHNvIHRlc3QgYSBzbWFsbCB3aW5kb3cgYXQgYSB0aW1lIGlmIHBvc3NpYmxlLgojIHByaW50KCJWYWxpZGF0aW5nIGRpZmZzLi4uIikKIyByZXN1bHQsIGZhbHNlX3Bvc2l0aXZlcyA9IHZlcmlmeV9pbmNpZGVudHMocHJvZF9kYXBfZGJfY29ubiwgcHJvZF9jb3JlX2RiX2Nvbm4sIG1pc3NpbmdfZGYpCiMgaWYgcmVzdWx0OgojICAgICBwcmludCgiUkVTVUxUUyBWQUxJREFURUQiKQojIGVsc2U6CiMgICAgIHByaW50KCJDb3VsZCBub3QgdmVyaWZ5IG1pc3NpbmcgaW5jaWRlbnQgZGF0YSIpCiMgICAgIHByaW50KGZhbHNlX3Bvc2l0aXZlcyk=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCh0ZWFtX3N0YXRzLnBhZ2luZ19zdGF0cykK</text>
+        <text encoding="base64">LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0ZWFtX3N0YXRzID0gcHJvY2Vzc190ZWFtX3N0YXRzKGdldF90ZWFtX2RmKGRmLCB0KQo=</text>
+        <text encoding="base64">UmVwIE9yZyBJbmNpZGVudCBRdWVyeQo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CgpkZWY=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHByaW50KGYiIiJcbi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">e3F1ZXJ5fSIiIikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRhdF9kZiA9IGdldF90ZWFtX2RmKGRmLCAnRGF0YSBBbmFseXRpY3MnKQo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBxdWVyeQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

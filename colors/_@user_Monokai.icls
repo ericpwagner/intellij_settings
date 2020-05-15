@@ -4,18 +4,18 @@
     <property name="created">2018-07-30T08:14:20</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2018.1.4.0.0</property>
-    <property name="modified">2020-05-05T13:03:34</property>
+    <property name="modified">2020-05-13T21:49:26</property>
     <property name="originalScheme">Monokai</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
-  <option name="CONSOLE_FONT_SIZE" value="9" />
+  <option name="CONSOLE_FONT_SIZE" value="14" />
   <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <colors>
     <option name="CARET_COLOR" value="de0052" />
     <option name="CARET_ROW_COLOR" value="b3e40" />
     <option name="CONSOLE_BACKGROUND_KEY" value="1b1b1b" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="30374a" />
-    <option name="GUTTER_BACKGROUND" value="38653a" />
+    <option name="GUTTER_BACKGROUND" value="1f566e" />
     <option name="INDENT_GUIDE" value="3b3a32" />
     <option name="INFORMATION_HINT" value="515114" />
     <option name="LINE_NUMBERS_COLOR" value="f8f8f2" />
@@ -228,7 +228,7 @@
     </option>
     <option name="CONSOLE_CYAN_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="6b8b8" />
+        <option name="FOREGROUND" value="6e6e6" />
       </value>
     </option>
     <option name="CONSOLE_ERROR_OUTPUT">
@@ -273,7 +273,7 @@
     </option>
     <option name="CONSOLE_YELLOW_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="754200" />
+        <option name="FOREGROUND" value="e38d00" />
       </value>
     </option>
     <option name="CSS.COMMENT">
@@ -25319,7 +25319,6 @@
         <option name="FOREGROUND" value="f92672" />
       </value>
     </option>
-    <option name="PY.PREDEFINED_DEFINITION" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
     <option name="PY.PREDEFINED_USAGE">
       <value>
         <option name="FOREGROUND" value="66d9ef" />
