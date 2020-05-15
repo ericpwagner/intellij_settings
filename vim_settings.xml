@@ -96,12 +96,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/6_month_teams_analysis.py" timestamp="1589514899802">
-        <mark key="b" line="43" column="60" />
-        <mark key="[" line="135" column="43" />
-        <mark key="]" line="135" column="44" />
-        <mark key="^" line="135" column="44" />
-        <mark key="." line="135" column="43" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/6_month_teams_analysis.py" timestamp="1589561168442">
+        <mark key="b" line="44" column="60" />
+        <mark key="[" line="141" column="24" />
+        <mark key="]" line="141" column="24" />
+        <mark key="." line="141" column="24" />
+        <mark key="^" line="141" column="25" />
       </file>
       <file name="$USER_HOME$/GitHub/data-db-loader/serverless.yml" timestamp="1588968564098">
         <mark key="'" line="68" column="37" />
@@ -116,7 +116,7 @@
         <mark key="." line="2" column="8" />
         <mark key="^" line="2" column="9" />
       </file>
-      <file name="/Python Console" timestamp="1589515387042">
+      <file name="/Python Console" timestamp="1589561526063">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="41" column="6" />
         <mark key="^" line="41" column="6" />
@@ -132,11 +132,11 @@
         <mark key="^" line="324" column="4" />
         <mark key="." line="472" column="0" />
       </file>
-      <file name="$USER_HOME$/GitHub/data_misc/analysis_misc/compare_sabre_reports.py" timestamp="1589492355978" />
+      <file name="$USER_HOME$/GitHub/data_misc/analysis_misc/compare_sabre_reports.py" timestamp="1589559293144" />
       <file name="/a.dummy" timestamp="1589486864196">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736_resolves.ipynb" timestamp="1589427523064" />
+      <file name="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736_resolves.ipynb" timestamp="1589559526142" />
       <file name="$USER_HOME$/GitHub/data-db-loader/db_loader/entry/adhoc_kinesis_lambda.py" timestamp="1589302919909">
         <mark key="'" line="153" column="8" />
         <mark key="[" line="97" column="101" />
@@ -300,11 +300,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByb2RfY291bnQ6IGludAo=</text>
+      <register name="&quot;" type="4">
+        <text>dict_to_write</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICBwcm9kX2NvdW50ID0g</text>
+        <text>dict_to_write</text>
       </register>
       <register name="/" type="4">
         <text>FROM</text>
@@ -313,31 +313,31 @@
         <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZiJfX19fX19fX19fX19fX19fX19fX19fX19fX19cbiIKICAgICAgICAgICAgICAgICAgZiIgICB7cC51c2VybmFtZX1cbiIKICAgICAgICAgICAgICAgICAgZiItLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS1cbiIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByb2RfY291bnQ6IGludAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZGljdF90b193cml0ZSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGljdF90b193cml0ZSA9IGRpY3QoaW5jaWRlbnQ9aS5kaXNwbGF5X25hbWUsIGNvdW50PWkuY291bnQpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByb2RfY291bnQ6IGludAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZiJUSElTOiB7aS5kaXNwbGF5X25hbWV9IikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByb2RfY291bnQ6IGludAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJ0ZXN0IikK</text>
+        <text encoding="base64">ICAgIHByb2RfY291bnQ6IGludAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgZiItLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS1cbiIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZiIiKQo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpbmNpZGVudHMgPSBzb3J0ZWQodGVhbV9zdGF0cy5pbmNpZGVudHMsIGtleT1sYW1iZGEgeDogeC5jb3VudCwgcmV2ZXJzZT1UcnVlKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KCJ0ZXN0IikK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
