@@ -4,7 +4,7 @@
     <property name="created">2018-07-30T08:14:20</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2018.1.4.0.0</property>
-    <property name="modified">2020-05-14T21:22:07</property>
+    <property name="modified">2020-05-14T21:58:56</property>
     <property name="originalScheme">Monokai</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
@@ -25104,9 +25104,7 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="ffffff" />
-        <option name="BACKGROUND" value="1c3547" />
-        <option name="EFFECT_COLOR" value="f8a915" />
+        <option name="EFFECT_COLOR" value="f800f5" />
       </value>
     </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
