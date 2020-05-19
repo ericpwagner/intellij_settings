@@ -132,11 +132,14 @@
         <mark key="^" line="324" column="4" />
         <mark key="." line="472" column="0" />
       </file>
-      <file name="$USER_HOME$/GitHub/data_misc/analysis_misc/compare_sabre_reports.py" timestamp="1589559293144" />
       <file name="/a.dummy" timestamp="1589486864196">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736_resolves.ipynb" timestamp="1589842087200" />
+      <file name="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736_resolves.ipynb" timestamp="1589906680147">
+        <mark key="[" line="374" column="8" />
+        <mark key="]" line="374" column="8" />
+        <mark key="." line="374" column="0" />
+      </file>
       <file name="$USER_HOME$/GitHub/data-db-loader/db_loader/entry/adhoc_kinesis_lambda.py" timestamp="1589565435209">
         <mark key="'" line="151" column="8" />
         <mark key="[" line="45" column="0" />
@@ -158,7 +161,7 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="/" timestamp="1589562635687">
+      <file name="/" timestamp="1589906915704">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/GitLab/extractinator/src/incident_migrator.py" timestamp="1589213799005">
@@ -297,10 +300,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>dict_to_write</text>
+        <text>print(f&quot;CSV file exported to {path}&quot;)</text>
       </register>
       <register name="/" type="4">
         <text>FROM</text>
@@ -309,31 +312,31 @@
         <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZiJfX19fX19fX19fX19fX19fX19fX19fX19fX19cbiIKICAgICAgICAgICAgICAgICAgZiIgICB7cC51c2VybmFtZX1cbiIKICAgICAgICAgICAgICAgICAgZiItLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS1cbiIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Pj4+Pj4+PiA3MmJmOTNjLi4uIExhbWJkYSBmb3IgYWQgaG9jIGJhY2tmaWxscyB2aWEgS2luZXNpcwo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZiItZGV0YWlscy9iYWNrZmlsbF9kYXRlPXt0b2RheX0vc3RnLnNwbHVuay1zc2Mtdm8tc3RhZ2luZy52aWN0b3JvcHMubmV0LSIgXAo=</text>
+        <text encoding="base64">Pj4+Pj4+PiA3MmJmOTNjLi4uIExhbWJkYSBmb3IgYWQgaG9jIGJhY2tmaWxscyB2aWEgS2luZXNpcwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCBzM19wYXRoWzotb2Zmc2V0XT09ZiJmZWVkPWluY2lkZW50X3YxL2RhdGFsYWtlX3JlY2VpdmVkX2F0PTIwMjAtMDQtMTYvMjAvYmFja2ZpbGxfaWQ9U0UtNzM2LXJlc29sdmVzLXdpdGgiIFwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZiItZGV0YWlscy9iYWNrZmlsbF9kYXRlPXt0b2RheX0vc3RnLnNwbHVuay1zc2Mtdm8tc3RhZ2luZy52aWN0b3JvcHMubmV0LSIgXAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAgIGFzc2VydCBzM19wYXRoWzotb2Zmc2V0XT09ZiJmZWVkPWluY2lkZW50X3YxL2RhdGFsYWtlX3JlY2VpdmVkX2F0PTIwMjAtMDQtMTYvMjAvYmFja2ZpbGxfaWQ9U0UtNzM2LXJlc29sdmVzLXdpdGgiIFwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY29udGV4dD1jb250ZXh0X2RpY3QpCg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZ1bmNfbG9nID0gZ2V0X3N0cnVjdGxvZygpLmJpbmQoa2luZXNpc19ldmVudD1ldmVudCwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY29udGV4dD1jb250ZXh0X2RpY3QpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnRleHRfZGljdCA9IGRpcihjb250ZXh0KQo=</text>
+        <text encoding="base64">ICAgIGZ1bmNfbG9nID0gZ2V0X3N0cnVjdGxvZygpLmJpbmQoa2luZXNpc19ldmVudD1ldmVudCwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
