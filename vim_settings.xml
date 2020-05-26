@@ -184,6 +184,9 @@
         <mark key="." line="34" column="22" />
         <mark key="^" line="34" column="23" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.sql" timestamp="1590506580150">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/GitLab/extractinator/src/queries.py" timestamp="1589218594760">
         <mark key="'" line="186" column="0" />
         <mark key="[" line="290" column="7" />
