@@ -97,11 +97,10 @@
         <mark key="^" line="41" column="6" />
         <mark key="." line="41" column="6" />
       </file>
-      <file name="/fragment.py" timestamp="1589490187406">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/e52d02ea-9964-4371-9ad4-6cfb5a6250ec/console_1.sql" timestamp="1590523134294">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/a.dummy" timestamp="1589486864196">
-        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/console" timestamp="1590521963011">
         <mark key="[" line="0" column="0" />
@@ -133,9 +132,9 @@
       <file name="/dumpDataPreview" timestamp="1590517693460">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c8741a45-206f-4253-89be-6cc74f6d936f/console.sql" timestamp="1590520214024">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c8741a45-206f-4253-89be-6cc74f6d936f/console.sql" timestamp="1590523183429">
         <mark key="'" line="32" column="0" />
-        <mark key="[" line="20" column="7" />
+        <mark key="[" line="29" column="0" />
         <mark key="]" line="20" column="7" />
         <mark key="." line="20" column="7" />
         <mark key="^" line="36" column="27" />
@@ -170,6 +169,9 @@
         <mark key="." line="45" column="0" />
       </file>
       <file name="/" timestamp="1589987756295">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/console_1" timestamp="1590522596044">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.json" timestamp="1590516720721" />
@@ -287,10 +289,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text />
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>FROM</text>
