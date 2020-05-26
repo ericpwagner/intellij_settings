@@ -182,10 +182,11 @@
         <mark key="." line="291" column="33" />
         <mark key="^" line="291" column="34" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c8741a45-206f-4253-89be-6cc74f6d936f/console.sql" timestamp="1590512982290">
-        <mark key="[" line="15" column="12" />
-        <mark key="]" line="17" column="16" />
-        <mark key="." line="17" column="16" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c8741a45-206f-4253-89be-6cc74f6d936f/console.sql" timestamp="1590513507388">
+        <mark key="[" line="30" column="18" />
+        <mark key="]" line="30" column="18" />
+        <mark key="." line="30" column="18" />
+        <mark key="^" line="29" column="19" />
       </file>
     </filemarks>
     <jumps>
@@ -293,11 +294,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text>)</text>
+      <register name="&quot;" type="4">
+        <text>20659</text>
       </register>
       <register name="-" type="4">
-        <text>incident_phase !=  'resolved'</text>
+        <text>20659</text>
       </register>
       <register name="/" type="4">
         <text>FROM</text>
@@ -306,31 +307,31 @@
         <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZiJfX19fX19fX19fX19fX19fX19fX19fX19fX19cbiIKICAgICAgICAgICAgICAgICAgZiIgICB7cC51c2VybmFtZX1cbiIKICAgICAgICAgICAgICAgICAgZiItLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS1cbiIK</text>
       </register>
       <register name="1" type="2">
-        <text>)</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">d2l0aCByZXMgYXMgKAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChmIkNTViBmaWxlIGV4cG9ydGVkIHRvIHtwYXRofSIpCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGVsaWYgcmVwX3Jlc3VsdCAhPSBhY19yZXN1bHQ6Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChmIntvcmdfaWR9IC0ge2luY2lkZW50X2lkfSAtIHJlcDoge3JlcF9yZXN1bHR9IC0tIGFjOiB7YWNfcmVzdWx0fSIpCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZiIgRkFMU0UgUE9TSVRJVkUgRk9VTkQ6IHtyb3cub3JnX2lkfS17cm93LmluY2lkZW50X2lkfSIpCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text>)</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">d2l0aCByZXMgYXMgKAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludChmIkNTViBmaWxlIGV4cG9ydGVkIHRvIHtwYXRofSIpCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGVsaWYgcmVwX3Jlc3VsdCAhPSBhY19yZXN1bHQ6Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludChmIntvcmdfaWR9IC0ge2luY2lkZW50X2lkfSAtIHJlcDoge3JlcF9yZXN1bHR9IC0tIGFjOiB7YWNfcmVzdWx0fSIpCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZiIgRkFMU0UgUE9TSVRJVkUgRk9VTkQ6IHtyb3cub3JnX2lkfS17cm93LmluY2lkZW50X2lkfSIpCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
