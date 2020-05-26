@@ -91,7 +91,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1589407383824">
+      <file name="/Dummy.txt" timestamp="1590509485198">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -102,13 +102,6 @@
         <mark key="]" line="141" column="24" />
         <mark key="." line="141" column="24" />
         <mark key="^" line="141" column="25" />
-      </file>
-      <file name="$USER_HOME$/GitHub/data-db-loader/serverless.yml" timestamp="1588968564098">
-        <mark key="'" line="68" column="37" />
-        <mark key="[" line="316" column="18" />
-        <mark key="]" line="320" column="19" />
-        <mark key="^" line="320" column="19" />
-        <mark key="." line="320" column="18" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_61.py" timestamp="1589486795761">
         <mark key="[" line="7" column="20" />
@@ -133,6 +126,9 @@
       <file name="/a.dummy" timestamp="1589486864196">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/console" timestamp="1590509540003">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736_resolves.ipynb" timestamp="1589988181877">
         <mark key="[" line="374" column="8" />
         <mark key="]" line="374" column="8" />
@@ -148,12 +144,6 @@
       <file name="$USER_HOME$/GitHub/data-db-loader/tools/aws_glue/config/incident_raw/table_input.json" timestamp="1589575706515">
         <mark key="[" line="8" column="20" />
       </file>
-      <file name="$USER_HOME$/GitHub/data-db-loader/.env" timestamp="1588959942874">
-        <mark key="[" line="0" column="28" />
-        <mark key="]" line="5" column="39" />
-        <mark key="." line="5" column="38" />
-        <mark key="^" line="5" column="39" />
-      </file>
       <file name="$USER_HOME$/GitHub/data_misc/analysis_misc/docker-compose.yml" timestamp="1589208614043">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -164,6 +154,9 @@
       </file>
       <file name="$USER_HOME$/GitLab/extractinator/src/incident_migrator.py" timestamp="1589213799005">
         <mark key="'" line="147" column="12" />
+      </file>
+      <file name="/a.sql" timestamp="1590509516532">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/GitHub/data-db-loader/tools/aws_glue/config/incident_raw/stg.json" timestamp="1589575702562">
         <mark key="[" line="12" column="34" />
