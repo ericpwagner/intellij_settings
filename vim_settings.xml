@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>77a97d606ce9d2e8ae579c3f72202441</entry>
         <entry>5e3abbe43b572b6a439d649c594725ec</entry>
         <entry encoding="base64">b25seS4mcXVvdDsmI3hkOw==</entry>
         <entry>What\ follows\ is\ an\ absurdly\ long\ entity_display_name:</entry>
@@ -27,6 +26,7 @@
         <entry>get_users</entry>
         <entry>select</entry>
         <entry>FROM</entry>
+        <entry encoding="base64">XDx2YWx1ZVw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3RyaWdnZXJlZC9hY2tlZA==</entry>
@@ -132,12 +132,12 @@
       <file name="/dumpDataPreview" timestamp="1590517693460">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c8741a45-206f-4253-89be-6cc74f6d936f/console.sql" timestamp="1590523183429">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c8741a45-206f-4253-89be-6cc74f6d936f/console.sql" timestamp="1590592293687">
         <mark key="'" line="32" column="0" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="20" column="7" />
-        <mark key="." line="20" column="7" />
-        <mark key="^" line="36" column="27" />
+        <mark key="[" line="39" column="20" />
+        <mark key="]" line="39" column="20" />
+        <mark key="." line="39" column="20" />
+        <mark key="^" line="38" column="20" />
       </file>
       <file name="/Dummy.txt" timestamp="1590521956315">
         <mark key="[" line="0" column="0" />
@@ -156,10 +156,12 @@
         <mark key="]" line="394" column="45" />
         <mark key="." line="394" column="0" />
       </file>
-      <file name="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736_resolves.ipynb" timestamp="1589988181877">
-        <mark key="[" line="374" column="8" />
-        <mark key="]" line="374" column="8" />
-        <mark key="." line="374" column="0" />
+      <file name="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736_resolves.ipynb" timestamp="1590592319799">
+        <mark key="'" line="47" column="30" />
+        <mark key="[" line="42" column="32" />
+        <mark key="]" line="42" column="32" />
+        <mark key="." line="42" column="31" />
+        <mark key="^" line="42" column="32" />
       </file>
       <file name="$USER_HOME$/GitHub/data-db-loader/db_loader/entry/adhoc_kinesis_lambda.py" timestamp="1589565435209">
         <mark key="'" line="151" column="8" />
@@ -278,27 +280,30 @@
       <jump line="162" column="0" filename="$USER_HOME$/GitLab/extractinator/src/queries.py" />
       <jump line="186" column="0" filename="$USER_HOME$/GitLab/extractinator/src/queries.py" />
       <jump line="219" column="7" filename="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736-acks.ipynb" />
-      <jump line="47" column="0" filename="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736_resolves.ipynb" />
       <jump line="316" column="0" filename="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736-acks.ipynb" />
       <jump line="31" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/c8741a45-206f-4253-89be-6cc74f6d936f/console.sql" />
       <jump line="28" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/c8741a45-206f-4253-89be-6cc74f6d936f/console.sql" />
       <jump line="27" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/c8741a45-206f-4253-89be-6cc74f6d936f/console.sql" />
       <jump line="32" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/c8741a45-206f-4253-89be-6cc74f6d936f/console.sql" />
+      <jump line="47" column="30" filename="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736_resolves.ipynb" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text />
+        <text>36502</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>36502</text>
       </register>
       <register name="/" type="4">
-        <text>FROM</text>
+        <text encoding="base64">XDx2YWx1ZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZiJfX19fX19fX19fX19fX19fX19fX19fX19fX19cbiIKICAgICAgICAgICAgICAgICAgZiIgICB7cC51c2VybmFtZX1cbiIKICAgICAgICAgICAgICAgICAgZiItLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS1cbiIK</text>
+        <text>select *
+from fact_alert_v1
+where org_id = 1
+    and incident_id = 36502</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CnNlbGVjdCAqIGZyb20gZmFjdF9pbmNpZGVudF92MQp3aGVyZSBvcmdfaWQgPSA0NTQ2CmFuZCBpbmNpZGVudF9pZCA9IDU4ODY1Cm9yZGVyIGJ5IGZpcnN0X2FsZXJ0X2F0IGRlc2MKCnNlbGVjdCAqCmZyb20gZmFjdF9hbGVydF92MQp3aGVyZSBvcmdfaWQgPSA0NTQ2CiAgICBhbmQgaW5jaWRlbnRfaWQgPSA1ODg2NQo=</text>
@@ -334,12 +339,12 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>FROM</last-search>
+      <last-search encoding="base64">XDx2YWx1ZVw+</last-search>
       <last-offset />
-      <last-pattern>FROM</last-pattern>
+      <last-pattern encoding="base64">XDx2YWx1ZVw+</last-pattern>
       <last-replace>\\}</last-replace>
       <last-substitute>}</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
