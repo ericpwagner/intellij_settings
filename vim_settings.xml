@@ -105,13 +105,11 @@
         <mark key="^" line="41" column="6" />
         <mark key="." line="41" column="6" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/e52d02ea-9964-4371-9ad4-6cfb5a6250ec/console_1.sql" timestamp="1590523134294">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="/console" timestamp="1590692104912">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736-acks.ipynb" timestamp="1590695346426">
+        <mark key="[" line="217" column="25" />
       </file>
       <file name="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736_resolves.ipynb" timestamp="1590694403467" />
       <file name="/" timestamp="1590679960416">
