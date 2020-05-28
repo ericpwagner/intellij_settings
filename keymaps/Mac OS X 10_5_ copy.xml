@@ -2,6 +2,9 @@
   <action id="ActivateJSONFormatterToolWindow">
     <keyboard-shortcut first-keystroke="ctrl meta j" />
   </action>
+  <action id="ActivateJSONViewerToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl meta j" />
+  </action>
   <action id="ActivatePythonConsoleToolWindow">
     <keyboard-shortcut first-keystroke="meta alt c" />
   </action>
