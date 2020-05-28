@@ -120,12 +120,12 @@
       <file name="/dumpDataPreview" timestamp="1590517693460">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c8741a45-206f-4253-89be-6cc74f6d936f/console.sql" timestamp="1590592293687">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c8741a45-206f-4253-89be-6cc74f6d936f/console.sql" timestamp="1590674265628">
         <mark key="'" line="32" column="0" />
-        <mark key="[" line="39" column="20" />
-        <mark key="]" line="39" column="20" />
-        <mark key="." line="39" column="20" />
-        <mark key="^" line="38" column="20" />
+        <mark key="[" line="34" column="27" />
+        <mark key="]" line="34" column="22" />
+        <mark key="." line="34" column="22" />
+        <mark key="^" line="33" column="19" />
       </file>
       <file name="/textView" timestamp="1590602522900">
         <mark key="[" line="0" column="0" />
