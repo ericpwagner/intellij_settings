@@ -4,7 +4,7 @@
     <property name="created">2018-07-30T08:14:20</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2018.1.4.0.0</property>
-    <property name="modified">2020-05-19T10:49:07</property>
+    <property name="modified">2020-05-28T09:34:11</property>
     <property name="originalScheme">Monokai</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
@@ -599,10 +599,8 @@
     </option>
     <option name="ERRORS_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="412f2f" />
+        <option name="BACKGROUND" value="78060a" />
         <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_COLOR" value="ff0c07" />
-        <option name="ERROR_STRIPE_COLOR" value="cf5b56" />
       </value>
     </option>
     <option name="FOLLOWED_HYPERLINK_ATTRIBUTES">

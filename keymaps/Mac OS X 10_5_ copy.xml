@@ -27,6 +27,9 @@
   </action>
   <action id="IntroduceConstant" />
   <action id="IntroduceVariable" />
+  <action id="Jdbc.OpenConsole.New.Generate">
+    <keyboard-shortcut first-keystroke="shift ctrl slash" />
+  </action>
   <action id="Jdbc.RunSqlScript" />
   <action id="JupyterClearOutputsAction">
     <keyboard-shortcut first-keystroke="shift ctrl x" />
