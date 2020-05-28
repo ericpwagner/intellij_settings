@@ -94,7 +94,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1590680427279">
+      <file name="/Dummy.txt" timestamp="1590694626803">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -113,12 +113,7 @@
       <file name="/console" timestamp="1590692104912">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736_resolves.ipynb" timestamp="1590693465574">
-        <mark key="[" line="227" column="57" />
-        <mark key="]" line="442" column="14" />
-        <mark key="^" line="442" column="14" />
-        <mark key="." line="442" column="13" />
-      </file>
+      <file name="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736_resolves.ipynb" timestamp="1590694403467" />
       <file name="/" timestamp="1590679960416">
         <mark key="[" line="0" column="0" />
       </file>
