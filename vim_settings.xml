@@ -87,6 +87,12 @@
         <text>ctrl pressed T</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed E</text>
       </shortcut-conflict>
     </shortcut-conflicts>
@@ -94,7 +100,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1590694626803">
+      <file name="/Dummy.txt" timestamp="1590699303153">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -111,7 +117,6 @@
       <file name="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736-acks.ipynb" timestamp="1590695346426">
         <mark key="[" line="217" column="25" />
       </file>
-      <file name="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736_resolves.ipynb" timestamp="1590694403467" />
       <file name="/" timestamp="1590679960416">
         <mark key="[" line="0" column="0" />
       </file>
@@ -134,15 +139,15 @@
       <file name="/console_2" timestamp="1590602444151">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.json" timestamp="1590526290590">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c8741a45-206f-4253-89be-6cc74f6d936f/console.sql" timestamp="1590674265628">
         <mark key="'" line="32" column="0" />
         <mark key="[" line="34" column="27" />
         <mark key="]" line="34" column="22" />
         <mark key="." line="34" column="22" />
         <mark key="^" line="33" column="19" />
+      </file>
+      <file name="/Dummy.json" timestamp="1590699491770">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/textView" timestamp="1590602522900">
         <mark key="[" line="0" column="0" />
