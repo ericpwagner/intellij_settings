@@ -94,6 +94,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1590680427279">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="/Python Console" timestamp="1590675667088">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="41" column="6" />
@@ -105,10 +110,35 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/console" timestamp="1590676494160">
+      <file name="/console" timestamp="1590688292076">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736_resolves.ipynb" timestamp="1590689048334">
+        <mark key="[" line="441" column="15" />
+        <mark key="]" line="441" column="14" />
+        <mark key="^" line="441" column="14" />
+        <mark key="." line="441" column="13" />
+      </file>
+      <file name="/" timestamp="1590679960416">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c8741a45-206f-4253-89be-6cc74f6d936f/console_2.sql" timestamp="1590602448160">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/console_3" timestamp="1590602557010">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.sql" timestamp="1590677431181">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/console_4" timestamp="1590602560567">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/console_1" timestamp="1590688292504">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/console_2" timestamp="1590602444151">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.sql" timestamp="1590511308345">
@@ -130,32 +160,6 @@
       <file name="/textView" timestamp="1590602522900">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1590680427279">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/af5cf58b-c890-4c1b-9baa-8de1f2c99b95/console_1.sql" timestamp="1590677316640" />
-      <file name="/" timestamp="1590679960416">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c8741a45-206f-4253-89be-6cc74f6d936f/console_2.sql" timestamp="1590602448160">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/console_3" timestamp="1590602557010">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/console_4" timestamp="1590602560567">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/console_1" timestamp="1590677294209">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/console_2" timestamp="1590602444151">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.json" timestamp="1590516720721" />
     </filemarks>
     <jumps>
       <jump line="1042" column="4" filename="$USER_HOME$/GitLab/jmeter/tests/data_analytics_team/dat_verbose_high_volume_playground.jmx" />
