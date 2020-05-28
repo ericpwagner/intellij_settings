@@ -89,6 +89,9 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed E</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed BACK_SLASH</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
@@ -111,7 +114,7 @@
       <file name="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736-acks.ipynb" timestamp="1590695346426">
         <mark key="[" line="217" column="25" />
       </file>
-      <file name="/" timestamp="1590679960416">
+      <file name="/" timestamp="1590701559242">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c8741a45-206f-4253-89be-6cc74f6d936f/console_2.sql" timestamp="1590602448160">
