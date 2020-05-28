@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>77a97d606ce9d2e8ae579c3f72202441</entry>
         <entry>5e3abbe43b572b6a439d649c594725ec</entry>
         <entry encoding="base64">b25seS4mcXVvdDsmI3hkOw==</entry>
         <entry>What\ follows\ is\ an\ absurdly\ long\ entity_display_name:</entry>
@@ -27,6 +26,7 @@
         <entry>get_users</entry>
         <entry>select</entry>
         <entry>FROM</entry>
+        <entry encoding="base64">XDx2YWx1ZVw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3RyaWdnZXJlZC9hY2tlZA==</entry>
@@ -91,78 +91,25 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1589407383824">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/6_month_teams_analysis.py" timestamp="1589561168442">
-        <mark key="b" line="44" column="60" />
-        <mark key="[" line="141" column="24" />
-        <mark key="]" line="141" column="24" />
-        <mark key="." line="141" column="24" />
-        <mark key="^" line="141" column="25" />
-      </file>
-      <file name="$USER_HOME$/GitHub/data-db-loader/serverless.yml" timestamp="1588968564098">
-        <mark key="'" line="68" column="37" />
-        <mark key="[" line="316" column="18" />
-        <mark key="]" line="320" column="19" />
-        <mark key="^" line="320" column="19" />
-        <mark key="." line="320" column="18" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_61.py" timestamp="1589486795761">
-        <mark key="[" line="7" column="20" />
-        <mark key="]" line="2" column="9" />
-        <mark key="." line="2" column="8" />
-        <mark key="^" line="2" column="9" />
-      </file>
       <file name="/Python Console" timestamp="1589561526063">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="41" column="6" />
         <mark key="^" line="41" column="6" />
         <mark key="." line="41" column="6" />
       </file>
-      <file name="/fragment.py" timestamp="1589490187406">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/e52d02ea-9964-4371-9ad4-6cfb5a6250ec/console_1.sql" timestamp="1590523134294">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736-acks.ipynb" timestamp="1589320189299">
-        <mark key="'" line="316" column="0" />
-        <mark key="[" line="353" column="4" />
-        <mark key="]" line="472" column="0" />
-        <mark key="^" line="324" column="4" />
-        <mark key="." line="472" column="0" />
-      </file>
-      <file name="$USER_HOME$/GitHub/data_misc/analysis_misc/compare_sabre_reports.py" timestamp="1589559293144" />
-      <file name="/a.dummy" timestamp="1589486864196">
+      <file name="/console" timestamp="1590602131711">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736_resolves.ipynb" timestamp="1589559526142" />
-      <file name="$USER_HOME$/GitHub/data-db-loader/db_loader/entry/adhoc_kinesis_lambda.py" timestamp="1589565435209">
-        <mark key="'" line="151" column="8" />
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="^" line="45" column="18" />
-        <mark key="." line="45" column="0" />
       </file>
       <file name="$USER_HOME$/GitHub/data-db-loader/tools/aws_glue/config/incident_raw/table_input.json" timestamp="1589575706515">
         <mark key="[" line="8" column="20" />
       </file>
-      <file name="$USER_HOME$/GitHub/data-db-loader/.env" timestamp="1588959942874">
-        <mark key="[" line="0" column="28" />
-        <mark key="]" line="5" column="39" />
-        <mark key="." line="5" column="38" />
-        <mark key="^" line="5" column="39" />
-      </file>
-      <file name="$USER_HOME$/GitHub/data_misc/analysis_misc/docker-compose.yml" timestamp="1589208614043">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-      </file>
-      <file name="/" timestamp="1589562635687">
+      <file name="/a.sql" timestamp="1590602106218">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/GitLab/extractinator/src/incident_migrator.py" timestamp="1589213799005">
-        <mark key="'" line="147" column="12" />
       </file>
       <file name="$USER_HOME$/GitHub/data-db-loader/tools/aws_glue/config/incident_raw/stg.json" timestamp="1589575702562">
         <mark key="[" line="12" column="34" />
@@ -176,6 +123,60 @@
         <mark key="." line="95" column="0" />
         <mark key="^" line="131" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.sql" timestamp="1590511308345">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.json" timestamp="1590526290590">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/dumpDataPreview" timestamp="1590517693460">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c8741a45-206f-4253-89be-6cc74f6d936f/console.sql" timestamp="1590592293687">
+        <mark key="'" line="32" column="0" />
+        <mark key="[" line="39" column="20" />
+        <mark key="]" line="39" column="20" />
+        <mark key="." line="39" column="20" />
+        <mark key="^" line="38" column="20" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1590602106227">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/6_month_teams_analysis.py" timestamp="1589561168442">
+        <mark key="b" line="44" column="60" />
+        <mark key="[" line="141" column="24" />
+        <mark key="]" line="141" column="24" />
+        <mark key="." line="141" column="24" />
+        <mark key="^" line="141" column="25" />
+      </file>
+      <file name="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736-acks.ipynb" timestamp="1589993155478">
+        <mark key="[" line="373" column="37" />
+        <mark key="]" line="394" column="45" />
+        <mark key="." line="394" column="0" />
+      </file>
+      <file name="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736_resolves.ipynb" timestamp="1590592319799">
+        <mark key="'" line="47" column="30" />
+        <mark key="[" line="42" column="32" />
+        <mark key="]" line="42" column="32" />
+        <mark key="." line="42" column="31" />
+        <mark key="^" line="42" column="32" />
+      </file>
+      <file name="$USER_HOME$/GitHub/data-db-loader/db_loader/entry/adhoc_kinesis_lambda.py" timestamp="1589565435209">
+        <mark key="'" line="151" column="8" />
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="^" line="45" column="18" />
+        <mark key="." line="45" column="0" />
+      </file>
+      <file name="/" timestamp="1589987756295">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/console_1" timestamp="1590522596044">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.json" timestamp="1590516720721" />
       <file name="$USER_HOME$/GitHub/data-db-loader/Makefile" timestamp="1589573290447">
         <mark key="'" line="34" column="0" />
         <mark key="[" line="18" column="55" />
@@ -183,19 +184,8 @@
         <mark key="." line="34" column="22" />
         <mark key="^" line="34" column="23" />
       </file>
-      <file name="$USER_HOME$/GitLab/extractinator/src/queries.py" timestamp="1589218594760">
-        <mark key="'" line="186" column="0" />
-        <mark key="[" line="290" column="7" />
-        <mark key="]" line="291" column="34" />
-        <mark key="." line="291" column="33" />
-        <mark key="^" line="291" column="34" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="802" column="190" filename="$USER_HOME$/GitLab/jmeter/tests/data_analytics_team/dat_verbose_high_volume_playground.jmx" />
-      <jump line="1969" column="192" filename="$USER_HOME$/GitLab/jmeter/tests/data_analytics_team/dat_verbose_high_volume_playground.jmx" />
-      <jump line="1466" column="22" filename="$USER_HOME$/GitLab/jmeter/tests/data_analytics_team/dat_verbose_high_volume_playground.jmx" />
-      <jump line="117" column="22" filename="$USER_HOME$/GitLab/jmeter/tests/data_analytics_team/dat_verbose_high_volume_playground.jmx" />
       <jump line="792" column="22" filename="$USER_HOME$/GitLab/jmeter/tests/data_analytics_team/dat_verbose_high_volume_playground.jmx" />
       <jump line="1042" column="4" filename="$USER_HOME$/GitLab/jmeter/tests/data_analytics_team/dat_verbose_high_volume_playground.jmx" />
       <jump line="524" column="12" filename="$USER_HOME$/GitLab/jmeter/tests/data_analytics_team/dat_verbose_high_volume_playground.jmx" />
@@ -290,50 +280,57 @@
       <jump line="162" column="0" filename="$USER_HOME$/GitLab/extractinator/src/queries.py" />
       <jump line="186" column="0" filename="$USER_HOME$/GitLab/extractinator/src/queries.py" />
       <jump line="219" column="7" filename="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736-acks.ipynb" />
-      <jump line="47" column="0" filename="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736_resolves.ipynb" />
       <jump line="316" column="0" filename="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736-acks.ipynb" />
+      <jump line="31" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/c8741a45-206f-4253-89be-6cc74f6d936f/console.sql" />
+      <jump line="28" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/c8741a45-206f-4253-89be-6cc74f6d936f/console.sql" />
+      <jump line="27" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/c8741a45-206f-4253-89be-6cc74f6d936f/console.sql" />
+      <jump line="32" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/c8741a45-206f-4253-89be-6cc74f6d936f/console.sql" />
+      <jump line="47" column="30" filename="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736_resolves.ipynb" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>36502</text>
       </register>
       <register name="-" type="4">
-        <text>dict_to_write</text>
+        <text>36502</text>
       </register>
       <register name="/" type="4">
-        <text>FROM</text>
+        <text encoding="base64">XDx2YWx1ZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZiJfX19fX19fX19fX19fX19fX19fX19fX19fX19cbiIKICAgICAgICAgICAgICAgICAgZiIgICB7cC51c2VybmFtZX1cbiIKICAgICAgICAgICAgICAgICAgZiItLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS1cbiIK</text>
+        <text>select *
+from fact_alert_v1
+where org_id = 1
+    and incident_id = 36502</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CnNlbGVjdCAqIGZyb20gZmFjdF9pbmNpZGVudF92MQp3aGVyZSBvcmdfaWQgPSA0NTQ2CmFuZCBpbmNpZGVudF9pZCA9IDU4ODY1Cm9yZGVyIGJ5IGZpcnN0X2FsZXJ0X2F0IGRlc2MKCnNlbGVjdCAqCmZyb20gZmFjdF9hbGVydF92MQp3aGVyZSBvcmdfaWQgPSA0NTQ2CiAgICBhbmQgaW5jaWRlbnRfaWQgPSA1ODg2NQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Pj4+Pj4+PiA3MmJmOTNjLi4uIExhbWJkYSBmb3IgYWQgaG9jIGJhY2tmaWxscyB2aWEgS2luZXNpcwo=</text>
+        <text>)</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZiItZGV0YWlscy9iYWNrZmlsbF9kYXRlPXt0b2RheX0vc3RnLnNwbHVuay1zc2Mtdm8tc3RhZ2luZy52aWN0b3JvcHMubmV0LSIgXAo=</text>
+        <text encoding="base64">d2l0aCByZXMgYXMgKAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCBzM19wYXRoWzotb2Zmc2V0XT09ZiJmZWVkPWluY2lkZW50X3YxL2RhdGFsYWtlX3JlY2VpdmVkX2F0PTIwMjAtMDQtMTYvMjAvYmFja2ZpbGxfaWQ9U0UtNzM2LXJlc29sdmVzLXdpdGgiIFwK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChmIkNTViBmaWxlIGV4cG9ydGVkIHRvIHtwYXRofSIpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAgIGVsaWYgcmVwX3Jlc3VsdCAhPSBhY19yZXN1bHQ6Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY29udGV4dD1jb250ZXh0X2RpY3QpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChmIntvcmdfaWR9IC0ge2luY2lkZW50X2lkfSAtIHJlcDoge3JlcF9yZXN1bHR9IC0tIGFjOiB7YWNfcmVzdWx0fSIpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZ1bmNfbG9nID0gZ2V0X3N0cnVjdGxvZygpLmJpbmQoa2luZXNpc19ldmVudD1ldmVudCwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZiIgRkFMU0UgUE9TSVRJVkUgRk9VTkQ6IHtyb3cub3JnX2lkfS17cm93LmluY2lkZW50X2lkfSIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnRleHRfZGljdCA9IGRpcihjb250ZXh0KQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -342,12 +339,12 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>FROM</last-search>
+      <last-search encoding="base64">XDx2YWx1ZVw+</last-search>
       <last-offset />
-      <last-pattern>FROM</last-pattern>
+      <last-pattern encoding="base64">XDx2YWx1ZVw+</last-pattern>
       <last-replace>\\}</last-replace>
       <last-substitute>}</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>

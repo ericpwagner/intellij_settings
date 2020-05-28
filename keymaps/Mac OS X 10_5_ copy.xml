@@ -1,9 +1,23 @@
 <keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id="ActivateJSONFormatterToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl meta j" />
+  </action>
   <action id="ActivatePythonConsoleToolWindow">
     <keyboard-shortcut first-keystroke="meta alt c" />
   </action>
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="shift ctrl t" />
+  </action>
+  <action id="ChangesView.Move" />
+  <action id="CommentByBlockComment">
+    <keyboard-shortcut first-keystroke="shift meta divide" />
+    <keyboard-shortcut first-keystroke="shift meta divide" />
+  </action>
+  <action id="Diff.NextChange">
+    <keyboard-shortcut first-keystroke="shift meta close_bracket" />
+  </action>
+  <action id="Diff.PrevChange">
+    <keyboard-shortcut first-keystroke="shift meta open_bracket" />
   </action>
   <action id="ExecuteInPyConsoleAction">
     <keyboard-shortcut first-keystroke="shift ctrl e" />
@@ -38,9 +52,19 @@
   <action id="JupyterStopServerAction">
     <keyboard-shortcut first-keystroke="shift ctrl s" />
   </action>
+  <action id="MoveTabRight">
+    <keyboard-shortcut first-keystroke="shift ctrl close_bracket" />
+  </action>
   <action id="NextEditorTab" />
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="shift meta close_bracket" />
+  </action>
   <action id="PreviousEditorTab" />
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="shift meta open_bracket" />
+  </action>
   <action id="RecentLocations" />
+  <action id="RestoreDefaultLayout" />
   <action id="RunClass" />
   <action id="RunDashboard.Run" />
   <action id="Scala.RunConsole">
@@ -53,4 +77,5 @@
   <action id="Terminal.SwitchFocusToEditor">
     <keyboard-shortcut first-keystroke="shift meta e" />
   </action>
+  <action id="Vcs.MoveChangedLinesToChangelist" />
 </keymap>
