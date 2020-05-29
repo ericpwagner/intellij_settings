@@ -87,16 +87,13 @@
         <text>ctrl pressed T</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text>ctrl pressed E</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed BACK_SLASH</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
@@ -106,7 +103,7 @@
       <file name="vim_settings.xml" timestamp="1590763003393">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1590699303153">
+      <file name="/Dummy.txt" timestamp="1590784731861">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -117,6 +114,7 @@
         <mark key="^" line="41" column="6" />
         <mark key="." line="41" column="6" />
       </file>
+      <file name="$USER_HOME$/GitLab/alert-core/alert-core-server/app/victorops/alertcore/reporting/ReportingJsonSerializers.scala" timestamp="1590766165283" />
       <file name="/console" timestamp="1590692104912">
         <mark key="[" line="0" column="0" />
       </file>
@@ -130,13 +128,10 @@
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/console_5" timestamp="1590701679990">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/console_3" timestamp="1590602557010">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.sql" timestamp="1590677431181">
+      <file name="/a.sql" timestamp="1590784731847">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/console_4" timestamp="1590602560567">
@@ -148,9 +143,7 @@
       <file name="/console_2" timestamp="1590602444151">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.json" timestamp="1590699491770">
-        <mark key="[" line="0" column="0" />
-      </file>
+      <file name="$USER_HOME$/GitLab/alert-core/alert-core-server/app/victorops/alertcore/query/IncidentsQueryDao.scala" timestamp="1590766184707" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c8741a45-206f-4253-89be-6cc74f6d936f/console.sql" timestamp="1590674265628">
         <mark key="'" line="32" column="0" />
         <mark key="[" line="34" column="27" />
@@ -158,10 +151,13 @@
         <mark key="." line="34" column="22" />
         <mark key="^" line="33" column="19" />
       </file>
+      <file name="/Dummy.json" timestamp="1590699491770">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/textView" timestamp="1590602522900">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GitLab/data/dms/terraform.tf" timestamp="1590765230949">
+      <file name="$USER_HOME$/GitLab/data/dms/terraform.tf" timestamp="1590769709972">
         <mark key="[" line="580" column="18" />
       </file>
     </filemarks>
