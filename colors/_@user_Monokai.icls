@@ -4,23 +4,31 @@
     <property name="created">2018-07-30T08:14:20</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2018.1.4.0.0</property>
-    <property name="modified">2020-05-28T09:34:11</property>
+    <property name="modified">2020-05-29T09:22:28</property>
     <property name="originalScheme">Monokai</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
   <option name="CONSOLE_FONT_SIZE" value="9" />
   <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <colors>
+    <option name="ADDED_LINES_COLOR" value="eab18" />
     <option name="CARET_COLOR" value="de6f17" />
     <option name="CARET_ROW_COLOR" value="b3e40" />
     <option name="CONSOLE_BACKGROUND_KEY" value="1d354d" />
+    <option name="DELETED_LINES_COLOR" value="75121b" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="30374a" />
     <option name="GUTTER_BACKGROUND" value="1e546c" />
-    <option name="INDENT_GUIDE" value="3b3a32" />
+    <option name="IGNORED_ADDED_LINES_BORDER_COLOR" value="357f36" />
+    <option name="IGNORED_MODIFIED_LINES_BORDER_COLOR" value="55cfd9" />
+    <option name="INDENT_GUIDE" value="653e69" />
     <option name="INFORMATION_HINT" value="515114" />
     <option name="LINE_NUMBERS_COLOR" value="f8f8f2" />
+    <option name="MODIFIED_LINES_COLOR" value="c8cf14" />
     <option name="SELECTED_INDENT_GUIDE" value="3b3a32" />
+    <option name="SELECTED_TEARLINE_COLOR" value="721178" />
     <option name="SELECTION_BACKGROUND" value="274059" />
+    <option name="TAB_UNDERLINE" value="b151cf" />
+    <option name="TEARLINE_COLOR" value="b151cf" />
     <option name="WHITESPACES" value="3b3a32" />
   </colors>
   <attributes>
@@ -871,6 +879,12 @@
     <option name="LABEL">
       <value>
         <option name="FOREGROUND" value="f92672" />
+      </value>
+    </option>
+    <option name="LINE_FULL_COVERAGE">
+      <value>
+        <option name="FOREGROUND" value="224422" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="MACRONAME">
@@ -25665,7 +25679,7 @@
     </option>
     <option name="TAB_SELECTED">
       <value>
-        <option name="FOREGROUND" value="3e2141" />
+        <option name="BACKGROUND" value="653e69" />
       </value>
     </option>
     <option name="TAG_ATTR_KEY">
