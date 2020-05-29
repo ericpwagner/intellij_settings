@@ -100,6 +100,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="vim_settings.xml" timestamp="1590763003393">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1590699303153">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
