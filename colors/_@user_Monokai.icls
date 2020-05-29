@@ -4,7 +4,7 @@
     <property name="created">2018-07-30T08:14:20</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2018.1.4.0.0</property>
-    <property name="modified">2020-05-29T13:34:07</property>
+    <property name="modified">2020-05-29T14:58:22</property>
     <property name="originalScheme">Monokai</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Monospaced" />
@@ -14,7 +14,7 @@
     <option name="ADDED_LINES_COLOR" value="eab18" />
     <option name="CARET_COLOR" value="de6f17" />
     <option name="CARET_ROW_COLOR" value="280933" />
-    <option name="CONSOLE_BACKGROUND_KEY" value="2a1144" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="1b0e31" />
     <option name="DELETED_LINES_COLOR" value="75121b" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="30374a" />
     <option name="GUTTER_BACKGROUND" value="1e546c" />

@@ -143,6 +143,11 @@
       <file name="/console_2" timestamp="1590602444151">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/e99ba6d1-1bba-466e-ba54-c178dd26c45e/console.sql" timestamp="1590785629008">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/GitLab/alert-core/alert-core-server/app/victorops/alertcore/query/IncidentsQueryDao.scala" timestamp="1590766184707" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c8741a45-206f-4253-89be-6cc74f6d936f/console.sql" timestamp="1590674265628">
         <mark key="'" line="32" column="0" />
@@ -266,11 +271,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhbmQgdHJhbnNpdGlvbmVkX2F0IDw9ICd7c3RyKGVuZF9kYXRlLnZhbHVlKVs6LTZdfScK</text>
+      <register name="&quot;" type="4">
+        <text />
       </register>
       <register name="-" type="4">
-        <text>u</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YWx1ZVw+</text>
