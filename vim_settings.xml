@@ -143,8 +143,8 @@
       <file name="/console_2" timestamp="1590602444151">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/e99ba6d1-1bba-466e-ba54-c178dd26c45e/console.sql" timestamp="1590785629008">
-        <mark key="[" line="0" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/e99ba6d1-1bba-466e-ba54-c178dd26c45e/console.sql" timestamp="1591039215087">
+        <mark key="[" line="0" column="14" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
@@ -161,9 +161,6 @@
       </file>
       <file name="/textView" timestamp="1590602522900">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/GitLab/data/dms/terraform.tf" timestamp="1590769709972">
-        <mark key="[" line="580" column="18" />
       </file>
     </filemarks>
     <jumps>
@@ -271,8 +268,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text />
+      <register name="&quot;" type="2">
+        <text>select * from fact_alert_v1 limit 5</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -284,31 +281,31 @@
         <text encoding="base64">ICAgICAgICBhbmQgdHJhbnNpdGlvbmVkX2F0IDw9ICd7c3RyKGVuZF9kYXRlLnZhbHVlKVs6LTZdfScK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhbmQgdHJhbnNpdGlvbmVkX2F0IDw9ICd7c3RyKGVuZF9kYXRlLnZhbHVlKVs6LTZdfScK</text>
+        <text>select * from fact_alert_v1 limit 5</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kIHRyYW5zaXRpb25lZF9hdCA8PSAne3N0cihlbmRfZGF0ZS52YWx1ZSlbOi02XX0nCg==</text>
+        <text>select * from fact_alert_v1 limit 5</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kIHRyYW5zaXRpb25lZF9hdCA8PSAne3N0cihlbmRfZGF0ZS52YWx1ZSlbOi02XX0nCg==</text>
+        <text encoding="base64">ICAgICAgICBhbmQgdHJhbnNpdGlvbmVkX2F0IDw9ICd7c3RyKGVuZF9kYXRlLnZhbHVlKVs6LTZdfScK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kIHRyYW5zaXRpb25lZF9hdCA8PSAne3N0cihlbmRfZGF0ZS52YWx1ZSlbOi02XX0nCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CnNlbGVjdCAqIGZyb20gZmFjdF9pbmNpZGVudF92MQp3aGVyZSBvcmdfaWQgPSA0NTQ2CmFuZCBpbmNpZGVudF9pZCA9IDU4ODY1Cm9yZGVyIGJ5IGZpcnN0X2FsZXJ0X2F0IGRlc2MKCnNlbGVjdCAqCmZyb20gZmFjdF9hbGVydF92MQp3aGVyZSBvcmdfaWQgPSA0NTQ2CiAgICBhbmQgaW5jaWRlbnRfaWQgPSA1ODg2NQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kIHRyYW5zaXRpb25lZF9hdCA8PSAne3N0cihlbmRfZGF0ZS52YWx1ZSlbOi02XX0nCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text>)</text>
+        <text encoding="base64">CnNlbGVjdCAqIGZyb20gZmFjdF9pbmNpZGVudF92MQp3aGVyZSBvcmdfaWQgPSA0NTQ2CmFuZCBpbmNpZGVudF9pZCA9IDU4ODY1Cm9yZGVyIGJ5IGZpcnN0X2FsZXJ0X2F0IGRlc2MKCnNlbGVjdCAqCmZyb20gZmFjdF9hbGVydF92MQp3aGVyZSBvcmdfaWQgPSA0NTQ2CiAgICBhbmQgaW5jaWRlbnRfaWQgPSA1ODg2NQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">d2l0aCByZXMgYXMgKAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChmIkNTViBmaWxlIGV4cG9ydGVkIHRvIHtwYXRofSIpCg==</text>
+        <text>)</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
