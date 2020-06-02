@@ -118,22 +118,22 @@
       <file name="/a.sql" timestamp="1591117854430">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GitHub/data_misc/analysis_misc/.env" timestamp="1591126712257">
+      <file name="$USER_HOME$/GitHub/data_misc/analysis_misc/.env" timestamp="1591126864228">
         <mark key="'" line="48" column="0" />
-        <mark key="[" line="54" column="33" />
-        <mark key="]" line="62" column="33" />
-        <mark key="." line="56" column="0" />
-        <mark key="^" line="52" column="30" />
+        <mark key="[" line="62" column="13" />
+        <mark key="]" line="49" column="54" />
+        <mark key="." line="49" column="53" />
+        <mark key="^" line="49" column="54" />
       </file>
       <file name="/Dummy.json" timestamp="1590699491770">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GitHub/data_misc/analysis_misc/db_common.py" timestamp="1591121849353">
+      <file name="$USER_HOME$/GitHub/data_misc/analysis_misc/db_common.py" timestamp="1591128529591">
         <mark key="'" line="133" column="0" />
-        <mark key="[" line="144" column="39" />
-        <mark key="]" line="55" column="58" />
-        <mark key="." line="55" column="57" />
-        <mark key="^" line="55" column="58" />
+        <mark key="[" line="145" column="17" />
+        <mark key="]" line="150" column="15" />
+        <mark key="." line="150" column="14" />
+        <mark key="^" line="150" column="15" />
       </file>
       <file name="$USER_HOME$/GitHub/data_misc/analysis_misc/Pipfile" timestamp="1591121692468">
         <mark key="[" line="13" column="13" />
@@ -148,7 +148,7 @@
         <mark key="." line="776" column="0" />
         <mark key="^" line="776" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1591124323142">
+      <file name="/Dummy.txt" timestamp="1591127090271">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -160,12 +160,12 @@
         <mark key="." line="174" column="0" />
         <mark key="^" line="161" column="0" />
       </file>
-      <file name="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736_resolves.ipynb" timestamp="1591126576934">
+      <file name="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736_resolves.ipynb" timestamp="1591127580084">
         <mark key="'" line="65" column="0" />
-        <mark key="[" line="149" column="10" />
-        <mark key="]" line="150" column="108" />
-        <mark key="." line="150" column="107" />
-        <mark key="^" line="150" column="108" />
+        <mark key="[" line="515" column="43" />
+        <mark key="]" line="515" column="43" />
+        <mark key="." line="515" column="0" />
+        <mark key="^" line="514" column="89" />
       </file>
       <file name="$USER_HOME$/GitLab/data/Makefile" timestamp="1591049098783">
         <mark key="[" line="4" column="53" />
@@ -296,41 +296,41 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IyBTdGFnaW5nIHZvZGF0IChQb3N0Z3JlcykKIyBSZXF1aXJlcyBhY3RpdmUgc3NoIGNvbm5lY3Rpb24gdG8gcmVwb3J0aW5nLWV0bDEuc3RnCmV4cG9ydCBWT0RBVF9TVEdfREJfSE9TVD0xMjcuMC4wLjEKZXhwb3J0IFZPREFUX1NUR19EQl9QQVNTPVhMTkFKMDNPT0RZR1ZWMjIxOEpBNUZER0VLSFhaRFFKCmV4cG9ydCBWT0RBVF9TVEdfREJfTkFNRT12b2RhdApleHBvcnQgVk9EQVRfU1RHX0RCX1BPUlQ9NDQ5NwpleHBvcnQgVk9EQVRfU1RHX0RCX1VTRVI9cG9zdGdyZXMK</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>Staging</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YWx1ZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyBTdGFnaW5nIHZvZGF0IChQb3N0Z3JlcykKIyBSZXF1aXJlcyBhY3RpdmUgc3NoIGNvbm5lY3Rpb24gdG8gcmVwb3J0aW5nLWV0bDEuc3RnCmV4cG9ydCBWT0RBVF9TVEdfREJfSE9TVD0xMjcuMC4wLjEKZXhwb3J0IFZPREFUX1NUR19EQl9QQVNTPVhMTkFKMDNPT0RZR1ZWMjIxOEpBNUZER0VLSFhaRFFKCmV4cG9ydCBWT0RBVF9TVEdfREJfTkFNRT12b2RhdApleHBvcnQgVk9EQVRfU1RHX0RCX1BPUlQ9NDQ5NwpleHBvcnQgVk9EQVRfU1RHX0RCX1VTRVI9cG9zdGdyZXMK</text>
+        <text encoding="base64">ICAgIHByaW50KCJHZXR0aW5nIHJlY292ZXJ5IGFsZXJ0IGRhdGEuLi4iKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJDcnVuY2hpbmcgdGhlIGRpZmZzIGFuZCB2YWxpZGF0aW5nIG1pc3NpbmcgaW5jaWRlbnRzLi4uIikK</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgIGN1cnNvcjogVHlwZVtDdXJzb3JdID0gQ3Vyc29yLAogICAgICAgICAgICBhcmdzOiBPcHRpb25hbFtVbmlvbltUdXBsZVtzdHJdLCBMaXN0W0xpc3RbQW55XV1dXSA9IE5vbmU=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHNsZWVwKDYwKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KCJDcnVuY2hpbmcgdGhlIGRpZmZzIGFuZCB2YWxpZGF0aW5nIG1pc3NpbmcgaW5jaWRlbnRzLi4uIikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KGYiQ09OTiBWQVJTOiB7c3RnX3ZvZGF0X2RiX2Nvbm5fdmFyc30iKQo=</text>
+        <text encoding="base64">ICAgIHNsZWVwKDYwKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1heF9hbGxvd2VkX3BhY2tldD0zMiAqIDEwMjQgKiAxMDI0KQo=</text>
+        <text encoding="base64">ICAgIHByaW50KGYiQ09OTiBWQVJTOiB7c3RnX3ZvZGF0X2RiX2Nvbm5fdmFyc30iKQo=</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1heF9hbGxvd2VkX3BhY2tldD0zMiAqIDEwMjQgKiAxMDI0KQo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJpbmFyeV9wcmVmaXg9VHJ1ZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbm5lY3RfdGltZW91dD01LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgYXV0b2NvbW1pdD1UcnVlLAo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChmIkNvbm5lY3Rpb24gKHN0Z19jb3JlX2RiX2Nvbm4pIGVzdGFibGlzaGVkIHRvIHtzdGdfdm9kYXRfZGJfY29ubl92YXJzLmRiX25hbWV9IG9uIGhvc3Qge3N0Z19jb3JlX2RiX2Nvbm5fdmFycy5kYl9ob3N0fSIpCg==</text>
-      </register>
       <register name="8" type="2">
-        <text>select * from fact_alert_v1 limit 5</text>
+        <text encoding="base64">ICAgICAgICBwcmludChmIkNvbm5lY3Rpb24gKHN0Z19jb3JlX2RiX2Nvbm4pIGVzdGFibGlzaGVkIHRvIHtzdGdfdm9kYXRfZGJfY29ubl92YXJzLmRiX25hbWV9IG9uIGhvc3Qge3N0Z19jb3JlX2RiX2Nvbm5fdmFycy5kYl9ob3N0fSIpCg==</text>
       </register>
       <register name="9" type="2">
         <text>select * from fact_alert_v1 limit 5</text>
