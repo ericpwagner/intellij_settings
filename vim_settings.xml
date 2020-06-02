@@ -115,7 +115,7 @@
       <file name="/console" timestamp="1591121709762">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.sql" timestamp="1591117854430">
+      <file name="/a.sql" timestamp="1591131734247">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/GitHub/data_misc/analysis_misc/.env" timestamp="1591126864228">
@@ -128,12 +128,12 @@
       <file name="/Dummy.json" timestamp="1590699491770">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GitHub/data_misc/analysis_misc/db_common.py" timestamp="1591129444138">
-        <mark key="'" line="133" column="0" />
-        <mark key="[" line="145" column="17" />
-        <mark key="]" line="150" column="15" />
-        <mark key="." line="150" column="14" />
-        <mark key="^" line="150" column="15" />
+      <file name="$USER_HOME$/GitHub/data_misc/analysis_misc/db_common.py" timestamp="1591131505885">
+        <mark key="'" line="132" column="0" />
+        <mark key="[" line="148" column="0" />
+        <mark key="]" line="148" column="0" />
+        <mark key="." line="148" column="0" />
+        <mark key="^" line="149" column="15" />
       </file>
       <file name="$USER_HOME$/GitHub/data_misc/analysis_misc/Pipfile" timestamp="1591121692468">
         <mark key="[" line="13" column="13" />
@@ -148,7 +148,7 @@
         <mark key="." line="776" column="0" />
         <mark key="^" line="776" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1591127090271">
+      <file name="/Dummy.txt" timestamp="1591131734263">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -160,12 +160,12 @@
         <mark key="." line="174" column="0" />
         <mark key="^" line="161" column="0" />
       </file>
-      <file name="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736_resolves.ipynb" timestamp="1591129432150">
-        <mark key="'" line="65" column="0" />
-        <mark key="[" line="516" column="40" />
-        <mark key="]" line="515" column="43" />
-        <mark key="." line="515" column="0" />
-        <mark key="^" line="514" column="89" />
+      <file name="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736_resolves.ipynb" timestamp="1591131657357">
+        <mark key="'" line="64" column="0" />
+        <mark key="[" line="13" column="7" />
+        <mark key="]" line="19" column="4" />
+        <mark key="." line="19" column="3" />
+        <mark key="^" line="19" column="4" />
       </file>
       <file name="$USER_HOME$/GitLab/data/Makefile" timestamp="1591049098783">
         <mark key="[" line="4" column="53" />
@@ -296,8 +296,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHByaW50KGYiUm93cyA9IHtyb3dzfSIpCg==</text>
       </register>
       <register name="-" type="4">
         <text>,</text>
@@ -308,32 +308,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaW50KCJHZXR0aW5nIHJlY292ZXJ5IGFsZXJ0IGRhdGEuLi4iKQo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIGN1cnNvcjogVHlwZVtDdXJzb3JdID0gQ3Vyc29yLAogICAgICAgICAgICBhcmdzOiBPcHRpb25hbFtVbmlvbltUdXBsZVtzdHJdLCBMaXN0W0xpc3RbQW55XV1dXSA9IE5vbmU=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHByaW50KGYiUm93cyA9IHtyb3dzfSIpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJDcnVuY2hpbmcgdGhlIGRpZmZzIGFuZCB2YWxpZGF0aW5nIG1pc3NpbmcgaW5jaWRlbnRzLi4uIikK</text>
+        <text encoding="base64">ICAgIHByaW50KGYiQ1VSU09SID0ge2N1cn0iKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHNsZWVwKDYwKQo=</text>
+        <text encoding="base64">ZnJvbSB0aW1lIGltcG9ydCBzbGVlcAo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50KGYiQ09OTiBWQVJTOiB7c3RnX3ZvZGF0X2RiX2Nvbm5fdmFyc30iKQo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgIGN1cnNvcjogVHlwZVtDdXJzb3JdID0gQ3Vyc29yLAogICAgICAgICAgICBhcmdzOiBPcHRpb25hbFtVbmlvbltUdXBsZVtzdHJdLCBMaXN0W0xpc3RbQW55XV1dXSA9IE5vbmU=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1heF9hbGxvd2VkX3BhY2tldD0zMiAqIDEwMjQgKiAxMDI0KQo=</text>
+        <text encoding="base64">ICAgIHByaW50KCJDcnVuY2hpbmcgdGhlIGRpZmZzIGFuZCB2YWxpZGF0aW5nIG1pc3NpbmcgaW5jaWRlbnRzLi4uIikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJpbmFyeV9wcmVmaXg9VHJ1ZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbm5lY3RfdGltZW91dD01LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgYXV0b2NvbW1pdD1UcnVlLAo=</text>
+        <text encoding="base64">ICAgIHNsZWVwKDYwKQo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHByaW50KGYiQ09OTiBWQVJTOiB7c3RnX3ZvZGF0X2RiX2Nvbm5fdmFyc30iKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChmIkNvbm5lY3Rpb24gKHN0Z19jb3JlX2RiX2Nvbm4pIGVzdGFibGlzaGVkIHRvIHtzdGdfdm9kYXRfZGJfY29ubl92YXJzLmRiX25hbWV9IG9uIGhvc3Qge3N0Z19jb3JlX2RiX2Nvbm5fdmFycy5kYl9ob3N0fSIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1heF9hbGxvd2VkX3BhY2tldD0zMiAqIDEwMjQgKiAxMDI0KQo=</text>
       </register>
       <register name="9" type="2">
-        <text>select * from fact_alert_v1 limit 5</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJpbmFyeV9wcmVmaXg9VHJ1ZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbm5lY3RfdGltZW91dD01LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgYXV0b2NvbW1pdD1UcnVlLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
