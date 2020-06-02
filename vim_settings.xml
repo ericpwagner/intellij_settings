@@ -118,7 +118,7 @@
       <file name="/a.sql" timestamp="1591117854430">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GitHub/data_misc/analysis_misc/.env" timestamp="1591117317519">
+      <file name="$USER_HOME$/GitHub/data_misc/analysis_misc/.env" timestamp="1591122168738">
         <mark key="'" line="40" column="0" />
         <mark key="[" line="51" column="25" />
         <mark key="]" line="52" column="30" />
@@ -160,11 +160,11 @@
         <mark key="." line="174" column="0" />
         <mark key="^" line="161" column="0" />
       </file>
-      <file name="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736_resolves.ipynb" timestamp="1591121427786">
+      <file name="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736_resolves.ipynb" timestamp="1591122641831">
         <mark key="'" line="180" column="0" />
-        <mark key="[" line="184" column="51" />
-        <mark key="]" line="15" column="16" />
-        <mark key="." line="15" column="15" />
+        <mark key="[" line="445" column="44" />
+        <mark key="]" line="445" column="44" />
+        <mark key="." line="445" column="44" />
         <mark key="^" line="15" column="16" />
       </file>
       <file name="$USER_HOME$/GitLab/data/Makefile" timestamp="1591049098783">
@@ -297,10 +297,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>b</text>
+        <text>_</text>
       </register>
       <register name="-" type="4">
-        <text>b</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YWx1ZVw+</text>
@@ -309,28 +309,28 @@
         <text encoding="base64">ZGVmIHJ1bl9zcWwoZGJfY29ubjogcHlteXNxbC5jb25uZWN0aW9ucy5Db25uZWN0aW9uLCBzcWw6IHN0ciwKICAgICAgICAgICAgY3Vyc29yOiBUeXBlW0N1cnNvcl0gPSBDdXJzb3IsCiAgICAgICAgICAgIGFyZ3M6IE9wdGlvbmFsW1VuaW9uW1R1cGxlW3N0cl0sIExpc3RbTGlzdFtBbnldXV1dID0gTm9uZSkgLT4gQW55OgogICAgIiIiIFJ1biBhIFNRTCBzdGF0ZW1lbnQgIiIiCiAgICBjdXIgPSBjdXJzb3IoZGJfY29ubikKICAgIGN1ci5leGVjdXRlKHNxbCwgYXJncz1hcmdzKQogICAgcm93cyA9IGN1ci5mZXRjaGFsbCgpCiAgICBjdXIuY2xvc2UoKQogICAgcmV0dXJuIHJvd3MK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1heF9hbGxvd2VkX3BhY2tldD0zMiAqIDEwMjQgKiAxMDI0KQo=</text>
+        <text encoding="base64">ICAgIHByaW50KGYiQ09OTiBWQVJTOiB7c3RnX3ZvZGF0X2RiX2Nvbm5fdmFyc30iKQo=</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1heF9hbGxvd2VkX3BhY2tldD0zMiAqIDEwMjQgKiAxMDI0KQo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJpbmFyeV9wcmVmaXg9VHJ1ZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbm5lY3RfdGltZW91dD01LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgYXV0b2NvbW1pdD1UcnVlLAo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChmIkNvbm5lY3Rpb24gKHN0Z19jb3JlX2RiX2Nvbm4pIGVzdGFibGlzaGVkIHRvIHtzdGdfdm9kYXRfZGJfY29ubl92YXJzLmRiX25hbWV9IG9uIGhvc3Qge3N0Z19jb3JlX2RiX2Nvbm5fdmFycy5kYl9ob3N0fSIpCg==</text>
-      </register>
       <register name="5" type="2">
-        <text>select * from fact_alert_v1 limit 5</text>
+        <text encoding="base64">ICAgICAgICBwcmludChmIkNvbm5lY3Rpb24gKHN0Z19jb3JlX2RiX2Nvbm4pIGVzdGFibGlzaGVkIHRvIHtzdGdfdm9kYXRfZGJfY29ubl92YXJzLmRiX25hbWV9IG9uIGhvc3Qge3N0Z19jb3JlX2RiX2Nvbm5fdmFycy5kYl9ob3N0fSIpCg==</text>
       </register>
       <register name="6" type="2">
         <text>select * from fact_alert_v1 limit 5</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhbmQgdHJhbnNpdGlvbmVkX2F0IDw9ICd7c3RyKGVuZF9kYXRlLnZhbHVlKVs6LTZdfScK</text>
+        <text>select * from fact_alert_v1 limit 5</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kIHRyYW5zaXRpb25lZF9hdCA8PSAne3N0cihlbmRfZGF0ZS52YWx1ZSlbOi02XX0nCg==</text>
+        <text encoding="base64">ICAgICAgICBhbmQgdHJhbnNpdGlvbmVkX2F0IDw9ICd7c3RyKGVuZF9kYXRlLnZhbHVlKVs6LTZdfScK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYW5kIHRyYW5zaXRpb25lZF9hdCA8PSAne3N0cihlbmRfZGF0ZS52YWx1ZSlbOi02XX0nCg==</text>
