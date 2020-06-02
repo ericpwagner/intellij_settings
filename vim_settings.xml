@@ -87,16 +87,16 @@
         <text>ctrl pressed T</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text>ctrl pressed E</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed BACK_SLASH</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed BACK_SLASH</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
@@ -112,6 +112,7 @@
         <mark key="^" line="41" column="6" />
         <mark key="." line="41" column="6" />
       </file>
+      <file name="$USER_HOME$/GitLab/alert-core/alert-core-server/app/victorops/alertcore/reporting/ReportingJsonSerializers.scala" timestamp="1590766165283" />
       <file name="/console" timestamp="1591114449063">
         <mark key="[" line="0" column="0" />
       </file>
@@ -172,11 +173,6 @@
         <mark key="." line="4" column="44" />
         <mark key="^" line="4" column="45" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/e99ba6d1-1bba-466e-ba54-c178dd26c45e/console.sql" timestamp="1591039215087">
-        <mark key="[" line="0" column="14" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="/" timestamp="1590679960416">
         <mark key="[" line="0" column="0" />
       </file>
@@ -186,6 +182,12 @@
       <file name="/console_1" timestamp="1591114449119">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/e99ba6d1-1bba-466e-ba54-c178dd26c45e/console.sql" timestamp="1591039215087">
+        <mark key="[" line="0" column="14" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/GitLab/alert-core/alert-core-server/app/victorops/alertcore/query/IncidentsQueryDao.scala" timestamp="1590766184707" />
       <file name="$USER_HOME$/GitLab/replay-tools/alert_core_replay/athena/reconstruct.py" timestamp="1591118669078">
         <mark key="[" line="3" column="14" />
       </file>
