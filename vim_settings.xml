@@ -106,12 +106,12 @@
       <file name="vim_settings.xml" timestamp="1590763003393">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1591133916914">
+      <file name="/Dummy.txt" timestamp="1591134381897">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1591133846441">
+      <file name="/Python Console" timestamp="1591134350980">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="41" column="6" />
         <mark key="^" line="41" column="6" />
@@ -127,12 +127,12 @@
         <mark key="." line="174" column="0" />
         <mark key="^" line="161" column="0" />
       </file>
-      <file name="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736_resolves.ipynb" timestamp="1591132113963">
+      <file name="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736_resolves.ipynb" timestamp="1591135187046">
         <mark key="'" line="64" column="0" />
-        <mark key="[" line="317" column="10" />
-        <mark key="]" line="19" column="4" />
-        <mark key="." line="19" column="3" />
-        <mark key="^" line="19" column="4" />
+        <mark key="[" line="440" column="43" />
+        <mark key="]" line="440" column="25" />
+        <mark key="^" line="437" column="21" />
+        <mark key="." line="440" column="25" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/044e28c2-f35f-4fff-b858-d01f3fe770cc/console_1.sql" timestamp="1591132293913">
         <mark key="[" line="0" column="0" />
@@ -150,7 +150,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/" timestamp="1590679960416">
+      <file name="/" timestamp="1591134759431">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/console_5" timestamp="1590701679990">
@@ -301,11 +301,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text />
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLAo=</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text encoding="base64">ICdyZWFsbHlfbWlzc2luZydd</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YWx1ZVw+</text>
@@ -314,31 +314,33 @@
         <text encoding="base64">ICAgIHByaW50KCJHZXR0aW5nIHJlY292ZXJ5IGFsZXJ0IGRhdGEuLi4iKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KGYiUm93cyA9IHtyb3dzfSIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KGYiQ1VSU09SID0ge2N1cn0iKQo=</text>
+        <text encoding="base64">aWYgZG9fdmFsaWRhdGlvbi52YWx1ZToK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSB0aW1lIGltcG9ydCBzbGVlcAo=</text>
+        <text>else:
+    display_affected_customer_data(missing_df)</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIGN1cnNvcjogVHlwZVtDdXJzb3JdID0gQ3Vyc29yLAogICAgICAgICAgICBhcmdzOiBPcHRpb25hbFtVbmlvbltUdXBsZVtzdHJdLCBMaXN0W0xpc3RbQW55XV1dXSA9IE5vbmU=</text>
+      <register name="4" type="2">
+        <text encoding="base64">aWYgZG9fdmFsaWRhdGlvbi52YWx1ZToK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJDcnVuY2hpbmcgdGhlIGRpZmZzIGFuZCB2YWxpZGF0aW5nIG1pc3NpbmcgaW5jaWRlbnRzLi4uIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHNsZWVwKDYwKQo=</text>
+        <text>else:
+    print(missing_df.org_id.unique())</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50KGYiQ09OTiBWQVJTOiB7c3RnX3ZvZGF0X2RiX2Nvbm5fdmFyc30iKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KGYiUm93cyA9IHtyb3dzfSIpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1heF9hbGxvd2VkX3BhY2tldD0zMiAqIDEwMjQgKiAxMDI0KQo=</text>
+        <text encoding="base64">ICAgIHByaW50KGYiQ1VSU09SID0ge2N1cn0iKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJpbmFyeV9wcmVmaXg9VHJ1ZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbm5lY3RfdGltZW91dD01LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgYXV0b2NvbW1pdD1UcnVlLAo=</text>
+        <text encoding="base64">ZnJvbSB0aW1lIGltcG9ydCBzbGVlcAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
