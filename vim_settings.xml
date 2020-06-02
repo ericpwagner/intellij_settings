@@ -87,13 +87,16 @@
         <text>ctrl pressed T</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed BACK_SLASH</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed Q</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed E</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
@@ -114,12 +117,14 @@
         <mark key="^" line="41" column="6" />
         <mark key="." line="41" column="6" />
       </file>
-      <file name="$USER_HOME$/GitLab/alert-core/alert-core-server/app/victorops/alertcore/reporting/ReportingJsonSerializers.scala" timestamp="1590766165283" />
       <file name="/console" timestamp="1590785166728">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736-acks.ipynb" timestamp="1590695346426">
         <mark key="[" line="217" column="25" />
+      </file>
+      <file name="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736_resolves.ipynb" timestamp="1591114383559">
+        <mark key="[" line="28" column="15" />
       </file>
       <file name="$USER_HOME$/GitLab/data/Makefile" timestamp="1591049098783">
         <mark key="[" line="4" column="53" />
@@ -127,11 +132,15 @@
         <mark key="." line="4" column="44" />
         <mark key="^" line="4" column="45" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/e99ba6d1-1bba-466e-ba54-c178dd26c45e/console.sql" timestamp="1591039215087">
+        <mark key="[" line="0" column="14" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="/" timestamp="1590679960416">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c8741a45-206f-4253-89be-6cc74f6d936f/console_2.sql" timestamp="1590602448160">
-        <mark key="'" line="0" column="0" />
+      <file name="/console_5" timestamp="1590701679990">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/console_3" timestamp="1590602557010">
@@ -146,24 +155,15 @@
       <file name="/console_1" timestamp="1590692104984">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/console_2" timestamp="1590602444151">
+      <file name="/Dummy.json" timestamp="1590699491770">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/e99ba6d1-1bba-466e-ba54-c178dd26c45e/console.sql" timestamp="1591039215087">
-        <mark key="[" line="0" column="14" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/GitLab/alert-core/alert-core-server/app/victorops/alertcore/query/IncidentsQueryDao.scala" timestamp="1590766184707" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c8741a45-206f-4253-89be-6cc74f6d936f/console.sql" timestamp="1590674265628">
         <mark key="'" line="32" column="0" />
         <mark key="[" line="34" column="27" />
         <mark key="]" line="34" column="22" />
         <mark key="." line="34" column="22" />
         <mark key="^" line="33" column="19" />
-      </file>
-      <file name="/Dummy.json" timestamp="1590699491770">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="/textView" timestamp="1590602522900">
         <mark key="[" line="0" column="0" />
