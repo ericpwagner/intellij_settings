@@ -103,7 +103,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1591212227340">
+      <file name="/Dummy.txt" timestamp="1591214153920">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -160,11 +160,11 @@
       <file name="/console_1" timestamp="1591200970352">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GitLab/replay-tools/alert_core_replay/athena/process_resolves_at_only.py" timestamp="1591212952586">
-        <mark key="[" line="136" column="4" />
-        <mark key="]" line="136" column="10" />
-        <mark key="^" line="95" column="20" />
-        <mark key="." line="135" column="0" />
+      <file name="$USER_HOME$/GitLab/replay-tools/alert_core_replay/athena/process_resolves_at_only.py" timestamp="1591214066145">
+        <mark key="[" line="137" column="5" />
+        <mark key="]" line="38" column="44" />
+        <mark key="^" line="38" column="44" />
+        <mark key="." line="38" column="43" />
       </file>
       <file name="$USER_HOME$/GitLab/replay-tools/alert_core_replay/athena/reconstruct.py" timestamp="1591121697263">
         <mark key="[" line="3" column="14" />
@@ -306,7 +306,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGN1ci5leGVjdXRlKGYnJycKc2VsZWN0Cg==</text>
+        <text>Add required event_at timestamp and set quality score to 3</text>
       </register>
       <register name="-" type="4">
         <text>2018</text>
@@ -318,33 +318,32 @@
         <text encoding="base64">ICAgIGN1ci5leGVjdXRlKGYnJycKc2VsZWN0Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJXYWl0aW5nIGZvciBpbi1mbGlnaHQgaW5jaWRlbnRzIHRvIGNvbXBsZXRlIGJlZm9yZSBkb2luZyB2YWxpZGF0aW9uICgxIG1pbnV0ZSkiKQo=</text>
+        <text>Add required event_at timestamp and set quality score to 3</text>
       </register>
       <register name="2" type="2">
-        <text>--         and alert_entity_state = 'OK'</text>
+        <text encoding="base64">ICAgIHByaW50KCJXYWl0aW5nIGZvciBpbi1mbGlnaHQgaW5jaWRlbnRzIHRvIGNvbXBsZXRlIGJlZm9yZSBkb2luZyB2YWxpZGF0aW9uICgxIG1pbnV0ZSkiKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHdoZXJlIG9yZ19pZCA9IDQwODM5CiAgICAgICAgYW5kIGluY2lkZW50X2lkID0gMzkzNAo=</text>
+        <text>--         and alert_entity_state = 'OK'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLAo=</text>
+        <text encoding="base64">ICAgIHdoZXJlIG9yZ19pZCA9IDQwODM5CiAgICAgICAgYW5kIGluY2lkZW50X2lkID0gMzkzNAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aWYgZG9fdmFsaWRhdGlvbi52YWx1ZToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLAo=</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">aWYgZG9fdmFsaWRhdGlvbi52YWx1ZToK</text>
+      </register>
+      <register name="7" type="2">
         <text>else:
     display_affected_customer_data(missing_df)</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">aWYgZG9fdmFsaWRhdGlvbi52YWx1ZToK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text>else:
-    print(missing_df.org_id.unique())</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
