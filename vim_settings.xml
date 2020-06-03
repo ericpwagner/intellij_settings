@@ -126,9 +126,9 @@
         <mark key="." line="174" column="0" />
         <mark key="^" line="161" column="0" />
       </file>
-      <file name="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736_resolves.ipynb" timestamp="1591195954037">
+      <file name="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736_resolves.ipynb" timestamp="1591199774062">
         <mark key="'" line="446" column="41" />
-        <mark key="[" line="28" column="11" />
+        <mark key="[" line="322" column="36" />
         <mark key="]" line="28" column="11" />
         <mark key="^" line="437" column="21" />
         <mark key="." line="28" column="11" />
@@ -144,11 +144,11 @@
         <mark key="." line="4" column="44" />
         <mark key="^" line="4" column="45" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c8741a45-206f-4253-89be-6cc74f6d936f/console_6.sql" timestamp="1591197241999">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c8741a45-206f-4253-89be-6cc74f6d936f/console_6.sql" timestamp="1591198165964">
         <mark key="'" line="0" column="10" />
-        <mark key="[" line="2" column="21" />
-        <mark key="]" line="0" column="11" />
-        <mark key="." line="0" column="10" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
         <mark key="^" line="0" column="11" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/e99ba6d1-1bba-466e-ba54-c178dd26c45e/console.sql" timestamp="1591039215087">
@@ -307,8 +307,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>42146</text>
+      <register name="&quot;" type="2">
+        <text>--         and alert_entity_state = 'OK'</text>
       </register>
       <register name="-" type="4">
         <text>42146</text>
@@ -320,33 +320,33 @@
         <text encoding="base64">ICAgIHByaW50KCJHZXR0aW5nIHJlY292ZXJ5IGFsZXJ0IGRhdGEuLi4iKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLAo=</text>
+        <text>--         and alert_entity_state = 'OK'</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aWYgZG9fdmFsaWRhdGlvbi52YWx1ZToK</text>
+        <text encoding="base64">ICAgIHdoZXJlIG9yZ19pZCA9IDQwODM5CiAgICAgICAgYW5kIGluY2lkZW50X2lkID0gMzkzNAo=</text>
       </register>
       <register name="3" type="2">
-        <text>else:
-    display_affected_customer_data(missing_df)</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLAo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">aWYgZG9fdmFsaWRhdGlvbi52YWx1ZToK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>else:
+    display_affected_customer_data(missing_df)</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">aWYgZG9fdmFsaWRhdGlvbi52YWx1ZToK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text>else:
     print(missing_df.org_id.unique())</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50KGYiUm93cyA9IHtyb3dzfSIpCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50KGYiQ1VSU09SID0ge2N1cn0iKQo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSB0aW1lIGltcG9ydCBzbGVlcAo=</text>
+        <text encoding="base64">ICAgIHByaW50KGYiUm93cyA9IHtyb3dzfSIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
