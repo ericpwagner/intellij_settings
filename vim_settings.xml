@@ -106,12 +106,13 @@
       <file name="vim_settings.xml" timestamp="1590763003393">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1591136068309">
+      <file name="/Dummy.txt" timestamp="1591204512397">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1591195762649">
+      <file name="/Python Console" timestamp="1591204191558">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="41" column="6" />
         <mark key="^" line="41" column="6" />
         <mark key="." line="41" column="6" />
@@ -199,7 +200,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="500" column="12" filename="$USER_HOME$/GitLab/jmeter/tests/data_analytics_team/dat_verbose_high_volume_playground.jmx" />
       <jump line="12" column="0" filename="$USER_HOME$/Library/Application Support/iTerm2/Scripts/ssh_tunnels.py" />
       <jump line="150" column="0" filename="/se_736_research.ipynb" />
       <jump line="243" column="22" filename="/SE-736_analysis.ipynb" />
@@ -299,6 +299,7 @@
       <jump line="48" column="0" filename="$USER_HOME$/GitHub/data_misc/analysis_misc/.env" />
       <jump line="446" column="41" filename="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736_resolves.ipynb" />
       <jump line="0" column="10" filename="$APPLICATION_CONFIG_DIR$/consoles/db/c8741a45-206f-4253-89be-6cc74f6d936f/console_6.sql" />
+      <jump line="35" column="36" filename="$USER_HOME$/GitLab/replay-tools/alert_core_replay/athena/process_resolves_at_only.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
