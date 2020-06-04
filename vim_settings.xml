@@ -87,106 +87,53 @@
         <text>ctrl pressed T</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text>ctrl pressed E</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed BACK_SLASH</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed BACK_SLASH</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1591289520561">
+      <file name="vim_settings.xml" timestamp="1590763003393">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1591290154719">
+      <file name="/Python Console" timestamp="1590689127796">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="41" column="6" />
         <mark key="^" line="41" column="6" />
         <mark key="." line="41" column="6" />
       </file>
-      <file name="/console" timestamp="1591221263316">
+      <file name="$USER_HOME$/GitLab/alert-core/alert-core-server/app/victorops/alertcore/reporting/ReportingJsonSerializers.scala" timestamp="1590766165283" />
+      <file name="/console" timestamp="1591114449063">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736-acks.ipynb" timestamp="1591114849557">
-        <mark key="'" line="164" column="0" />
-        <mark key="[" line="174" column="14" />
-        <mark key="]" line="186" column="6" />
-        <mark key="." line="174" column="0" />
-        <mark key="^" line="161" column="0" />
-      </file>
-      <file name="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736_resolves.ipynb" timestamp="1591221317011">
-        <mark key="'" line="449" column="41" />
-        <mark key="[" line="374" column="11" />
-        <mark key="]" line="43" column="47" />
-        <mark key="." line="43" column="47" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/044e28c2-f35f-4fff-b858-d01f3fe770cc/console_1.sql" timestamp="1591132293913">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/GitLab/data/Makefile" timestamp="1591049098783">
-        <mark key="[" line="4" column="53" />
-        <mark key="]" line="4" column="45" />
-        <mark key="." line="4" column="44" />
-        <mark key="^" line="4" column="45" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c8741a45-206f-4253-89be-6cc74f6d936f/console_6.sql" timestamp="1591198165964">
-        <mark key="'" line="0" column="10" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="0" column="11" />
-      </file>
-      <file name="/" timestamp="1591290998162">
+      <file name="/a.sql" timestamp="1591117854430">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/console_6" timestamp="1591221264733">
+      <file name="$USER_HOME$/GitHub/data_misc/analysis_misc/.env" timestamp="1591117317519">
+        <mark key="'" line="40" column="0" />
+        <mark key="[" line="51" column="25" />
+        <mark key="]" line="52" column="30" />
+        <mark key="." line="52" column="29" />
+        <mark key="^" line="52" column="30" />
+      </file>
+      <file name="/Dummy.json" timestamp="1590699491770">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.sql" timestamp="1591131734247">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/console_1" timestamp="1591221264688">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/GitLab/replay-tools/alert_core_replay/athena/process_resolves_at_only.py" timestamp="1591290927243">
-        <mark key="[" line="26" column="44" />
-        <mark key="]" line="26" column="44" />
-        <mark key="." line="26" column="44" />
-        <mark key="^" line="86" column="59" />
-      </file>
-      <file name="$USER_HOME$/GitLab/replay-tools/alert_core_replay/athena/reconstruct.py" timestamp="1591218353622">
-        <mark key="[" line="3" column="14" />
-      </file>
-      <file name="$USER_HOME$/GitHub/data_misc/analysis_misc/.env" timestamp="1591212494151">
-        <mark key="'" line="48" column="0" />
-        <mark key="[" line="62" column="13" />
-        <mark key="]" line="49" column="54" />
-        <mark key="." line="49" column="53" />
-        <mark key="^" line="49" column="54" />
-      </file>
-      <file name="$USER_HOME$/GitHub/data_misc/analysis_misc/db_common.py" timestamp="1591195251618">
-        <mark key="'" line="132" column="0" />
-        <mark key="[" line="147" column="24" />
-        <mark key="]" line="148" column="0" />
-        <mark key="." line="148" column="0" />
-        <mark key="^" line="149" column="15" />
-      </file>
-      <file name="/Dummy.json" timestamp="1591221257151">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="18" column="24" />
-        <mark key="." line="18" column="24" />
+      <file name="$USER_HOME$/GitHub/data_misc/analysis_misc/db_common.py" timestamp="1591121413591">
+        <mark key="'" line="133" column="0" />
+        <mark key="]" line="55" column="58" />
+        <mark key="." line="55" column="57" />
+        <mark key="^" line="55" column="58" />
       </file>
       <file name="$USER_HOME$/GitHub/data_misc/analysis_misc/Pipfile" timestamp="1591121692468">
         <mark key="[" line="13" column="13" />
@@ -201,8 +148,56 @@
         <mark key="." line="776" column="0" />
         <mark key="^" line="776" column="1" />
       </file>
+      <file name="/Dummy.txt" timestamp="1591117854449">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736-acks.ipynb" timestamp="1591114849557">
+        <mark key="'" line="164" column="0" />
+        <mark key="[" line="174" column="14" />
+        <mark key="]" line="186" column="6" />
+        <mark key="." line="174" column="0" />
+        <mark key="^" line="161" column="0" />
+      </file>
+      <file name="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736_resolves.ipynb" timestamp="1591121427786">
+        <mark key="'" line="180" column="0" />
+        <mark key="[" line="184" column="51" />
+        <mark key="]" line="15" column="16" />
+        <mark key="." line="15" column="15" />
+        <mark key="^" line="15" column="16" />
+      </file>
+      <file name="$USER_HOME$/GitLab/data/Makefile" timestamp="1591049098783">
+        <mark key="[" line="4" column="53" />
+        <mark key="]" line="4" column="45" />
+        <mark key="." line="4" column="44" />
+        <mark key="^" line="4" column="45" />
+      </file>
+      <file name="/" timestamp="1590679960416">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/console_5" timestamp="1590701679990">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/console_1" timestamp="1591114449119">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/e99ba6d1-1bba-466e-ba54-c178dd26c45e/console.sql" timestamp="1591039215087">
+        <mark key="[" line="0" column="14" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/GitLab/alert-core/alert-core-server/app/victorops/alertcore/query/IncidentsQueryDao.scala" timestamp="1590766184707" />
+      <file name="$USER_HOME$/GitLab/replay-tools/alert_core_replay/athena/reconstruct.py" timestamp="1591118669078">
+        <mark key="[" line="3" column="14" />
+      </file>
     </filemarks>
     <jumps>
+      <jump line="1593" column="4" filename="$USER_HOME$/GitLab/jmeter/tests/data_analytics_team/dat_verbose_high_volume_playground.jmx" />
+      <jump line="1166" column="12" filename="$USER_HOME$/GitLab/jmeter/tests/data_analytics_team/dat_verbose_high_volume_playground.jmx" />
+      <jump line="1017" column="4" filename="$USER_HOME$/GitLab/jmeter/tests/data_analytics_team/dat_verbose_high_volume_playground.jmx" />
+      <jump line="1090" column="10" filename="$USER_HOME$/GitLab/jmeter/tests/data_analytics_team/dat_verbose_high_volume_playground.jmx" />
+      <jump line="500" column="12" filename="$USER_HOME$/GitLab/jmeter/tests/data_analytics_team/dat_verbose_high_volume_playground.jmx" />
       <jump line="12" column="0" filename="$USER_HOME$/Library/Application Support/iTerm2/Scripts/ssh_tunnels.py" />
       <jump line="150" column="0" filename="/se_736_research.ipynb" />
       <jump line="243" column="22" filename="/SE-736_analysis.ipynb" />
@@ -298,53 +293,48 @@
       <jump line="304" column="30" filename="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736_resolves.ipynb" />
       <jump line="133" column="0" filename="$USER_HOME$/GitHub/data_misc/analysis_misc/db_common.py" />
       <jump line="180" column="0" filename="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736_resolves.ipynb" />
-      <jump line="55" column="0" filename="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736_resolves.ipynb" />
-      <jump line="48" column="0" filename="$USER_HOME$/GitHub/data_misc/analysis_misc/.env" />
-      <jump line="446" column="41" filename="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736_resolves.ipynb" />
-      <jump line="0" column="10" filename="$APPLICATION_CONFIG_DIR$/consoles/db/c8741a45-206f-4253-89be-6cc74f6d936f/console_6.sql" />
-      <jump line="35" column="36" filename="$USER_HOME$/GitLab/replay-tools/alert_core_replay/athena/process_resolves_at_only.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>[3:-4]</text>
+        <text>b</text>
       </register>
       <register name="-" type="4">
-        <text>[3:-4]</text>
+        <text>b</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YWx1ZVw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGN1ci5leGVjdXRlKGYnJycKc2VsZWN0Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">ZGVmIHJ1bl9zcWwoZGJfY29ubjogcHlteXNxbC5jb25uZWN0aW9ucy5Db25uZWN0aW9uLCBzcWw6IHN0ciwKICAgICAgICAgICAgY3Vyc29yOiBUeXBlW0N1cnNvcl0gPSBDdXJzb3IsCiAgICAgICAgICAgIGFyZ3M6IE9wdGlvbmFsW1VuaW9uW1R1cGxlW3N0cl0sIExpc3RbTGlzdFtBbnldXV1dID0gTm9uZSkgLT4gQW55OgogICAgIiIiIFJ1biBhIFNRTCBzdGF0ZW1lbnQgIiIiCiAgICBjdXIgPSBjdXJzb3IoZGJfY29ubikKICAgIGN1ci5leGVjdXRlKHNxbCwgYXJncz1hcmdzKQogICAgcm93cyA9IGN1ci5mZXRjaGFsbCgpCiAgICBjdXIuY2xvc2UoKQogICAgcmV0dXJuIHJvd3MK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBldmVudF9hdD1yZXNvbHZlZF9hdCwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1heF9hbGxvd2VkX3BhY2tldD0zMiAqIDEwMjQgKiAxMDI0KQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBvcmdfaWQ9b3JnX2lkLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJpbmFyeV9wcmVmaXg9VHJ1ZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbm5lY3RfdGltZW91dD01LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgYXV0b2NvbW1pdD1UcnVlLAo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0cmFuc2FjdGlvbl9pZD12X3V1aWQsCg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkYXRhPWRhdGEsCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChmIkNvbm5lY3Rpb24gKHN0Z19jb3JlX2RiX2Nvbm4pIGVzdGFibGlzaGVkIHRvIHtzdGdfdm9kYXRfZGJfY29ubl92YXJzLmRiX25hbWV9IG9uIGhvc3Qge3N0Z19jb3JlX2RiX2Nvbm5fdmFycy5kYl9ob3N0fSIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbmNpZGVudF9kZXRhaWxzPWRldGFpbHMsCg==</text>
+        <text>select * from fact_alert_v1 limit 5</text>
       </register>
       <register name="6" type="2">
-        <text>Add required event_at timestamp and set quality score to 3</text>
+        <text>select * from fact_alert_v1 limit 5</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJXYWl0aW5nIGZvciBpbi1mbGlnaHQgaW5jaWRlbnRzIHRvIGNvbXBsZXRlIGJlZm9yZSBkb2luZyB2YWxpZGF0aW9uICgxIG1pbnV0ZSkiKQo=</text>
+        <text encoding="base64">ICAgICAgICBhbmQgdHJhbnNpdGlvbmVkX2F0IDw9ICd7c3RyKGVuZF9kYXRlLnZhbHVlKVs6LTZdfScK</text>
       </register>
       <register name="8" type="2">
-        <text>--         and alert_entity_state = 'OK'</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kIHRyYW5zaXRpb25lZF9hdCA8PSAne3N0cihlbmRfZGF0ZS52YWx1ZSlbOi02XX0nCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHdoZXJlIG9yZ19pZCA9IDQwODM5CiAgICAgICAgYW5kIGluY2lkZW50X2lkID0gMzkzNAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kIHRyYW5zaXRpb25lZF9hdCA8PSAne3N0cihlbmRfZGF0ZS52YWx1ZSlbOi02XX0nCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
