@@ -148,7 +148,7 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="0" column="11" />
       </file>
-      <file name="/" timestamp="1591134759431">
+      <file name="/" timestamp="1591290998162">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/console_6" timestamp="1591221264733">
@@ -160,10 +160,10 @@
       <file name="/console_1" timestamp="1591221264688">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GitLab/replay-tools/alert_core_replay/athena/process_resolves_at_only.py" timestamp="1591289829506">
+      <file name="$USER_HOME$/GitLab/replay-tools/alert_core_replay/athena/process_resolves_at_only.py" timestamp="1591290927243">
         <mark key="[" line="26" column="44" />
-        <mark key="]" line="86" column="59" />
-        <mark key="." line="86" column="58" />
+        <mark key="]" line="26" column="44" />
+        <mark key="." line="26" column="44" />
         <mark key="^" line="86" column="59" />
       </file>
       <file name="$USER_HOME$/GitLab/replay-tools/alert_core_replay/athena/reconstruct.py" timestamp="1591218353622">
@@ -308,10 +308,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>[3:-4]</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>[3:-4]</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YWx1ZVw+</text>
