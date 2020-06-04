@@ -125,8 +125,8 @@
         <mark key="^" line="161" column="0" />
       </file>
       <file name="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736_resolves.ipynb" timestamp="1591221317011">
-        <mark key="'" line="448" column="41" />
-        <mark key="[" line="373" column="11" />
+        <mark key="'" line="449" column="41" />
+        <mark key="[" line="374" column="11" />
         <mark key="]" line="43" column="47" />
         <mark key="." line="43" column="47" />
       </file>
@@ -160,11 +160,11 @@
       <file name="/console_1" timestamp="1591221264688">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GitLab/replay-tools/alert_core_replay/athena/process_resolves_at_only.py" timestamp="1591286596552">
-        <mark key="[" line="86" column="39" />
-        <mark key="]" line="24" column="34" />
-        <mark key="^" line="24" column="34" />
-        <mark key="." line="24" column="33" />
+      <file name="$USER_HOME$/GitLab/replay-tools/alert_core_replay/athena/process_resolves_at_only.py" timestamp="1591288151920">
+        <mark key="[" line="83" column="30" />
+        <mark key="]" line="83" column="31" />
+        <mark key="." line="83" column="31" />
+        <mark key="^" line="84" column="20" />
       </file>
       <file name="$USER_HOME$/GitLab/replay-tools/alert_core_replay/athena/reconstruct.py" timestamp="1591218353622">
         <mark key="[" line="3" column="14" />
@@ -308,10 +308,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YWx1ZVw+</text>
@@ -320,32 +320,31 @@
         <text encoding="base64">ICAgIGN1ci5leGVjdXRlKGYnJycKc2VsZWN0Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbmNpZGVudF9kZXRhaWxzPWRldGFpbHMsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBldmVudF9hdD1yZXNvbHZlZF9hdCwK</text>
       </register>
       <register name="2" type="2">
-        <text>Add required event_at timestamp and set quality score to 3</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBvcmdfaWQ9b3JnX2lkLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJXYWl0aW5nIGZvciBpbi1mbGlnaHQgaW5jaWRlbnRzIHRvIGNvbXBsZXRlIGJlZm9yZSBkb2luZyB2YWxpZGF0aW9uICgxIG1pbnV0ZSkiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0cmFuc2FjdGlvbl9pZD12X3V1aWQsCg==</text>
       </register>
       <register name="4" type="2">
-        <text>--         and alert_entity_state = 'OK'</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkYXRhPWRhdGEsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHdoZXJlIG9yZ19pZCA9IDQwODM5CiAgICAgICAgYW5kIGluY2lkZW50X2lkID0gMzkzNAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbmNpZGVudF9kZXRhaWxzPWRldGFpbHMsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLAo=</text>
+        <text>Add required event_at timestamp and set quality score to 3</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aWYgZG9fdmFsaWRhdGlvbi52YWx1ZToK</text>
+        <text encoding="base64">ICAgIHByaW50KCJXYWl0aW5nIGZvciBpbi1mbGlnaHQgaW5jaWRlbnRzIHRvIGNvbXBsZXRlIGJlZm9yZSBkb2luZyB2YWxpZGF0aW9uICgxIG1pbnV0ZSkiKQo=</text>
       </register>
       <register name="8" type="2">
-        <text>else:
-    display_affected_customer_data(missing_df)</text>
+        <text>--         and alert_entity_state = 'OK'</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aWYgZG9fdmFsaWRhdGlvbi52YWx1ZToK</text>
+        <text encoding="base64">ICAgIHdoZXJlIG9yZ19pZCA9IDQwODM5CiAgICAgICAgYW5kIGluY2lkZW50X2lkID0gMzkzNAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
