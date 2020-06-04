@@ -112,8 +112,10 @@
       <file name="/console" timestamp="1591291081457">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GitLab/replay-tools/alert_core_replay/athena/send_to_kinesis.py" timestamp="1591302840090">
-        <mark key="[" line="21" column="0" />
+      <file name="$USER_HOME$/GitLab/replay-tools/alert_core_replay/athena/send_to_kinesis.py" timestamp="1591304254195">
+        <mark key="[" line="6" column="33" />
+        <mark key="]" line="6" column="33" />
+        <mark key="." line="6" column="33" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c8741a45-206f-4253-89be-6cc74f6d936f/console_6.sql" timestamp="1591198165964">
         <mark key="'" line="0" column="10" />
@@ -157,7 +159,7 @@
         <mark key="." line="776" column="0" />
         <mark key="^" line="776" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1591303372936">
+      <file name="/Dummy.txt" timestamp="1591303527709">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -193,12 +195,16 @@
       <file name="/console_1" timestamp="1591291081489">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GitLab/replay-tools/alert_core_replay/athena/process_resolves_at_only.py" timestamp="1591302893884">
-        <mark key="[" line="87" column="39" />
+      <file name="$USER_HOME$/GitLab/replay-tools/alert_core_replay/athena/process_resolves_at_only.py" timestamp="1591304640557">
+        <mark key="[" line="27" column="44" />
+        <mark key="]" line="27" column="56" />
+        <mark key="^" line="27" column="56" />
+        <mark key="." line="27" column="55" />
       </file>
       <file name="$USER_HOME$/GitLab/replay-tools/alert_core_replay/athena/reconstruct.py" timestamp="1591292449208">
         <mark key="[" line="40" column="20" />
       </file>
+      <file name="$USER_HOME$/GitLab/replay-tools/alert_core_replay/athena/send_to_kinesis.sh" timestamp="1591303961777" />
     </filemarks>
     <jumps>
       <jump line="1593" column="4" filename="$USER_HOME$/GitLab/jmeter/tests/data_analytics_team/dat_verbose_high_volume_playground.jmx" />
@@ -306,10 +312,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>[0][0]</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>[0][0]</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YWx1ZVw+</text>
@@ -318,31 +324,32 @@
         <text encoding="base64">ZGVmIHJ1bl9zcWwoZGJfY29ubjogcHlteXNxbC5jb25uZWN0aW9ucy5Db25uZWN0aW9uLCBzcWw6IHN0ciwKICAgICAgICAgICAgY3Vyc29yOiBUeXBlW0N1cnNvcl0gPSBDdXJzb3IsCiAgICAgICAgICAgIGFyZ3M6IE9wdGlvbmFsW1VuaW9uW1R1cGxlW3N0cl0sIExpc3RbTGlzdFtBbnldXV1dID0gTm9uZSkgLT4gQW55OgogICAgIiIiIFJ1biBhIFNRTCBzdGF0ZW1lbnQgIiIiCiAgICBjdXIgPSBjdXJzb3IoZGJfY29ubikKICAgIGN1ci5leGVjdXRlKHNxbCwgYXJncz1hcmdzKQogICAgcm93cyA9IGN1ci5mZXRjaGFsbCgpCiAgICBjdXIuY2xvc2UoKQogICAgcmV0dXJuIHJvd3MK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGJhc2U2NAo=</text>
+        <text encoding="base64">ICAgICAgICAnRXhwbGljaXRIYXNoS2V5JzogJ3N0cmluZycsCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICBlY2hvCg==</text>
+      <register name="2" type="4">
+        <text>b64encode(s.encode('utf-8')),
+        'Expl</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBlY2hvICRiYXNlNjRfZW5jb2RlZF9wYXlsb2FkCg==</text>
+        <text encoding="base64">aW1wb3J0IGJhc2U2NAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZG8K</text>
+        <text encoding="base64">ICBlY2hvCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZWNobyAkaW5wdXQK</text>
+        <text encoding="base64">ICBlY2hvICRiYXNlNjRfZW5jb2RlZF9wYXlsb2FkCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBhd3Mga2luZXNpcyBwdXQtcmVjb3JkIC0tc3RyZWFtLW5hbWU9JFNUUkVBTV9OQU1FCg==</text>
+        <text encoding="base64">ZG8K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgYXdzIGNvbW1hbmQgaGVyZQo=</text>
+        <text encoding="base64">ZWNobyAkaW5wdXQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1heF9hbGxvd2VkX3BhY2tldD0zMiAqIDEwMjQgKiAxMDI0KQo=</text>
+        <text encoding="base64">ICBhd3Mga2luZXNpcyBwdXQtcmVjb3JkIC0tc3RyZWFtLW5hbWU9JFNUUkVBTV9OQU1FCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJpbmFyeV9wcmVmaXg9VHJ1ZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbm5lY3RfdGltZW91dD01LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgYXV0b2NvbW1pdD1UcnVlLAo=</text>
+        <text encoding="base64">ICAgICMgYXdzIGNvbW1hbmQgaGVyZQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
