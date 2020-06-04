@@ -106,6 +106,9 @@
       <file name="/console" timestamp="1591291081457">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/GitLab/replay-tools/alert_core_replay/athena/send_to_kinesis.py" timestamp="1591302754762">
+        <mark key="[" line="19" column="50" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c8741a45-206f-4253-89be-6cc74f6d936f/console_6.sql" timestamp="1591198165964">
         <mark key="'" line="0" column="10" />
         <mark key="[" line="2" column="0" />
@@ -184,18 +187,8 @@
       <file name="/console_1" timestamp="1591291081489">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GitLab/replay-tools/alert_core_replay/athena/process_resolves_at_only.py" timestamp="1591298558218">
-        <mark key="]" line="87" column="29" />
-        <mark key="." line="87" column="29" />
-      </file>
       <file name="$USER_HOME$/GitLab/replay-tools/alert_core_replay/athena/reconstruct.py" timestamp="1591292449208">
-        <mark key="[" line="41" column="20" />
-      </file>
-      <file name="$USER_HOME$/GitLab/replay-tools/alert_core_replay/athena/send_to_kinesis.sh" timestamp="1591296119995">
-        <mark key="[" line="9" column="64" />
-        <mark key="]" line="9" column="63" />
-        <mark key="." line="9" column="62" />
-        <mark key="^" line="9" column="63" />
+        <mark key="[" line="40" column="20" />
       </file>
     </filemarks>
     <jumps>
