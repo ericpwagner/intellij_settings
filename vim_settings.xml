@@ -103,7 +103,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Python Console" timestamp="1591380499922">
+      <file name="/Python Console" timestamp="1591381516876">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="41" column="6" />
         <mark key="^" line="41" column="6" />
@@ -141,10 +141,10 @@
         <mark key="." line="55" column="57" />
         <mark key="^" line="55" column="58" />
       </file>
-      <file name="/Dummy.json" timestamp="1591380507236">
+      <file name="/Dummy.json" timestamp="1591381676113">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="162" column="24" />
-        <mark key="." line="162" column="24" />
+        <mark key="]" line="0" column="4302" />
+        <mark key="." line="0" column="4302" />
       </file>
       <file name="$USER_HOME$/GitHub/data_misc/analysis_misc/Pipfile" timestamp="1591121692468">
         <mark key="[" line="13" column="13" />
@@ -304,10 +304,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>resolved_by</text>
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>resolved_by</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YWx1ZVw+</text>
