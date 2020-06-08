@@ -159,9 +159,9 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736_resolves.ipynb" timestamp="1591291142683">
+      <file name="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736_resolves.ipynb" timestamp="1591643233487">
         <mark key="'" line="180" column="0" />
-        <mark key="[" line="55" column="22" />
+        <mark key="[" line="225" column="31" />
         <mark key="]" line="55" column="27" />
         <mark key="." line="55" column="26" />
         <mark key="^" line="55" column="27" />
@@ -171,8 +171,8 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GitHub/data-db-loader/db_loader/entry/adhoc_kinesis_lambda.py" timestamp="1591372040717">
-        <mark key="[" line="97" column="95" />
+      <file name="$USER_HOME$/GitHub/data-db-loader/db_loader/entry/adhoc_kinesis_lambda.py" timestamp="1591643054051">
+        <mark key="[" line="97" column="99" />
         <mark key="]" line="107" column="7" />
         <mark key="^" line="107" column="7" />
         <mark key="." line="107" column="6" />
@@ -186,10 +186,10 @@
       <file name="/console_1" timestamp="1591291081489">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GitLab/replay-tools/alert_core_replay/athena/process_resolves_at_only.py" timestamp="1591642646137">
-        <mark key="[" line="37" column="22" />
+      <file name="$USER_HOME$/GitLab/replay-tools/alert_core_replay/athena/process_resolves_at_only.py" timestamp="1591643100931">
+        <mark key="[" line="74" column="49" />
         <mark key="]" line="37" column="0" />
-        <mark key="^" line="37" column="89" />
+        <mark key="^" line="37" column="41" />
         <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/GitLab/replay-tools/alert_core_replay/athena/reconstruct.py" timestamp="1591292449208">
@@ -304,7 +304,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGYiT3JnIG10dHIgPSB7b3JnX210dHJfc2Vjb25kc30iKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KHJvdy5maXJzdF9hbGVydF9hdCkK</text>
       </register>
       <register name="-" type="4">
         <text>print(f&quot;Seconds = {seconds.avg}&quot;)</text>
@@ -316,31 +316,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCJHZXR0aW5nIGluY2lkZW50IikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGYiT3JnIG10dHIgPSB7b3JnX210dHJfc2Vjb25kc30iKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KHJvdy5maXJzdF9hbGVydF9hdCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGYiUm93ID0ge3Jvd30iKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGYiT3JnIG10dHIgPSB7b3JnX210dHJfc2Vjb25kc30iKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KGYiTVRUUiBxdWVyeSA9IHtxdWVyeX0iKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGYiUm93ID0ge3Jvd30iKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHByaW50KGYiTVRUUiBxdWVyeSA9IHtxdWVyeX0iKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">c2VsZWN0IGF2ZyhFWFRSQUNUKEVQT0NIIEZST00gcmVzb2x2ZWRfYXQpIC0gRVhUUkFDVChFUE9DSCBGUk9NIGFja2VkX2F0KSkKZnJvbSB2b19kYXRhX2FuYWx5dGljcy5mYWN0X2luY2lkZW50X2N1cnJfdjEKd2hlcmUgb3JnX2lkID0gMQogIGFuZCB0cmFuc2l0aW9uZWRfYXQgYmV0d2VlbiAoREFURSgnJzIwMjAtMDYtMDhUMTY6MTM6NTcuODAyJycpIC0gSU5URVJWQUwgJycxNSBkYXlzJycpIGFuZCAoREFURSgnJzIwMjAtMDYtMDhUMTY6MTM6NTcuODAyJycpICsgSU5URVJWQUwgJycxNSBkYXlzJycpCiAgYW5kIHJlc29sdmVkX2F0IGlzIG5vdCBudWxsCiAgYW5kIGFja2VkX2F0IGlzIG5vdCBudWxsCiAgYW5kIHJlc29sdmVkX2F0ID49IGFja2VkX2F0CiAgYW5kIHJvdXRpbmdfa2V5ID0gJydkZWZhdWx0Jyc=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c2VsZWN0IGF2ZyhFWFRSQUNUKEVQT0NIIEZST00gcmVzb2x2ZWRfYXQpIC0gRVhUUkFDVChFUE9DSCBGUk9NIGFja2VkX2F0KSkKZnJvbSB2b19kYXRhX2FuYWx5dGljcy5mYWN0X2luY2lkZW50X2N1cnJfdjEKd2hlcmUgb3JnX2lkID0gMQogIGFuZCB0cmFuc2l0aW9uZWRfYXQgYmV0d2VlbiAoREFURSgnJzIwMjAtMDYtMDhUMTY6MTM6NTcuODAyJycpIC0gSU5URVJWQUwgJycxNSBkYXlzJycpIGFuZCAoREFURSgnJzIwMjAtMDYtMDhUMTY6MTM6NTcuODAyJycpICsgSU5URVJWQUwgJycxNSBkYXlzJycpCiAgYW5kIHJlc29sdmVkX2F0IGlzIG5vdCBudWxsCiAgYW5kIGFja2VkX2F0IGlzIG5vdCBudWxsCiAgYW5kIHJlc29sdmVkX2F0ID49IGFja2VkX2F0CiAgYW5kIHJvdXRpbmdfa2V5ID0gJydkZWZhdWx0Jyc=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
