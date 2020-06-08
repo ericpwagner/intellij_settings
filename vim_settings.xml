@@ -159,11 +159,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736_resolves.ipynb" timestamp="1591644571554">
+      <file name="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736_resolves.ipynb" timestamp="1591646814917">
         <mark key="'" line="180" column="0" />
-        <mark key="[" line="518" column="12" />
-        <mark key="]" line="55" column="27" />
-        <mark key="." line="55" column="26" />
+        <mark key="[" line="520" column="4" />
+        <mark key="]" line="520" column="4" />
+        <mark key="." line="520" column="4" />
         <mark key="^" line="55" column="27" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/044e28c2-f35f-4fff-b858-d01f3fe770cc/console_1.sql" timestamp="1591132293913">
@@ -303,11 +303,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KHJvdy5maXJzdF9hbGVydF9hdCkK</text>
+      <register name="&quot;" type="4">
+        <text>findings_df</text>
       </register>
       <register name="-" type="4">
-        <text>print(f&quot;Seconds = {seconds.avg}&quot;)</text>
+        <text>findings_df</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YWx1ZVw+</text>
