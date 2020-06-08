@@ -103,7 +103,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Python Console" timestamp="1591627173132">
+      <file name="/Python Console" timestamp="1591628538114">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="41" column="6" />
         <mark key="^" line="41" column="6" />
@@ -123,9 +123,6 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
         <mark key="^" line="0" column="11" />
-      </file>
-      <file name="/a.sql" timestamp="1591117854430">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/GitHub/data_misc/analysis_misc/.env" timestamp="1591303040439">
         <mark key="'" line="40" column="0" />
@@ -180,17 +177,20 @@
         <mark key="^" line="107" column="7" />
         <mark key="." line="107" column="6" />
       </file>
+      <file name="/" timestamp="1591628376387">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/console_6" timestamp="1591291081550">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/console_1" timestamp="1591291081489">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GitLab/replay-tools/alert_core_replay/athena/process_resolves_at_only.py" timestamp="1591626992234">
-        <mark key="[" line="147" column="24" />
-        <mark key="]" line="60" column="54" />
-        <mark key="^" line="60" column="54" />
-        <mark key="." line="60" column="53" />
+      <file name="$USER_HOME$/GitLab/replay-tools/alert_core_replay/athena/process_resolves_at_only.py" timestamp="1591628668598">
+        <mark key="[" line="148" column="21" />
+        <mark key="]" line="148" column="19" />
+        <mark key="^" line="148" column="19" />
+        <mark key="." line="148" column="18" />
       </file>
       <file name="$USER_HOME$/GitLab/replay-tools/alert_core_replay/athena/reconstruct.py" timestamp="1591292449208">
         <mark key="[" line="40" column="20" />
@@ -304,10 +304,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>'</text>
+        <text>row</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>row</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YWx1ZVw+</text>
