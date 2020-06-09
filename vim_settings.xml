@@ -120,12 +120,12 @@
       <file name="/console" timestamp="1591674399602">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736_resolves.ipynb" timestamp="1591674661580">
+      <file name="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736_resolves.ipynb" timestamp="1591675011436">
         <mark key="'" line="180" column="0" />
-        <mark key="[" line="43" column="58" />
-        <mark key="]" line="364" column="0" />
-        <mark key="." line="364" column="0" />
-        <mark key="^" line="55" column="27" />
+        <mark key="[" line="225" column="52" />
+        <mark key="]" line="225" column="31" />
+        <mark key="." line="225" column="30" />
+        <mark key="^" line="225" column="31" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/044e28c2-f35f-4fff-b858-d01f3fe770cc/console_1.sql" timestamp="1591132293913">
         <mark key="[" line="0" column="0" />
