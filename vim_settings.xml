@@ -103,7 +103,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1591731181397">
+      <file name="/Dummy.txt" timestamp="1591742210200">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -136,8 +136,8 @@
         <mark key="^" line="23" column="40" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/GitHub/data-db-loader/db_loader/entry/adhoc_kinesis_lambda.py" timestamp="1591643054051">
-        <mark key="[" line="97" column="99" />
+      <file name="$USER_HOME$/GitHub/data-db-loader/db_loader/entry/adhoc_kinesis_lambda.py" timestamp="1591742170835">
+        <mark key="[" line="107" column="7" />
         <mark key="]" line="107" column="7" />
         <mark key="^" line="107" column="7" />
         <mark key="." line="107" column="6" />
@@ -163,10 +163,10 @@
       <file name="/console_1" timestamp="1591677730512">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GitLab/replay-tools/alert_core_replay/athena/process_resolves_at_only.py" timestamp="1591740711378">
-        <mark key="[" line="182" column="65" />
+      <file name="$USER_HOME$/GitLab/replay-tools/alert_core_replay/athena/process_resolves_at_only.py" timestamp="1591741949287">
+        <mark key="[" line="38" column="0" />
         <mark key="]" line="38" column="0" />
-        <mark key="^" line="29" column="41" />
+        <mark key="^" line="29" column="33" />
         <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/GitLab/replay-tools/alert_core_replay/athena/reconstruct.py" timestamp="1591292449208">
@@ -296,8 +296,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text>FIX LINT ERROR TOO MANY VARIABLES</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -309,31 +309,31 @@
         <text encoding="base64">CWRvY2tlciBydW4gLWl0IC0tcm1cCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CSAgICAgICAgICAgLXYgJChIT01FKS8uYXdzOi9yb290Ly5hd3NcCgkJCSAgIC12ICQoUFdEKTovYXBwIC13IC9hcHBcCgkJCSAgIC13IC9hcHBcCgkJCSAgIGRiX2xvYWRlci9zZXJ2ZXJsZXNzIC0tc3RhZ2UgJChBV1NfUFJPRklMRSkgZGVwbG95IGZ1bmN0aW9uIC0tZnVuY3Rpb24gYWxlcnRjb3JlX2tpbmVzaXNfYmFja2ZpbGw=</text>
+        <text>FIX LINT ERROR TOO MANY VARIABLES</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGYiQXNzdW1lZCByZXNvbHZlZCBhdDoge2Fzc3VtZWRfcmVzb2x2ZWRfYXR9IikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CSAgICAgICAgICAgLXYgJChIT01FKS8uYXdzOi9yb290Ly5hd3NcCgkJCSAgIC12ICQoUFdEKTovYXBwIC13IC9hcHBcCgkJCSAgIC13IC9hcHBc</text>
+        <text encoding="base64">ICAgIHByaW50KGYiIEFzc3VtZWQgcmVjIHRpbWUgPSB7c3RyKGFzc3VtZWRfdHRyLmlzb2Zvcm1hdCgpKVs6LTldICsgJ1onfSIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChmInJlc29sdmVkX2F0IGZyb2RkbSBjc3YgPSB7cmVzb2x2ZWRfYXR9IikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CWRvY2tlciBydW4gLWl0IC0tcm1cCgkgICAgICAgICAgIC12ICQoSE9NRSkvLmF3czovcm9vdC8uYXdzXAoJCQkgICAtdiAkKFBXRCk6L2FwcCAtdyAvYXBwXAoJCQkgICAtdyAvYXBwXAoJCQkgICBkYl9sb2FkZXIvc2VydmVybGVzcyAtLXN0YWdlICQoQVdTX1BST0ZJTEUpIGRlcGxveQ==</text>
+        <text encoding="base64">CSAgICAgICAgICAgLXYgJChIT01FKS8uYXdzOi9yb290Ly5hd3NcCgkJCSAgIC12ICQoUFdEKTovYXBwIC13IC9hcHBcCgkJCSAgIC13IC9hcHBcCgkJCSAgIGRiX2xvYWRlci9zZXJ2ZXJsZXNzIC0tc3RhZ2UgJChBV1NfUFJPRklMRSkgZGVwbG95IGZ1bmN0aW9uIC0tZnVuY3Rpb24gYWxlcnRjb3JlX2tpbmVzaXNfYmFja2ZpbGw=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGYiQXNzdW1lZCByZXNvbHZlZCBhdCA9IHthc3N1bWVkX3Jlc29sdmVkX2F0fSIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChmInJlc29sdmVkX2F0IGZyb20gY3N2IGZpZGRsZSA9IHtyZXNvbHZlZF9hdH0iKQo=</text>
+        <text encoding="base64">CSAgICAgICAgICAgLXYgJChIT01FKS8uYXdzOi9yb290Ly5hd3NcCgkJCSAgIC12ICQoUFdEKTovYXBwIC13IC9hcHBcCgkJCSAgIC13IC9hcHBc</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50KGYiaXNvODYwMSBwYXJzZWQgZGF0ZSBmcm9tIGZpc3J0X2FsZXJ0X2F0ID0ge3B5X2R0fSIpCg==</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50KGYiYmFjayB0byBpc286IHthc3N1bWVkX3R0ci5pc29mb3JtYXQoKX0sIHR5cGUgPXt0eXBlKGFzc3VtZWRfdHRyLmlzb2Zvcm1hdCgpKX0iKQo=</text>
+        <text encoding="base64">CWRvY2tlciBydW4gLWl0IC0tcm1cCgkgICAgICAgICAgIC12ICQoSE9NRSkvLmF3czovcm9vdC8uYXdzXAoJCQkgICAtdiAkKFBXRCk6L2FwcCAtdyAvYXBwXAoJCQkgICAtdyAvYXBwXAoJCQkgICBkYl9sb2FkZXIvc2VydmVybGVzcyAtLXN0YWdlICQoQVdTX1BST0ZJTEUpIGRlcGxveQ==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
