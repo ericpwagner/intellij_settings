@@ -142,13 +142,6 @@
         <mark key="^" line="107" column="7" />
         <mark key="." line="107" column="6" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c8741a45-206f-4253-89be-6cc74f6d936f/console_6.sql" timestamp="1591198165964">
-        <mark key="'" line="0" column="10" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="0" column="11" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/e8729eb7-7e90-475c-b5ee-b76b8f7b5577/console.sql" timestamp="1591677121337">
         <mark key="[" line="2" column="13" />
         <mark key="]" line="2" column="39" />
@@ -163,6 +156,7 @@
         <mark key="]" line="1" column="67" />
         <mark key="." line="1" column="67" />
       </file>
+      <file name="$USER_HOME$/GitLab/replay-tools/alert_core_replay/alert-core-cassandra/Makefile" timestamp="1591737915786" />
       <file name="/console_6" timestamp="1591677730543">
         <mark key="[" line="0" column="0" />
       </file>
@@ -178,11 +172,11 @@
       <file name="$USER_HOME$/GitLab/replay-tools/alert_core_replay/athena/reconstruct.py" timestamp="1591292449208">
         <mark key="[" line="40" column="20" />
       </file>
-      <file name="$USER_HOME$/GitHub/data-db-loader/Makefile" timestamp="1591736525749">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="20" />
-        <mark key="^" line="31" column="20" />
-        <mark key="." line="31" column="19" />
+      <file name="$USER_HOME$/GitHub/data-db-loader/Makefile" timestamp="1591738498118">
+        <mark key="[" line="34" column="119" />
+        <mark key="]" line="34" column="119" />
+        <mark key="^" line="34" column="43" />
+        <mark key="." line="34" column="119" />
       </file>
       <file name="$USER_HOME$/GitHub/data_misc/analysis_misc/.env" timestamp="1591303040439">
         <mark key="'" line="40" column="0" />
@@ -302,11 +296,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHdoaWNoIGRvY2tlcg==</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YWx1ZVw+</text>
@@ -315,31 +309,31 @@
         <text encoding="base64">CWRvY2tlciBydW4gLWl0IC0tcm1cCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CSAgICAgICAgICAgLXYgJChIT01FKS8uYXdzOi9yb290Ly5hd3NcCgkJCSAgIC12ICQoUFdEKTovYXBwIC13IC9hcHBcCgkJCSAgIC13IC9hcHBcCgkJCSAgIGRiX2xvYWRlci9zZXJ2ZXJsZXNzIC0tc3RhZ2UgJChBV1NfUFJPRklMRSkgZGVwbG95IGZ1bmN0aW9uIC0tZnVuY3Rpb24gYWxlcnRjb3JlX2tpbmVzaXNfYmFja2ZpbGw=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CSAgICAgICAgICAgLXYgJChIT01FKS8uYXdzOi9yb290Ly5hd3NcCgkJCSAgIC12ICQoUFdEKTovYXBwIC13IC9hcHBcCgkJCSAgIC13IC9hcHBc</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">CSAgICAgICAgICAgLXYgJChIT01FKS8uYXdzOi9yb290Ly5hd3NcCgkJCSAgIC12ICQoUFdEKTovYXBwIC13IC9hcHBcCgkJCSAgIC13IC9hcHBc</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CWRvY2tlciBydW4gLWl0IC0tcm1cCgkgICAgICAgICAgIC12ICQoSE9NRSkvLmF3czovcm9vdC8uYXdzXAoJCQkgICAtdiAkKFBXRCk6L2FwcCAtdyAvYXBwXAoJCQkgICAtdyAvYXBwXAoJCQkgICBkYl9sb2FkZXIvc2VydmVybGVzcyAtLXN0YWdlICQoQVdTX1BST0ZJTEUpIGRlcGxveQ==</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGYiQXNzdW1lZCByZXNvbHZlZCBhdCA9IHthc3N1bWVkX3Jlc29sdmVkX2F0fSIpCg==</text>
+        <text encoding="base64">CWRvY2tlciBydW4gLWl0IC0tcm1cCgkgICAgICAgICAgIC12ICQoSE9NRSkvLmF3czovcm9vdC8uYXdzXAoJCQkgICAtdiAkKFBXRCk6L2FwcCAtdyAvYXBwXAoJCQkgICAtdyAvYXBwXAoJCQkgICBkYl9sb2FkZXIvc2VydmVybGVzcyAtLXN0YWdlICQoQVdTX1BST0ZJTEUpIGRlcGxveQ==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChmInJlc29sdmVkX2F0IGZyb20gY3N2IGZpZGRsZSA9IHtyZXNvbHZlZF9hdH0iKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGYiQXNzdW1lZCByZXNvbHZlZCBhdCA9IHthc3N1bWVkX3Jlc29sdmVkX2F0fSIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50KGYiaXNvODYwMSBwYXJzZWQgZGF0ZSBmcm9tIGZpc3J0X2FsZXJ0X2F0ID0ge3B5X2R0fSIpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChmInJlc29sdmVkX2F0IGZyb20gY3N2IGZpZGRsZSA9IHtyZXNvbHZlZF9hdH0iKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50KGYiYmFjayB0byBpc286IHthc3N1bWVkX3R0ci5pc29mb3JtYXQoKX0sIHR5cGUgPXt0eXBlKGFzc3VtZWRfdHRyLmlzb2Zvcm1hdCgpKX0iKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KGYiaXNvODYwMSBwYXJzZWQgZGF0ZSBmcm9tIGZpc3J0X2FsZXJ0X2F0ID0ge3B5X2R0fSIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50KGYiQXNzdW1lZCByZWNvdmVyeSB0aW1lID0ge2Fzc3VtZWRfdHRyfSwgdHlwZSA9IHt0eXBlKGFzc3VtZWRfdHRyKX0iKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KGYiYmFjayB0byBpc286IHthc3N1bWVkX3R0ci5pc29mb3JtYXQoKX0sIHR5cGUgPXt0eXBlKGFzc3VtZWRfdHRyLmlzb2Zvcm1hdCgpKX0iKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
