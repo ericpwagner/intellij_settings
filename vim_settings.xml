@@ -108,11 +108,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/044e28c2-f35f-4fff-b858-d01f3fe770cc/console.sql" timestamp="1591642196237">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/044e28c2-f35f-4fff-b858-d01f3fe770cc/console.sql" timestamp="1591671037570" />
       <file name="/Python Console" timestamp="1591642759301">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="41" column="6" />
@@ -122,9 +118,9 @@
       <file name="/console" timestamp="1591661652599">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736_resolves.ipynb" timestamp="1591661686663">
+      <file name="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736_resolves.ipynb" timestamp="1591670982448">
         <mark key="'" line="180" column="0" />
-        <mark key="[" line="43" column="51" />
+        <mark key="[" line="229" column="59" />
         <mark key="]" line="364" column="0" />
         <mark key="." line="364" column="0" />
         <mark key="^" line="55" column="27" />
