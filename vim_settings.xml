@@ -103,13 +103,13 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1591718765048">
+      <file name="/Dummy.txt" timestamp="1591724261780">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/044e28c2-f35f-4fff-b858-d01f3fe770cc/console.sql" timestamp="1591680517345" />
-      <file name="/Python Console" timestamp="1591719330792">
+      <file name="/Python Console" timestamp="1591725029067">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="41" column="6" />
         <mark key="^" line="41" column="6" />
@@ -124,11 +124,11 @@
         <mark key="." line="6" column="26" />
         <mark key="^" line="5" column="23" />
       </file>
-      <file name="$USER_HOME$/GitLab/replay-tools/alert_core_replay/athena/send_to_kinesis.py" timestamp="1591721086375">
-        <mark key="[" line="26" column="12" />
-        <mark key="]" line="26" column="12" />
-        <mark key="." line="26" column="12" />
-        <mark key="^" line="26" column="0" />
+      <file name="$USER_HOME$/GitLab/replay-tools/alert_core_replay/athena/send_to_kinesis.py" timestamp="1591723613941">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="^" line="23" column="40" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/GitHub/data-db-loader/db_loader/entry/adhoc_kinesis_lambda.py" timestamp="1591643054051">
         <mark key="[" line="97" column="99" />
@@ -163,11 +163,11 @@
       <file name="/console_1" timestamp="1591677730512">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GitLab/replay-tools/alert_core_replay/athena/process_resolves_at_only.py" timestamp="1591682079871">
-        <mark key="[" line="44" column="32" />
-        <mark key="]" line="44" column="32" />
-        <mark key="^" line="173" column="31" />
-        <mark key="." line="44" column="32" />
+      <file name="$USER_HOME$/GitLab/replay-tools/alert_core_replay/athena/process_resolves_at_only.py" timestamp="1591725027632">
+        <mark key="[" line="38" column="147" />
+        <mark key="]" line="38" column="97" />
+        <mark key="^" line="38" column="97" />
+        <mark key="." line="38" column="96" />
       </file>
       <file name="$USER_HOME$/GitLab/replay-tools/alert_core_replay/athena/reconstruct.py" timestamp="1591292449208">
         <mark key="[" line="40" column="20" />
@@ -186,7 +186,7 @@
         <mark key="." line="55" column="57" />
         <mark key="^" line="55" column="58" />
       </file>
-      <file name="/Dummy.json" timestamp="1591682343932">
+      <file name="/Dummy.json" timestamp="1591725293781">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4302" />
         <mark key="." line="0" column="4302" />
@@ -303,8 +303,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>$USER_HOME$/GitLab/replay-tools/alert_core_replay/athena/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICMgcHJpbnQoZiJTdHJlYW0gPSB7c3RyZWFtX25hbWV9IikK</text>
       </register>
       <register name="-" type="4">
         <text>$USER_HOME$/GitLab/replay-tools/alert_core_replay/athena/</text>
@@ -316,32 +316,32 @@
         <text>eUsers/ewagner/GitLab/replay-tools/alert_core_replay/at</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGJhc2U2NAo=</text>
+        <text encoding="base64">ICAgICMgcHJpbnQoZiJTdHJlYW0gPSB7c3RyZWFtX25hbWV9IikK</text>
       </register>
       <register name="2" type="2">
-        <text />
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgIHByaW50KHJlY29yZHMpCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IGJhc2U2NAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text />
+      </register>
+      <register name="6" type="2">
         <text>Add in incident details to main function</text>
       </register>
-      <register name="4" type="4">
+      <register name="7" type="4">
         <text>)
     print(f&quot;Seconds = {secon</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CmRlZiBkaXNwbGF5X3Jhd19jb3VudHMocmVwX3JhdzogaW50LCBhY19yYXc6IGludCkgLT4gc3RyOgogICAgIiIiIE91dHB1dCBhbiBhbmFseXNpcyBvZiB0aGUgcmF3IGNvdW50cyAiIiIKICAgIGlmIHJlcF9yYXcgIT0gYWNfcmF3OgogICAgICAgIGlmIHJlcF9yYXcgPiBhY19yYXc6CiAgICAgICAgICAgIHBlcmMgPSBmIntzdHIoKChyZXBfcmF3IC0gYWNfcmF3KSAvIHJlcF9yYXcpKjEwMClbOjVdfSIKICAgICAgICAgICAgbWVzc2FnZSA9IGYie3BlcmN9JSBvZiB1bnJlc29sdmVkIGluY2lkZW50cyBpbiBmYWN0X2luY2lkZW50X2N1cnJfdjEgYXJlIGluY29ycmVjdCIKICAgICAgICBpZiByZXBfcmF3IDwgYWNfcmF3OgogICAgICAgICAgICBwZXJjID0gZiJ7c3RyKCgoYWNfcmF3IC0gcmVwX3JhdykgLyBhY19yYXcpKjEwMClbOjVdfSIKICAgICAgICAgICAgbWVzc2FnZSA9IGYie3BlcmN9JSBvZiBpbmNpZGVudHMgaW4gYWN0aXZlX2luY2lkZW50cyBhcmUgbWlzc2luZyBmcm9tIGZhY3RfaW5jaWRlbnRfY3Vycl92MSIKICAgIGVsc2U6CiAgICAgICAgbWVzc2FnZSA9ICJSYXcgY291bnRzIGFyZSBlcXVhbCIKCiAgICBwcmludChmIiIiCi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCiAgUkVTVUxUUyBBTkFMWVNJUwotLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQogICAgVG90YWwgdW5yZXNvbHZlZCBpbmNpZGVudHMgaW4gdm9fYWxlcnRfY29yZS5hY3RpdmVfaW5jaWRlbnRzOiB7YWNfcmF3fQogICAgVG90YWwgdW5yZXNvbHZlZCBpbmNpZGVudHMgaW4gdm9fZGF0YV9hbmFseXRpY3MuZmFjdF9pbmNpZGVudF9jdXJyX3YxOiB7cmVwX3Jhd30KICAgIHttZXNzYWdlfQogICAgIiIiKQ==</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGlzcGxheV9yYXdfY291bnRzKGN1cnJlbnRfdGFibGVfcmF3X2NvdW50LCBhY3RpdmVfaW5jaWRlbnRzX3Jhd19jb3VudCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGdyb3VwIGJ5IGluY2lkZW50X3BoYXNl</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
