@@ -124,7 +124,7 @@
         <mark key="." line="6" column="26" />
         <mark key="^" line="5" column="23" />
       </file>
-      <file name="$USER_HOME$/GitLab/replay-tools/alert_core_replay/athena/send_to_kinesis.py" timestamp="1591719835508">
+      <file name="$USER_HOME$/GitLab/replay-tools/alert_core_replay/athena/send_to_kinesis.py" timestamp="1591721086375">
         <mark key="[" line="26" column="12" />
         <mark key="]" line="26" column="12" />
         <mark key="." line="26" column="12" />
@@ -152,10 +152,10 @@
       <file name="/" timestamp="1591720018538">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GitLab/replay-tools/alert_core_replay/athena/run_folders.sh" timestamp="1591719980168">
-        <mark key="[" line="0" column="223" />
-        <mark key="]" line="0" column="110" />
-        <mark key="." line="0" column="49" />
+      <file name="$USER_HOME$/GitLab/replay-tools/alert_core_replay/athena/run_folders.sh" timestamp="1591720873508">
+        <mark key="[" line="1" column="7" />
+        <mark key="]" line="1" column="67" />
+        <mark key="." line="1" column="67" />
       </file>
       <file name="/console_6" timestamp="1591677730543">
         <mark key="[" line="0" column="0" />
@@ -304,10 +304,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>eUsers/ewagner/GitLab/replay-tools/alert_core_replay/at</text>
+        <text>$USER_HOME$/GitLab/replay-tools/alert_core_replay/athena/</text>
       </register>
       <register name="-" type="4">
-        <text>Filename</text>
+        <text>$USER_HOME$/GitLab/replay-tools/alert_core_replay/athena/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YWx1ZVw+</text>
