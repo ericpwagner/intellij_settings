@@ -109,6 +109,7 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/044e28c2-f35f-4fff-b858-d01f3fe770cc/console.sql" timestamp="1591680517345" />
+      <file name="$USER_HOME$/GitHub/data-db-loader/serverless.yml" timestamp="1591735201760" />
       <file name="/Python Console" timestamp="1591731807891">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="41" column="6" />
@@ -184,23 +185,10 @@
         <mark key="." line="52" column="29" />
         <mark key="^" line="52" column="30" />
       </file>
-      <file name="$USER_HOME$/GitHub/data_misc/analysis_misc/db_common.py" timestamp="1591121413591">
-        <mark key="'" line="133" column="0" />
-        <mark key="[" line="147" column="24" />
-        <mark key="]" line="55" column="58" />
-        <mark key="." line="55" column="57" />
-        <mark key="^" line="55" column="58" />
-      </file>
       <file name="/Dummy.json" timestamp="1591725293781">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4302" />
         <mark key="." line="0" column="4302" />
-      </file>
-      <file name="$USER_HOME$/GitHub/data_misc/analysis_misc/Pipfile" timestamp="1591121692468">
-        <mark key="[" line="13" column="13" />
-        <mark key="]" line="23" column="0" />
-        <mark key="^" line="23" column="0" />
-        <mark key="." line="22" column="22" />
       </file>
     </filemarks>
     <jumps>
