@@ -108,8 +108,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/044e28c2-f35f-4fff-b858-d01f3fe770cc/console.sql" timestamp="1591674719504">
-        <mark key="[" line="2" column="13" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/044e28c2-f35f-4fff-b858-d01f3fe770cc/console.sql" timestamp="1591677242056">
+        <mark key="'" line="2" column="51" />
+        <mark key="[" line="8" column="44" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="8" column="44" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="/Python Console" timestamp="1591672239622">
         <mark key="[" line="0" column="0" />
@@ -117,15 +121,15 @@
         <mark key="^" line="41" column="6" />
         <mark key="." line="41" column="6" />
       </file>
-      <file name="/console" timestamp="1591674399602">
+      <file name="/console" timestamp="1591676870091">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736_resolves.ipynb" timestamp="1591675011436">
+      <file name="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736_resolves.ipynb" timestamp="1591677495305">
         <mark key="'" line="180" column="0" />
-        <mark key="[" line="225" column="52" />
-        <mark key="]" line="225" column="31" />
-        <mark key="." line="225" column="30" />
-        <mark key="^" line="225" column="31" />
+        <mark key="[" line="228" column="14" />
+        <mark key="]" line="230" column="16" />
+        <mark key="." line="230" column="15" />
+        <mark key="^" line="230" column="16" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/044e28c2-f35f-4fff-b858-d01f3fe770cc/console_1.sql" timestamp="1591132293913">
         <mark key="[" line="0" column="0" />
@@ -149,6 +153,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
         <mark key="^" line="0" column="11" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/e8729eb7-7e90-475c-b5ee-b76b8f7b5577/console.sql" timestamp="1591677121337">
+        <mark key="[" line="2" column="13" />
+        <mark key="]" line="2" column="39" />
+        <mark key="^" line="2" column="39" />
+        <mark key="." line="2" column="38" />
       </file>
       <file name="/" timestamp="1591628376387">
         <mark key="[" line="0" column="0" />
@@ -195,7 +205,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1593" column="4" filename="$USER_HOME$/GitLab/jmeter/tests/data_analytics_team/dat_verbose_high_volume_playground.jmx" />
       <jump line="1166" column="12" filename="$USER_HOME$/GitLab/jmeter/tests/data_analytics_team/dat_verbose_high_volume_playground.jmx" />
       <jump line="1017" column="4" filename="$USER_HOME$/GitLab/jmeter/tests/data_analytics_team/dat_verbose_high_volume_playground.jmx" />
       <jump line="1090" column="10" filename="$USER_HOME$/GitLab/jmeter/tests/data_analytics_team/dat_verbose_high_volume_playground.jmx" />
@@ -295,48 +304,49 @@
       <jump line="304" column="30" filename="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736_resolves.ipynb" />
       <jump line="133" column="0" filename="$USER_HOME$/GitHub/data_misc/analysis_misc/db_common.py" />
       <jump line="180" column="0" filename="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736_resolves.ipynb" />
+      <jump line="2" column="51" filename="$APPLICATION_CONFIG_DIR$/consoles/db/044e28c2-f35f-4fff-b858-d01f3fe770cc/console.sql" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50KGYiUmVwIHJlc3VsdCA9IHtyZXBfcmVzdWx0fSIpCg==</text>
+        <text encoding="base64">ZnJvbSA=</text>
       </register>
       <register name="-" type="4">
-        <text>findings_df</text>
+        <text>fact_incident_curr_v1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YWx1ZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCJHZXR0aW5nIGluY2lkZW50IikK</text>
+        <text encoding="base64">ZnJvbSB2b19yZXBvcnRzX2RhdGFfd2FyZWhvdXNlLmZhY3RfaW5jaWRlbnRfY3Vycl92MQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KGYiUmVwIHJlc3VsdCA9IHtyZXBfcmVzdWx0fSIpCg==</text>
+        <text encoding="base64">ZnJvbSA=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoInllZWhhdyIpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KGYiUmVwIHJlc3VsdCA9IHtyZXBfcmVzdWx0fSIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KHJvdy5maXJzdF9hbGVydF9hdCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoInllZWhhdyIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGYiT3JnIG10dHIgPSB7b3JnX210dHJfc2Vjb25kc30iKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KHJvdy5maXJzdF9hbGVydF9hdCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGYiUm93ID0ge3Jvd30iKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGYiT3JnIG10dHIgPSB7b3JnX210dHJfc2Vjb25kc30iKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50KGYiTVRUUiBxdWVyeSA9IHtxdWVyeX0iKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGYiUm93ID0ge3Jvd30iKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHByaW50KGYiTVRUUiBxdWVyeSA9IHtxdWVyeX0iKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c2VsZWN0IGF2ZyhFWFRSQUNUKEVQT0NIIEZST00gcmVzb2x2ZWRfYXQpIC0gRVhUUkFDVChFUE9DSCBGUk9NIGFja2VkX2F0KSkKZnJvbSB2b19kYXRhX2FuYWx5dGljcy5mYWN0X2luY2lkZW50X2N1cnJfdjEKd2hlcmUgb3JnX2lkID0gMQogIGFuZCB0cmFuc2l0aW9uZWRfYXQgYmV0d2VlbiAoREFURSgnJzIwMjAtMDYtMDhUMTY6MTM6NTcuODAyJycpIC0gSU5URVJWQUwgJycxNSBkYXlzJycpIGFuZCAoREFURSgnJzIwMjAtMDYtMDhUMTY6MTM6NTcuODAyJycpICsgSU5URVJWQUwgJycxNSBkYXlzJycpCiAgYW5kIHJlc29sdmVkX2F0IGlzIG5vdCBudWxsCiAgYW5kIGFja2VkX2F0IGlzIG5vdCBudWxsCiAgYW5kIHJlc29sdmVkX2F0ID49IGFja2VkX2F0CiAgYW5kIHJvdXRpbmdfa2V5ID0gJydkZWZhdWx0Jyc=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c2VsZWN0IGF2ZyhFWFRSQUNUKEVQT0NIIEZST00gcmVzb2x2ZWRfYXQpIC0gRVhUUkFDVChFUE9DSCBGUk9NIGFja2VkX2F0KSkKZnJvbSB2b19kYXRhX2FuYWx5dGljcy5mYWN0X2luY2lkZW50X2N1cnJfdjEKd2hlcmUgb3JnX2lkID0gMQogIGFuZCB0cmFuc2l0aW9uZWRfYXQgYmV0d2VlbiAoREFURSgnJzIwMjAtMDYtMDhUMTY6MTM6NTcuODAyJycpIC0gSU5URVJWQUwgJycxNSBkYXlzJycpIGFuZCAoREFURSgnJzIwMjAtMDYtMDhUMTY6MTM6NTcuODAyJycpICsgSU5URVJWQUwgJycxNSBkYXlzJycpCiAgYW5kIHJlc29sdmVkX2F0IGlzIG5vdCBudWxsCiAgYW5kIGFja2VkX2F0IGlzIG5vdCBudWxsCiAgYW5kIHJlc29sdmVkX2F0ID49IGFja2VkX2F0CiAgYW5kIHJvdXRpbmdfa2V5ID0gJydkZWZhdWx0Jyc=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
