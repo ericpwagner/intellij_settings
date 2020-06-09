@@ -103,13 +103,13 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1591682446587">
+      <file name="/Dummy.txt" timestamp="1591718765048">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/044e28c2-f35f-4fff-b858-d01f3fe770cc/console.sql" timestamp="1591680517345" />
-      <file name="/Python Console" timestamp="1591682292412">
+      <file name="/Python Console" timestamp="1591719330792">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="41" column="6" />
         <mark key="^" line="41" column="6" />
@@ -124,10 +124,11 @@
         <mark key="." line="6" column="26" />
         <mark key="^" line="5" column="23" />
       </file>
-      <file name="$USER_HOME$/GitLab/replay-tools/alert_core_replay/athena/send_to_kinesis.py" timestamp="1591304254195">
-        <mark key="[" line="6" column="33" />
-        <mark key="]" line="6" column="33" />
-        <mark key="." line="6" column="33" />
+      <file name="$USER_HOME$/GitLab/replay-tools/alert_core_replay/athena/send_to_kinesis.py" timestamp="1591719835508">
+        <mark key="[" line="26" column="12" />
+        <mark key="]" line="26" column="12" />
+        <mark key="." line="26" column="12" />
+        <mark key="^" line="26" column="0" />
       </file>
       <file name="$USER_HOME$/GitHub/data-db-loader/db_loader/entry/adhoc_kinesis_lambda.py" timestamp="1591643054051">
         <mark key="[" line="97" column="99" />
@@ -148,8 +149,13 @@
         <mark key="^" line="2" column="39" />
         <mark key="." line="2" column="38" />
       </file>
-      <file name="/" timestamp="1591628376387">
+      <file name="/" timestamp="1591720018538">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/GitLab/replay-tools/alert_core_replay/athena/run_folders.sh" timestamp="1591719980168">
+        <mark key="[" line="0" column="223" />
+        <mark key="]" line="0" column="110" />
+        <mark key="." line="0" column="49" />
       </file>
       <file name="/console_6" timestamp="1591677730543">
         <mark key="[" line="0" column="0" />
@@ -297,45 +303,45 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text />
+      <register name="&quot;" type="4">
+        <text>eUsers/ewagner/GitLab/replay-tools/alert_core_replay/at</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>Filename</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YWx1ZVw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChmIlRvdGFsIGluY2lkZW50cyB2YWxpZGF0ZWQgYXMgbWlzc2luZyByZWNvdmVyeSBkYXRhOiB7bGVuKHZhbGlkYXRlZF9taXNzaW5nX2RmLmluZGV4KX0iKQo=</text>
+      <register name="0" type="4">
+        <text>eUsers/ewagner/GitLab/replay-tools/alert_core_replay/at</text>
       </register>
       <register name="1" type="2">
-        <text />
+        <text encoding="base64">aW1wb3J0IGJhc2U2NAo=</text>
       </register>
       <register name="2" type="2">
+        <text />
+      </register>
+      <register name="3" type="2">
         <text>Add in incident details to main function</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>)
     print(f&quot;Seconds = {secon</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CmRlZiBkaXNwbGF5X3Jhd19jb3VudHMocmVwX3JhdzogaW50LCBhY19yYXc6IGludCkgLT4gc3RyOgogICAgIiIiIE91dHB1dCBhbiBhbmFseXNpcyBvZiB0aGUgcmF3IGNvdW50cyAiIiIKICAgIGlmIHJlcF9yYXcgIT0gYWNfcmF3OgogICAgICAgIGlmIHJlcF9yYXcgPiBhY19yYXc6CiAgICAgICAgICAgIHBlcmMgPSBmIntzdHIoKChyZXBfcmF3IC0gYWNfcmF3KSAvIHJlcF9yYXcpKjEwMClbOjVdfSIKICAgICAgICAgICAgbWVzc2FnZSA9IGYie3BlcmN9JSBvZiB1bnJlc29sdmVkIGluY2lkZW50cyBpbiBmYWN0X2luY2lkZW50X2N1cnJfdjEgYXJlIGluY29ycmVjdCIKICAgICAgICBpZiByZXBfcmF3IDwgYWNfcmF3OgogICAgICAgICAgICBwZXJjID0gZiJ7c3RyKCgoYWNfcmF3IC0gcmVwX3JhdykgLyBhY19yYXcpKjEwMClbOjVdfSIKICAgICAgICAgICAgbWVzc2FnZSA9IGYie3BlcmN9JSBvZiBpbmNpZGVudHMgaW4gYWN0aXZlX2luY2lkZW50cyBhcmUgbWlzc2luZyBmcm9tIGZhY3RfaW5jaWRlbnRfY3Vycl92MSIKICAgIGVsc2U6CiAgICAgICAgbWVzc2FnZSA9ICJSYXcgY291bnRzIGFyZSBlcXVhbCIKCiAgICBwcmludChmIiIiCi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCiAgUkVTVUxUUyBBTkFMWVNJUwotLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQogICAgVG90YWwgdW5yZXNvbHZlZCBpbmNpZGVudHMgaW4gdm9fYWxlcnRfY29yZS5hY3RpdmVfaW5jaWRlbnRzOiB7YWNfcmF3fQogICAgVG90YWwgdW5yZXNvbHZlZCBpbmNpZGVudHMgaW4gdm9fZGF0YV9hbmFseXRpY3MuZmFjdF9pbmNpZGVudF9jdXJyX3YxOiB7cmVwX3Jhd30KICAgIHttZXNzYWdlfQogICAgIiIiKQ==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGlzcGxheV9yYXdfY291bnRzKGN1cnJlbnRfdGFibGVfcmF3X2NvdW50LCBhY3RpdmVfaW5jaWRlbnRzX3Jhd19jb3VudCkK</text>
+        <text encoding="base64">CmRlZiBkaXNwbGF5X3Jhd19jb3VudHMocmVwX3JhdzogaW50LCBhY19yYXc6IGludCkgLT4gc3RyOgogICAgIiIiIE91dHB1dCBhbiBhbmFseXNpcyBvZiB0aGUgcmF3IGNvdW50cyAiIiIKICAgIGlmIHJlcF9yYXcgIT0gYWNfcmF3OgogICAgICAgIGlmIHJlcF9yYXcgPiBhY19yYXc6CiAgICAgICAgICAgIHBlcmMgPSBmIntzdHIoKChyZXBfcmF3IC0gYWNfcmF3KSAvIHJlcF9yYXcpKjEwMClbOjVdfSIKICAgICAgICAgICAgbWVzc2FnZSA9IGYie3BlcmN9JSBvZiB1bnJlc29sdmVkIGluY2lkZW50cyBpbiBmYWN0X2luY2lkZW50X2N1cnJfdjEgYXJlIGluY29ycmVjdCIKICAgICAgICBpZiByZXBfcmF3IDwgYWNfcmF3OgogICAgICAgICAgICBwZXJjID0gZiJ7c3RyKCgoYWNfcmF3IC0gcmVwX3JhdykgLyBhY19yYXcpKjEwMClbOjVdfSIKICAgICAgICAgICAgbWVzc2FnZSA9IGYie3BlcmN9JSBvZiBpbmNpZGVudHMgaW4gYWN0aXZlX2luY2lkZW50cyBhcmUgbWlzc2luZyBmcm9tIGZhY3RfaW5jaWRlbnRfY3Vycl92MSIKICAgIGVsc2U6CiAgICAgICAgbWVzc2FnZSA9ICJSYXcgY291bnRzIGFyZSBlcXVhbCIKCiAgICBwcmludChmIiIiCi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCiAgUkVTVUxUUyBBTkFMWVNJUwotLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQogICAgVG90YWwgdW5yZXNvbHZlZCBpbmNpZGVudHMgaW4gdm9fYWxlcnRfY29yZS5hY3RpdmVfaW5jaWRlbnRzOiB7YWNfcmF3fQogICAgVG90YWwgdW5yZXNvbHZlZCBpbmNpZGVudHMgaW4gdm9fZGF0YV9hbmFseXRpY3MuZmFjdF9pbmNpZGVudF9jdXJyX3YxOiB7cmVwX3Jhd30KICAgIHttZXNzYWdlfQogICAgIiIiKQ==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGdyb3VwIGJ5IGluY2lkZW50X3BoYXNl</text>
+        <text encoding="base64">ZGlzcGxheV9yYXdfY291bnRzKGN1cnJlbnRfdGFibGVfcmF3X2NvdW50LCBhY3RpdmVfaW5jaWRlbnRzX3Jhd19jb3VudCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhbmQgdHJhbnNpdGlvbmVkX2F0ID49ICcyMDIwLTAzLTEwIDAwOjAwOjAwJwo=</text>
+        <text encoding="base64">ICAgIGdyb3VwIGJ5IGluY2lkZW50X3BoYXNl</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
