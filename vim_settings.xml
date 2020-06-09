@@ -118,8 +118,13 @@
       <file name="/console" timestamp="1591677730470">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/044e28c2-f35f-4fff-b858-d01f3fe770cc/console_1.sql" timestamp="1591681273488">
-        <mark key="[" line="6" column="26" />
+      <file name="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736_resolves.ipynb" timestamp="1591728984269">
+        <mark key="[" line="43" column="47" />
+        <mark key="]" line="43" column="47" />
+        <mark key="." line="43" column="47" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/044e28c2-f35f-4fff-b858-d01f3fe770cc/console_1.sql" timestamp="1591728797049">
+        <mark key="[" line="0" column="10" />
         <mark key="]" line="6" column="26" />
         <mark key="." line="6" column="26" />
         <mark key="^" line="5" column="23" />
@@ -303,11 +308,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50KGYiaXNvODYwMSBwYXJzZWQgZGF0ZSBmcm9tIGZpc3J0X2FsZXJ0X2F0ID0ge3B5X2R0fSIpCg==</text>
+      <register name="&quot;" type="4">
+        <text>2020</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>2020</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YWx1ZVw+</text>
