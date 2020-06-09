@@ -103,38 +103,37 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1591672396057">
+      <file name="/Dummy.txt" timestamp="1591680335133">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/044e28c2-f35f-4fff-b858-d01f3fe770cc/console.sql" timestamp="1591677242056">
-        <mark key="'" line="2" column="51" />
-        <mark key="[" line="8" column="44" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="8" column="44" />
-        <mark key="." line="10" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/044e28c2-f35f-4fff-b858-d01f3fe770cc/console.sql" timestamp="1591678323470">
+        <mark key="[" line="6" column="25" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1591672239622">
+      <file name="/Python Console" timestamp="1591680335002">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="41" column="6" />
         <mark key="^" line="41" column="6" />
         <mark key="." line="41" column="6" />
       </file>
-      <file name="/console" timestamp="1591677524078">
+      <file name="/console" timestamp="1591677730470">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736_resolves.ipynb" timestamp="1591677714560">
+      <file name="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736_resolves.ipynb" timestamp="1591680266456">
         <mark key="'" line="180" column="0" />
-        <mark key="[" line="262" column="9" />
-        <mark key="]" line="230" column="16" />
-        <mark key="." line="230" column="15" />
+        <mark key="[" line="306" column="59" />
+        <mark key="]" line="306" column="55" />
+        <mark key="." line="306" column="55" />
         <mark key="^" line="230" column="16" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/044e28c2-f35f-4fff-b858-d01f3fe770cc/console_1.sql" timestamp="1591132293913">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/044e28c2-f35f-4fff-b858-d01f3fe770cc/console_1.sql" timestamp="1591680191452">
+        <mark key="[" line="6" column="30" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="2" column="32" />
       </file>
       <file name="$USER_HOME$/GitLab/replay-tools/alert_core_replay/athena/send_to_kinesis.py" timestamp="1591304254195">
         <mark key="[" line="6" column="33" />
@@ -163,10 +162,10 @@
       <file name="/" timestamp="1591628376387">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/console_6" timestamp="1591677524169">
+      <file name="/console_6" timestamp="1591677730543">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/console_1" timestamp="1591677524128">
+      <file name="/console_1" timestamp="1591677730512">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/GitLab/replay-tools/alert_core_replay/athena/process_resolves_at_only.py" timestamp="1591643100931">
@@ -310,10 +309,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSA=</text>
+        <text encoding="base64">ICAgIGdyb3VwIGJ5IGluY2lkZW50X3BoYXNl</text>
       </register>
       <register name="-" type="4">
-        <text>fact_incident_curr_v1</text>
+        <text>x</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YWx1ZVw+</text>
@@ -322,31 +321,31 @@
         <text encoding="base64">ZnJvbSB2b19yZXBvcnRzX2RhdGFfd2FyZWhvdXNlLmZhY3RfaW5jaWRlbnRfY3Vycl92MQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSA=</text>
+        <text encoding="base64">ICAgIGdyb3VwIGJ5IGluY2lkZW50X3BoYXNl</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KGYiUmVwIHJlc3VsdCA9IHtyZXBfcmVzdWx0fSIpCg==</text>
+        <text encoding="base64">ICAgICAgICBhbmQgdHJhbnNpdGlvbmVkX2F0ID49ICcyMDIwLTAzLTEwIDAwOjAwOjAwJwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoInllZWhhdyIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kIGZpcnN0X2FsZXJ0X2F0IDw9ICcyMDIwLTAzLTIxIDAwOjAwOjAwJwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KHJvdy5maXJzdF9hbGVydF9hdCkK</text>
+        <text encoding="base64">ZnJvbSA=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGYiT3JnIG10dHIgPSB7b3JnX210dHJfc2Vjb25kc30iKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KGYiUmVwIHJlc3VsdCA9IHtyZXBfcmVzdWx0fSIpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGYiUm93ID0ge3Jvd30iKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoInllZWhhdyIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50KGYiTVRUUiBxdWVyeSA9IHtxdWVyeX0iKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KHJvdy5maXJzdF9hbGVydF9hdCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGYiT3JnIG10dHIgPSB7b3JnX210dHJfc2Vjb25kc30iKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">c2VsZWN0IGF2ZyhFWFRSQUNUKEVQT0NIIEZST00gcmVzb2x2ZWRfYXQpIC0gRVhUUkFDVChFUE9DSCBGUk9NIGFja2VkX2F0KSkKZnJvbSB2b19kYXRhX2FuYWx5dGljcy5mYWN0X2luY2lkZW50X2N1cnJfdjEKd2hlcmUgb3JnX2lkID0gMQogIGFuZCB0cmFuc2l0aW9uZWRfYXQgYmV0d2VlbiAoREFURSgnJzIwMjAtMDYtMDhUMTY6MTM6NTcuODAyJycpIC0gSU5URVJWQUwgJycxNSBkYXlzJycpIGFuZCAoREFURSgnJzIwMjAtMDYtMDhUMTY6MTM6NTcuODAyJycpICsgSU5URVJWQUwgJycxNSBkYXlzJycpCiAgYW5kIHJlc29sdmVkX2F0IGlzIG5vdCBudWxsCiAgYW5kIGFja2VkX2F0IGlzIG5vdCBudWxsCiAgYW5kIHJlc29sdmVkX2F0ID49IGFja2VkX2F0CiAgYW5kIHJvdXRpbmdfa2V5ID0gJydkZWZhdWx0Jyc=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGYiUm93ID0ge3Jvd30iKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
