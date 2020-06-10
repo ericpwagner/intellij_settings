@@ -141,11 +141,11 @@
         <mark key="^" line="107" column="7" />
         <mark key="." line="107" column="6" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/e8729eb7-7e90-475c-b5ee-b76b8f7b5577/console.sql" timestamp="1591677121337">
-        <mark key="[" line="2" column="13" />
-        <mark key="]" line="2" column="39" />
-        <mark key="^" line="2" column="39" />
-        <mark key="." line="2" column="38" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/e8729eb7-7e90-475c-b5ee-b76b8f7b5577/console.sql" timestamp="1591824114731">
+        <mark key="[" line="2" column="5" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="1" column="39" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="/" timestamp="1591720018538">
         <mark key="[" line="0" column="0" />
@@ -296,11 +296,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>default</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGFuZCBmaXJzdF9hbGVydF9hdCA8PSAnMjAyMC0wMy0yMSAwMDowMDowMCc=</text>
       </register>
       <register name="-" type="4">
-        <text>default</text>
+        <text>incident_phase != 'resolved'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YWx1ZVw+</text>
@@ -309,39 +309,31 @@
         <text encoding="base64">CWRvY2tlciBydW4gLWl0IC0tcm1cCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFuZCBmaXJzdF9hbGVydF9hdCA8PSAnMjAyMC0wMy0yMSAwMDowMDowMCc=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aWQgPSA3MTc5NjYK</text>
+        <text encoding="base64">ICAgIGFuZCBmaXJzdF9hbGVydF9hdCA+PSAnMjAyMC0wMy0yMCAwMDowMDowMCcK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LS0gRXJpYwp3aXRoCiAgICByZXMgYXMgKAogICAgICAgIFNFTEVDVAogICAgICAgIGRpc3RpbmN0IG9yZ19pZCwgaW5jaWRlbnRfaWQsIGZpcnN0X2FsZXJ0X2F0CiAgICAgICAgRlJPTSBmYWN0X2luY2lkZW50X3YxCiAgICAgICAgd2hlcmUgaW5jaWRlbnRfcGhhc2UgPSAncmVzb2x2ZWQnCiAgICAgICAgICAgIGFuZCBhY2tlZF9hdCBpcyBub3QgbnVsbAogICAgICAgICAgICBhbmQgYWNrZWRfYnkgaXMgbm90IG51bGwKICAgICAgICAgICAgYW5kIGZpcnN0X2FsZXJ0X2F0IGJldHdlZW4gJzIwMTgtMDEtMDEnIGFuZCAnMjAyMC0wNS0yNScK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgICksCgogICAgIGFja3MgYXMgKAogICAgICAgICBTRUxFQ1QKICAgICAgICAgICAgZGlzdGluY3Qgb3JnX2lkLCBpbmNpZGVudF9pZCwgZmlyc3RfYWxlcnRfYXQKICAgICAgICBGUk9NIGZhY3RfaW5jaWRlbnRfdjEKICAgICAgICB3aGVyZSBpbmNpZGVudF9waGFzZSA9ICdhY2tlZCcKICAgICAgICAgICAgYW5kIGZpcnN0X2FsZXJ0X2F0IGJldHdlZW4gJzIwMTgtMDEtMDEnIGFuZCAnMjAyMC0wNS0yNScKICAgICApCgpzZWxlY3QgcmVzLm9yZ19pZAogICAgLCByZXMuaW5jaWRlbnRfaWQKICAgICwgcmVzLmZpcnN0X2FsZXJ0X2F0CmZyb20gcmVzCmxlZnQgb3V0ZXIgam9pbiBhY2tzCiAgICBvbiByZXMub3JnX2lkID0gYWNrcy5vcmdfaWQKICAgIGFuZCByZXMuaW5jaWRlbnRfaWQgPSBhY2tzLmluY2lkZW50X2lkCndoZXJlIGFja3Mub3JnX2lkIGlzIG51bGwKb3JkZXIgYnkgcmVzLmZpcnN0X2FsZXJ0X2F0IGRlc2MKCgpzZWxlY3QgKgpmcm9tIGZhY3RfYWxlcnRfdjEKd2hlcmUgb3JnX2lkID0gMTgxNwogICAgYW5kIGluY2lkZW50Xw==</text>
+      <register name="4" type="2">
+        <text encoding="base64">LS0gSnVweXRlciBOb3RlYm9vayAtIEFkIGhvYwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aWQgPSA3MTc5NjYK</text>
       </register>
       <register name="7" type="2">
-        <text>org_id = widgets.Text(value='*', 
-                      description='Org ID: ',
-                      disabled=False)
-display(org_id)
-
-org_slug = widgets.Text(value='*', 
-                        description='Org Slug: ', 
-                        disabled=False)
-display(org_slug)</text>
+        <text encoding="base64">LS0gRXJpYwp3aXRoCiAgICByZXMgYXMgKAogICAgICAgIFNFTEVDVAogICAgICAgIGRpc3RpbmN0IG9yZ19pZCwgaW5jaWRlbnRfaWQsIGZpcnN0X2FsZXJ0X2F0CiAgICAgICAgRlJPTSBmYWN0X2luY2lkZW50X3YxCiAgICAgICAgd2hlcmUgaW5jaWRlbnRfcGhhc2UgPSAncmVzb2x2ZWQnCiAgICAgICAgICAgIGFuZCBhY2tlZF9hdCBpcyBub3QgbnVsbAogICAgICAgICAgICBhbmQgYWNrZWRfYnkgaXMgbm90IG51bGwKICAgICAgICAgICAgYW5kIGZpcnN0X2FsZXJ0X2F0IGJldHdlZW4gJzIwMTgtMDEtMDEnIGFuZCAnMjAyMC0wNS0yNScK</text>
       </register>
-      <register name="8" type="2">
-        <text>FIX LINT ERROR TOO MANY VARIABLES</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgICksCgogICAgIGFja3MgYXMgKAogICAgICAgICBTRUxFQ1QKICAgICAgICAgICAgZGlzdGluY3Qgb3JnX2lkLCBpbmNpZGVudF9pZCwgZmlyc3RfYWxlcnRfYXQKICAgICAgICBGUk9NIGZhY3RfaW5jaWRlbnRfdjEKICAgICAgICB3aGVyZSBpbmNpZGVudF9waGFzZSA9ICdhY2tlZCcKICAgICAgICAgICAgYW5kIGZpcnN0X2FsZXJ0X2F0IGJldHdlZW4gJzIwMTgtMDEtMDEnIGFuZCAnMjAyMC0wNS0yNScKICAgICApCgpzZWxlY3QgcmVzLm9yZ19pZAogICAgLCByZXMuaW5jaWRlbnRfaWQKICAgICwgcmVzLmZpcnN0X2FsZXJ0X2F0CmZyb20gcmVzCmxlZnQgb3V0ZXIgam9pbiBhY2tzCiAgICBvbiByZXMub3JnX2lkID0gYWNrcy5vcmdfaWQKICAgIGFuZCByZXMuaW5jaWRlbnRfaWQgPSBhY2tzLmluY2lkZW50X2lkCndoZXJlIGFja3Mub3JnX2lkIGlzIG51bGwKb3JkZXIgYnkgcmVzLmZpcnN0X2FsZXJ0X2F0IGRlc2MKCgpzZWxlY3QgKgpmcm9tIGZhY3RfYWxlcnRfdjEKd2hlcmUgb3JnX2lkID0gMTgxNwogICAgYW5kIGluY2lkZW50Xw==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGYiQXNzdW1lZCByZXNvbHZlZCBhdDoge2Fzc3VtZWRfcmVzb2x2ZWRfYXR9IikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
