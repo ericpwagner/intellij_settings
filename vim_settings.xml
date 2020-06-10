@@ -103,22 +103,45 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1591806552862">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/044e28c2-f35f-4fff-b858-d01f3fe770cc/console.sql" timestamp="1591680517345" />
       <file name="$USER_HOME$/GitHub/data-db-loader/serverless.yml" timestamp="1591735201760" />
-      <file name="/Python Console" timestamp="1591800493145">
+      <file name="/Python Console" timestamp="1591812294066">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="41" column="6" />
         <mark key="^" line="41" column="6" />
         <mark key="." line="41" column="6" />
       </file>
-      <file name="/console" timestamp="1591810492013">
+      <file name="/console" timestamp="1591812025041">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/GitLab/replay-tools/alert_core_replay/athena/send_to_kinesis.py" timestamp="1591723613941">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="^" line="23" column="40" />
+        <mark key="." line="24" column="0" />
+      </file>
+      <file name="$USER_HOME$/GitLab/replay-tools/alert_core_replay/alert-core-cassandra/Makefile" timestamp="1591737915786" />
+      <file name="$USER_HOME$/GitHub/data-db-loader/tests/ad_hoc_kinesis_s3/test_ad_hoc_kinesis_s3.py" timestamp="1591806521055">
+        <mark key="[" line="129" column="59" />
+        <mark key="]" line="95" column="119" />
+        <mark key="^" line="95" column="119" />
+        <mark key="." line="95" column="118" />
+      </file>
+      <file name="/Dummy.json" timestamp="1591812450804">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="4302" />
+        <mark key="." line="0" column="4302" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c8741a45-206f-4253-89be-6cc74f6d936f/console.sql" timestamp="1591812501588">
+        <mark key="[" line="2" column="15" />
+        <mark key="]" line="2" column="15" />
+        <mark key="." line="2" column="15" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1591812269407">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/044e28c2-f35f-4fff-b858-d01f3fe770cc/console.sql" timestamp="1591680517345" />
       <file name="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736_resolves.ipynb" timestamp="1591804116323">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
@@ -129,12 +152,6 @@
         <mark key="]" line="6" column="26" />
         <mark key="." line="6" column="26" />
         <mark key="^" line="5" column="23" />
-      </file>
-      <file name="$USER_HOME$/GitLab/replay-tools/alert_core_replay/athena/send_to_kinesis.py" timestamp="1591723613941">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="^" line="23" column="40" />
-        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/GitHub/data-db-loader/db_loader/entry/adhoc_kinesis_lambda.py" timestamp="1591806089358">
         <mark key="[" line="83" column="31" />
@@ -151,47 +168,29 @@
       <file name="/" timestamp="1591720018538">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GitLab/replay-tools/alert_core_replay/athena/run_folders.sh" timestamp="1591732474260">
+      <file name="$USER_HOME$/GitLab/replay-tools/alert_core_replay/athena/run_folders.sh" timestamp="1591812538586">
         <mark key="[" line="1" column="35" />
-        <mark key="]" line="1" column="67" />
-        <mark key="." line="1" column="67" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/GitLab/replay-tools/alert_core_replay/alert-core-cassandra/Makefile" timestamp="1591737915786" />
       <file name="/console_6" timestamp="1591677730543">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/console_1" timestamp="1591810492048">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GitLab/replay-tools/alert_core_replay/athena/process_resolves_at_only.py" timestamp="1591741949287">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
+      <file name="$USER_HOME$/GitLab/replay-tools/alert_core_replay/athena/process_resolves_at_only.py" timestamp="1591812259079">
+        <mark key="[" line="31" column="65" />
+        <mark key="]" line="31" column="65" />
         <mark key="^" line="29" column="33" />
-        <mark key="." line="38" column="0" />
-      </file>
-      <file name="$USER_HOME$/GitHub/data-db-loader/tests/ad_hoc_kinesis_s3/test_ad_hoc_kinesis_s3.py" timestamp="1591806521055">
-        <mark key="[" line="129" column="59" />
-        <mark key="]" line="95" column="119" />
-        <mark key="^" line="95" column="119" />
-        <mark key="." line="95" column="118" />
+        <mark key="." line="31" column="65" />
       </file>
       <file name="$USER_HOME$/GitHub/data-db-loader/Makefile" timestamp="1591739123590">
         <mark key="[" line="38" column="119" />
         <mark key="]" line="38" column="119" />
         <mark key="^" line="38" column="43" />
         <mark key="." line="38" column="119" />
-      </file>
-      <file name="$USER_HOME$/GitHub/data_misc/analysis_misc/.env" timestamp="1591303040439">
-        <mark key="'" line="40" column="0" />
-        <mark key="[" line="51" column="25" />
-        <mark key="]" line="52" column="30" />
-        <mark key="." line="52" column="29" />
-        <mark key="^" line="52" column="30" />
-      </file>
-      <file name="/Dummy.json" timestamp="1591725293781">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="4302" />
-        <mark key="." line="0" column="4302" />
       </file>
     </filemarks>
     <jumps>
@@ -299,11 +298,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>default</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>default</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YWx1ZVw+</text>
@@ -315,9 +314,21 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aWQgPSA3MTc5NjYK</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">LS0gRXJpYwp3aXRoCiAgICByZXMgYXMgKAogICAgICAgIFNFTEVDVAogICAgICAgIGRpc3RpbmN0IG9yZ19pZCwgaW5jaWRlbnRfaWQsIGZpcnN0X2FsZXJ0X2F0CiAgICAgICAgRlJPTSBmYWN0X2luY2lkZW50X3YxCiAgICAgICAgd2hlcmUgaW5jaWRlbnRfcGhhc2UgPSAncmVzb2x2ZWQnCiAgICAgICAgICAgIGFuZCBhY2tlZF9hdCBpcyBub3QgbnVsbAogICAgICAgICAgICBhbmQgYWNrZWRfYnkgaXMgbm90IG51bGwKICAgICAgICAgICAgYW5kIGZpcnN0X2FsZXJ0X2F0IGJldHdlZW4gJzIwMTgtMDEtMDEnIGFuZCAnMjAyMC0wNS0yNScK</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgICksCgogICAgIGFja3MgYXMgKAogICAgICAgICBTRUxFQ1QKICAgICAgICAgICAgZGlzdGluY3Qgb3JnX2lkLCBpbmNpZGVudF9pZCwgZmlyc3RfYWxlcnRfYXQKICAgICAgICBGUk9NIGZhY3RfaW5jaWRlbnRfdjEKICAgICAgICB3aGVyZSBpbmNpZGVudF9waGFzZSA9ICdhY2tlZCcKICAgICAgICAgICAgYW5kIGZpcnN0X2FsZXJ0X2F0IGJldHdlZW4gJzIwMTgtMDEtMDEnIGFuZCAnMjAyMC0wNS0yNScKICAgICApCgpzZWxlY3QgcmVzLm9yZ19pZAogICAgLCByZXMuaW5jaWRlbnRfaWQKICAgICwgcmVzLmZpcnN0X2FsZXJ0X2F0CmZyb20gcmVzCmxlZnQgb3V0ZXIgam9pbiBhY2tzCiAgICBvbiByZXMub3JnX2lkID0gYWNrcy5vcmdfaWQKICAgIGFuZCByZXMuaW5jaWRlbnRfaWQgPSBhY2tzLmluY2lkZW50X2lkCndoZXJlIGFja3Mub3JnX2lkIGlzIG51bGwKb3JkZXIgYnkgcmVzLmZpcnN0X2FsZXJ0X2F0IGRlc2MKCgpzZWxlY3QgKgpmcm9tIGZhY3RfYWxlcnRfdjEKd2hlcmUgb3JnX2lkID0gMTgxNwogICAgYW5kIGluY2lkZW50Xw==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text>org_id = widgets.Text(value='*', 
                       description='Org ID: ',
                       disabled=False)
@@ -328,23 +339,11 @@ org_slug = widgets.Text(value='*',
                         disabled=False)
 display(org_slug)</text>
       </register>
-      <register name="4" type="2">
+      <register name="8" type="2">
         <text>FIX LINT ERROR TOO MANY VARIABLES</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGYiQXNzdW1lZCByZXNvbHZlZCBhdDoge2Fzc3VtZWRfcmVzb2x2ZWRfYXR9IikK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50KGYiIEFzc3VtZWQgcmVjIHRpbWUgPSB7c3RyKGFzc3VtZWRfdHRyLmlzb2Zvcm1hdCgpKVs6LTldICsgJ1onfSIpCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChmInJlc29sdmVkX2F0IGZyb2RkbSBjc3YgPSB7cmVzb2x2ZWRfYXR9IikK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">CSAgICAgICAgICAgLXYgJChIT01FKS8uYXdzOi9yb290Ly5hd3NcCgkJCSAgIC12ICQoUFdEKTovYXBwIC13IC9hcHBcCgkJCSAgIC13IC9hcHBcCgkJCSAgIGRiX2xvYWRlci9zZXJ2ZXJsZXNzIC0tc3RhZ2UgJChBV1NfUFJPRklMRSkgZGVwbG95IGZ1bmN0aW9uIC0tZnVuY3Rpb24gYWxlcnRjb3JlX2tpbmVzaXNfYmFja2ZpbGw=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGYiQXNzdW1lZCByZXNvbHZlZCBhdDoge2Fzc3VtZWRfcmVzb2x2ZWRfYXR9IikK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
