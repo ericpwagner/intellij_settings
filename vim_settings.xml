@@ -103,25 +103,24 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1591819146190">
+      <file name="/Dummy.txt" timestamp="1591828904889">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1591822929460">
+      <file name="/Python Console" timestamp="1591828975759">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="41" column="6" />
         <mark key="^" line="41" column="6" />
         <mark key="." line="41" column="6" />
       </file>
-      <file name="/console" timestamp="1591816664717">
+      <file name="/console" timestamp="1591827201201">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736_resolves.ipynb" timestamp="1591816784256">
-        <mark key="[" line="343" column="51" />
-        <mark key="]" line="343" column="52" />
-        <mark key="." line="343" column="119" />
-        <mark key="^" line="343" column="52" />
+      <file name="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736_resolves.ipynb" timestamp="1591828678903">
+        <mark key="[" line="366" column="12" />
+        <mark key="]" line="509" column="0" />
+        <mark key="." line="509" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/044e28c2-f35f-4fff-b858-d01f3fe770cc/console_1.sql" timestamp="1591728797049">
         <mark key="[" line="0" column="10" />
@@ -150,11 +149,11 @@
       <file name="/" timestamp="1591720018538">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GitLab/replay-tools/alert_core_replay/athena/run_folders.sh" timestamp="1591812538586">
-        <mark key="[" line="1" column="35" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="3" column="0" />
+      <file name="$USER_HOME$/GitLab/replay-tools/alert_core_replay/athena/run_folders.sh" timestamp="1591829036540">
+        <mark key="[" line="1" column="44" />
+        <mark key="]" line="1" column="213" />
+        <mark key="^" line="1" column="213" />
+        <mark key="." line="1" column="212" />
       </file>
       <file name="/console_6" timestamp="1591677730543">
         <mark key="[" line="0" column="0" />
@@ -168,8 +167,8 @@
         <mark key="^" line="95" column="119" />
         <mark key="." line="95" column="118" />
       </file>
-      <file name="$USER_HOME$/GitLab/replay-tools/alert_core_replay/athena/process_resolves_at_only.py" timestamp="1591817330012">
-        <mark key="[" line="28" column="43" />
+      <file name="$USER_HOME$/GitLab/replay-tools/alert_core_replay/athena/process_resolves_at_only.py" timestamp="1591828926620">
+        <mark key="[" line="31" column="72" />
         <mark key="]" line="31" column="65" />
         <mark key="^" line="29" column="33" />
         <mark key="." line="31" column="65" />
@@ -185,10 +184,11 @@
         <mark key="]" line="0" column="4302" />
         <mark key="." line="0" column="4302" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c8741a45-206f-4253-89be-6cc74f6d936f/console.sql" timestamp="1591814494542">
-        <mark key="[" line="4" column="13" />
-        <mark key="]" line="3" column="15" />
-        <mark key="." line="3" column="15" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c8741a45-206f-4253-89be-6cc74f6d936f/console.sql" timestamp="1591828823368">
+        <mark key="[" line="12" column="18" />
+        <mark key="]" line="12" column="18" />
+        <mark key="^" line="12" column="20" />
+        <mark key="." line="12" column="18" />
       </file>
     </filemarks>
     <jumps>
@@ -296,41 +296,41 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGFuZCBmaXJzdF9hbGVydF9hdCA8PSAnMjAyMC0wMy0yMSAwMDowMDowMCc=</text>
+      <register name="&quot;" type="4">
+        <text>342183</text>
       </register>
       <register name="-" type="4">
-        <text>incident_phase != 'resolved'</text>
+        <text>342183</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YWx1ZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CWRvY2tlciBydW4gLWl0IC0tcm1cCg==</text>
+        <text encoding="base64">ICAgIHJlcF9yZXN1bHQgPSBnZXRfZGF0YShyZXBfZGJfY29ubiwgcmVwX29yZ19pbmNpZGVudF9xdWVyeShvcmdfaWQsIGluY2lkZW50X2lkKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGFuZCBmaXJzdF9hbGVydF9hdCA8PSAnMjAyMC0wMy0yMSAwMDowMDowMCc=</text>
+        <text encoding="base64">ICAgICAgICBzbGVlcCgzMCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGFuZCBmaXJzdF9hbGVydF9hdCA+PSAnMjAyMC0wMy0yMCAwMDowMDowMCcK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">LS0gSnVweXRlciBOb3RlYm9vayAtIEFkIGhvYwo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">b3JkZXIgYnkgdHJhbnNpdGlvbmVkX2F0IGRlc2MK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHJlcF9yZXN1bHQgPSBnZXRfZGF0YShyZXBfZGJfY29ubiwgcmVwX29yZ19pbmNpZGVudF9xdWVyeShvcmdfaWQsIGluY2lkZW50X2lkKSkK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGFuZCBmaXJzdF9hbGVydF9hdCA8PSAnMjAyMC0wMy0yMSAwMDowMDowMCc=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">aWQgPSA3MTc5NjYK</text>
+        <text encoding="base64">ICAgIGFuZCBmaXJzdF9hbGVydF9hdCA+PSAnMjAyMC0wMy0yMCAwMDowMDowMCcK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LS0gRXJpYwp3aXRoCiAgICByZXMgYXMgKAogICAgICAgIFNFTEVDVAogICAgICAgIGRpc3RpbmN0IG9yZ19pZCwgaW5jaWRlbnRfaWQsIGZpcnN0X2FsZXJ0X2F0CiAgICAgICAgRlJPTSBmYWN0X2luY2lkZW50X3YxCiAgICAgICAgd2hlcmUgaW5jaWRlbnRfcGhhc2UgPSAncmVzb2x2ZWQnCiAgICAgICAgICAgIGFuZCBhY2tlZF9hdCBpcyBub3QgbnVsbAogICAgICAgICAgICBhbmQgYWNrZWRfYnkgaXMgbm90IG51bGwKICAgICAgICAgICAgYW5kIGZpcnN0X2FsZXJ0X2F0IGJldHdlZW4gJzIwMTgtMDEtMDEnIGFuZCAnMjAyMC0wNS0yNScK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgICksCgogICAgIGFja3MgYXMgKAogICAgICAgICBTRUxFQ1QKICAgICAgICAgICAgZGlzdGluY3Qgb3JnX2lkLCBpbmNpZGVudF9pZCwgZmlyc3RfYWxlcnRfYXQKICAgICAgICBGUk9NIGZhY3RfaW5jaWRlbnRfdjEKICAgICAgICB3aGVyZSBpbmNpZGVudF9waGFzZSA9ICdhY2tlZCcKICAgICAgICAgICAgYW5kIGZpcnN0X2FsZXJ0X2F0IGJldHdlZW4gJzIwMTgtMDEtMDEnIGFuZCAnMjAyMC0wNS0yNScKICAgICApCgpzZWxlY3QgcmVzLm9yZ19pZAogICAgLCByZXMuaW5jaWRlbnRfaWQKICAgICwgcmVzLmZpcnN0X2FsZXJ0X2F0CmZyb20gcmVzCmxlZnQgb3V0ZXIgam9pbiBhY2tzCiAgICBvbiByZXMub3JnX2lkID0gYWNrcy5vcmdfaWQKICAgIGFuZCByZXMuaW5jaWRlbnRfaWQgPSBhY2tzLmluY2lkZW50X2lkCndoZXJlIGFja3Mub3JnX2lkIGlzIG51bGwKb3JkZXIgYnkgcmVzLmZpcnN0X2FsZXJ0X2F0IGRlc2MKCgpzZWxlY3QgKgpmcm9tIGZhY3RfYWxlcnRfdjEKd2hlcmUgb3JnX2lkID0gMTgxNwogICAgYW5kIGluY2lkZW50Xw==</text>
+      <register name="8" type="2">
+        <text encoding="base64">LS0gSnVweXRlciBOb3RlYm9vayAtIEFkIGhvYwo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
