@@ -114,13 +114,14 @@
         <mark key="^" line="41" column="6" />
         <mark key="." line="41" column="6" />
       </file>
-      <file name="/console" timestamp="1591829216194">
+      <file name="/console" timestamp="1592234529965">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736_resolves.ipynb" timestamp="1591830309306">
-        <mark key="[" line="251" column="31" />
-        <mark key="]" line="509" column="0" />
-        <mark key="." line="509" column="0" />
+      <file name="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736_resolves.ipynb" timestamp="1592235007645">
+        <mark key="[" line="48" column="21" />
+        <mark key="]" line="48" column="12" />
+        <mark key="." line="48" column="11" />
+        <mark key="^" line="48" column="12" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/044e28c2-f35f-4fff-b858-d01f3fe770cc/console_1.sql" timestamp="1591728797049">
         <mark key="[" line="0" column="10" />
