@@ -146,10 +146,10 @@
       <file name="/console_8" timestamp="1592246691953">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c8741a45-206f-4253-89be-6cc74f6d936f/console_8.sql" timestamp="1592246695167">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c8741a45-206f-4253-89be-6cc74f6d936f/console_8.sql" timestamp="1592247283394">
+        <mark key="[" line="0" column="7" />
+        <mark key="]" line="0" column="7" />
+        <mark key="." line="0" column="7" />
       </file>
       <file name="/console_1" timestamp="1591810492048">
         <mark key="[" line="0" column="0" />
@@ -298,7 +298,11 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text />
+        <text>incident_phase
+    , first_alert_at
+    , transitioned_at
+    , acked_at
+    , resolved_at</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -309,14 +313,19 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgb3V0cHV0X2Nzdi52YWx1ZToKICAgICAgICAgICAgICAgIGV4cG9ydF90b19jc3YobWlzc2luZ19kZikK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">c2VsZWN0ICoKZnJvbSB2b19kYXRhX2FuYWx5dGljcy5mYWN0X2luY2lkZW50X2N1cnJfdjEKd2hlcmUgb3JnX2lkID0gNTIxNQogIGFuZCBpbmNpZGVudF9pZCA9IDMxMTYxODsK</text>
+      <register name="1" type="4">
+        <text>incident_phase
+    , first_alert_at
+    , transitioned_at
+    , acked_at
+    , resolved_at</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiQXR0ZW1wdGluZyB0byBnZXQgcmVjb3ZlcnkgYWxlcnQgZGF0YS4uLiIpCg==</text>
+        <text>where org_id = 14982
+and incident_id = 1238654</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiQXR0ZW1wdGluZyB0byBnZXQgcmVjb3ZlcnkgYWxlcnQgZGF0YS4uLiIpCg==</text>
+        <text encoding="base64">c2VsZWN0ICoKZnJvbSB2b19kYXRhX2FuYWx5dGljcy5mYWN0X2luY2lkZW50X2N1cnJfdjEKd2hlcmUgb3JnX2lkID0gNTIxNQogIGFuZCBpbmNpZGVudF9pZCA9IDMxMTYxODsK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCgiQXR0ZW1wdGluZyB0byBnZXQgcmVjb3ZlcnkgYWxlcnQgZGF0YS4uLiIpCg==</text>
@@ -325,16 +334,16 @@
         <text encoding="base64">ICAgICAgICBwcmludCgiQXR0ZW1wdGluZyB0byBnZXQgcmVjb3ZlcnkgYWxlcnQgZGF0YS4uLiIpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50KGYiSW5jaWRlbnRzIHdpdGggYXZhaWxhYmxlIHJlY292ZXJ5IGFsZXJ0OiB7bGVuKG1pc3NpbmdfZGZbbWlzc2luZ19kZlsncmVzb2x2ZWRfYXQnXSAhPSAnJ10uaW5kZXgpfSIpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiQXR0ZW1wdGluZyB0byBnZXQgcmVjb3ZlcnkgYWxlcnQgZGF0YS4uLiIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50KGYiSW5jaWRlbnRzIHdpdGggYXZhaWxhYmxlIHJlY292ZXJ5IGFsZXJ0OiB7bGVuKG1pc3NpbmdfZGZbbWlzc2luZ19kZlsncmVzb2x2ZWRfYXQnXSAhPSAnJ10uaW5kZXgpfSIpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiQXR0ZW1wdGluZyB0byBnZXQgcmVjb3ZlcnkgYWxlcnQgZGF0YS4uLiIpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KGYiSW5jaWRlbnRzIHdpdGggYXZhaWxhYmxlIHJlY292ZXJ5IGFsZXJ0OiB7bGVuKG1pc3NpbmdfZGZbbWlzc2luZ19kZlsncmVzb2x2ZWRfYXQnXSAhPSAnJ10uaW5kZXgpfSIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KGYiSW5jaWRlbnRzIHdpdGggYXZhaWxhYmxlIHJlY292ZXJ5IGFsZXJ0OiB7bGVuKG1pc3NpbmdfZGZbbWlzc2luZ19kZlsncmVzb2x2ZWRfYXQnXSAhPSAnJ10uaW5kZXgpfSIpCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3Byb2Qvc3RnL2c=</text>
