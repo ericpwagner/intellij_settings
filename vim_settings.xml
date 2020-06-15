@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>_AC_</entry>
         <entry>$entity_id</entry>
         <entry>${entity_id}</entry>
         <entry encoding="base64">JnF1b3Q7OiZxdW90O0NSSVRJQ0FMJnF1b3Q7LCYjeGQ7</entry>
@@ -27,9 +26,9 @@
         <entry>getting recov</entry>
         <entry>recovery</entry>
         <entry>stg</entry>
+        <entry>prod</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zLygncmVzb2x2ZWQnLCdhY2tlZCcpLygncmVzb2x2ZWQnKS8=</entry>
         <entry encoding="base64">JzwsJz5zL19BQ18vX0FDX1NUR18v</entry>
         <entry encoding="base64">JzwsJz5zL0RBVEEvQ09SRS8=</entry>
         <entry encoding="base64">JzwsJz5zL0FDXy8v</entry>
@@ -49,6 +48,7 @@
         <entry>w</entry>
         <entry encoding="base64">JzwsJz4vcy9zdGcvcHJvZA==</entry>
         <entry encoding="base64">JzwsJz5zL3N0Zy9wcm9kL2c=</entry>
+        <entry encoding="base64">JzwsJz5zL3Byb2Qvc3RnL2c=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -117,6 +117,7 @@
       <file name="/console" timestamp="1592234529965">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/e8729eb7-7e90-475c-b5ee-b76b8f7b5577/console_2.sql" timestamp="1592245793823" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/044e28c2-f35f-4fff-b858-d01f3fe770cc/console_1.sql" timestamp="1591728797049">
         <mark key="[" line="0" column="10" />
         <mark key="]" line="6" column="26" />
@@ -144,9 +145,6 @@
       <file name="/console_7" timestamp="1592236742849">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/" timestamp="1591720018538">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/GitLab/replay-tools/alert_core_replay/athena/run_folders.sh" timestamp="1591830274758">
         <mark key="[" line="1" column="44" />
         <mark key="]" line="1" column="82" />
@@ -156,8 +154,13 @@
       <file name="/console_1" timestamp="1591810492048">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/console_2" timestamp="1592239009338">
+      <file name="/console_2" timestamp="1592245700039">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/044e28c2-f35f-4fff-b858-d01f3fe770cc/console_2.sql" timestamp="1592245792475">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/GitHub/data-db-loader/tests/ad_hoc_kinesis_s3/test_ad_hoc_kinesis_s3.py" timestamp="1591806521055">
         <mark key="[" line="129" column="59" />
@@ -190,7 +193,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="269" column="4" filename="/SE-736_analysis.ipynb" />
       <jump line="234" column="0" filename="/SE-736_analysis.ipynb" />
       <jump line="261" column="0" filename="/SE-736_analysis.ipynb" />
       <jump line="280" column="4" filename="/SE-736_analysis.ipynb" />
@@ -290,61 +292,62 @@
       <jump line="517" column="53" filename="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736_resolves.ipynb" />
       <jump line="539" column="4" filename="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736_resolves.ipynb" />
       <jump line="553" column="0" filename="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736_resolves.ipynb" />
+      <jump line="543" column="1" filename="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736_resolves.ipynb" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50KGYiSW5jaWRlbnRzIHdpdGggYXZhaWxhYmxlIHJlY292ZXJ5IGFsZXJ0OiB7bGVuKG1pc3NpbmdfZGZbbWlzc2luZ19kZlsncmVzb2x2ZWRfYXQnXSAhPSAnJ10uaW5kZXgpfSIpCg==</text>
+      <register name="&quot;" type="4">
+        <text />
       </register>
       <register name="-" type="4">
-        <text>\</text>
+        <text />
       </register>
       <register name="/" type="4">
-        <text>stg</text>
+        <text>prod</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgb3V0cHV0X2Nzdi52YWx1ZToKICAgICAgICAgICAgICAgIGV4cG9ydF90b19jc3YobWlzc2luZ19kZikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KGYiSW5jaWRlbnRzIHdpdGggYXZhaWxhYmxlIHJlY292ZXJ5IGFsZXJ0OiB7bGVuKG1pc3NpbmdfZGZbbWlzc2luZ19kZlsncmVzb2x2ZWRfYXQnXSAhPSAnJ10uaW5kZXgpfSIpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiQXR0ZW1wdGluZyB0byBnZXQgcmVjb3ZlcnkgYWxlcnQgZGF0YS4uLiIpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KGYiSW5jaWRlbnRzIHdpdGggYXZhaWxhYmxlIHJlY292ZXJ5IGFsZXJ0OiB7bGVuKG1pc3NpbmdfZGZbbWlzc2luZ19kZlsncmVzb2x2ZWRfYXQnXSAhPSAnJ10uaW5kZXgpfSIpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiQXR0ZW1wdGluZyB0byBnZXQgcmVjb3ZlcnkgYWxlcnQgZGF0YS4uLiIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiQXR0ZW1wdGluZyB0byBnZXQgcmVjb3ZlcnkgYWxlcnQgZGF0YS4uLiIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiQXR0ZW1wdGluZyB0byBnZXQgcmVjb3ZlcnkgYWxlcnQgZGF0YS4uLiIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJObyBjc3YgZXhwb3J0ZWQiKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KGYiSW5jaWRlbnRzIHdpdGggYXZhaWxhYmxlIHJlY292ZXJ5IGFsZXJ0OiB7bGVuKG1pc3NpbmdfZGZbbWlzc2luZ19kZlsncmVzb2x2ZWRfYXQnXSAhPSAnJ10uaW5kZXgpfSIpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZWxzZToK</text>
+        <text encoding="base64">ICAgIHByaW50KGYiSW5jaWRlbnRzIHdpdGggYXZhaWxhYmxlIHJlY292ZXJ5IGFsZXJ0OiB7bGVuKG1pc3NpbmdfZGZbbWlzc2luZ19kZlsncmVzb2x2ZWRfYXQnXSAhPSAnJ10uaW5kZXgpfSIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2YWxpZGF0ZWRfbWlzc2luZ19kZiBcCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmIGRvX3ZhbGlkYXRpb24udmFsdWU6Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbF9kZiA9IHZhbGlkYXRlZF9taXNzaW5nX2RmCiAgICBlbHNlOgogICAgICAgIGZpbmFsX2RmID0gbWlzc2luZ19kZg==</text>
+        <text encoding="base64">ICAgIHByaW50KCJObyBjc3YgZXhwb3J0ZWQiKQo=</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL3N0Zy9wcm9kL2c=</text>
+        <text encoding="base64">JzwsJz5zL3Byb2Qvc3RnL2c=</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>stg</last-search>
+      <last-search>prod</last-search>
       <last-offset />
-      <last-pattern>stg</last-pattern>
-      <last-replace>prod</last-replace>
-      <last-substitute>stg</last-substitute>
+      <last-pattern>prod</last-pattern>
+      <last-replace>stg</last-replace>
+      <last-substitute>prod</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
