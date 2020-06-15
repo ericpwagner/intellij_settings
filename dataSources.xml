@@ -1,0 +1,52 @@
+<application>
+  <component name="dataSourceStorage" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="PROD - vodat" uuid="c8741a45-206f-4253-89be-6cc74f6d936f">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://127.0.0.1:4397/vodat</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="PROD - vo_hier" uuid="af5cf58b-c890-4c1b-9baa-8de1f2c99b95">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://127.0.0.1:3394/vo_hier</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="STG - vodat" uuid="044e28c2-f35f-4fff-b858-d01f3fe770cc">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://127.0.0.1:4497/vodat</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="PLAY - vodat" uuid="1c8caa95-40a4-4694-859b-23405dbb79c7">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://127.0.0.1:4597/vodat</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="PROD - vo_data_analytics" uuid="e8729eb7-7e90-475c-b5ee-b76b8f7b5577">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://127.0.0.1:3396/vo_data_analytics</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="STG - vo_data_analytics" uuid="474e0395-a1ff-498b-8c7e-10cd2ffeb7db">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://127.0.0.1:3496/vo_data_analytics</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="STG - vo_hier" uuid="aa9339aa-0475-4123-bcd9-64a66a7a77c9">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://127.0.0.1:3497/vo_hier</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="PLAY - vo_data_analytics" uuid="f8b76e3d-8a40-49f8-abcd-82a241517eb7">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://127.0.0.1:3596/vo_data_analytics</jdbc-url>
+    </data-source>
+  </component>
+</application>
