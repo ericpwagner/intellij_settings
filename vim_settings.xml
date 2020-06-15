@@ -103,11 +103,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1592250749167">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="/Python Console" timestamp="1592237398004">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="41" column="6" />
@@ -122,40 +117,13 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736_resolves.ipynb" timestamp="1592250725083" />
-      <file name="$USER_HOME$/GitHub/data-db-loader/db_loader/entry/adhoc_kinesis_lambda.py" timestamp="1591806089358">
-        <mark key="[" line="83" column="31" />
-        <mark key="]" line="107" column="7" />
-        <mark key="^" line="107" column="7" />
-        <mark key="." line="107" column="6" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/e8729eb7-7e90-475c-b5ee-b76b8f7b5577/console.sql" timestamp="1591824114731">
-        <mark key="[" line="2" column="5" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="1" column="39" />
-        <mark key="." line="5" column="0" />
-      </file>
       <file name="/console_7" timestamp="1592236742849">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/GitLab/replay-tools/alert_core_replay/athena/run_folders.sh" timestamp="1591830274758">
-        <mark key="[" line="1" column="44" />
-        <mark key="]" line="1" column="82" />
-        <mark key="^" line="1" column="82" />
-        <mark key="." line="1" column="81" />
       </file>
       <file name="/console_8" timestamp="1592246691953">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c8741a45-206f-4253-89be-6cc74f6d936f/console_8.sql" timestamp="1592247283394">
-        <mark key="[" line="0" column="7" />
-        <mark key="]" line="0" column="7" />
-        <mark key="." line="0" column="7" />
-      </file>
-      <file name="/console_1" timestamp="1591810492048">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/console_2" timestamp="1592245700039">
+      <file name="/a.sql" timestamp="1592251243685">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/044e28c2-f35f-4fff-b858-d01f3fe770cc/console_2.sql" timestamp="1592245792475">
@@ -169,18 +137,6 @@
         <mark key="^" line="95" column="119" />
         <mark key="." line="95" column="118" />
       </file>
-      <file name="$USER_HOME$/GitLab/replay-tools/alert_core_replay/athena/process_resolves_at_only.py" timestamp="1591829977698">
-        <mark key="[" line="140" column="0" />
-        <mark key="]" line="31" column="65" />
-        <mark key="^" line="29" column="33" />
-        <mark key="." line="31" column="65" />
-      </file>
-      <file name="$USER_HOME$/GitHub/data-db-loader/Makefile" timestamp="1591739123590">
-        <mark key="[" line="38" column="119" />
-        <mark key="]" line="38" column="119" />
-        <mark key="^" line="38" column="43" />
-        <mark key="." line="38" column="119" />
-      </file>
       <file name="/Dummy.json" timestamp="1591812450804">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4302" />
@@ -191,6 +147,44 @@
         <mark key="]" line="5" column="18" />
         <mark key="^" line="4" column="20" />
         <mark key="." line="5" column="18" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1592251243696">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736_resolves.ipynb" timestamp="1592255104129" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/e8729eb7-7e90-475c-b5ee-b76b8f7b5577/console.sql" timestamp="1591824114731">
+        <mark key="[" line="2" column="5" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="1" column="39" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="/" timestamp="1592251176069">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/GitLab/replay-tools/alert_core_replay/athena/run_folders.sh" timestamp="1591830274758">
+        <mark key="[" line="1" column="44" />
+        <mark key="]" line="1" column="82" />
+        <mark key="^" line="1" column="82" />
+        <mark key="." line="1" column="81" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c8741a45-206f-4253-89be-6cc74f6d936f/console_8.sql" timestamp="1592247283394">
+        <mark key="[" line="0" column="7" />
+        <mark key="]" line="0" column="7" />
+        <mark key="." line="0" column="7" />
+      </file>
+      <file name="/console_1" timestamp="1591810492048">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/console_2" timestamp="1592245700039">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/GitLab/replay-tools/alert_core_replay/athena/process_resolves_at_only.py" timestamp="1591829977698">
+        <mark key="[" line="140" column="0" />
+        <mark key="]" line="31" column="65" />
+        <mark key="^" line="29" column="33" />
+        <mark key="." line="31" column="65" />
       </file>
     </filemarks>
     <jumps>
