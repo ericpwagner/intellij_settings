@@ -117,12 +117,12 @@
       <file name="/console" timestamp="1592234529965">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736_resolves.ipynb" timestamp="1592238092767">
-        <mark key="'" line="518" column="53" />
-        <mark key="[" line="564" column="0" />
-        <mark key="]" line="564" column="0" />
-        <mark key="^" line="47" column="0" />
-        <mark key="." line="564" column="0" />
+      <file name="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736_resolves.ipynb" timestamp="1592238934713">
+        <mark key="'" line="538" column="4" />
+        <mark key="[" line="536" column="0" />
+        <mark key="]" line="536" column="0" />
+        <mark key="." line="536" column="0" />
+        <mark key="^" line="539" column="96" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/044e28c2-f35f-4fff-b858-d01f3fe770cc/console_1.sql" timestamp="1591728797049">
         <mark key="[" line="0" column="10" />
@@ -197,7 +197,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="243" column="22" filename="/SE-736_analysis.ipynb" />
       <jump line="199" column="0" filename="/SE-736_analysis.ipynb" />
       <jump line="269" column="4" filename="/SE-736_analysis.ipynb" />
       <jump line="234" column="0" filename="/SE-736_analysis.ipynb" />
@@ -297,54 +296,46 @@
       <jump line="512" column="21" filename="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736_resolves.ipynb" />
       <jump line="513" column="37" filename="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736_resolves.ipynb" />
       <jump line="517" column="53" filename="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736_resolves.ipynb" />
+      <jump line="539" column="4" filename="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736_resolves.ipynb" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KCJBdHRlbXB0aW5nIHRvIGdldCByZWNvdmVyeSBhbGVydCBkYXRhLi4uIikK</text>
       </register>
       <register name="-" type="4">
-        <text>Getting</text>
+        <text>missing_df</text>
       </register>
       <register name="/" type="4">
         <text>recovery</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHJlcF9yZXN1bHQgPSBnZXRfZGF0YShyZXBfZGJfY29ubiwgcmVwX29yZ19pbmNpZGVudF9xdWVyeShvcmdfaWQsIGluY2lkZW50X2lkKSkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChmIk5vIHZhbGlkYXRpb24gcGVyZm9ybWVkIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KCJBdHRlbXB0aW5nIHRvIGdldCByZWNvdmVyeSBhbGVydCBkYXRhLi4uIikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KGYiSW5jaWRlbnRzIHdpdGggYXZhaWxhYmxlIHJlY292ZXJ5IGFsZXJ0OiB7bGVuKG1pc3NpbmdfZGZbbWlzc2luZ19kZlsncmVzb2x2ZWRfYXQnXSAhPSAnJ10uaW5kZXgpfSIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyUlCg==</text>
+        <text encoding="base64">ICAgIHByaW50KGYiSW5jaWRlbnRzIHdpdGggYXZhaWxhYmxlIHJlY292ZXJ5IGFsZXJ0OiB7bGVuKG1pc3NpbmdfZGZbbWlzc2luZ19kZlsncmVzb2x2ZWRfYXQnXSAhPSAnJ10uaW5kZXgpfSIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PGhyPgo=</text>
+        <text encoding="base64">ICAgICAgICBtaXNzaW5nX2RmID0gYWRkX3JlY292ZXJ5X2FsZXJ0X3RpbWVzKHByb2Rfdm9kYXRfZGJfY29ubiwgZmluZGluZ3NfZGYpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG1pc3NpbmdfZGYgPSBhZGRfcmVjb3ZlcnlfYWxlcnRfdGltZXMocHJvZF92b2RhdF9kYl9jb25uLCBmaW5kaW5nc19kZikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtaXNzaW5nX2RmID0gYWRkX3JlY292ZXJ5X2FsZXJ0X3RpbWVzKHN0Z192b2RhdF9kYl9jb25uLCB2YWxpZGF0ZWRfbWlzc2luZ19kZikK</text>
       </register>
       <register name="7" type="2">
-        <text># This is optional and only necessary if you wish to attempt a backfill operation as we sometimes have the recovery
-# alert we can use for determining the actual recovery time of the incident
-get_recovery_alert_data = widgets.ToggleButton(
-            value=False,
-            description='Get recovery data',
-            disabled=False,
-            botton_style='',
-            tooltip='Fetch recovery alert data for incidents found'
-        
-)</text>
+        <text encoding="base64">ICAgICAgICBtaXNzaW5nX2RmID0gYWRkX3JlY292ZXJ5X2FsZXJ0X3RpbWVzKHN0Z192b2RhdF9kYl9jb25uLCBmaW5kaW5nc19kZikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG1pc3NpbmdfZGYgPSBhZGRfcmVjb3ZlcnlfYWxlcnRfdGltZXMoc3RnX3ZvZGF0X2RiX2Nvbm4sIGZpbmRpbmdzX2RmKQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
