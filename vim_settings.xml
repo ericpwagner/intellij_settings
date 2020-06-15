@@ -29,7 +29,6 @@
         <entry>recovery</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL3RyaWdnZXJlZC9hY2tlZA==</entry>
         <entry encoding="base64">JzwsJz5zLyxcICdhY2tlZCcpLykv</entry>
         <entry encoding="base64">JzwsJz5zLygncmVzb2x2ZWQnLCdhY2tlZCcpLygncmVzb2x2ZWQnKS8=</entry>
         <entry encoding="base64">JzwsJz5zL19BQ18vX0FDX1NUR18v</entry>
@@ -49,6 +48,7 @@
         <entry>x</entry>
         <entry>wq</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz4vcy9zdGcvcHJvZA==</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -117,12 +117,11 @@
       <file name="/console" timestamp="1592234529965">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736_resolves.ipynb" timestamp="1592238934713">
-        <mark key="'" line="538" column="4" />
-        <mark key="[" line="536" column="0" />
-        <mark key="]" line="536" column="0" />
-        <mark key="." line="536" column="0" />
-        <mark key="^" line="539" column="96" />
+      <file name="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736_resolves.ipynb" timestamp="1592240001826">
+        <mark key="[" line="521" column="0" />
+        <mark key="]" line="521" column="57" />
+        <mark key="." line="521" column="0" />
+        <mark key="^" line="517" column="33" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/044e28c2-f35f-4fff-b858-d01f3fe770cc/console_1.sql" timestamp="1591728797049">
         <mark key="[" line="0" column="10" />
@@ -163,7 +162,7 @@
       <file name="/console_1" timestamp="1591810492048">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/console_2" timestamp="1592236853379">
+      <file name="/console_2" timestamp="1592239009338">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/GitHub/data-db-loader/tests/ad_hoc_kinesis_s3/test_ad_hoc_kinesis_s3.py" timestamp="1591806521055">
@@ -302,7 +301,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJBdHRlbXB0aW5nIHRvIGdldCByZWNvdmVyeSBhbGVydCBkYXRhLi4uIikK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiQXR0ZW1wdGluZyB0byBnZXQgcmVjb3ZlcnkgYWxlcnQgZGF0YS4uLiIpCg==</text>
       </register>
       <register name="-" type="4">
         <text>missing_df</text>
@@ -311,34 +310,34 @@
         <text>recovery</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChmIk5vIHZhbGlkYXRpb24gcGVyZm9ybWVkIikK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiQXR0ZW1wdGluZyB0byBnZXQgcmVjb3ZlcnkgYWxlcnQgZGF0YS4uLiIpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHByaW50KCJBdHRlbXB0aW5nIHRvIGdldCByZWNvdmVyeSBhbGVydCBkYXRhLi4uIikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KGYiSW5jaWRlbnRzIHdpdGggYXZhaWxhYmxlIHJlY292ZXJ5IGFsZXJ0OiB7bGVuKG1pc3NpbmdfZGZbbWlzc2luZ19kZlsncmVzb2x2ZWRfYXQnXSAhPSAnJ10uaW5kZXgpfSIpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiR2V0IikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KGYiSW5jaWRlbnRzIHdpdGggYXZhaWxhYmxlIHJlY292ZXJ5IGFsZXJ0OiB7bGVuKG1pc3NpbmdfZGZbbWlzc2luZ19kZlsncmVzb2x2ZWRfYXQnXSAhPSAnJ10uaW5kZXgpfSIpCg==</text>
+        <text encoding="base64">ICAgICAgICBhbGVydF9lbnJpY2hlZF9kZiA9IGFkZF9yZWNvdmVyeV9hbGVydF90aW1lcyhzdGdfdm9kYXRfZGJfY29ubiwgdmFsaWRhdGVkX21pc3NpbmdfZGYpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBtaXNzaW5nX2RmID0gYWRkX3JlY292ZXJ5X2FsZXJ0X3RpbWVzKHByb2Rfdm9kYXRfZGJfY29ubiwgZmluZGluZ3NfZGYpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KCJBdHRlbXB0aW5nIHRvIGdldCByZWNvdmVyeSBhbGVydCBkYXRhLi4uIikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG1pc3NpbmdfZGYgPSBhZGRfcmVjb3ZlcnlfYWxlcnRfdGltZXMocHJvZF92b2RhdF9kYl9jb25uLCBmaW5kaW5nc19kZikK</text>
+        <text encoding="base64">ICAgIHByaW50KGYiSW5jaWRlbnRzIHdpdGggYXZhaWxhYmxlIHJlY292ZXJ5IGFsZXJ0OiB7bGVuKG1pc3NpbmdfZGZbbWlzc2luZ19kZlsncmVzb2x2ZWRfYXQnXSAhPSAnJ10uaW5kZXgpfSIpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBtaXNzaW5nX2RmID0gYWRkX3JlY292ZXJ5X2FsZXJ0X3RpbWVzKHN0Z192b2RhdF9kYl9jb25uLCB2YWxpZGF0ZWRfbWlzc2luZ19kZikK</text>
+        <text encoding="base64">ICAgIHByaW50KGYiSW5jaWRlbnRzIHdpdGggYXZhaWxhYmxlIHJlY292ZXJ5IGFsZXJ0OiB7bGVuKG1pc3NpbmdfZGZbbWlzc2luZ19kZlsncmVzb2x2ZWRfYXQnXSAhPSAnJ10uaW5kZXgpfSIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBtaXNzaW5nX2RmID0gYWRkX3JlY292ZXJ5X2FsZXJ0X3RpbWVzKHN0Z192b2RhdF9kYl9jb25uLCBmaW5kaW5nc19kZikK</text>
+        <text encoding="base64">ICAgICAgICBtaXNzaW5nX2RmID0gYWRkX3JlY292ZXJ5X2FsZXJ0X3RpbWVzKHByb2Rfdm9kYXRfZGJfY29ubiwgZmluZGluZ3NfZGYpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG1pc3NpbmdfZGYgPSBhZGRfcmVjb3ZlcnlfYWxlcnRfdGltZXMoc3RnX3ZvZGF0X2RiX2Nvbm4sIGZpbmRpbmdzX2RmKQo=</text>
+        <text encoding="base64">ICAgIG1pc3NpbmdfZGYgPSBhZGRfcmVjb3ZlcnlfYWxlcnRfdGltZXMocHJvZF92b2RhdF9kYl9jb25uLCBmaW5kaW5nc19kZikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtaXNzaW5nX2RmID0gYWRkX3JlY292ZXJ5X2FsZXJ0X3RpbWVzKHN0Z192b2RhdF9kYl9jb25uLCB2YWxpZGF0ZWRfbWlzc2luZ19kZikK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
