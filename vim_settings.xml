@@ -117,11 +117,12 @@
       <file name="/console" timestamp="1592234529965">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736_resolves.ipynb" timestamp="1592236175120">
-        <mark key="[" line="565" column="0" />
-        <mark key="]" line="565" column="0" />
-        <mark key="^" line="558" column="115" />
-        <mark key="." line="565" column="0" />
+      <file name="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736_resolves.ipynb" timestamp="1592236525163">
+        <mark key="'" line="123" column="0" />
+        <mark key="[" line="152" column="38" />
+        <mark key="]" line="152" column="37" />
+        <mark key="^" line="152" column="37" />
+        <mark key="." line="152" column="36" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/044e28c2-f35f-4fff-b858-d01f3fe770cc/console_1.sql" timestamp="1591728797049">
         <mark key="[" line="0" column="10" />
@@ -147,6 +148,9 @@
         <mark key="^" line="1" column="39" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="/console_7" timestamp="1592236742849">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/" timestamp="1591720018538">
         <mark key="[" line="0" column="0" />
       </file>
@@ -156,10 +160,10 @@
         <mark key="^" line="1" column="82" />
         <mark key="." line="1" column="81" />
       </file>
-      <file name="/console_6" timestamp="1591677730543">
+      <file name="/console_1" timestamp="1591810492048">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/console_1" timestamp="1591810492048">
+      <file name="/console_2" timestamp="1592236853379">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/GitHub/data-db-loader/tests/ad_hoc_kinesis_s3/test_ad_hoc_kinesis_s3.py" timestamp="1591806521055">
@@ -193,7 +197,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1166" column="12" filename="$USER_HOME$/GitLab/jmeter/tests/data_analytics_team/dat_verbose_high_volume_playground.jmx" />
       <jump line="1017" column="4" filename="$USER_HOME$/GitLab/jmeter/tests/data_analytics_team/dat_verbose_high_volume_playground.jmx" />
       <jump line="1090" column="10" filename="$USER_HOME$/GitLab/jmeter/tests/data_analytics_team/dat_verbose_high_volume_playground.jmx" />
       <jump line="500" column="12" filename="$USER_HOME$/GitLab/jmeter/tests/data_analytics_team/dat_verbose_high_volume_playground.jmx" />
@@ -293,15 +296,16 @@
       <jump line="133" column="0" filename="$USER_HOME$/GitHub/data_misc/analysis_misc/db_common.py" />
       <jump line="180" column="0" filename="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736_resolves.ipynb" />
       <jump line="2" column="51" filename="$APPLICATION_CONFIG_DIR$/consoles/db/044e28c2-f35f-4fff-b858-d01f3fe770cc/console.sql" />
+      <jump line="123" column="0" filename="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736_resolves.ipynb" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">PGhyPgo=</text>
+      <register name="&quot;" type="4">
+        <text>MySQL</text>
       </register>
       <register name="-" type="4">
-        <text>3934</text>
+        <text>MySQL</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YWx1ZVw+</text>
