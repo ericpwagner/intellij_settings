@@ -133,6 +133,9 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
+      <file name="/console_9" timestamp="1592323036347">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/e8729eb7-7e90-475c-b5ee-b76b8f7b5577/console.sql" timestamp="1591824114731">
         <mark key="[" line="2" column="5" />
         <mark key="]" line="5" column="0" />
@@ -167,9 +170,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/console_1" timestamp="1591810492048">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/console_2" timestamp="1592245700039">
         <mark key="[" line="0" column="0" />
       </file>
@@ -179,10 +179,10 @@
         <mark key="^" line="33" column="51" />
         <mark key="." line="155" column="0" />
       </file>
-      <file name="/Dummy.json" timestamp="1591812450804">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c8741a45-206f-4253-89be-6cc74f6d936f/console_9.sql" timestamp="1592323041832">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="4302" />
-        <mark key="." line="0" column="4302" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -290,11 +290,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50KGYiXG4gaW5jaWRlbnQgZGV0YWlscyA9IHtyb3d9IikK</text>
+      <register name="&quot;" type="4">
+        <text />
       </register>
       <register name="-" type="4">
-        <text>$USER_HOME$/Downloads/se_736</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>prod</text>
