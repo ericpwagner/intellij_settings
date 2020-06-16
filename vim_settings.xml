@@ -164,10 +164,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c8741a45-206f-4253-89be-6cc74f6d936f/console_9.sql" timestamp="1592343600885">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c8741a45-206f-4253-89be-6cc74f6d936f/console_9.sql" timestamp="1592344685671">
+        <mark key="[" line="4" column="17" />
+        <mark key="]" line="14" column="6" />
+        <mark key="." line="14" column="5" />
+        <mark key="^" line="14" column="6" />
       </file>
     </filemarks>
     <jumps>
