@@ -128,6 +128,7 @@
       <file name="/console" timestamp="1592234529965">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736_resolves.ipynb" timestamp="1592336080223" />
       <file name="$USER_HOME$/GitLab/replay-tools/alert_core_replay/athena/send_to_kinesis.py" timestamp="1592318339802">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -174,10 +175,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/GitLab/replay-tools/alert_core_replay/athena/process_resolves_at_only.py" timestamp="1592318623394">
-        <mark key="[" line="155" column="0" />
-        <mark key="]" line="155" column="0" />
         <mark key="^" line="33" column="51" />
-        <mark key="." line="155" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c8741a45-206f-4253-89be-6cc74f6d936f/console_9.sql" timestamp="1592326547500">
         <mark key="[" line="0" column="0" />
