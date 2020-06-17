@@ -118,8 +118,10 @@
       <file name="/console_9" timestamp="1592343599404">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.sql" timestamp="1592251243685">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/GitLab/lambda-template/{{cookiecutter.project_name_snake}}/lambda_handler.py" timestamp="1592432141306">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/1c8caa95-40a4-4694-859b-23405dbb79c7/console_1.sql" timestamp="1592343576607">
         <mark key="[" line="0" column="0" />
@@ -134,14 +136,18 @@
         <mark key="." line="15" column="5" />
         <mark key="^" line="15" column="6" />
       </file>
-      <file name="/Dummy.txt" timestamp="1592251243696">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/GitLab/row-level-recon/tools/athena_common.py" timestamp="1592419817057" />
       <file name="$USER_HOME$/GitLab/lambda-template/{{cookiecutter.project_name_snake}}/tools/db_common.py" timestamp="1592425681878">
         <mark key="[" line="36" column="110" />
+      </file>
+      <file name="$USER_HOME$/GitLab/tox_and_lint_fixes/lambda_handler.py" timestamp="1592432212019">
+        <mark key="[" line="4" column="28" />
+        <mark key="]" line="4" column="23" />
+        <mark key="." line="4" column="22" />
+        <mark key="^" line="4" column="23" />
+      </file>
+      <file name="/" timestamp="1592431866441">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/console_1" timestamp="1592343574943">
         <mark key="[" line="0" column="0" />
@@ -258,11 +264,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>project</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZXRpbWUK</text>
       </register>
       <register name="-" type="4">
-        <text>project</text>
+        <text>Any</text>
       </register>
       <register name="/" type="4">
         <text>tox</text>
@@ -271,36 +277,36 @@
         <text encoding="base64">ICAgICAgICAgICAgaWYgb3V0cHV0X2Nzdi52YWx1ZToKICAgICAgICAgICAgICAgIGV4cG9ydF90b19jc3YobWlzc2luZ19kZikK</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZXRpbWUK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ZnJvbSBvcyBpbXBvcnQgZ2V0ZW52Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ZnJvbSBpbXBvcnRsaWIgaW1wb3J0IGltcG9ydF9tb2R1bGUK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZXRpbWUK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ZnJvbSBvcyBpbXBvcnQgZ2V0ZW52Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ZnJvbSBpbXBvcnRsaWIgaW1wb3J0IGltcG9ydF9tb2R1bGUK</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">aW1wb3J0IHB5YXRoZW5hLmNvbm5lY3Rpb24K</text>
       </register>
-      <register name="2" type="4">
+      <register name="8" type="4">
         <text>incident_phase
     , first_alert_at
     , transitioned_at
     , acked_at
     , resolved_at</text>
       </register>
-      <register name="3" type="2">
+      <register name="9" type="2">
         <text>where org_id = 14982
 and incident_id = 1238654</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">c2VsZWN0ICoKZnJvbSB2b19kYXRhX2FuYWx5dGljcy5mYWN0X2luY2lkZW50X2N1cnJfdjEKd2hlcmUgb3JnX2lkID0gNTIxNQogIGFuZCBpbmNpZGVudF9pZCA9IDMxMTYxODsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiQXR0ZW1wdGluZyB0byBnZXQgcmVjb3ZlcnkgYWxlcnQgZGF0YS4uLiIpCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiQXR0ZW1wdGluZyB0byBnZXQgcmVjb3ZlcnkgYWxlcnQgZGF0YS4uLiIpCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiQXR0ZW1wdGluZyB0byBnZXQgcmVjb3ZlcnkgYWxlcnQgZGF0YS4uLiIpCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiQXR0ZW1wdGluZyB0byBnZXQgcmVjb3ZlcnkgYWxlcnQgZGF0YS4uLiIpCg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50KGYiSW5jaWRlbnRzIHdpdGggYXZhaWxhYmxlIHJlY292ZXJ5IGFsZXJ0OiB7bGVuKG1pc3NpbmdfZGZbbWlzc2luZ19kZlsncmVzb2x2ZWRfYXQnXSAhPSAnJ10uaW5kZXgpfSIpCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3Byb2Qvc3RnL2c=</text>
