@@ -109,18 +109,12 @@
         <mark key="^" line="41" column="6" />
         <mark key="." line="41" column="6" />
       </file>
-      <file name="/console" timestamp="1592234529965">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/e8729eb7-7e90-475c-b5ee-b76b8f7b5577/console_2.sql" timestamp="1592246632903">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="/console_9" timestamp="1592343599404">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/console_7" timestamp="1592236742849">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/console_8" timestamp="1592246691953">
@@ -152,6 +146,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/GitLab/row-level-recon/tools/athena_common.py" timestamp="1592419817057" />
       <file name="/" timestamp="1592251176069">
         <mark key="[" line="0" column="0" />
       </file>
@@ -272,8 +267,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text />
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IHB5YXRoZW5hLmNvbm5lY3Rpb24K</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -284,22 +279,22 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgb3V0cHV0X2Nzdi52YWx1ZToKICAgICAgICAgICAgICAgIGV4cG9ydF90b19jc3YobWlzc2luZ19kZikK</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0IHB5YXRoZW5hLmNvbm5lY3Rpb24K</text>
+      </register>
+      <register name="2" type="4">
         <text>incident_phase
     , first_alert_at
     , transitioned_at
     , acked_at
     , resolved_at</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text>where org_id = 14982
 and incident_id = 1238654</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">c2VsZWN0ICoKZnJvbSB2b19kYXRhX2FuYWx5dGljcy5mYWN0X2luY2lkZW50X2N1cnJfdjEKd2hlcmUgb3JnX2lkID0gNTIxNQogIGFuZCBpbmNpZGVudF9pZCA9IDMxMTYxODsK</text>
-      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiQXR0ZW1wdGluZyB0byBnZXQgcmVjb3ZlcnkgYWxlcnQgZGF0YS4uLiIpCg==</text>
+        <text encoding="base64">c2VsZWN0ICoKZnJvbSB2b19kYXRhX2FuYWx5dGljcy5mYWN0X2luY2lkZW50X2N1cnJfdjEKd2hlcmUgb3JnX2lkID0gNTIxNQogIGFuZCBpbmNpZGVudF9pZCA9IDMxMTYxODsK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCgiQXR0ZW1wdGluZyB0byBnZXQgcmVjb3ZlcnkgYWxlcnQgZGF0YS4uLiIpCg==</text>
@@ -311,7 +306,7 @@ and incident_id = 1238654</text>
         <text encoding="base64">ICAgICAgICBwcmludCgiQXR0ZW1wdGluZyB0byBnZXQgcmVjb3ZlcnkgYWxlcnQgZGF0YS4uLiIpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50KGYiSW5jaWRlbnRzIHdpdGggYXZhaWxhYmxlIHJlY292ZXJ5IGFsZXJ0OiB7bGVuKG1pc3NpbmdfZGZbbWlzc2luZ19kZlsncmVzb2x2ZWRfYXQnXSAhPSAnJ10uaW5kZXgpfSIpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiQXR0ZW1wdGluZyB0byBnZXQgcmVjb3ZlcnkgYWxlcnQgZGF0YS4uLiIpCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgIHByaW50KGYiSW5jaWRlbnRzIHdpdGggYXZhaWxhYmxlIHJlY292ZXJ5IGFsZXJ0OiB7bGVuKG1pc3NpbmdfZGZbbWlzc2luZ19kZlsncmVzb2x2ZWRfYXQnXSAhPSAnJ10uaW5kZXgpfSIpCg==</text>
