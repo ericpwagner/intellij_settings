@@ -118,7 +118,12 @@
       <file name="/console_9" timestamp="1592343599404">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GitLab/lambda-template/{{cookiecutter.project_name_snake}}/lambda_handler.py" timestamp="1592432141306">
+      <file name="$USER_HOME$/GitLab/lambda-template/{{cookiecutter.project_name_snake}}/lambda_handler.py" timestamp="1592432372651">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/GitLab/lambda-template/{{cookiecutter.project_name_snake}}/tools/athena_common.py" timestamp="1592433230001">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
@@ -129,6 +134,11 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_7.txt" timestamp="1592344941721" />
+      <file name="$USER_HOME$/GitLab/tox_and_lint_fixes/Pipfile" timestamp="1592433139342">
+        <mark key="[" line="15" column="2" />
+        <mark key="]" line="15" column="2" />
+        <mark key="." line="15" column="2" />
+      </file>
       <file name="/Dummy.json" timestamp="1592345967679" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c8741a45-206f-4253-89be-6cc74f6d936f/console_9.sql" timestamp="1592405633779">
         <mark key="[" line="4" column="17" />
@@ -140,16 +150,18 @@
       <file name="$USER_HOME$/GitLab/lambda-template/{{cookiecutter.project_name_snake}}/tools/db_common.py" timestamp="1592425681878">
         <mark key="[" line="36" column="110" />
       </file>
-      <file name="$USER_HOME$/GitLab/tox_and_lint_fixes/lambda_handler.py" timestamp="1592432212019">
-        <mark key="[" line="4" column="28" />
-        <mark key="]" line="4" column="23" />
-        <mark key="." line="4" column="22" />
+      <file name="$USER_HOME$/GitLab/tox_and_lint_fixes/tools/athena_common.py" timestamp="1592433068481">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/GitLab/tox_and_lint_fixes/lambda_handler.py" timestamp="1592432347520">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
         <mark key="^" line="4" column="23" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="/" timestamp="1592431866441">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/console_1" timestamp="1592343574943">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/GitLab/lambda-template/cookiecutter.json" timestamp="1592426608773">
@@ -265,10 +277,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZXRpbWUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Any</text>
+        <text>P</text>
       </register>
       <register name="/" type="4">
         <text>tox</text>
@@ -277,36 +289,31 @@
         <text encoding="base64">ICAgICAgICAgICAgaWYgb3V0cHV0X2Nzdi52YWx1ZToKICAgICAgICAgICAgICAgIGV4cG9ydF90b19jc3YobWlzc2luZ19kZikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZXRpbWUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBvcyBpbXBvcnQgZ2V0ZW52Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBpbXBvcnRsaWIgaW1wb3J0IGltcG9ydF9tb2R1bGUK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZXRpbWUK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBvcyBpbXBvcnQgZ2V0ZW52Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBpbXBvcnRsaWIgaW1wb3J0IGltcG9ydF9tb2R1bGUK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">aW1wb3J0IHB5YXRoZW5hLmNvbm5lY3Rpb24K</text>
       </register>
-      <register name="8" type="4">
-        <text>incident_phase
-    , first_alert_at
-    , transitioned_at
-    , acked_at
-    , resolved_at</text>
+      <register name="3" type="2">
+        <text encoding="base64">CmZyb20gcHlhdGhlbmEuY29ubmVjdGlvbiBpbXBvcnQgQ29ubmVjdGlvbgo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ZnJvbSB0b29scy5hd3NfdXRpbHMgaW1wb3J0IHBhcnNlX2RhdGVfZnJvbV9ldmVudAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ZnJvbSB0b29scy5hd3NfdXRpbHMgaW1wb3J0IHBhcnNlX2RhdGVfZnJvbV9ldmVudAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZXRpbWUK</text>
       </register>
       <register name="9" type="2">
-        <text>where org_id = 14982
-and incident_id = 1238654</text>
+        <text encoding="base64">ZnJvbSBvcyBpbXBvcnQgZ2V0ZW52Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3Byb2Qvc3RnL2c=</text>
