@@ -140,9 +140,9 @@
         <mark key="." line="15" column="5" />
         <mark key="^" line="15" column="6" />
       </file>
-      <file name="$USER_HOME$/GitLab/lambda-template/{{cookiecutter.project_name_snake}}/tools/aws_utils.py" timestamp="1592452230272">
+      <file name="$USER_HOME$/GitLab/lambda-template/{{cookiecutter.project_name_snake}}/tools/aws_utils.py" timestamp="1592454919978">
         <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="12" />
+        <mark key="]" line="3" column="28" />
         <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/GitLab/row-level-recon/tools/athena_common.py" timestamp="1592419817057" />
@@ -164,11 +164,11 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/GitHub/data-db-loader/db_loader/aws_utils.py" timestamp="1592452148502" />
-      <file name="$USER_HOME$/GitLab/tox_and_lint_fixes/tools/aws_utils.py" timestamp="1592452301383">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
+      <file name="$USER_HOME$/GitLab/tox_and_lint_fixes/tools/aws_utils.py" timestamp="1592452554453">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="28" />
         <mark key="^" line="5" column="0" />
-        <mark key="." line="6" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/GitLab/lambda-template/cookiecutter.json" timestamp="1592426608773">
         <mark key="[" line="1" column="24" />
@@ -283,7 +283,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBiYXNlNjQgaW1wb3J0IGI2NGRlY29kZQo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -295,31 +295,31 @@
         <text encoding="base64">ICAgICAgICAgICAgaWYgb3V0cHV0X2Nzdi52YWx1ZToKICAgICAgICAgICAgICAgIGV4cG9ydF90b19jc3YobWlzc2luZ19kZikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBiYXNlNjQgaW1wb3J0IGI2NGRlY29kZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGJvdG8zCg==</text>
+        <text encoding="base64">ZnJvbSBiYXNlNjQgaW1wb3J0IGI2NGRlY29kZQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyBUT0RPOiBNb3ZlIGludG8gYSBtb2R1bGUgZm9yIHNoYXJlZCB1c2UK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">aW1wb3J0IGJvdG8zCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">IyBUT0RPOiBNb3ZlIGludG8gYSBtb2R1bGUgZm9yIHNoYXJlZCB1c2UK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBUT0RPOiBNb3ZlIGludG8gYSBtb2R1bGUgZm9yIHNoYXJlZCB1c2UKCg==</text>
+        <text encoding="base64">aW1wb3J0IGJvdG8zCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBiYXNlNjQgaW1wb3J0IGI2NGRlY29kZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG9zCg==</text>
+        <text encoding="base64">IyBUT0RPOiBNb3ZlIGludG8gYSBtb2R1bGUgZm9yIHNoYXJlZCB1c2UKCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3Byb2Qvc3RnL2c=</text>
