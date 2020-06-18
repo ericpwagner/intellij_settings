@@ -108,7 +108,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1592318640934">
+      <file name="/Dummy.txt" timestamp="1592510679408">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -147,9 +147,8 @@
         <mark key="]" line="0" column="7" />
         <mark key="." line="0" column="7" />
       </file>
-      <file name="$USER_HOME$/GitLab/data_misc/analysis_misc/README.md" timestamp="1592509102746">
+      <file name="$USER_HOME$/GitLab/data_misc/analysis_misc/README.md" timestamp="1592510478528">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="59" column="22" />
       </file>
       <file name="/a.sql" timestamp="1592251243685">
         <mark key="[" line="0" column="0" />
@@ -277,7 +276,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QmVjYXVzZSByZWNvdmVyeSBkYXRhIGlzIGNvbnN0YW50bHkgZmxvd2luZwo=</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -289,34 +288,34 @@
         <text encoding="base64">ICAgICAgICAgICAgaWYgb3V0cHV0X2Nzdi52YWx1ZToKICAgICAgICAgICAgICAgIGV4cG9ydF90b19jc3YobWlzc2luZ19kZikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QmVjYXVzZSByZWNvdmVyeSBkYXRhIGlzIGNvbnN0YW50bHkgZmxvd2luZwo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyUlCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">IyUlCg==</text>
+      </register>
       <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text># Use this cell to output a more general summary of the returned data (just org_id and count of affected incidents)
 # print(final_df.org_id.unique())
 # summary_table = pd.DataFrame(validated_missing_df.org_id.value_counts().sort_index())
 # export_summary_to_csv(summary_table)</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIHByaW50KGYiXG4gaW5jaWRlbnQgZGV0YWlscyA9IHtyb3d9IikK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIHByaW50KGYiSW5jaWRlbnQgYml0cyA9IHtyb3d9IikK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50KHJlY29yZHMpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
