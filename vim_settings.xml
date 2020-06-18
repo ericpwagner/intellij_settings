@@ -103,19 +103,16 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/GitHub/data-db-loader/db_loader/_version.py" timestamp="1592492375167" />
+      <file name="$USER_HOME$/GitHub/data-db-loader/db_loader/_version.py" timestamp="1592493936173" />
       <file name="$USER_HOME$/GitLab/lambda-template/{{cookiecutter.project_name_snake}}/package.json" timestamp="1592492662691" />
       <file name="$USER_HOME$/GitLab/tox_and_lint_fixes/tools/db_common.py" timestamp="1592452078511">
         <mark key="[" line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/GitLab/tox_and_lint_fixes/setup.py" timestamp="1592493047153">
+      <file name="$USER_HOME$/GitLab/tox_and_lint_fixes/setup.py" timestamp="1592493978783">
         <mark key="[" line="30" column="7" />
         <mark key="]" line="30" column="7" />
         <mark key="." line="30" column="6" />
         <mark key="^" line="30" column="7" />
-      </file>
-      <file name="/a.dummy" timestamp="1592424619167">
-        <mark key="[" line="0" column="1" />
       </file>
       <file name="$USER_HOME$/GitLab/tox_and_lint_fixes/serverless.yml" timestamp="1592426698935">
         <mark key="'" line="13" column="8" />
@@ -137,6 +134,7 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="9" column="2" />
       </file>
+      <file name="$USER_HOME$/GitHub/data-db-loader/mypy.ini" timestamp="1592493999915" />
       <file name="$USER_HOME$/GitLab/lambda-template/{{cookiecutter.project_name_snake}}/tools/aws_utils.py" timestamp="1592454919978">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="28" />
