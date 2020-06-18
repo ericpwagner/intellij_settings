@@ -108,12 +108,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c8741a45-206f-4253-89be-6cc74f6d936f/console.sql" timestamp="1591829921118">
-        <mark key="[" line="5" column="18" />
-        <mark key="]" line="5" column="18" />
-        <mark key="^" line="4" column="20" />
-        <mark key="." line="5" column="18" />
-      </file>
       <file name="/Dummy.txt" timestamp="1592318640934">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -125,16 +119,11 @@
         <mark key="^" line="41" column="6" />
         <mark key="." line="41" column="6" />
       </file>
-      <file name="/console" timestamp="1592234529965">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736_resolves.ipynb" timestamp="1592339025351" />
       <file name="$USER_HOME$/GitLab/replay-tools/alert_core_replay/athena/send_to_kinesis.py" timestamp="1592318339802">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/GitHub/data_misc/analysis_misc/.env.template" timestamp="1592339082152" />
       <file name="/console_9" timestamp="1592334518616">
         <mark key="[" line="0" column="0" />
       </file>
@@ -158,6 +147,10 @@
         <mark key="]" line="0" column="7" />
         <mark key="." line="0" column="7" />
       </file>
+      <file name="$USER_HOME$/GitLab/data_misc/analysis_misc/README.md" timestamp="1592509102746">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="59" column="22" />
+      </file>
       <file name="/a.sql" timestamp="1592251243685">
         <mark key="[" line="0" column="0" />
       </file>
@@ -172,7 +165,6 @@
       <file name="$USER_HOME$/GitLab/replay-tools/alert_core_replay/athena/process_resolves_at_only.py" timestamp="1592318623394">
         <mark key="^" line="33" column="51" />
       </file>
-      <file name="$USER_HOME$/GitHub/data_misc/analysis_misc/.env" timestamp="1592339192188" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c8741a45-206f-4253-89be-6cc74f6d936f/console_9.sql" timestamp="1592326547500">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -180,7 +172,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="234" column="0" filename="/SE-736_analysis.ipynb" />
       <jump line="261" column="0" filename="/SE-736_analysis.ipynb" />
       <jump line="280" column="4" filename="/SE-736_analysis.ipynb" />
       <jump line="339" column="45" filename="/SE-736_analysis.ipynb" />
@@ -280,12 +271,13 @@
       <jump line="539" column="4" filename="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736_resolves.ipynb" />
       <jump line="553" column="0" filename="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736_resolves.ipynb" />
       <jump line="543" column="1" filename="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736_resolves.ipynb" />
+      <jump line="0" column="0" filename="$USER_HOME$/GitLab/data_misc/analysis_misc/README.md" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text />
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -297,36 +289,34 @@
         <text encoding="base64">ICAgICAgICAgICAgaWYgb3V0cHV0X2Nzdi52YWx1ZToKICAgICAgICAgICAgICAgIGV4cG9ydF90b19jc3YobWlzc2luZ19kZikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KGYiXG4gaW5jaWRlbnQgZGV0YWlscyA9IHtyb3d9IikK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KGYiSW5jaWRlbnQgYml0cyA9IHtyb3d9IikK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">IyUlCg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50KHJlY29yZHMpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50KGYie2ZpbGVfbmFtZX0gc2VudCB0byBLaW5lc2lzLiIpCg==</text>
+        <text># Use this cell to output a more general summary of the returned data (just org_id and count of affected incidents)
+# print(final_df.org_id.unique())
+# summary_table = pd.DataFrame(validated_missing_df.org_id.value_counts().sort_index())
+# export_summary_to_csv(summary_table)</text>
       </register>
-      <register name="6" type="4">
-        <text>incident_phase
-    , first_alert_at
-    , transitioned_at
-    , acked_at
-    , resolved_at</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHByaW50KGYiXG4gaW5jaWRlbnQgZGV0YWlscyA9IHtyb3d9IikK</text>
       </register>
       <register name="7" type="2">
-        <text>where org_id = 14982
-and incident_id = 1238654</text>
+        <text encoding="base64">ICAgIHByaW50KGYiSW5jaWRlbnQgYml0cyA9IHtyb3d9IikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c2VsZWN0ICoKZnJvbSB2b19kYXRhX2FuYWx5dGljcy5mYWN0X2luY2lkZW50X2N1cnJfdjEKd2hlcmUgb3JnX2lkID0gNTIxNQogIGFuZCBpbmNpZGVudF9pZCA9IDMxMTYxODsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiQXR0ZW1wdGluZyB0byBnZXQgcmVjb3ZlcnkgYWxlcnQgZGF0YS4uLiIpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KHJlY29yZHMpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
