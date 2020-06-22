@@ -152,11 +152,10 @@
         <mark key="^" line="50" column="0" />
         <mark key="." line="55" column="88" />
       </file>
-      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/lambda_handler.py" timestamp="1592850054376">
-        <mark key="[" line="17" column="7" />
-        <mark key="]" line="22" column="28" />
-        <mark key="^" line="22" column="28" />
-        <mark key="." line="22" column="27" />
+      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/lambda_handler.py" timestamp="1592850084366">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/GitLab/pts_hec_aggregator/tools/athena_common.py" timestamp="1592518433733">
         <mark key="[" line="4" column="40" />
@@ -190,11 +189,11 @@
         <mark key="." line="1" column="40" />
         <mark key="^" line="1" column="41" />
       </file>
-      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/src/process_event.py" timestamp="1592849625190">
-        <mark key="'" line="41" column="0" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
+      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/src/process_event.py" timestamp="1592850318482">
+        <mark key="'" line="37" column="0" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -303,7 +302,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChmIlNlbmRpbmc6IHtkdW1wcyhwKX1cbiIpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KGYib3JncyA9IHtsZW4ocGF5bG9hZHMpfSIpCg==</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
@@ -315,31 +314,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBwYXJzZXIucGFyc2UoJzIwMjAtMDYtMThUMTc6Mzg6NTQuMjAzMTg3LTA2OjAwJyksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChmIlNlbmRpbmc6IHtkdW1wcyhwKX1cbiIpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KGYib3JncyA9IHtsZW4ocGF5bG9hZHMpfSIpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KGR1bXBzKHBheWxvYWRzWzBdKSkK</text>
+        <text encoding="base64">ICAgIGNvdW50ID0gMAo=</text>
       </register>
       <register name="3" type="2">
-        <text>{“host”:“caleb”,“sourcetype”:“_json”,“index”:“vo_telem”,“event”:{ “component”: “usage.VictorOpsAggregatedCounts”, “runAt”: “”, “version”: “0.0.1”, “data”:{ “deploymentID”: “1&quot;, “orgId”: “1&quot;, “orgSlug”: “vo”, “incidentsCount”: 12345, “alertsCount”: 12345, “loginsCount”: 12345, “usersCount”: 12345 }}}</text>
+        <text encoding="base64">ICAgICAgICBjb3VudCArPSAxCiAgICAgICAgaWYgY291bnQgJSAxMDAgPT0gMDoKICAgICAgICAgICAgcHJpbnQoZiJ7Y291bnR9IHJlY29yZHMgcHJvY2Vzc2VkIikK</text>
       </register>
       <register name="4" type="2">
-        <text>{“host”:“caleb”,“sourcetype”:“_json”,“index”:“vo_telem”,“event”:{ “component”: “usage.VictorOpsAggregatedCounts”, “runAt”: “”, “version”: “0.0.1”, “data”:{ “deploymentID”: “1&quot;, “orgId”: “1&quot;, “orgSlug”: “vo”, “incidentsCount”: 12345, “alertsCount”: 12345, “loginsCount”: 12345, “usersCount”: 12345 }}}</text>
+        <text encoding="base64">ICAgIHByaW50KCJXaGF0IHRoZSBhY3R1YWwgRlVDSyEhISEhIikK</text>
       </register>
       <register name="5" type="2">
-        <text>first attempt</text>
+        <text encoding="base64">ICAgICAgICBwcmludChmIlNlbmRpbmc6IHtkdW1wcyhwKX1cbiIpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KGR1bXBzKHBheWxvYWRzWzBdKSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdFdmVudCBwcm9jZXNzZWQhJykK</text>
+        <text>{“host”:“caleb”,“sourcetype”:“_json”,“index”:“vo_telem”,“event”:{ “component”: “usage.VictorOpsAggregatedCounts”, “runAt”: “”, “version”: “0.0.1”, “data”:{ “deploymentID”: “1&quot;, “orgId”: “1&quot;, “orgSlug”: “vo”, “incidentsCount”: 12345, “alertsCount”: 12345, “loginsCount”: 12345, “usersCount”: 12345 }}}</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdQcm9jZXNzaW5nIGV2ZW50IScpCg==</text>
+        <text>{“host”:“caleb”,“sourcetype”:“_json”,“index”:“vo_telem”,“event”:{ “component”: “usage.VictorOpsAggregatedCounts”, “runAt”: “”, “version”: “0.0.1”, “data”:{ “deploymentID”: “1&quot;, “orgId”: “1&quot;, “orgSlug”: “vo”, “incidentsCount”: 12345, “alertsCount”: 12345, “loginsCount”: 12345, “usersCount”: 12345 }}}</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA=</text>
+      <register name="9" type="2">
+        <text>first attempt</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
