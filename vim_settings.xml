@@ -47,8 +47,8 @@
         <entry encoding="base64">JzwsJz5zL3N0Zy9wcm9kL2c=</entry>
         <entry encoding="base64">JzwsJz5zL3Byb2Qvc3RnL2c=</entry>
         <entry>wq</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz5zL1BST0QvU1RHL2c=</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -103,11 +103,15 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/Pipfile" timestamp="1592859152683">
-        <mark key="[" line="25" column="14" />
-        <mark key="]" line="40" column="10" />
-        <mark key="." line="40" column="9" />
-        <mark key="^" line="40" column="10" />
+      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/Pipfile" timestamp="1592865677872">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/044e28c2-f35f-4fff-b858-d01f3fe770cc/console_3.sql" timestamp="1592860539508">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/GitLab/pts_hec_aggregator/tools/athena_common.py" timestamp="1592857041551">
         <mark key="[" line="31" column="14" />
@@ -126,19 +130,13 @@
         <mark key="." line="9" column="23" />
       </file>
       <file name="$USER_HOME$/GitLab/data_misc/analysis_misc/Pipfile" timestamp="1592859323741" />
-      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/tests/test_lambda_handler.py" timestamp="1592857720065">
-        <mark key="[" line="36" column="40" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="14" />
+      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/tests/test_lambda_handler.py" timestamp="1592863672444">
+        <mark key="[" line="77" column="16" />
+        <mark key="]" line="1" column="103" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="83" column="12" />
       </file>
-      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/setup.py" timestamp="1592852705197">
-        <mark key="[" line="13" column="6" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="31" column="7" />
-        <mark key="^" line="32" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1592857818146">
+      <file name="/Dummy.txt" timestamp="1592865499735">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -154,22 +152,21 @@
         <mark key="." line="59" column="53" />
         <mark key="^" line="59" column="54" />
       </file>
-      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/tools/postgres_common.py" timestamp="1592860060033">
-        <mark key="[" line="19" column="45" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="/console_3" timestamp="1592860537390">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GitLab/lambda-template/{{cookiecutter.project_name_snake}}/setup.py" timestamp="1592853554724">
-        <mark key="[" line="6" column="24" />
-        <mark key="]" line="6" column="24" />
-        <mark key="^" line="6" column="24" />
-        <mark key="." line="6" column="23" />
+      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/tools/postgres_common.py" timestamp="1592863957227">
+        <mark key="[" line="44" column="15" />
+        <mark key="]" line="45" column="0" />
+        <mark key="^" line="3" column="22" />
+        <mark key="." line="45" column="0" />
       </file>
-      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/src/process_event.py" timestamp="1592860074688">
-        <mark key="'" line="52" column="0" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/.gitignore" timestamp="1592865071407" />
+      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/src/process_event.py" timestamp="1592864482808">
+        <mark key="'" line="46" column="0" />
+        <mark key="[" line="29" column="39" />
+        <mark key="]" line="81" column="0" />
+        <mark key="." line="81" column="0" />
       </file>
       <file name="/console_10" timestamp="1592857544466">
         <mark key="[" line="0" column="0" />
@@ -286,46 +283,46 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBlbnYgPSAnc3RnJwo=</text>
+        <text encoding="base64">cGctY29uZmlnID0gIioiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>G</text>
+        <text>, Optional, Type, Union, Tuple</text>
       </register>
       <register name="/" type="4">
         <text>PROD</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ZXhwb3J0IFBST0RfUEdfREJfSE9TVD0xMjcuMC4wLjEKZXhwb3J0IFBST0RfUEdfREJfUE9SVD00Mzk3CmV4cG9ydCBQUk9EX1BHX0RCX05BTUU9dm9kYXQKZXhwb3J0IFBST0RfUEdfREJfVVNFUj1wb3N0Z3JlcwpleHBvcnQgUFJPRF9QR19EQl9QQVNTPVFLRlJKNFRIUE5DSklPWjJRTDM1R0VZOTlDS0VIMktFCg==</text>
+      <register name="0" type="4">
+        <text>dict(orgID=1, incidentsCount=5),</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBlbnYgPSAnc3RnJwo=</text>
+        <text encoding="base64">cGctY29uZmlnID0gIioiCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBlbnYgPSAncHJvZCcK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text>warnings.filterwarnings('error', category=pymysql.err.Warning)  # type: ignore</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBwc3ljb3BnMiA9ICIqIgo=</text>
+        <text encoding="base64">ICAgICIiIiBHZW5lcmljIGVycm9yICIiIgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CgpleHBvcnQgVk9EQVRfUFJPRF9EQl9IT1NUPQpleHBvcnQgVk9EQVRfUFJPRF9EQl9QQVNTPQpleHBvcnQgVk9EQVRfUFJPRF9EQl9OQU1FPQpleHBvcnQgVk9EQVRfUFJPRF9EQl9QT1JUPQpleHBvcnQgVk9EQVRfUFJPRF9EQl9VU0VSPQ==</text>
+        <text encoding="base64">Y2xhc3MgVGFibGVOb3RGb3VuZEVycm9yKEV4Y2VwdGlvbik6Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGxvZ2dpbmcK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHB5bXlzcWwKZnJvbSBweW15c3FsLmN1cnNvcnMgaW1wb3J0IEN1cnNvciwgRGljdEN1cnNvciAgIyB0eXBlOiBpZ25vcmUK</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="9" type="2">
+        <text encoding="base64">bG9nZ2VyID0gbG9nZ2luZy5nZXRMb2dnZXIoX19uYW1lX18pCg==</text>
+      </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL1BST0QvU1RHL2c=</text>
+        <text>w</text>
       </register>
     </registers>
   </component>
