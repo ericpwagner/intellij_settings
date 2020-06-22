@@ -103,10 +103,16 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/Pipfile" timestamp="1592865677872">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
+      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/.gitlab-ci.yml" timestamp="1592866937472">
+        <mark key="[" line="22" column="98" />
+      </file>
+      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/Pipfile" timestamp="1592865880652">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+      </file>
+      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/serverless.yml" timestamp="1592866758420">
+        <mark key="[" line="60" column="24" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/044e28c2-f35f-4fff-b858-d01f3fe770cc/console_3.sql" timestamp="1592860539508">
         <mark key="[" line="0" column="0" />
@@ -136,7 +142,13 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="83" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1592865499735">
+      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/setup.py" timestamp="1592866613482">
+        <mark key="[" line="2" column="42" />
+        <mark key="]" line="29" column="38" />
+        <mark key="." line="29" column="37" />
+        <mark key="^" line="29" column="38" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1592867034991">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -145,13 +157,6 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/GitLab/data_misc/analysis_misc/db_common.py" timestamp="1592857362683" />
-      <file name="$USER_HOME$/GitHub/data-db-loader/db_loader/entry/adhoc_kinesis_lambda.py" timestamp="1592856610397">
-        <mark key="[" line="59" column="54" />
-        <mark key="]" line="59" column="54" />
-        <mark key="m" line="59" column="8" />
-        <mark key="." line="59" column="53" />
-        <mark key="^" line="59" column="54" />
-      </file>
       <file name="/console_3" timestamp="1592860537390">
         <mark key="[" line="0" column="0" />
       </file>
@@ -283,7 +288,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">cGctY29uZmlnID0gIioiCg==</text>
+        <text encoding="base64">emlwcCA9IHtlZGl0YWJsZSA9IHRydWUsIHBhdGggPSAiLiJ9Cg==</text>
       </register>
       <register name="-" type="4">
         <text>, Optional, Type, Union, Tuple</text>
@@ -295,31 +300,31 @@
         <text>dict(orgID=1, incidentsCount=5),</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cGctY29uZmlnID0gIioiCg==</text>
+        <text encoding="base64">emlwcCA9IHtlZGl0YWJsZSA9IHRydWUsIHBhdGggPSAiLiJ9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cGctY29uZmlnID0gIioiCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICIiIiBHZW5lcmljIGVycm9yICIiIgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Y2xhc3MgVGFibGVOb3RGb3VuZEVycm9yKEV4Y2VwdGlvbik6Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGxvZ2dpbmcK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHBhc3MK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICIiIiBHZW5lcmljIGVycm9yICIiIgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Y2xhc3MgVGFibGVOb3RGb3VuZEVycm9yKEV4Y2VwdGlvbik6Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">aW1wb3J0IGxvZ2dpbmcK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">bG9nZ2VyID0gbG9nZ2luZy5nZXRMb2dnZXIoX19uYW1lX18pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
