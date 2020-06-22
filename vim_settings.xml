@@ -109,15 +109,16 @@
         <mark key="." line="56" column="24" />
         <mark key="^" line="52" column="17" />
       </file>
-      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/setup.py" timestamp="1592518058352">
-        <mark key="[" line="12" column="42" />
-        <mark key="]" line="27" column="54" />
-        <mark key="." line="27" column="54" />
+      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/setup.py" timestamp="1592852705197">
+        <mark key="[" line="13" column="6" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="31" column="7" />
+        <mark key="^" line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/tools/aws_utils.py" timestamp="1592852464971">
-        <mark key="[" line="0" column="72" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/tools/aws_utils.py" timestamp="1592852539103">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="28" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1592849518413">
         <mark key="[" line="0" column="0" />
@@ -167,6 +168,12 @@
         <mark key="]" line="24" column="13" />
         <mark key="^" line="24" column="13" />
         <mark key="." line="24" column="12" />
+      </file>
+      <file name="$USER_HOME$/GitLab/lambda-template/{{cookiecutter.project_name_snake}}/setup.py" timestamp="1592853554724">
+        <mark key="[" line="6" column="24" />
+        <mark key="]" line="6" column="24" />
+        <mark key="^" line="6" column="24" />
+        <mark key="." line="6" column="23" />
       </file>
       <file name="/Dummy.json" timestamp="1592845831664">
         <mark key="[" line="0" column="0" />
@@ -300,11 +307,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>TODO</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>TODO</text>
       </register>
       <register name="/" type="4">
         <text>tox</text>
@@ -313,31 +320,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBwYXJzZXIucGFyc2UoJzIwMjAtMDYtMThUMTc6Mzg6NTQuMjAzMTg3LTA2OjAwJyksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgIyAgICAgICAgICAgICAgIFsnbGFtYmRhX2hhbmRsZXIucHknXX0sCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBUT0RPOiBNb3ZlIGludG8gYSBtb2R1bGUgZm9yIHNoYXJlZCB1c2UK</text>
+        <text encoding="base64">ICAgICAgIyBlbnRyeV9wb2ludHM9eydjb25zb2xlX3NjcmlwdHMnOgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG9zCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ZnJvbSBiYXNlNjQgaW1wb3J0IGI2NGRlY29kZQo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">IyBUT0RPOiBNb3ZlIGludG8gYSBtb2R1bGUgZm9yIHNoYXJlZCB1c2UK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSB0b29scy5hd3NfdXRpbHMgaW1wb3J0IHBhcnNlX2RhdGVfZnJvbV9ldmVudAo=</text>
+        <text encoding="base64">aW1wb3J0IG9zCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBpbXBvcnRsaWIgaW1wb3J0IGltcG9ydF9tb2R1bGUK</text>
+        <text encoding="base64">ZnJvbSBiYXNlNjQgaW1wb3J0IGI2NGRlY29kZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZXRpbWUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBvcyBpbXBvcnQgZ2V0ZW52Cg==</text>
+        <text encoding="base64">ZnJvbSB0b29scy5hd3NfdXRpbHMgaW1wb3J0IHBhcnNlX2RhdGVfZnJvbV9ldmVudAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
