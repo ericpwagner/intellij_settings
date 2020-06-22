@@ -103,17 +103,56 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/tests/test_lambda_handler.py" timestamp="1592524459186">
+        <mark key="[" line="55" column="60" />
+        <mark key="]" line="62" column="0" />
+        <mark key="." line="59" column="0" />
+      </file>
+      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/setup.py" timestamp="1592518058352">
+        <mark key="[" line="12" column="42" />
+        <mark key="]" line="27" column="54" />
+        <mark key="." line="27" column="54" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1592525498879">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/GitLab/lambda-template/setup.py" timestamp="1592495672855">
         <mark key="[" line="25" column="79" />
         <mark key="]" line="25" column="79" />
         <mark key="." line="25" column="79" />
         <mark key="^" line="25" column="84" />
       </file>
+      <file name="$USER_HOME$/GitLab/data_misc/analysis_misc/.env" timestamp="1592508780718">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/GitLab/tox_and_lint_fixes/setup.py" timestamp="1592493978783">
         <mark key="[" line="30" column="7" />
         <mark key="]" line="30" column="7" />
         <mark key="." line="30" column="6" />
         <mark key="^" line="30" column="7" />
+      </file>
+      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/tox.ini" timestamp="1592518169716">
+        <mark key="[" line="5" column="15" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="23" column="42" />
+        <mark key="^" line="24" column="0" />
+      </file>
+      <file name="$USER_HOME$/GitLab/data_misc/analysis_misc/SE-736_resolves.ipynb" timestamp="1592507860906">
+        <mark key="[" line="531" column="45" />
+        <mark key="]" line="566" column="46" />
+        <mark key="^" line="563" column="8" />
+        <mark key="." line="566" column="46" />
+      </file>
+      <file name="/" timestamp="1592842508025">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/GitLab/data_misc/analysis_misc/README.md" timestamp="1592507618159">
+        <mark key="[" line="55" column="88" />
+        <mark key="]" line="55" column="88" />
+        <mark key="^" line="50" column="0" />
+        <mark key="." line="55" column="88" />
       </file>
       <file name="$USER_HOME$/GitLab/pts_hec_aggregator/lambda_handler.py" timestamp="1592520681951">
         <mark key="[" line="21" column="28" />
@@ -126,30 +165,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/.envrc" timestamp="1592521783697">
-        <mark key="[" line="0" column="48" />
-        <mark key="]" line="0" column="55" />
-        <mark key="^" line="0" column="55" />
-        <mark key="." line="0" column="54" />
-      </file>
-      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/tests/test_lambda_handler.py" timestamp="1592524459186">
-        <mark key="[" line="55" column="60" />
-        <mark key="]" line="62" column="0" />
-        <mark key="." line="59" column="0" />
-      </file>
-      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/setup.py" timestamp="1592518058352">
-        <mark key="[" line="12" column="42" />
-        <mark key="]" line="27" column="54" />
-        <mark key="." line="27" column="54" />
-      </file>
-      <file name="$USER_HOME$/GitLab/data_misc/analysis_misc/.env" timestamp="1592508780718">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/tox.ini" timestamp="1592518169716">
-        <mark key="[" line="5" column="15" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="23" column="42" />
-        <mark key="^" line="24" column="0" />
+      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/tools/athena_common.py" timestamp="1592518433733">
+        <mark key="[" line="4" column="40" />
+        <mark key="]" line="31" column="17" />
+        <mark key="^" line="31" column="21" />
+        <mark key="." line="31" column="17" />
       </file>
       <file name="$USER_HOME$/GitLab/lambda-template/{{cookiecutter.project_name_snake}}/Pipfile" timestamp="1592499256669">
         <mark key="[" line="24" column="14" />
@@ -157,43 +177,29 @@
         <mark key="^" line="24" column="13" />
         <mark key="." line="24" column="12" />
       </file>
-      <file name="$USER_HOME$/GitLab/data_misc/analysis_misc/README.md" timestamp="1592507618159">
-        <mark key="[" line="55" column="88" />
-        <mark key="]" line="55" column="88" />
-        <mark key="^" line="50" column="0" />
-        <mark key="." line="55" column="88" />
-      </file>
-      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/tools/athena_common.py" timestamp="1592518433733">
-        <mark key="[" line="4" column="40" />
-        <mark key="]" line="31" column="17" />
-        <mark key="^" line="31" column="21" />
-        <mark key="." line="31" column="17" />
-      </file>
-      <file name="$USER_HOME$/GitHub/data-db-loader/mypy.ini" timestamp="1592493999915" />
-      <file name="/Dummy.txt" timestamp="1592525498879">
+      <file name="/Dummy.json" timestamp="1592842462038">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GitLab/data_misc/analysis_misc/SE-736_resolves.ipynb" timestamp="1592507860906">
-        <mark key="[" line="531" column="45" />
-        <mark key="]" line="566" column="46" />
-        <mark key="^" line="563" column="8" />
-        <mark key="." line="566" column="46" />
+      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/.envrc" timestamp="1592521783697">
+        <mark key="[" line="0" column="48" />
+        <mark key="]" line="0" column="55" />
+        <mark key="^" line="0" column="55" />
+        <mark key="." line="0" column="54" />
       </file>
-      <file name="$USER_HOME$/GitLab/lambda-template/{{cookiecutter.project_name_snake}}/setup.py" timestamp="1592517560183" />
       <file name="$USER_HOME$/GitLab/lambda-template/cookiecutter.json" timestamp="1592495966100">
         <mark key="[" line="1" column="24" />
         <mark key="]" line="1" column="41" />
         <mark key="." line="1" column="40" />
         <mark key="^" line="1" column="41" />
       </file>
-      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/src/process_event.py" timestamp="1592525456593">
-        <mark key="'" line="35" column="0" />
-        <mark key="[" line="23" column="8" />
-        <mark key="]" line="26" column="8" />
-        <mark key="." line="26" column="7" />
-        <mark key="^" line="26" column="8" />
+      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/src/process_event.py" timestamp="1592843094748">
+        <mark key="'" line="36" column="0" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="27" column="8" />
+        <mark key="." line="27" column="7" />
+        <mark key="^" line="27" column="8" />
       </file>
     </filemarks>
     <jumps>
@@ -302,7 +308,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text>first attempt</text>
+        <text>{“host”:“caleb”,“sourcetype”:“_json”,“index”:“vo_telem”,“event”:{ “component”: “usage.VictorOpsAggregatedCounts”, “runAt”: “”, “version”: “0.0.1”, “data”:{ “deploymentID”: “1&quot;, “orgId”: “1&quot;, “orgSlug”: “vo”, “incidentsCount”: 12345, “alertsCount”: 12345, “loginsCount”: 12345, “usersCount”: 12345 }}}</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
@@ -314,31 +320,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBwYXJzZXIucGFyc2UoJzIwMjAtMDYtMThUMTc6Mzg6NTQuMjAzMTg3LTA2OjAwJyksCg==</text>
       </register>
       <register name="1" type="2">
-        <text>first attempt</text>
+        <text>{“host”:“caleb”,“sourcetype”:“_json”,“index”:“vo_telem”,“event”:{ “component”: “usage.VictorOpsAggregatedCounts”, “runAt”: “”, “version”: “0.0.1”, “data”:{ “deploymentID”: “1&quot;, “orgId”: “1&quot;, “orgSlug”: “vo”, “incidentsCount”: 12345, “alertsCount”: 12345, “loginsCount”: 12345, “usersCount”: 12345 }}}</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>{“host”:“caleb”,“sourcetype”:“_json”,“index”:“vo_telem”,“event”:{ “component”: “usage.VictorOpsAggregatedCounts”, “runAt”: “”, “version”: “0.0.1”, “data”:{ “deploymentID”: “1&quot;, “orgId”: “1&quot;, “orgSlug”: “vo”, “incidentsCount”: 12345, “alertsCount”: 12345, “loginsCount”: 12345, “usersCount”: 12345 }}}</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdFdmVudCBwcm9jZXNzZWQhJykK</text>
+        <text>first attempt</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdQcm9jZXNzaW5nIGV2ZW50IScpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">IAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHByaW50KCdFdmVudCBwcm9jZXNzZWQhJykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBwYXJzZXIucGFyc2UoJzIwMjAtMDYtMThUMTc6Mzg6NTQuMjAzMTg3LTA2OjAwJyksCiAgICAgICAgICAgICAgICAgICAgICAgICAgcGFyc2VyLnBhcnNlKCcyMDIwLTA2LTAxVDAwOjAwOjAwWicpLAo=</text>
+        <text encoding="base64">ICAgIHByaW50KCdQcm9jZXNzaW5nIGV2ZW50IScpCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">IGkK</text>
+      <register name="7" type="4">
+        <text encoding="base64">IAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50KHJlc3VsdHMpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBwYXJzZXIucGFyc2UoJzIwMjAtMDYtMThUMTc6Mzg6NTQuMjAzMTg3LTA2OjAwJyksCiAgICAgICAgICAgICAgICAgICAgICAgICAgcGFyc2VyLnBhcnNlKCcyMDIwLTA2LTAxVDAwOjAwOjAwWicpLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAsIG9yZ19zbHVnCg==</text>
+        <text encoding="base64">IGkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
