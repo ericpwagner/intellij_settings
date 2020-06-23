@@ -103,7 +103,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/tools/aws_utils.py" timestamp="1592933003298">
+      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/tools/aws_utils.py" timestamp="1592933947035">
         <mark key="[" line="10" column="50" />
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
