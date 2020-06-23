@@ -151,7 +151,7 @@
         <mark key="." line="29" column="37" />
         <mark key="^" line="29" column="38" />
       </file>
-      <file name="/Dummy.txt" timestamp="1592925466746">
+      <file name="/Dummy.txt" timestamp="1592929155067">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -163,11 +163,11 @@
       <file name="/console_3" timestamp="1592860537390">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/tools/postgres_common.py" timestamp="1592928623257">
-        <mark key="[" line="20" column="36" />
-        <mark key="]" line="20" column="27" />
-        <mark key="^" line="20" column="27" />
-        <mark key="." line="20" column="26" />
+      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/tools/postgres_common.py" timestamp="1592930081292">
+        <mark key="[" line="18" column="38" />
+        <mark key="]" line="20" column="28" />
+        <mark key="^" line="20" column="28" />
+        <mark key="." line="20" column="27" />
       </file>
       <file name="$USER_HOME$/GitLab/pts_hec_aggregator/.gitignore" timestamp="1592865071407" />
       <file name="$USER_HOME$/GitLab/lambda-template/{{cookiecutter.project_name_snake}}/.gitignore" timestamp="1592924845189">
@@ -176,11 +176,12 @@
         <mark key="^" line="86" column="5" />
         <mark key="." line="86" column="4" />
       </file>
-      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/src/process_event.py" timestamp="1592928400179">
+      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/src/process_event.py" timestamp="1592930100731">
         <mark key="'" line="44" column="0" />
         <mark key="[" line="15" column="72" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="8" column="0" />
       </file>
       <file name="/console_10" timestamp="1592857544466">
         <mark key="[" line="0" column="0" />
@@ -297,7 +298,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
+        <text>Make auth hea</text>
       </register>
       <register name="-" type="4">
         <text>, Optional, Type, Union, Tuple</text>
@@ -309,12 +310,15 @@
         <text>dict(orgID=1, incidentsCount=5),</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
+        <text>Make auth hea</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCiAgICAtIGFwayBhZGQgcHkzLXBpcCBweXRob24zLWRldiBtYWtlIG9wZW5zc2wgYmFzaCBidWlsZC1iYXNlIGxpYmZmaS1kZXYgZ2NjIG11c2wtZGV2IG9wZW5zc2wtZGV2IHBnX2NvbmZpZwo9PT09PT09Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCiAgICAtIGFwayBhZGQgcHkzLXBpcCBweXRob24zLWRldiBtYWtlIG9wZW5zc2wgYmFzaCBidWlsZC1iYXNlIGxpYmZmaS1kZXYgZ2NjIG11c2wtZGV2IG9wZW5zc2wtZGV2IHBnX2NvbmZpZwo9PT09PT09Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text>Fixes to get lint and type passing
 
 * Added setup.py and _version.py (Assuming kebab-case for lambda names as this conforms to our existing lambda naming convention)
@@ -322,23 +326,20 @@
 * Added pyathena and pymsql to Pipfile so type checks pass (otherwise fails to import)
 * Tweaked some import statements to make lint happy</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ZXhwb3J0IFMzX1NUQUdJTkdfRElSPXMzOi8vc3RhZ2luZy52by5kYXRhLmFkaG9jL2FkaG9jLwo=</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZXhwb3J0IFMzX1NUQUdJTkdfRElSPXMzOi8vc3RhZ2luZy52by5kYXRhLmFkaG9jL2FkaG9jLwo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGhlYWRlcnMgPSB7J0F1dGhvcml6YXRpb24nOiAnQmFzaWMgZURvd056Z3pOelUzTkMxRFFrTkdMVFJFUkRNdFFURTFRUzFDT1RNeVJFSkJSRE0zTWtZPScsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgIGhlYWRlcnMgPSB7J0F1dGhvcml6YXRpb24nOiAnQmFzaWMgZURvd056Z3pOelUzTkMxRFFrTkdMVFJFUkRNdFFURTFRUzFDT1RNeVJFSkJSRE0zTWtZPScsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">emlwcCA9IHtlZGl0YWJsZSA9IHRydWUsIHBhdGggPSAiLiJ9Cg==</text>
+        <text encoding="base64">ICAgIGhlYWRlcnMgPSB7J0F1dGhvcml6YXRpb24nOiAnQmFzaWMgZURvd056Z3pOelUzTkMxRFFrTkdMVFJFUkRNdFFURTFRUzFDT1RNeVJFSkJSRE0zTWtZPScsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
