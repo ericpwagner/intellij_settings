@@ -103,11 +103,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/.gitlab-ci.yml" timestamp="1592925933566">
-        <mark key="[" line="22" column="108" />
-        <mark key="]" line="22" column="113" />
-        <mark key="^" line="22" column="113" />
-        <mark key="." line="22" column="112" />
+      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/.gitlab-ci.yml" timestamp="1592927986936">
+        <mark key="[" line="50" column="40" />
+        <mark key="]" line="50" column="50" />
+        <mark key="^" line="50" column="50" />
+        <mark key="." line="50" column="49" />
       </file>
       <file name="$USER_HOME$/GitLab/pts_hec_aggregator/Pipfile" timestamp="1592865880652">
         <mark key="[" line="24" column="0" />
@@ -163,11 +163,11 @@
       <file name="/console_3" timestamp="1592860537390">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/tools/postgres_common.py" timestamp="1592863957227">
-        <mark key="[" line="44" column="15" />
-        <mark key="]" line="45" column="0" />
-        <mark key="^" line="3" column="22" />
-        <mark key="." line="45" column="0" />
+      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/tools/postgres_common.py" timestamp="1592928623257">
+        <mark key="[" line="20" column="36" />
+        <mark key="]" line="20" column="27" />
+        <mark key="^" line="20" column="27" />
+        <mark key="." line="20" column="26" />
       </file>
       <file name="$USER_HOME$/GitLab/pts_hec_aggregator/.gitignore" timestamp="1592865071407" />
       <file name="$USER_HOME$/GitLab/lambda-template/{{cookiecutter.project_name_snake}}/.gitignore" timestamp="1592924845189">
@@ -176,9 +176,9 @@
         <mark key="^" line="86" column="5" />
         <mark key="." line="86" column="4" />
       </file>
-      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/src/process_event.py" timestamp="1592924291840">
+      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/src/process_event.py" timestamp="1592928400179">
         <mark key="'" line="44" column="0" />
-        <mark key="[" line="28" column="0" />
+        <mark key="[" line="15" column="72" />
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
