@@ -103,10 +103,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/tools/aws_utils.py" timestamp="1592933947035">
-        <mark key="[" line="10" column="50" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/tools/aws_utils.py" timestamp="1592940873786">
+        <mark key="[" line="8" column="76" />
+        <mark key="]" line="8" column="76" />
+        <mark key="." line="8" column="76" />
+        <mark key="^" line="14" column="33" />
       </file>
       <file name="$USER_HOME$/GitLab/pts_hec_aggregator/.gitlab-ci.yml" timestamp="1592927986936">
         <mark key="[" line="50" column="40" />
@@ -114,13 +115,13 @@
         <mark key="^" line="50" column="50" />
         <mark key="." line="50" column="49" />
       </file>
-      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/sls_config/stg.json" timestamp="1592932951705" />
+      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/sls_config/stg.json" timestamp="1592940162319" />
       <file name="$USER_HOME$/GitLab/pts_hec_aggregator/Pipfile" timestamp="1592865880652">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/serverless.yml" timestamp="1592866758420">
+      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/serverless.yml" timestamp="1592940359526">
         <mark key="[" line="60" column="24" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/044e28c2-f35f-4fff-b858-d01f3fe770cc/console_3.sql" timestamp="1592860539508">
@@ -298,11 +299,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICkK</text>
+      <register name="&quot;" type="4">
+        <text>_</text>
       </register>
       <register name="-" type="4">
-        <text>, Optional, Type, Union, Tuple</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>PROD</text>
@@ -311,31 +312,31 @@
         <text>dict(orgID=1, incidentsCount=5),</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICkK</text>
+        <text encoding="base64">IyBkZWYgZGVjcnlwdF9rbXNfcGFzcyhlbmNyeXB0ZWRfcGFzczogc3RyLCBlbnZpcm9ubWVudF92YXJpYWJsZV9uYW1lOiBzdHIgPSAiREFUQV9EQl9QQVNTIikgLT4gTm9uZToK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZWdpb25fbmFtZT1yZWdpb25fbmFtZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZXJ2aWNlX25hbWU9J3NlY3JldHNtYW5hZ2VyJywK</text>
+        <text encoding="base64">ICAgICIiIiBVc2UgS01TIHRvIGRlY3J5cHQgdGhlIHBhc3N3b3JkIGFuZCBpbmplY3QgaXQgYmFjayBpbnRvIG91ciBlbnZpcm9ubWVudCB2YXJzLiAiIiIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNsaWVudCA9IHNlc3Npb24uY2xpZW50KAo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHNlc3Npb24gPSBib3RvMy5zZXNzaW9uLlNlc3Npb24oKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAjIENyZWF0ZSBhIFNlY3JldHMgTWFuYWdlciBjbGllbnQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICBzZWNyZXRfbmFtZSA9ICJhd3MvcmRzIgogICAgcmVnaW9uX25hbWUgPSAidXMtd2VzdC0yIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
+        <text encoding="base64">ICAgIHRyeToKICAgICAgICBnZXRfc2VjcmV0X3ZhbHVlX3Jlc3BvbnNlID0gY2xpZW50LmdldF9zZWNyZXRfdmFsdWUoU2VjcmV0SWQ9c2VjcmV0X25hbWUpCgogICAgZXhjZXB0IENsaWVudEVycm9yIGFzIGU6CiAgICAgICAgcmFpc2UgZQoKICAgIGlmICdTZWNyZXRTdHJpbmcnIGluIGdldF9zZWNyZXRfdmFsdWVfcmVzcG9uc2U6CiAgICAgICAgcmV0dXJuIGdldF9zZWNyZXRfdmFsdWVfcmVzcG9uc2VbJ1NlY3JldFN0cmluZyddCiAgICBlbHNlOgogICAgICAgIHJhaXNl</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZWNvZGVkX2JpbmFyeV9zZWNyZXQgPSBiYXNlNjQuYjY0ZGVjb2RlKGdldF9zZWNyZXRfdmFsdWVfcmVzcG9uc2UK</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
