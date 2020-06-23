@@ -121,10 +121,11 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/serverless.yml" timestamp="1592943347132">
-        <mark key="[" line="69" column="42" />
-        <mark key="]" line="70" column="0" />
-        <mark key="." line="70" column="0" />
+      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/serverless.yml" timestamp="1592945240802">
+        <mark key="[" line="66" column="68" />
+        <mark key="]" line="65" column="77" />
+        <mark key="." line="65" column="76" />
+        <mark key="^" line="65" column="77" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/044e28c2-f35f-4fff-b858-d01f3fe770cc/console_3.sql" timestamp="1592860539508">
         <mark key="[" line="0" column="0" />
@@ -143,7 +144,6 @@
         <mark key="^" line="17" column="12" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/GitLab/data_misc/analysis_misc/Pipfile" timestamp="1592859323741" />
       <file name="$USER_HOME$/GitLab/pts_hec_aggregator/tests/test_lambda_handler.py" timestamp="1592923974946">
         <mark key="[" line="77" column="16" />
         <mark key="]" line="83" column="53" />
@@ -156,13 +156,10 @@
         <mark key="." line="29" column="37" />
         <mark key="^" line="29" column="38" />
       </file>
-      <file name="/Dummy.txt" timestamp="1592944126069">
+      <file name="/Dummy.txt" timestamp="1592945251157">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/GitLab/data_misc/analysis_misc/.env" timestamp="1592859894983">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/GitLab/pts_hec_aggregator/sls_config/playground.json" timestamp="1592943408490">
         <mark key="[" line="23" column="72" />
@@ -180,11 +177,11 @@
         <mark key="." line="20" column="27" />
       </file>
       <file name="$USER_HOME$/GitLab/pts_hec_aggregator/.gitignore" timestamp="1592865071407" />
-      <file name="$USER_HOME$/GitLab/lambda-template/{{cookiecutter.project_name_snake}}/.gitignore" timestamp="1592924845189">
+      <file name="$USER_HOME$/GitLab/lambda-template/{{cookiecutter.project_name_snake}}/.gitignore" timestamp="1592944584433">
         <mark key="[" line="84" column="4" />
-        <mark key="]" line="86" column="5" />
-        <mark key="^" line="86" column="5" />
-        <mark key="." line="86" column="4" />
+        <mark key="]" line="85" column="6" />
+        <mark key="^" line="85" column="6" />
+        <mark key="." line="85" column="5" />
       </file>
       <file name="$USER_HOME$/GitLab/pts_hec_aggregator/src/process_event.py" timestamp="1592943329013">
         <mark key="'" line="44" column="0" />
@@ -192,11 +189,6 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c8741a45-206f-4253-89be-6cc74f6d936f/console_10.sql" timestamp="1592858595062">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
