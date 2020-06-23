@@ -103,11 +103,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/tools/aws_utils.py" timestamp="1592940873786">
-        <mark key="[" line="8" column="76" />
-        <mark key="]" line="8" column="76" />
-        <mark key="." line="8" column="76" />
-        <mark key="^" line="14" column="33" />
+      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/tools/aws_utils.py" timestamp="1592942431660">
+        <mark key="[" line="7" column="82" />
+        <mark key="]" line="7" column="76" />
+        <mark key="." line="7" column="76" />
+        <mark key="^" line="13" column="33" />
       </file>
       <file name="$USER_HOME$/GitLab/pts_hec_aggregator/.gitlab-ci.yml" timestamp="1592927986936">
         <mark key="[" line="50" column="40" />
@@ -121,8 +121,10 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/serverless.yml" timestamp="1592940359526">
-        <mark key="[" line="60" column="24" />
+      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/serverless.yml" timestamp="1592943347132">
+        <mark key="[" line="69" column="42" />
+        <mark key="]" line="70" column="0" />
+        <mark key="." line="70" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/044e28c2-f35f-4fff-b858-d01f3fe770cc/console_3.sql" timestamp="1592860539508">
         <mark key="[" line="0" column="0" />
@@ -154,13 +156,19 @@
         <mark key="." line="29" column="37" />
         <mark key="^" line="29" column="38" />
       </file>
-      <file name="/Dummy.txt" timestamp="1592930806897">
+      <file name="/Dummy.txt" timestamp="1592944126069">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/GitLab/data_misc/analysis_misc/.env" timestamp="1592859894983">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/sls_config/playground.json" timestamp="1592943408490">
+        <mark key="[" line="23" column="72" />
+        <mark key="]" line="23" column="71" />
+        <mark key="." line="23" column="71" />
+        <mark key="^" line="23" column="16" />
       </file>
       <file name="/console_3" timestamp="1592860537390">
         <mark key="[" line="0" column="0" />
@@ -178,15 +186,12 @@
         <mark key="^" line="86" column="5" />
         <mark key="." line="86" column="4" />
       </file>
-      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/src/process_event.py" timestamp="1592930100731">
+      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/src/process_event.py" timestamp="1592943329013">
         <mark key="'" line="44" column="0" />
         <mark key="[" line="15" column="72" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="0" />
-      </file>
-      <file name="/console_10" timestamp="1592857544466">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c8741a45-206f-4253-89be-6cc74f6d936f/console_10.sql" timestamp="1592858595062">
         <mark key="[" line="0" column="0" />
@@ -299,44 +304,44 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>_</text>
+      <register name="&quot;" type="2">
+        <text>Update sls config with postgres creds</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>&quot;vodat-postgres.chqu3docsno8.us-west-2.rds.amazonaws.com&quot;</text>
       </register>
       <register name="/" type="4">
         <text>PROD</text>
       </register>
-      <register name="0" type="4">
-        <text>dict(orgID=1, incidentsCount=5),</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgUEdfVVNFUjogICR7ZmlsZShzbHNfY29uZmlnLyR7c2VsZjpwcm92aWRlci5zdGFnZX0uanNvbik6cGdfdXNlcn0gCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBkZWYgZGVjcnlwdF9rbXNfcGFzcyhlbmNyeXB0ZWRfcGFzczogc3RyLCBlbnZpcm9ubWVudF92YXJpYWJsZV9uYW1lOiBzdHIgPSAiREFUQV9EQl9QQVNTIikgLT4gTm9uZToK</text>
+        <text>Update sls config with postgres creds</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>Update doc string with accurate description</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICIiIiBVc2UgS01TIHRvIGRlY3J5cHQgdGhlIHBhc3N3b3JkIGFuZCBpbmplY3QgaXQgYmFjayBpbnRvIG91ciBlbnZpcm9ubWVudCB2YXJzLiAiIiIK</text>
+        <text encoding="base64">ICAgICAgIyBEQVRBX0RCX1BBU1NfRU5DOiAke2ZpbGUoc2xzX2NvbmZpZy8ke3NlbGY6cHJvdmlkZXIuc3RhZ2V9Lmpzb24pOm15c3FsX3Bhc3NfZW5jfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
+        <text encoding="base64">ICAgICAgIyBEQVRBX0RCX1VTRVI6ICJ2b2RhdC1yZWNvbiIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgIyBEQVRBX0FXU19BVEhFTkFfREJfTkFNRTogImRhdGFfcGlwZWxpbmVfdjEiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJwZ191c2VyIjogInBvc3RncmVzIiwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgIyBEQVRBX0ZFRURTOiAiYXV0aF92MV9jaGF0LGF1dGhfdjFfYXBwcHVibGljLGluY2lkZW50X3YxLGFsZXJ0X3YxIgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRyeToKICAgICAgICBnZXRfc2VjcmV0X3ZhbHVlX3Jlc3BvbnNlID0gY2xpZW50LmdldF9zZWNyZXRfdmFsdWUoU2VjcmV0SWQ9c2VjcmV0X25hbWUpCgogICAgZXhjZXB0IENsaWVudEVycm9yIGFzIGU6CiAgICAgICAgcmFpc2UgZQoKICAgIGlmICdTZWNyZXRTdHJpbmcnIGluIGdldF9zZWNyZXRfdmFsdWVfcmVzcG9uc2U6CiAgICAgICAgcmV0dXJuIGdldF9zZWNyZXRfdmFsdWVfcmVzcG9uc2VbJ1NlY3JldFN0cmluZyddCiAgICBlbHNlOgogICAgICAgIHJhaXNl</text>
+        <text encoding="base64">IyBkZWYgZGVjcnlwdF9rbXNfcGFzcyhlbmNyeXB0ZWRfcGFzczogc3RyLCBlbnZpcm9ubWVudF92YXJpYWJsZV9uYW1lOiBzdHIgPSAiREFUQV9EQl9QQVNTIikgLT4gTm9uZToK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
