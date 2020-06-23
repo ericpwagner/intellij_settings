@@ -131,19 +131,19 @@
       <file name="$USER_HOME$/GitLab/pts_hec_aggregator/tools/db_common.py" timestamp="1592857076409">
         <mark key="[" line="7" column="62" />
       </file>
-      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/.envrc" timestamp="1592859905205">
-        <mark key="'" line="12" column="0" />
-        <mark key="[" line="9" column="23" />
-        <mark key="]" line="9" column="23" />
-        <mark key="^" line="2" column="12" />
-        <mark key="." line="9" column="23" />
+      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/.envrc" timestamp="1592924418651">
+        <mark key="'" line="27" column="0" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="17" column="12" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/GitLab/data_misc/analysis_misc/Pipfile" timestamp="1592859323741" />
-      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/tests/test_lambda_handler.py" timestamp="1592863672444">
+      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/tests/test_lambda_handler.py" timestamp="1592923974946">
         <mark key="[" line="77" column="16" />
-        <mark key="]" line="1" column="103" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="83" column="12" />
+        <mark key="]" line="83" column="53" />
+        <mark key="." line="83" column="52" />
+        <mark key="^" line="83" column="53" />
       </file>
       <file name="$USER_HOME$/GitLab/pts_hec_aggregator/setup.py" timestamp="1592866613482">
         <mark key="[" line="2" column="42" />
@@ -151,7 +151,7 @@
         <mark key="." line="29" column="37" />
         <mark key="^" line="29" column="38" />
       </file>
-      <file name="/Dummy.txt" timestamp="1592867381338">
+      <file name="/Dummy.txt" timestamp="1592924882933">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -170,11 +170,17 @@
         <mark key="." line="45" column="0" />
       </file>
       <file name="$USER_HOME$/GitLab/pts_hec_aggregator/.gitignore" timestamp="1592865071407" />
-      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/src/process_event.py" timestamp="1592864482808">
-        <mark key="'" line="46" column="0" />
-        <mark key="[" line="29" column="39" />
-        <mark key="]" line="81" column="0" />
-        <mark key="." line="81" column="0" />
+      <file name="$USER_HOME$/GitLab/lambda-template/{{cookiecutter.project_name_snake}}/.gitignore" timestamp="1592924845189">
+        <mark key="[" line="84" column="4" />
+        <mark key="]" line="86" column="5" />
+        <mark key="^" line="86" column="5" />
+        <mark key="." line="86" column="4" />
+      </file>
+      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/src/process_event.py" timestamp="1592924291840">
+        <mark key="'" line="44" column="0" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="/console_10" timestamp="1592857544466">
         <mark key="[" line="0" column="0" />
@@ -291,7 +297,12 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">emlwcCA9IHtlZGl0YWJsZSA9IHRydWUsIHBhdGggPSAiLiJ9Cg==</text>
+        <text>Fixes to get lint and type passing
+
+* Added setup.py and _version.py (Assuming kebab-case for lambda names as this conforms to our existing lambda naming convention)
+* Added mypy.ini to ignore missing imports as we do with out other projects (meaningless error in this context, so this is not icky)
+* Added pyathena and pymsql to Pipfile so type checks pass (otherwise fails to import)
+* Tweaked some import statements to make lint happy</text>
       </register>
       <register name="-" type="4">
         <text>, Optional, Type, Union, Tuple</text>
@@ -303,10 +314,15 @@
         <text>dict(orgID=1, incidentsCount=5),</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">emlwcCA9IHtlZGl0YWJsZSA9IHRydWUsIHBhdGggPSAiLiJ9Cg==</text>
+        <text>Fixes to get lint and type passing
+
+* Added setup.py and _version.py (Assuming kebab-case for lambda names as this conforms to our existing lambda naming convention)
+* Added mypy.ini to ignore missing imports as we do with out other projects (meaningless error in this context, so this is not icky)
+* Added pyathena and pymsql to Pipfile so type checks pass (otherwise fails to import)
+* Tweaked some import statements to make lint happy</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cGctY29uZmlnID0gIioiCg==</text>
+        <text encoding="base64">ZXhwb3J0IFMzX1NUQUdJTkdfRElSPXMzOi8vc3RhZ2luZy52by5kYXRhLmFkaG9jL2FkaG9jLwo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -315,16 +331,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgIGhlYWRlcnMgPSB7J0F1dGhvcml6YXRpb24nOiAnQmFzaWMgZURvd056Z3pOelUzTkMxRFFrTkdMVFJFUkRNdFFURTFRUzFDT1RNeVJFSkJSRE0zTWtZPScsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICIiIiBHZW5lcmljIGVycm9yICIiIgo=</text>
+        <text encoding="base64">ICAgIGhlYWRlcnMgPSB7J0F1dGhvcml6YXRpb24nOiAnQmFzaWMgZURvd056Z3pOelUzTkMxRFFrTkdMVFJFUkRNdFFURTFRUzFDT1RNeVJFSkJSRE0zTWtZPScsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y2xhc3MgVGFibGVOb3RGb3VuZEVycm9yKEV4Y2VwdGlvbik6Cg==</text>
+        <text encoding="base64">emlwcCA9IHtlZGl0YWJsZSA9IHRydWUsIHBhdGggPSAiLiJ9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGxvZ2dpbmcK</text>
+        <text encoding="base64">cGctY29uZmlnID0gIioiCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
