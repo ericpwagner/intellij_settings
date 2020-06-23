@@ -122,11 +122,10 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/tools/athena_common.py" timestamp="1592857041551">
-        <mark key="[" line="31" column="14" />
-        <mark key="]" line="31" column="17" />
-        <mark key="^" line="31" column="21" />
-        <mark key="." line="31" column="17" />
+      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/lambda_handler.py" timestamp="1592930646289">
+        <mark key="[" line="1" column="3" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/GitLab/pts_hec_aggregator/tools/db_common.py" timestamp="1592857076409">
         <mark key="[" line="7" column="62" />
@@ -151,7 +150,7 @@
         <mark key="." line="29" column="37" />
         <mark key="^" line="29" column="38" />
       </file>
-      <file name="/Dummy.txt" timestamp="1592929155067">
+      <file name="/Dummy.txt" timestamp="1592930806897">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -163,7 +162,7 @@
       <file name="/console_3" timestamp="1592860537390">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/tools/postgres_common.py" timestamp="1592930081292">
+      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/tools/postgres_common.py" timestamp="1592930217019">
         <mark key="[" line="18" column="38" />
         <mark key="]" line="20" column="28" />
         <mark key="^" line="20" column="28" />
@@ -298,7 +297,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text>Make auth hea</text>
+        <text encoding="base64">TGFtYmRhIGVudHJ5cG9pbnQgaW50byB0aGUgcm93IGxldmVsIHJlY29uY2lsaWF0aW9uIHByb2dyYW0uCg==</text>
       </register>
       <register name="-" type="4">
         <text>, Optional, Type, Union, Tuple</text>
@@ -310,15 +309,18 @@
         <text>dict(orgID=1, incidentsCount=5),</text>
       </register>
       <register name="1" type="2">
-        <text>Make auth hea</text>
+        <text encoding="base64">TGFtYmRhIGVudHJ5cG9pbnQgaW50byB0aGUgcm93IGxldmVsIHJlY29uY2lsaWF0aW9uIHByb2dyYW0uCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
+        <text>Make auth hea</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCiAgICAtIGFwayBhZGQgcHkzLXBpcCBweXRob24zLWRldiBtYWtlIG9wZW5zc2wgYmFzaCBidWlsZC1iYXNlIGxpYmZmaS1kZXYgZ2NjIG11c2wtZGV2IG9wZW5zc2wtZGV2IHBnX2NvbmZpZwo9PT09PT09Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCiAgICAtIGFwayBhZGQgcHkzLXBpcCBweXRob24zLWRldiBtYWtlIG9wZW5zc2wgYmFzaCBidWlsZC1iYXNlIGxpYmZmaS1kZXYgZ2NjIG11c2wtZGV2IG9wZW5zc2wtZGV2IHBnX2NvbmZpZwo9PT09PT09Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text>Fixes to get lint and type passing
 
 * Added setup.py and _version.py (Assuming kebab-case for lambda names as this conforms to our existing lambda naming convention)
@@ -326,17 +328,14 @@
 * Added pyathena and pymsql to Pipfile so type checks pass (otherwise fails to import)
 * Tweaked some import statements to make lint happy</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ZXhwb3J0IFMzX1NUQUdJTkdfRElSPXMzOi8vc3RhZ2luZy52by5kYXRhLmFkaG9jL2FkaG9jLwo=</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZXhwb3J0IFMzX1NUQUdJTkdfRElSPXMzOi8vc3RhZ2luZy52by5kYXRhLmFkaG9jL2FkaG9jLwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGhlYWRlcnMgPSB7J0F1dGhvcml6YXRpb24nOiAnQmFzaWMgZURvd056Z3pOelUzTkMxRFFrTkdMVFJFUkRNdFFURTFRUzFDT1RNeVJFSkJSRE0zTWtZPScsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgIGhlYWRlcnMgPSB7J0F1dGhvcml6YXRpb24nOiAnQmFzaWMgZURvd056Z3pOelUzTkMxRFFrTkdMVFJFUkRNdFFURTFRUzFDT1RNeVJFSkJSRE0zTWtZPScsCg==</text>
