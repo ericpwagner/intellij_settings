@@ -103,11 +103,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/.gitlab-ci.yml" timestamp="1592867368228">
-        <mark key="[" line="22" column="98" />
-        <mark key="]" line="22" column="98" />
-        <mark key="^" line="22" column="98" />
-        <mark key="." line="22" column="97" />
+      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/.gitlab-ci.yml" timestamp="1592925933566">
+        <mark key="[" line="22" column="108" />
+        <mark key="]" line="22" column="113" />
+        <mark key="^" line="22" column="113" />
+        <mark key="." line="22" column="112" />
       </file>
       <file name="$USER_HOME$/GitLab/pts_hec_aggregator/Pipfile" timestamp="1592865880652">
         <mark key="[" line="24" column="0" />
@@ -151,7 +151,7 @@
         <mark key="." line="29" column="37" />
         <mark key="^" line="29" column="38" />
       </file>
-      <file name="/Dummy.txt" timestamp="1592924882933">
+      <file name="/Dummy.txt" timestamp="1592925466746">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -297,12 +297,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text>Fixes to get lint and type passing
-
-* Added setup.py and _version.py (Assuming kebab-case for lambda names as this conforms to our existing lambda naming convention)
-* Added mypy.ini to ignore missing imports as we do with out other projects (meaningless error in this context, so this is not icky)
-* Added pyathena and pymsql to Pipfile so type checks pass (otherwise fails to import)
-* Tweaked some import statements to make lint happy</text>
+        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
       </register>
       <register name="-" type="4">
         <text>, Optional, Type, Union, Tuple</text>
@@ -314,6 +309,12 @@
         <text>dict(orgID=1, incidentsCount=5),</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCiAgICAtIGFwayBhZGQgcHkzLXBpcCBweXRob24zLWRldiBtYWtlIG9wZW5zc2wgYmFzaCBidWlsZC1iYXNlIGxpYmZmaS1kZXYgZ2NjIG11c2wtZGV2IG9wZW5zc2wtZGV2IHBnX2NvbmZpZwo9PT09PT09Cg==</text>
+      </register>
+      <register name="3" type="2">
         <text>Fixes to get lint and type passing
 
 * Added setup.py and _version.py (Assuming kebab-case for lambda names as this conforms to our existing lambda naming convention)
@@ -321,29 +322,23 @@
 * Added pyathena and pymsql to Pipfile so type checks pass (otherwise fails to import)
 * Tweaked some import statements to make lint happy</text>
       </register>
-      <register name="2" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ZXhwb3J0IFMzX1NUQUdJTkdfRElSPXMzOi8vc3RhZ2luZy52by5kYXRhLmFkaG9jL2FkaG9jLwo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGhlYWRlcnMgPSB7J0F1dGhvcml6YXRpb24nOiAnQmFzaWMgZURvd056Z3pOelUzTkMxRFFrTkdMVFJFUkRNdFFURTFRUzFDT1RNeVJFSkJSRE0zTWtZPScsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGhlYWRlcnMgPSB7J0F1dGhvcml6YXRpb24nOiAnQmFzaWMgZURvd056Z3pOelUzTkMxRFFrTkdMVFJFUkRNdFFURTFRUzFDT1RNeVJFSkJSRE0zTWtZPScsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">emlwcCA9IHtlZGl0YWJsZSA9IHRydWUsIHBhdGggPSAiLiJ9Cg==</text>
+        <text encoding="base64">ICAgIGhlYWRlcnMgPSB7J0F1dGhvcml6YXRpb24nOiAnQmFzaWMgZURvd056Z3pOelUzTkMxRFFrTkdMVFJFUkRNdFFURTFRUzFDT1RNeVJFSkJSRE0zTWtZPScsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cGctY29uZmlnID0gIioiCg==</text>
+        <text encoding="base64">ICAgIGhlYWRlcnMgPSB7J0F1dGhvcml6YXRpb24nOiAnQmFzaWMgZURvd056Z3pOelUzTkMxRFFrTkdMVFJFUkRNdFFURTFRUzFDT1RNeVJFSkJSRE0zTWtZPScsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">emlwcCA9IHtlZGl0YWJsZSA9IHRydWUsIHBhdGggPSAiLiJ9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
