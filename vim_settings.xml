@@ -7,11 +7,27 @@
   </component>
   <component name="VimMarksSettings">
     <globalmarks />
-    <filemarks />
+    <filemarks>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c8741a45-206f-4253-89be-6cc74f6d936f/console_10.sql" timestamp="1592934629256">
+        <mark key="[" line="8" column="17" />
+        <mark key="]" line="8" column="18" />
+        <mark key="." line="8" column="18" />
+      </file>
+      <file name="/console_10" timestamp="1592934070883">
+        <mark key="[" line="0" column="0" />
+      </file>
+    </filemarks>
     <jumps />
   </component>
   <component name="VimRegisterSettings">
-    <registers />
+    <registers>
+      <register name="&quot;" type="4">
+        <text>1842289</text>
+      </register>
+      <register name="-" type="4">
+        <text>1842289</text>
+      </register>
+    </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
