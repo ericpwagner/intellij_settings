@@ -103,12 +103,18 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/tools/aws_utils.py" timestamp="1592933003298">
+        <mark key="[" line="10" column="50" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/GitLab/pts_hec_aggregator/.gitlab-ci.yml" timestamp="1592927986936">
         <mark key="[" line="50" column="40" />
         <mark key="]" line="50" column="50" />
         <mark key="^" line="50" column="50" />
         <mark key="." line="50" column="49" />
       </file>
+      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/sls_config/stg.json" timestamp="1592932951705" />
       <file name="$USER_HOME$/GitLab/pts_hec_aggregator/Pipfile" timestamp="1592865880652">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
@@ -126,9 +132,6 @@
         <mark key="[" line="1" column="3" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/tools/db_common.py" timestamp="1592857076409">
-        <mark key="[" line="7" column="62" />
       </file>
       <file name="$USER_HOME$/GitLab/pts_hec_aggregator/.envrc" timestamp="1592924418651">
         <mark key="'" line="27" column="0" />
@@ -158,7 +161,6 @@
       <file name="$USER_HOME$/GitLab/data_misc/analysis_misc/.env" timestamp="1592859894983">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GitLab/data_misc/analysis_misc/db_common.py" timestamp="1592857362683" />
       <file name="/console_3" timestamp="1592860537390">
         <mark key="[" line="0" column="0" />
       </file>
@@ -297,7 +299,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">TGFtYmRhIGVudHJ5cG9pbnQgaW50byB0aGUgcm93IGxldmVsIHJlY29uY2lsaWF0aW9uIHByb2dyYW0uCg==</text>
+        <text encoding="base64">ICAgICkK</text>
       </register>
       <register name="-" type="4">
         <text>, Optional, Type, Union, Tuple</text>
@@ -309,36 +311,31 @@
         <text>dict(orgID=1, incidentsCount=5),</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">TGFtYmRhIGVudHJ5cG9pbnQgaW50byB0aGUgcm93IGxldmVsIHJlY29uY2lsaWF0aW9uIHByb2dyYW0uCg==</text>
+        <text encoding="base64">ICAgICkK</text>
       </register>
       <register name="2" type="2">
-        <text>Make auth hea</text>
+        <text encoding="base64">ICAgICAgICByZWdpb25fbmFtZT1yZWdpb25fbmFtZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
+        <text encoding="base64">ICAgICAgICBzZXJ2aWNlX25hbWU9J3NlY3JldHNtYW5hZ2VyJywK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCiAgICAtIGFwayBhZGQgcHkzLXBpcCBweXRob24zLWRldiBtYWtlIG9wZW5zc2wgYmFzaCBidWlsZC1iYXNlIGxpYmZmaS1kZXYgZ2NjIG11c2wtZGV2IG9wZW5zc2wtZGV2IHBnX2NvbmZpZwo9PT09PT09Cg==</text>
+        <text encoding="base64">ICAgIGNsaWVudCA9IHNlc3Npb24uY2xpZW50KAo=</text>
       </register>
       <register name="5" type="2">
-        <text>Fixes to get lint and type passing
-
-* Added setup.py and _version.py (Assuming kebab-case for lambda names as this conforms to our existing lambda naming convention)
-* Added mypy.ini to ignore missing imports as we do with out other projects (meaningless error in this context, so this is not icky)
-* Added pyathena and pymsql to Pipfile so type checks pass (otherwise fails to import)
-* Tweaked some import statements to make lint happy</text>
+        <text encoding="base64">ICAgIHNlc3Npb24gPSBib3RvMy5zZXNzaW9uLlNlc3Npb24oKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZXhwb3J0IFMzX1NUQUdJTkdfRElSPXMzOi8vc3RhZ2luZy52by5kYXRhLmFkaG9jL2FkaG9jLwo=</text>
+        <text encoding="base64">CiAgICAjIENyZWF0ZSBhIFNlY3JldHMgTWFuYWdlciBjbGllbnQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICBzZWNyZXRfbmFtZSA9ICJhd3MvcmRzIgogICAgcmVnaW9uX25hbWUgPSAidXMtd2VzdC0yIgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGhlYWRlcnMgPSB7J0F1dGhvcml6YXRpb24nOiAnQmFzaWMgZURvd056Z3pOelUzTkMxRFFrTkdMVFJFUkRNdFFURTFRUzFDT1RNeVJFSkJSRE0zTWtZPScsCg==</text>
+        <text encoding="base64">ICAgICAgICBkZWNvZGVkX2JpbmFyeV9zZWNyZXQgPSBiYXNlNjQuYjY0ZGVjb2RlKGdldF9zZWNyZXRfdmFsdWVfcmVzcG9uc2UK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
