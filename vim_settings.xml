@@ -121,11 +121,11 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/serverless.yml" timestamp="1592945240802">
-        <mark key="[" line="66" column="68" />
-        <mark key="]" line="65" column="77" />
-        <mark key="." line="65" column="76" />
-        <mark key="^" line="65" column="77" />
+      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/serverless.yml" timestamp="1592945383702">
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="0" />
+        <mark key="." line="68" column="0" />
+        <mark key="^" line="66" column="12" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/044e28c2-f35f-4fff-b858-d01f3fe770cc/console_3.sql" timestamp="1592860539508">
         <mark key="[" line="0" column="0" />
@@ -297,7 +297,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text>Update sls config with postgres creds</text>
+        <text encoding="base64">Pj4+Pj4+PiBNYWtlIHRoZSBhdXRoIHN0cmluZyBmb3J0IHRoZSBoZWMgYW4gZW52aXJvbm1lbnQgdmFyaWFibGUK</text>
       </register>
       <register name="-" type="4">
         <text>&quot;vodat-postgres.chqu3docsno8.us-west-2.rds.amazonaws.com&quot;</text>
@@ -309,31 +309,31 @@
         <text encoding="base64">ICAgICAgUEdfVVNFUjogICR7ZmlsZShzbHNfY29uZmlnLyR7c2VsZjpwcm92aWRlci5zdGFnZX0uanNvbik6cGdfdXNlcn0gCg==</text>
       </register>
       <register name="1" type="2">
-        <text>Update sls config with postgres creds</text>
+        <text encoding="base64">Pj4+Pj4+PiBNYWtlIHRoZSBhdXRoIHN0cmluZyBmb3J0IHRoZSBoZWMgYW4gZW52aXJvbm1lbnQgdmFyaWFibGUK</text>
       </register>
       <register name="2" type="2">
-        <text>Update doc string with accurate description</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgIyBEQVRBX0RCX1BBU1NfRU5DOiAke2ZpbGUoc2xzX2NvbmZpZy8ke3NlbGY6cHJvdmlkZXIuc3RhZ2V9Lmpzb24pOm15c3FsX3Bhc3NfZW5jfQo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAgIFMzX1NUQUdJTkdfRElSOiAke2ZpbGUoc2xzX2NvbmZpZy8ke3NlbGY6cHJvdmlkZXIuc3RhZ2V9Lmpzb24pczNfc3RhZ2luZ19kaXJ9CiAgICAgIERCX0hPU1Q6ICR7ZmlsZShzbHNfY29uZmlnLyR7c2VsZjpwcm92aWRlci5zdGFnZX0uanNvbilkYl9ob3N0fQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgIyBEQVRBX0RCX1VTRVI6ICJ2b2RhdC1yZWNvbiIK</text>
+        <text>Update sls config with postgres creds</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgIyBEQVRBX0FXU19BVEhFTkFfREJfTkFNRTogImRhdGFfcGlwZWxpbmVfdjEiCg==</text>
+        <text>Update doc string with accurate description</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJwZ191c2VyIjogInBvc3RncmVzIiwK</text>
+        <text encoding="base64">ICAgICAgIyBEQVRBX0RCX1BBU1NfRU5DOiAke2ZpbGUoc2xzX2NvbmZpZy8ke3NlbGY6cHJvdmlkZXIuc3RhZ2V9Lmpzb24pOm15c3FsX3Bhc3NfZW5jfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgIyBEQVRBX0ZFRURTOiAiYXV0aF92MV9jaGF0LGF1dGhfdjFfYXBwcHVibGljLGluY2lkZW50X3YxLGFsZXJ0X3YxIgo=</text>
+        <text encoding="base64">ICAgICAgIyBEQVRBX0RCX1VTRVI6ICJ2b2RhdC1yZWNvbiIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBkZWYgZGVjcnlwdF9rbXNfcGFzcyhlbmNyeXB0ZWRfcGFzczogc3RyLCBlbnZpcm9ubWVudF92YXJpYWJsZV9uYW1lOiBzdHIgPSAiREFUQV9EQl9QQVNTIikgLT4gTm9uZToK</text>
+        <text encoding="base64">ICAgICAgIyBEQVRBX0FXU19BVEhFTkFfREJfTkFNRTogImRhdGFfcGlwZWxpbmVfdjEiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJwZ191c2VyIjogInBvc3RncmVzIiwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
