@@ -147,11 +147,11 @@
         <mark key="^" line="17" column="12" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/tests/test_lambda_handler.py" timestamp="1592923974946">
-        <mark key="[" line="77" column="16" />
-        <mark key="]" line="83" column="53" />
-        <mark key="." line="83" column="52" />
-        <mark key="^" line="83" column="53" />
+      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/tests/test_lambda_handler.py" timestamp="1593038435473">
+        <mark key="[" line="108" column="19" />
+        <mark key="]" line="108" column="11" />
+        <mark key="." line="108" column="10" />
+        <mark key="^" line="108" column="11" />
       </file>
       <file name="$USER_HOME$/GitLab/pts_hec_aggregator/setup.py" timestamp="1592866613482">
         <mark key="[" line="2" column="42" />
@@ -189,12 +189,12 @@
         <mark key="^" line="85" column="6" />
         <mark key="." line="85" column="5" />
       </file>
-      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/src/process_event.py" timestamp="1593031237508">
+      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/src/process_event.py" timestamp="1593038165625">
         <mark key="'" line="44" column="0" />
-        <mark key="[" line="15" column="58" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="8" column="0" />
+        <mark key="[" line="92" column="41" />
+        <mark key="]" line="92" column="41" />
+        <mark key="." line="92" column="41" />
+        <mark key="^" line="93" column="84" />
       </file>
     </filemarks>
     <jumps>
@@ -303,43 +303,43 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgREFUX0RCX05BTUU6ICJ2b19kYXRhX2FuYWx5dGljcyIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>vo_reports_data_warehouse</text>
+        <text>start_date</text>
       </register>
       <register name="/" type="4">
         <text>PROD</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgTEVHQUNZX0RCX05BTUU6ICJ2b19yZXBvcnRzX2RhdGFfd2FyZWhvdXNlIgo=</text>
+      <register name="0" type="4">
+        <text>2020-06-01</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgREFUX0RCX05BTUU6ICJ2b19kYXRhX2FuYWx5dGljcyIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgTEVHQUNZX0RCX05BTUU6ICJ2b19yZXBvcnRzX2RhdGFfd2FyZWhvdXNlIgo=</text>
+        <text encoding="base64">cXVlcnksIGdldF9wcmV2aW91c19kYXksIGJ1aWxkX3BheWxvYWQsIG9yZ19zbHVnc19xdWVyeSwgZW5yaWNoX3dpdGhfc2x1ZywgYWxlcnRzX3F1ZXJ5Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBNYWtlIHRoZSBhdXRoIHN0cmluZyBmb3J0IHRoZSBoZWMgYW4gZW52aXJvbm1lbnQgdmFyaWFibGUK</text>
+        <text encoding="base64">ICAgICAgREFUX0RCX05BTUU6ICJ2b19kYXRhX2FuYWx5dGljcyIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAgICAgTEVHQUNZX0RCX05BTUU6ICJ2b19yZXBvcnRzX2RhdGFfd2FyZWhvdXNlIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAgIFMzX1NUQUdJTkdfRElSOiAke2ZpbGUoc2xzX2NvbmZpZy8ke3NlbGY6cHJvdmlkZXIuc3RhZ2V9Lmpzb24pczNfc3RhZ2luZ19kaXJ9CiAgICAgIERCX0hPU1Q6ICR7ZmlsZShzbHNfY29uZmlnLyR7c2VsZjpwcm92aWRlci5zdGFnZX0uanNvbilkYl9ob3N0fQo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBNYWtlIHRoZSBhdXRoIHN0cmluZyBmb3J0IHRoZSBoZWMgYW4gZW52aXJvbm1lbnQgdmFyaWFibGUK</text>
       </register>
       <register name="6" type="2">
-        <text>Update sls config with postgres creds</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="7" type="2">
-        <text>Update doc string with accurate description</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAgIFMzX1NUQUdJTkdfRElSOiAke2ZpbGUoc2xzX2NvbmZpZy8ke3NlbGY6cHJvdmlkZXIuc3RhZ2V9Lmpzb24pczNfc3RhZ2luZ19kaXJ9CiAgICAgIERCX0hPU1Q6ICR7ZmlsZShzbHNfY29uZmlnLyR7c2VsZjpwcm92aWRlci5zdGFnZX0uanNvbilkYl9ob3N0fQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgIyBEQVRBX0RCX1BBU1NfRU5DOiAke2ZpbGUoc2xzX2NvbmZpZy8ke3NlbGY6cHJvdmlkZXIuc3RhZ2V9Lmpzb24pOm15c3FsX3Bhc3NfZW5jfQo=</text>
+        <text>Update sls config with postgres creds</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgIyBEQVRBX0RCX1VTRVI6ICJ2b2RhdC1yZWNvbiIK</text>
+        <text>Update doc string with accurate description</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
