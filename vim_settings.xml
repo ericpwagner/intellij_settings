@@ -137,6 +137,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="/Dummy.json" timestamp="1593013190738">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/GitLab/pts_hec_aggregator/.envrc" timestamp="1592924418651">
         <mark key="'" line="27" column="0" />
         <mark key="[" line="1" column="0" />
@@ -166,9 +171,6 @@
         <mark key="]" line="23" column="71" />
         <mark key="." line="23" column="71" />
         <mark key="^" line="23" column="16" />
-      </file>
-      <file name="/console_3" timestamp="1592860537390">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/GitLab/pts_hec_aggregator/tools/postgres_common.py" timestamp="1592930217019">
         <mark key="[" line="18" column="38" />
