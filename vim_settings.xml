@@ -115,7 +115,7 @@
         <mark key="^" line="50" column="50" />
         <mark key="." line="50" column="49" />
       </file>
-      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/sls_config/stg.json" timestamp="1593030620087">
+      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/sls_config/stg.json" timestamp="1593051462018">
         <mark key="[" line="21" column="20" />
         <mark key="]" line="22" column="28" />
         <mark key="." line="22" column="28" />
@@ -143,18 +143,18 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/.envrc" timestamp="1592924418651">
-        <mark key="'" line="27" column="0" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="17" column="12" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/.envrc" timestamp="1593051964299">
+        <mark key="'" line="33" column="0" />
+        <mark key="[" line="5" column="48" />
+        <mark key="]" line="5" column="48" />
+        <mark key="^" line="5" column="48" />
+        <mark key="." line="5" column="47" />
       </file>
-      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/tests/test_lambda_handler.py" timestamp="1593049141002">
-        <mark key="[" line="58" column="24" />
-        <mark key="]" line="58" column="0" />
-        <mark key="." line="58" column="0" />
-        <mark key="^" line="108" column="11" />
+      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/tests/test_lambda_handler.py" timestamp="1593051095237">
+        <mark key="[" line="76" column="21" />
+        <mark key="]" line="75" column="91" />
+        <mark key="." line="75" column="0" />
+        <mark key="^" line="74" column="82" />
       </file>
       <file name="$USER_HOME$/GitLab/pts_hec_aggregator/setup.py" timestamp="1592866613482">
         <mark key="[" line="2" column="42" />
@@ -191,11 +191,12 @@
         <mark key="^" line="85" column="6" />
         <mark key="." line="85" column="5" />
       </file>
-      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/src/process_event.py" timestamp="1593050292350">
-        <mark key="'" line="98" column="19" />
-        <mark key="[" line="63" column="49" />
-        <mark key="]" line="60" column="0" />
-        <mark key="." line="60" column="0" />
+      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/src/process_event.py" timestamp="1593052072445">
+        <mark key="'" line="100" column="19" />
+        <mark key="[" line="16" column="59" />
+        <mark key="]" line="16" column="59" />
+        <mark key="." line="16" column="59" />
+        <mark key="^" line="16" column="85" />
       </file>
     </filemarks>
     <jumps>
@@ -303,49 +304,44 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCh7bmFtZTogbmV3X2RhdGFbclsnb3JnSUQnXV19KQo=</text>
+      <register name="&quot;" type="4">
+        <text>vo_reports_data_warehouciwse</text>
       </register>
       <register name="-" type="4">
-        <text>r.update</text>
+        <text>vo_reports_data_warehouciwse</text>
       </register>
       <register name="/" type="4">
         <text>pg_conn</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHJlcF9wZ19jb25uX3ZhcnMgPSBwb3N0Z3Jlc19jb21tb24uZ2V0X2RiX2Nvbm5lY3Rpb25fdmFycygndm9fcmVwb3J0c19kYXRhX3dhcmVob3VzZScpCiAgICByZXBfcGdfY29ubiA9IHBvc3RncmVzX2NvbW1vbi5nZXRfcmVwX3BnX2Nvbm5lY3Rpb24ocmVwX3BnX2Nvbm5fdmFycykK</text>
+        <text encoding="base64">ICAgIGFzc2VydCBleHBlY3RlZF8xID09IHByb2Nlc3NfZXZlbnQuZXhwYW5kX2RhdGEoZXhwZWN0ZWRfMSwgYWxlcnRfY291bnRzLCAnYWxlcnRDb3VudHMnKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCh7bmFtZTogbmV3X2RhdGFbclsnb3JnSUQnXV19KQo=</text>
+        <text>export DB_NAME=vo_reports_data_warehouse</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChuZXdfZGF0YVtyWydvcmdJRCddXSkK</text>
+        <text encoding="base64">ICAgIGFzc2VydCBleHBlY3RlZF8xID09IHByb2Nlc3NfZXZlbnQuZXhwYW5kX2RhdGEoZXhwZWN0ZWRfMSwgYWxlcnRfY291bnRzLCAnYWxlcnRDb3VudHMnKQogICAgcgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChuZXdfZGF0YVtyWydvcmdJRCddXSkK</text>
+        <text encoding="base64">ICAgIHByaW50KGYiIEV4cGVjdGVkID0ge2V4cGVjdGVkfSIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICBuZXdfbGlzdCA9IFtyLnVwZGF0ZSh7bmFtZTogbmV3X2RhdGFbclsnb3JnSUQnXV19KSBmb3IgciBpbiBjdXJyZW50X2RhdGFdCiAgICBwcmludChuZXdfbGlzdCk=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZvciByIGluIGN1cnJlbnRfZGF0YToKICAgICAgICBwcmludChuZXdfZGF0YVtyWydvcmdJRCddXSkKICAgICAgICAjIHIudXBkYXRlKHtuYW1lOiBuZXdfZGF0YVtyWydvcmdJRCddXX0p</text>
+        <text encoding="base64">ICAgICAgICBwcmludCh7bmFtZTogbmV3X2RhdGFbclsnb3JnSUQnXV19KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChuZXdfZGF0YVtyWydvcmdJRCddXSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChuZXdfZGF0YVtyWydvcmdJRCddXSkK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text>def test_enrich_with_slug(fake_data, org_slugs):
-    &quot;&quot;&quot; Verify that org slugs are correctly appended to the data from Athena &quot;&quot;&quot;
-    expected = [dict(orgID=1, incidentsCount=5, orgSlug='slug1'),
-                    dict(orgID=2, incidentsCount=5, orgSlug='slug2'),
-                    dict(orgID=3, incidentsCount=5, orgSlug='slug3')]
-    assert expected == process_event.enrich_with_slug(fake_data, org_slugs)</text>
+        <text encoding="base64">ICAgIGZvciByIGluIGN1cnJlbnRfZGF0YToKICAgICAgICBwcmludChuZXdfZGF0YVtyWydvcmdJRCddXSkKICAgICAgICAjIHIudXBkYXRlKHtuYW1lOiBuZXdfZGF0YVtyWydvcmdJRCddXX0p</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3BnX2Nvbm4vcmVwX3BnX2Nvbm4vZw==</text>
