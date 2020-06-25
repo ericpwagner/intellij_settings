@@ -140,12 +140,7 @@
         <mark key="^" line="25" column="31" />
         <mark key="." line="25" column="30" />
       </file>
-      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/sls_config/prod.json" timestamp="1593118299956">
-        <mark key="[" line="24" column="81" />
-        <mark key="]" line="22" column="28" />
-        <mark key="." line="22" column="28" />
-        <mark key="^" line="22" column="29" />
-      </file>
+      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/sls_config/prod.json" timestamp="1593118299956" />
       <file name="$USER_HOME$/GitLab/pts_hec_aggregator/tools/postgres_common.py" timestamp="1593107977897">
         <mark key="[" line="18" column="39" />
         <mark key="]" line="20" column="28" />
@@ -183,11 +178,14 @@
       <file name="/console_4" timestamp="1593052125054">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/README.md" timestamp="1593124238731">
+        <mark key="[" line="4" column="12" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="4" column="53" />
+      </file>
       <file name="$USER_HOME$/GitLab/pts_hec_aggregator/src/process_event.py" timestamp="1593118728747">
-        <mark key="'" line="122" column="19" />
-        <mark key="[" line="105" column="0" />
-        <mark key="]" line="105" column="0" />
-        <mark key="." line="105" column="0" />
+        <mark key="'" line="15" column="19" />
       </file>
     </filemarks>
     <jumps>
@@ -296,10 +294,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBhZGQgZW52aXJvbm1lbnQgKHBsLHN0Zyxwcm9kKSBhcyBudiB2YXJpYWJsZQo=</text>
+        <text encoding="base64">IyMgRW52aXJvbm1lbnQK</text>
       </register>
       <register name="-" type="4">
-        <text>Steps to make lambda deployable</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text>pg_conn</text>
@@ -308,31 +306,31 @@
         <text>{start_date}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBhZGQgZW52aXJvbm1lbnQgKHBsLHN0Zyxwcm9kKSBhcyBudiB2YXJpYWJsZQo=</text>
+        <text encoding="base64">IyMgRW52aXJvbm1lbnQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBkaWN0KGhvc3Q9J3N0YWdpbmdfcHRzX2FnZ3JlZ2F0b3JfbGFtYmRhXzQnLAo=</text>
+        <text encoding="base64">IyMjIFJ1bm5pbmcgbG9jYWxseQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">IyBzc2gga2V5CgojIyBHZW5lcmF0ZQpZb3UgbXVzdCB1cGxvYWQgYW4gU1NIIGtleSBmb3IgZ29nbwpgYGAgYmFzaApzc2gta2V5Z2VuIC10IGVkMjU1MTkgLUMgImJsZHItZGF0YStwdHNIZWNBZ2dyZWdhdG9yQHNwbHVuay5jb20iIC1mIHB0c0hlY0FnZ3JlZ2F0b3IKYGBgCiMjIEFkZCB0aGUgcHJpdmF0ZSBrZXkKQW5kIHVwbG9hZCB0byBodHRwczovL2NkLnNwbHVua2Rldi5jb20vdmljdG9yb3BzL2RhdGEvcHRzX2hlY19hZ2dyZWdhdG9yLy0vc2V0dGluZ3MvY2lfY2QgdW5kZXIgVmFyaWFibGVzIGFzIFNTSF9QUklWQVRFX0tFWQojIyBBZGQgdGhlIGRlcGxveSBrZXkKVXBsb2FkIHRvIGh0dHBzOi8vY2Quc3BsdW5rZGV2LmNvbS92aWN0b3JvcHMvZGF0YS9wdHNfaGVjX2FnZ3JlZ2F0b3IvLS9zZXR0aW5ncy9jaV9jZCB1bmRlciBEZXBsb3kgS2V5cwoKCk1ha2Ugc3VyZSB0byBzYXZlIHRoZSBwcml2YXRlIGFuZCBwdWIga2V5CgojIEhvdyB0byB1c2UgdGhpcyByZXBvCkZvciB0aGUgbW9zdCBwYXJ0IHlvdSBzaG91bGQgYmUgYWJsZSB0byBvbmx5IGVkaXQgcHl0aG9uIGZpbGVzIGluIHNyYyBhbmQgdGhlIHNlcnZlcmxlc3MueW1sIGZpbGVzLiAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">aHR0cHM6Ly9jZC5zcGx1bmtkZXYuY29tL2t1Yi92YXVsdC1yb2xlLWdlbmVyYXRvci8tL2Jsb2IvbWFzdGVyL2dyb3Vwcy9zZy1zc2Mtdm8taW5mcmEvdmljdG9yb3BzLnBvbGljaWVzLnlhbWwK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">QWRkIGxhbWJkYSBwZXJtaXNzaW9ucyB0byB2YXVsdC1yb2xlLWdlbmVyYXRvcgo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">VGhlIHByb2plY3QgbnVtYmVyIHdpbGwgY29tZSBmcm9tIHlvdXIgZ2l0bGFiIHByb2plY3QgYWZ0ZXIgeW91IHB1c2ggaXQuClNldHRpbmdzID4gR2VuZXJhbCA+IFByb2plY3QgSUQKCk11c3QgYmUgcHJvdGVjdGVkIHRvIGJlIGFibGUgdG8gZGVwbG95IHRvIHByb2R1Y3Rpb24KaHR0cHM6Ly9jZC5zcGx1bmtkZXYuY29tL3ZpY3Rvcm9wcy9kYXRhL3B0c0hlY0FnZ3JlZ2F0b3IvLS9zZXR0aW5ncy9yZXBvc2l0b3J5</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Pj4+Pj4+PiBhZGQgZW52aXJvbm1lbnQgKHBsLHN0Zyxwcm9kKSBhcyBudiB2YXJpYWJsZQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBUaGlzIHBhY2thZ2UgaXMgc291cmNlZCBmcm9tOiAK</text>
+        <text encoding="base64">ICAgIHJldHVybiBkaWN0KGhvc3Q9J3N0YWdpbmdfcHRzX2FnZ3JlZ2F0b3JfbGFtYmRhXzQnLAo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
