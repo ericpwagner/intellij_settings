@@ -45,10 +45,10 @@
         <entry encoding="base64">JzwsJz5zL3Byb2Qvc3RnL2c=</entry>
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz5zL1BST0QvU1RHL2c=</entry>
-        <entry>w</entry>
         <entry>s/pg_conn/rep_pg_conn/g</entry>
         <entry>s/pg_conn/rep_pg_conn/gc</entry>
         <entry encoding="base64">JzwsJz5zL3BnX2Nvbm4vcmVwX3BnX2Nvbm4vZw==</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -103,35 +103,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/tools/aws_utils.py" timestamp="1593029638117">
-        <mark key="[" line="7" column="82" />
-        <mark key="]" line="7" column="76" />
-        <mark key="." line="7" column="76" />
-        <mark key="^" line="13" column="33" />
-      </file>
-      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/.gitlab-ci.yml" timestamp="1592927986936">
-        <mark key="[" line="50" column="40" />
-        <mark key="]" line="50" column="50" />
-        <mark key="^" line="50" column="50" />
-        <mark key="." line="50" column="49" />
-      </file>
-      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/sls_config/stg.json" timestamp="1593051462018">
-        <mark key="[" line="21" column="20" />
-        <mark key="]" line="22" column="28" />
-        <mark key="." line="22" column="28" />
-      </file>
-      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/Pipfile" timestamp="1592865880652">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-      </file>
-      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/serverless.yml" timestamp="1593031214059">
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="69" column="0" />
-        <mark key="." line="69" column="0" />
-      </file>
-      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/src/queries.py" timestamp="1593042666269">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/044e28c2-f35f-4fff-b858-d01f3fe770cc/console_4.sql" timestamp="1593052130732">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/GitLab/pts_hec_aggregator/lambda_handler.py" timestamp="1592930646289">
         <mark key="[" line="1" column="3" />
@@ -143,29 +118,18 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/.envrc" timestamp="1593051964299">
+      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/.envrc" timestamp="1593052735918">
         <mark key="'" line="33" column="0" />
         <mark key="[" line="5" column="48" />
-        <mark key="]" line="5" column="48" />
-        <mark key="^" line="5" column="48" />
-        <mark key="." line="5" column="47" />
+        <mark key="]" line="3" column="23" />
+        <mark key="^" line="3" column="23" />
+        <mark key="." line="3" column="22" />
       </file>
       <file name="$USER_HOME$/GitLab/pts_hec_aggregator/tests/test_lambda_handler.py" timestamp="1593051095237">
         <mark key="[" line="76" column="21" />
         <mark key="]" line="75" column="91" />
         <mark key="." line="75" column="0" />
         <mark key="^" line="74" column="82" />
-      </file>
-      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/setup.py" timestamp="1592866613482">
-        <mark key="[" line="2" column="42" />
-        <mark key="]" line="29" column="38" />
-        <mark key="." line="29" column="37" />
-        <mark key="^" line="29" column="38" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1593049200649">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/GitLab/pts_hec_aggregator/sls_config/playground.json" timestamp="1593030630062">
         <mark key="[" line="23" column="72" />
@@ -191,12 +155,42 @@
         <mark key="^" line="85" column="6" />
         <mark key="." line="85" column="5" />
       </file>
-      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/src/process_event.py" timestamp="1593052072445">
-        <mark key="'" line="100" column="19" />
-        <mark key="[" line="16" column="59" />
-        <mark key="]" line="16" column="59" />
-        <mark key="." line="16" column="59" />
-        <mark key="^" line="16" column="85" />
+      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/tools/aws_utils.py" timestamp="1593029638117">
+        <mark key="[" line="7" column="82" />
+        <mark key="]" line="7" column="76" />
+        <mark key="." line="7" column="76" />
+        <mark key="^" line="13" column="33" />
+      </file>
+      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/.gitlab-ci.yml" timestamp="1592927986936">
+        <mark key="[" line="50" column="40" />
+        <mark key="]" line="50" column="50" />
+        <mark key="^" line="50" column="50" />
+        <mark key="." line="50" column="49" />
+      </file>
+      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/sls_config/stg.json" timestamp="1593051462018">
+        <mark key="[" line="21" column="20" />
+        <mark key="]" line="22" column="28" />
+        <mark key="." line="22" column="28" />
+      </file>
+      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/serverless.yml" timestamp="1593031214059">
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="0" />
+        <mark key="." line="69" column="0" />
+      </file>
+      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/src/queries.py" timestamp="1593042666269">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1593053192422">
+        <mark key="[" line="0" column="70" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="/console_4" timestamp="1593052125054">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/src/process_event.py" timestamp="1593053436185">
+        <mark key="'" line="99" column="19" />
+        <mark key="[" line="15" column="84" />
       </file>
     </filemarks>
     <jumps>
@@ -304,11 +298,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>vo_reports_data_warehouciwse</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHByaW50KHBnX2Nvbm5fdmFycykK</text>
       </register>
       <register name="-" type="4">
-        <text>vo_reports_data_warehouciwse</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>pg_conn</text>
@@ -317,34 +311,34 @@
         <text encoding="base64">ICAgIGFzc2VydCBleHBlY3RlZF8xID09IHByb2Nlc3NfZXZlbnQuZXhwYW5kX2RhdGEoZXhwZWN0ZWRfMSwgYWxlcnRfY291bnRzLCAnYWxlcnRDb3VudHMnKQo=</text>
       </register>
       <register name="1" type="2">
-        <text>export DB_NAME=vo_reports_data_warehouse</text>
+        <text encoding="base64">ICAgIHByaW50KHBnX2Nvbm5fdmFycykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCBleHBlY3RlZF8xID09IHByb2Nlc3NfZXZlbnQuZXhwYW5kX2RhdGEoZXhwZWN0ZWRfMSwgYWxlcnRfY291bnRzLCAnYWxlcnRDb3VudHMnKQogICAgcgo=</text>
+        <text>export DB_NAME=vo_reports_data_warehouse</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KGYiIEV4cGVjdGVkID0ge2V4cGVjdGVkfSIpCg==</text>
+        <text encoding="base64">ICAgIGFzc2VydCBleHBlY3RlZF8xID09IHByb2Nlc3NfZXZlbnQuZXhwYW5kX2RhdGEoZXhwZWN0ZWRfMSwgYWxlcnRfY291bnRzLCAnYWxlcnRDb3VudHMnKQogICAgcgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICBuZXdfbGlzdCA9IFtyLnVwZGF0ZSh7bmFtZTogbmV3X2RhdGFbclsnb3JnSUQnXV19KSBmb3IgciBpbiBjdXJyZW50X2RhdGFdCiAgICBwcmludChuZXdfbGlzdCk=</text>
+        <text encoding="base64">ICAgIHByaW50KGYiIEV4cGVjdGVkID0ge2V4cGVjdGVkfSIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCh7bmFtZTogbmV3X2RhdGFbclsnb3JnSUQnXV19KQo=</text>
+        <text encoding="base64">CiAgICBuZXdfbGlzdCA9IFtyLnVwZGF0ZSh7bmFtZTogbmV3X2RhdGFbclsnb3JnSUQnXV19KSBmb3IgciBpbiBjdXJyZW50X2RhdGFdCiAgICBwcmludChuZXdfbGlzdCk=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChuZXdfZGF0YVtyWydvcmdJRCddXSkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCh7bmFtZTogbmV3X2RhdGFbclsnb3JnSUQnXV19KQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBwcmludChuZXdfZGF0YVtyWydvcmdJRCddXSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChuZXdfZGF0YVtyWydvcmdJRCddXSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZvciByIGluIGN1cnJlbnRfZGF0YToKICAgICAgICBwcmludChuZXdfZGF0YVtyWydvcmdJRCddXSkKICAgICAgICAjIHIudXBkYXRlKHtuYW1lOiBuZXdfZGF0YVtyWydvcmdJRCddXX0p</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL3BnX2Nvbm4vcmVwX3BnX2Nvbm4vZw==</text>
+        <text>w</text>
       </register>
     </registers>
   </component>
