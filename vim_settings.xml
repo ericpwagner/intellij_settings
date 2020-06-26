@@ -132,7 +132,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/044e28c2-f35f-4fff-b858-d01f3fe770cc/console_6.sql" timestamp="1593058007828">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/sls_config/playground.json" timestamp="1593203271002">
+      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/sls_config/playground.json" timestamp="1593204928321">
         <mark key="[" line="21" column="20" />
         <mark key="]" line="21" column="20" />
         <mark key="." line="21" column="20" />
@@ -156,7 +156,7 @@
       </file>
       <file name="$USER_HOME$/GitLab/pts_hec_aggregator/src/queries.py" timestamp="1593183600128" />
       <file name="$USER_HOME$/GitLab/pts_hec_aggregator/tools/athena_common.py" timestamp="1593118340696" />
-      <file name="/Dummy.txt" timestamp="1593203200815">
+      <file name="/Dummy.txt" timestamp="1593204939605">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="36" />
         <mark key="." line="0" column="36" />
@@ -283,10 +283,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>AQICAHjul9TdDF4lWg8USvNAFX2wW3rOFl5gv2K3eZZR+vkQ0wF4tScHy9/D4QO355bEq9m0AAAAfjB8BgkqhkiG9w0BBwagbzBtAgEAMGgGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMFfIzPzbEV2YTmzWWAgEQgDv2yQ74odW3f2XvqiqyF9IYsr3EvWhRe8NVToyHRoH3iYfeTS2jLUr0tgkRw/8FmiQHKwL5+c739a057w==&quot;,</text>
+        <text>AQICAHjq8vkI0zOOmdy8O2agJ3W4+XtyPqyvhIqB3IHhy6YdCwHtDOBj6b9YCgSIH6IjRefdAAAAfjB8BgkqhkiG9w0BBwagbzBtAgEAMGgGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQM22Rt4Cmk5gfgUo74AgEQgDtrm/MNfZocQECbAvJXXm3wQKHRRgaUNGbg6yoAkf1BZPgZ0zNfh6kRyjFj9TwF62VgbulhZyHkIX+wyA==&quot;,</text>
       </register>
       <register name="-" type="4">
-        <text>AQICAHjul9TdDF4lWg8USvNAFX2wW3rOFl5gv2K3eZZR+vkQ0wF4tScHy9/D4QO355bEq9m0AAAAfjB8BgkqhkiG9w0BBwagbzBtAgEAMGgGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMFfIzPzbEV2YTmzWWAgEQgDv2yQ74odW3f2XvqiqyF9IYsr3EvWhRe8NVToyHRoH3iYfeTS2jLUr0tgkRw/8FmiQHKwL5+c739a057w==&quot;,</text>
+        <text>AQICAHjq8vkI0zOOmdy8O2agJ3W4+XtyPqyvhIqB3IHhy6YdCwHtDOBj6b9YCgSIH6IjRefdAAAAfjB8BgkqhkiG9w0BBwagbzBtAgEAMGgGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQM22Rt4Cmk5gfgUo74AgEQgDtrm/MNfZocQECbAvJXXm3wQKHRRgaUNGbg6yoAkf1BZPgZ0zNfh6kRyjFj9TwF62VgbulhZyHkIX+wyA==&quot;,</text>
       </register>
       <register name="/" type="4">
         <text>pg_conn</text>
