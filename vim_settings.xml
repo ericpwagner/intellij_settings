@@ -175,12 +175,12 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="53" />
       </file>
-      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/src/process_event.py" timestamp="1593125383744">
+      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/src/process_event.py" timestamp="1593137824412">
         <mark key="'" line="15" column="19" />
-        <mark key="[" line="85" column="44" />
-        <mark key="]" line="85" column="94" />
-        <mark key="^" line="85" column="11" />
-        <mark key="." line="86" column="0" />
+        <mark key="[" line="58" column="31" />
+        <mark key="]" line="57" column="9" />
+        <mark key="^" line="57" column="9" />
+        <mark key="." line="57" column="9" />
       </file>
     </filemarks>
     <jumps>
