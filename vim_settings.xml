@@ -132,7 +132,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/044e28c2-f35f-4fff-b858-d01f3fe770cc/console_6.sql" timestamp="1593058007828">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/sls_config/playground.json" timestamp="1593118243619">
+      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/sls_config/playground.json" timestamp="1593200856004">
         <mark key="[" line="24" column="81" />
         <mark key="]" line="24" column="31" />
         <mark key="^" line="24" column="31" />
@@ -145,6 +145,7 @@
         <mark key="^" line="26" column="7" />
         <mark key="." line="25" column="0" />
       </file>
+      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/tools/aws_utils.py" timestamp="1593200709968" />
       <file name="$USER_HOME$/GitLab/pts_hec_aggregator/sls_config/stg.json" timestamp="1593118290397">
         <mark key="[" line="24" column="81" />
         <mark key="]" line="25" column="27" />
@@ -156,15 +157,12 @@
       </file>
       <file name="$USER_HOME$/GitLab/pts_hec_aggregator/src/queries.py" timestamp="1593183600128" />
       <file name="$USER_HOME$/GitLab/pts_hec_aggregator/tools/athena_common.py" timestamp="1593118340696" />
-      <file name="/Dummy.txt" timestamp="1593191394165">
+      <file name="/Dummy.txt" timestamp="1593200867615">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="36" />
         <mark key="." line="0" column="36" />
       </file>
       <file name="$USER_HOME$/GitLab/pts_hec_aggregator/Pipfile.lock" timestamp="1593191120088" />
-      <file name="/console_5" timestamp="1593057397688">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/console_6" timestamp="1593058005275">
         <mark key="[" line="0" column="0" />
       </file>
