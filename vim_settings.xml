@@ -47,8 +47,8 @@
         <entry encoding="base64">JzwsJz5zL3BnX2Nvbm4vcmVwX3BnX2Nvbm4vZw==</entry>
         <entry>78G</entry>
         <entry>78</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -142,9 +142,6 @@
       <file name="$USER_HOME$/GitLab/pts_hec_aggregator/sls_config/prod.json" timestamp="1593118299956" />
       <file name="$USER_HOME$/GitLab/pts_hec_aggregator/tools/postgres_common.py" timestamp="1593107977897">
         <mark key="[" line="18" column="39" />
-        <mark key="]" line="20" column="28" />
-        <mark key="^" line="20" column="28" />
-        <mark key="." line="20" column="27" />
       </file>
       <file name="$USER_HOME$/GitLab/pts_hec_aggregator/sls_config/stg.json" timestamp="1593118290397">
         <mark key="[" line="24" column="81" />
@@ -152,10 +149,11 @@
         <mark key="." line="25" column="26" />
         <mark key="^" line="25" column="27" />
       </file>
-      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/serverless.yml" timestamp="1593118196872">
-        <mark key="]" line="61" column="0" />
-        <mark key="." line="61" column="0" />
+      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/serverless.yml" timestamp="1593126271599">
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="0" />
         <mark key="^" line="60" column="5" />
+        <mark key="." line="70" column="0" />
       </file>
       <file name="$USER_HOME$/GitLab/pts_hec_aggregator/src/queries.py" timestamp="1593115466874" />
       <file name="$USER_HOME$/GitLab/pts_hec_aggregator/tools/athena_common.py" timestamp="1593118340696" />
@@ -291,7 +289,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdldmVudCc6IHsnY29tcG9uZW50JzogJ3VzYWdlLlZpY3Rvck9wc09yZ0NvdW50cycsCg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBhMTgwODJmLi4uIEFkZCBkYXRhYmFzZSBuYW1lIGJhY2sgdG8gZW52IHZhcmlhYmxlcyBiZWNhdXNlIHdlIGRvbid0IGFjdHVhbGx5IG5lZWQgdG8gaGl0IG11bHRpcGxlIFBHIGRhdGFiYXNlcywganVzdCB0aGUgb25lIHRvIGdldCBvcmdfaWQvc2x1Zwo=</text>
       </register>
       <register name="-" type="4">
         <text>#</text>
@@ -303,34 +301,34 @@
         <text encoding="base64">CmRlZiBnZXRfYXRoZW5hX3Jlc3VsdHNfYXNfZGljdChhdGhlbmFfY29ubjogYXRoZW5hLmNvbm5lY3Rpb24uQ29ubmVjdGlvbiwgcXVlcnk6IHN0cikgLT4gZGljdDoK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdldmVudCc6IHsnY29tcG9uZW50JzogJ3VzYWdlLlZpY3Rvck9wc09yZ0NvdW50cycsCg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBhMTgwODJmLi4uIEFkZCBkYXRhYmFzZSBuYW1lIGJhY2sgdG8gZW52IHZhcmlhYmxlcyBiZWNhdXNlIHdlIGRvbid0IGFjdHVhbGx5IG5lZWQgdG8gaGl0IG11bHRpcGxlIFBHIGRhdGFiYXNlcywganVzdCB0aGUgb25lIHRvIGdldCBvcmdfaWQvc2x1Zwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ3RpbWUnOiAnMjAyMC0wNi0wMVQwMDowMDowMFonLAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBSZWZhY3RvciB0byB1c2UgZ2VuZXJhbGl6ZWQgbWV0aG9kIGZvciBleHBhbmRpbmcgdGhlIGRhdGEgcGF5bG9hZCB3aXRoIGFkZGl0aW9uYWwgbWV0cmljcwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ3RpbWUnOiAnMjAyMC0wNi0wMVQwMDowMDowMFonLAo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">PT09PT09PQo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="3" type="2">
         <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdldmVudCc6IHsnY29tcG9uZW50JzogJ3VzYWdlLlZpY3Rvck9wc09yZ0NvdW50cycsCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ3RpbWUnOiAnMjAyMC0wNi0wMVQwMDowMDowMFonLAo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">Pj4+Pj4+PiBSZWZhY3RvciB0byB1c2UgZ2VuZXJhbGl6ZWQgbWV0aG9kIGZvciBleHBhbmRpbmcgdGhlIGRhdGEgcGF5bG9hZCB3aXRoIGFkZGl0aW9uYWwgbWV0cmljcwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ3RpbWUnOiAnMjAyMC0wNi0wMVQwMDowMDowMFonLAo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJlc3VsdHMgPSBwb3N0Z3Jlc19jb21tb24ucnVuX3F1ZXJ5KHBnX2Nvbm4sIHF1ZXJ5KQo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
   </component>
