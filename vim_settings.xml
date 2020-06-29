@@ -139,10 +139,9 @@
         <mark key="^" line="21" column="12" />
       </file>
       <file name="$USER_HOME$/GitLab/pts_hec_aggregator/sls_config/prod.json" timestamp="1593456376197">
-        <mark key="[" line="20" column="4" />
-        <mark key="]" line="21" column="52" />
-        <mark key="^" line="21" column="52" />
-        <mark key="." line="21" column="51" />
+        <mark key="]" line="19" column="52" />
+        <mark key="^" line="19" column="52" />
+        <mark key="." line="19" column="51" />
       </file>
       <file name="$USER_HOME$/GitLab/pts_hec_aggregator/tools/postgres_common.py" timestamp="1593455656708">
         <mark key="[" line="25" column="39" />
