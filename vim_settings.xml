@@ -146,18 +146,18 @@
         <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/GitLab/pts_hec_aggregator/tools/aws_utils.py" timestamp="1593200709968" />
-      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/sls_config/stg.json" timestamp="1593118290397">
-        <mark key="[" line="24" column="81" />
-        <mark key="]" line="25" column="27" />
-        <mark key="." line="25" column="26" />
-        <mark key="^" line="25" column="27" />
+      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/sls_config/stg.json" timestamp="1593442235417">
+        <mark key="[" line="21" column="19" />
+        <mark key="]" line="22" column="47" />
+        <mark key="." line="22" column="46" />
+        <mark key="^" line="22" column="47" />
       </file>
       <file name="$USER_HOME$/GitLab/pts_hec_aggregator/serverless.yml" timestamp="1593198062335">
         <mark key="^" line="60" column="5" />
       </file>
       <file name="$USER_HOME$/GitLab/pts_hec_aggregator/src/queries.py" timestamp="1593183600128" />
       <file name="$USER_HOME$/GitLab/pts_hec_aggregator/tools/athena_common.py" timestamp="1593118340696" />
-      <file name="/Dummy.txt" timestamp="1593204939605">
+      <file name="/Dummy.txt" timestamp="1593209615830">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="36" />
         <mark key="." line="0" column="36" />
@@ -283,11 +283,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBhYzcyNjIzLi4uIHVzZSBjb3JyZWN0IGttcyBhcm4gdG8gZW5jcnlwdCBwZyBwYXNzd29yZAo=</text>
+      <register name="&quot;" type="4">
+        <text>&quot;AQICAHiaQQ30cHcNxVCXg86jFs9XdVagNzerZn3X2BPfvamCXAHpD8S6UfQGvWieeB+Ma5beAAAAdjB0BgkqhkiG9w0BBwagZzBlAgEAMGAGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMVphl48jYH6YNn79KAgEQgDOSitQfcVRFxomzn+T/Bw7f3Z2K8ByJT+Fw0CIIDtkTzF00DOgHpJ/atyNZwCwogdNWZpk=&quot;,</text>
       </register>
       <register name="-" type="4">
-        <text>AQICAHjq8vkI0zOOmdy8O2agJ3W4+XtyPqyvhIqB3IHhy6YdCwHtDOBj6b9YCgSIH6IjRefdAAAAfjB8BgkqhkiG9w0BBwagbzBtAgEAMGgGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQM22Rt4Cmk5gfgUo74AgEQgDtrm/MNfZocQECbAvJXXm3wQKHRRgaUNGbg6yoAkf1BZPgZ0zNfh6kRyjFj9TwF62VgbulhZyHkIX+wyA==&quot;,</text>
+        <text>&quot;AQICAHiaQQ30cHcNxVCXg86jFs9XdVagNzerZn3X2BPfvamCXAHpD8S6UfQGvWieeB+Ma5beAAAAdjB0BgkqhkiG9w0BBwagZzBlAgEAMGAGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMVphl48jYH6YNn79KAgEQgDOSitQfcVRFxomzn+T/Bw7f3Z2K8ByJT+Fw0CIIDtkTzF00DOgHpJ/atyNZwCwogdNWZpk=&quot;,</text>
       </register>
       <register name="/" type="4">
         <text>pg_conn</text>
