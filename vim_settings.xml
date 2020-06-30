@@ -108,6 +108,12 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/1c8caa95-40a4-4694-859b-23405dbb79c7/console_2.sql" timestamp="1593530459435">
+        <mark key="[" line="2" column="20" />
+        <mark key="]" line="0" column="12" />
+        <mark key="." line="0" column="11" />
+        <mark key="^" line="0" column="12" />
+      </file>
       <file name="/Dummy.json" timestamp="1593456928081">
         <mark key="[" line="0" column="0" />
       </file>
@@ -123,9 +129,6 @@
         <mark key="]" line="40" column="66" />
         <mark key="." line="40" column="66" />
         <mark key="^" line="79" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/044e28c2-f35f-4fff-b858-d01f3fe770cc/console_6.sql" timestamp="1593058007828">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/GitLab/pts_hec_aggregator/sls_config/playground.json" timestamp="1593456394797">
         <mark key="[" line="21" column="53" />
@@ -165,7 +168,7 @@
       <file name="$USER_HOME$/GitLab/pts_hec_aggregator/serverless.yml" timestamp="1593198062335">
         <mark key="^" line="60" column="5" />
       </file>
-      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/src/queries.py" timestamp="1593183600128" />
+      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/src/queries.py" timestamp="1593530411853" />
       <file name="$USER_HOME$/GitLab/pts_hec_aggregator/tools/athena_common.py" timestamp="1593118340696" />
       <file name="/Dummy.txt" timestamp="1593459801783">
         <mark key="[" line="0" column="0" />
@@ -173,7 +176,7 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/GitLab/pts_hec_aggregator/Pipfile.lock" timestamp="1593191120088" />
-      <file name="/console_6" timestamp="1593058005275">
+      <file name="/console_2" timestamp="1593530305261">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/GitLab/pts_hec_aggregator/README.md" timestamp="1593189192975" />
@@ -294,10 +297,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>AQICAHjq8vkI0zOOmdy8O2agJ3W4+XtyPqyvhIqB3IHhy6YdCwH3EXQDD8SrAGEqFnqQvDHXAAAAdjB0BgkqhkiG9w0BBwagZzBlAgEAMGAGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMMTOhCGwnHUsPUk1UAgEQgDOwwH3r12MaPaEjtI5ZZAnCgoKyNq9LCKRluQVvK9Cqw+L6vLREqXR52rLDX5GVseYvHF4=&quot;</text>
+        <text>org_id, org_slug</text>
       </register>
       <register name="-" type="4">
-        <text>AQICAHjq8vkI0zOOmdy8O2agJ3W4+XtyPqyvhIqB3IHhy6YdCwH3EXQDD8SrAGEqFnqQvDHXAAAAdjB0BgkqhkiG9w0BBwagZzBlAgEAMGAGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMMTOhCGwnHUsPUk1UAgEQgDOwwH3r12MaPaEjtI5ZZAnCgoKyNq9LCKRluQVvK9Cqw+L6vLREqXR52rLDX5GVseYvHF4=&quot;</text>
+        <text>org_id, org_slug</text>
       </register>
       <register name="/" type="4">
         <text>pg_conn</text>
@@ -306,31 +309,31 @@
         <text encoding="base64">CmRlZiBnZXRfYXRoZW5hX3Jlc3VsdHNfYXNfZGljdChhdGhlbmFfY29ubjogYXRoZW5hLmNvbm5lY3Rpb24uQ29ubmVjdGlvbiwgcXVlcnk6IHN0cikgLT4gZGljdDoK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Z2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2cK</text>
       </register>
       <register name="2" type="2">
-        <text>remove unnecessary athena_s3 reference (not used)</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJzM19zdGFnaW5nX2RpciI6ICJzMzovL3Byb2R1Y3Rpb24udm8uZGF0YS5hZGhvYy9hZGhvYy9wdHNfZGFpbHkiLAo=</text>
+        <text>remove unnecessary athena_s3 reference (not used)</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJhdGhlbmFfczNfc3RhZ2luZ19kaXIiOiAiczM6Ly9wcm9kdWN0aW9uLnZvLmRhdGEuYWRob2MvcmVjb24vIiwK</text>
+        <text encoding="base64">ICAgICJzM19zdGFnaW5nX2RpciI6ICJzMzovL3Byb2R1Y3Rpb24udm8uZGF0YS5hZGhvYy9hZGhvYy9wdHNfZGFpbHkiLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJhdGhlbmFfczNfc3RhZ2luZ19kaXIiOiAiczM6Ly9zdGFnaW5nLnZvLmRhdGEuYWRob2MvcmVjb24vIiwK</text>
+        <text encoding="base64">ICAgICJhdGhlbmFfczNfc3RhZ2luZ19kaXIiOiAiczM6Ly9wcm9kdWN0aW9uLnZvLmRhdGEuYWRob2MvcmVjb24vIiwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJhdGhlbmFfczNfc3RhZ2luZ19kaXIiOiAiczM6Ly9wbGF5Z3JvdW5kLnZvLmRhdGEuYWRob2MvcmVjb24vIiwK</text>
+        <text encoding="base64">ICAgICJhdGhlbmFfczNfc3RhZ2luZ19kaXIiOiAiczM6Ly9zdGFnaW5nLnZvLmRhdGEuYWRob2MvcmVjb24vIiwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBhYzcyNjIzLi4uIHVzZSBjb3JyZWN0IGttcyBhcm4gdG8gZW5jcnlwdCBwZyBwYXNzd29yZAo=</text>
+        <text encoding="base64">ICAgICJhdGhlbmFfczNfc3RhZ2luZ19kaXIiOiAiczM6Ly9wbGF5Z3JvdW5kLnZvLmRhdGEuYWRob2MvcmVjb24vIiwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBhYzcyNjIzLi4uIHVzZSBjb3JyZWN0IGttcyBhcm4gdG8gZW5jcnlwdCBwZyBwYXNzd29yZAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAicGdfcGFzc19lbmMiOiAiQVFJQ0FIanE4dmtJMHpPT21keThPMmFnSjNXNCtYdHlQcXl2aElxQjNJSGh5NllkQ3dHRWQ2YVdHTGtKazMvRnZVVTEzSmE0QUFBQWRqQjBCZ2txaGtpRzl3MEJCd2FnWnpCbEFnRUFNR0FHQ1NxR1NJYjNEUUVIQVRBZUJnbGdoa2dCWlFNRUFTNHdFUVFNbTBURzBsTThJK2lJR2FmOEFnRVFnRE05TVVLZVhSRlNsK3RINmFoRUp5NWR4cjhkT200OHBLMUpxbE85ZnJqSVNnaTlvYklCeDZlNWphTllvMStYSjVrNC9qST0iLAo=</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
