@@ -29,7 +29,6 @@
         <entry>pg_conn</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JXMvb25seS4mcXVvdDsmI3hkOy9vbmx5LiZxdW90OywmI3hkOy9nYw==</entry>
         <entry encoding="base64">JXMvb25seS4mcXVvdDsmI3hkOy9vbmx5LiZxdW90OywmI3hkOy9n</entry>
         <entry encoding="base64">JzwsJz5zL1doYXRcIGZvbGxvd3NcIGlzXCBhblwgYWJzdXJkbHlcIGxvbmdcIGVudGl0eV9kaXNwbGF5X25hbWU6L0Fic3VyZGx5XCBsb25nXCBuYW1lOi9n</entry>
         <entry encoding="base64">JzwsJz5zL19BQ18vXy9n</entry>
@@ -48,6 +47,7 @@
         <entry>78G</entry>
         <entry>78</entry>
         <entry>wq</entry>
+        <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -111,12 +111,12 @@
       <file name="/Dummy.json" timestamp="1593456928081">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/.envrc" timestamp="1593462278792">
+      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/.envrc" timestamp="1593462681696">
         <mark key="'" line="37" column="0" />
-        <mark key="[" line="5" column="19" />
+        <mark key="[" line="5" column="20" />
         <mark key="]" line="5" column="20" />
         <mark key="^" line="5" column="20" />
-        <mark key="." line="5" column="19" />
+        <mark key="." line="5" column="20" />
       </file>
       <file name="$USER_HOME$/GitLab/pts_hec_aggregator/tests/test_lambda_handler.py" timestamp="1593191113435">
         <mark key="[" line="40" column="66" />
@@ -289,10 +289,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>AQICAHjq8vkI0zOOmdy8O2agJ3W4+XtyPqyvhIqB3IHhy6YdCwH3EXQDD8SrAGEqFnqQvDHXAAAAdjB0BgkqhkiG9w0BBwagZzBlAgEAMGAGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMMTOhCGwnHUsPUk1UAgEQgDOwwH3r12MaPaEjtI5ZZAnCgoKyNq9LCKRluQVvK9Cqw+L6vLREqXR52rLDX5GVseYvHF4=</text>
+        <text>AQICAHjq8vkI0zOOmdy8O2agJ3W4+XtyPqyvhIqB3IHhy6YdCwH3EXQDD8SrAGEqFnqQvDHXAAAAdjB0BgkqhkiG9w0BBwagZzBlAgEAMGAGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMMTOhCGwnHUsPUk1UAgEQgDOwwH3r12MaPaEjtI5ZZAnCgoKyNq9LCKRluQVvK9Cqw+L6vLREqXR52rLDX5GVseYvHF4=&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>AQICAHjq8vkI0zOOmdy8O2agJ3W4+XtyPqyvhIqB3IHhy6YdCwH3EXQDD8SrAGEqFnqQvDHXAAAAdjB0BgkqhkiG9w0BBwagZzBlAgEAMGAGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMMTOhCGwnHUsPUk1UAgEQgDOwwH3r12MaPaEjtI5ZZAnCgoKyNq9LCKRluQVvK9Cqw+L6vLREqXR52rLDX5GVseYvHF4=</text>
+        <text>AQICAHjq8vkI0zOOmdy8O2agJ3W4+XtyPqyvhIqB3IHhy6YdCwH3EXQDD8SrAGEqFnqQvDHXAAAAdjB0BgkqhkiG9w0BBwagZzBlAgEAMGAGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMMTOhCGwnHUsPUk1UAgEQgDOwwH3r12MaPaEjtI5ZZAnCgoKyNq9LCKRluQVvK9Cqw+L6vLREqXR52rLDX5GVseYvHF4=&quot;</text>
       </register>
       <register name="/" type="4">
         <text>pg_conn</text>
