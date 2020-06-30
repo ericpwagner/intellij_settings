@@ -29,7 +29,6 @@
         <entry>pg_conn</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JXMvb25seS4mcXVvdDsmI3hkOy9vbmx5LiZxdW90OywmI3hkOy9n</entry>
         <entry encoding="base64">JzwsJz5zL1doYXRcIGZvbGxvd3NcIGlzXCBhblwgYWJzdXJkbHlcIGxvbmdcIGVudGl0eV9kaXNwbGF5X25hbWU6L0Fic3VyZGx5XCBsb25nXCBuYW1lOi9n</entry>
         <entry encoding="base64">JzwsJz5zL19BQ18vXy9n</entry>
         <entry encoding="base64">JzwsJz5zL29yZ19pZC9pbmNpZGVudF9pZC9n</entry>
@@ -49,6 +48,7 @@
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
+        <entry>26</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -117,18 +117,18 @@
       <file name="/Dummy.json" timestamp="1593456928081">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/.envrc" timestamp="1593462681696">
+      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/.envrc" timestamp="1593532556393">
         <mark key="'" line="37" column="0" />
-        <mark key="[" line="5" column="20" />
-        <mark key="]" line="5" column="20" />
+        <mark key="[" line="5" column="15" />
+        <mark key="]" line="5" column="15" />
         <mark key="^" line="5" column="20" />
-        <mark key="." line="5" column="20" />
+        <mark key="." line="5" column="15" />
       </file>
-      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/tests/test_lambda_handler.py" timestamp="1593191113435">
-        <mark key="[" line="40" column="66" />
-        <mark key="]" line="40" column="66" />
-        <mark key="." line="40" column="66" />
-        <mark key="^" line="79" column="0" />
+      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/tests/test_lambda_handler.py" timestamp="1593534363030">
+        <mark key="[" line="114" column="32" />
+        <mark key="]" line="114" column="32" />
+        <mark key="." line="114" column="31" />
+        <mark key="^" line="114" column="32" />
       </file>
       <file name="$USER_HOME$/GitLab/pts_hec_aggregator/sls_config/playground.json" timestamp="1593456394797">
         <mark key="[" line="21" column="53" />
@@ -141,11 +141,11 @@
         <mark key="^" line="19" column="52" />
         <mark key="." line="19" column="51" />
       </file>
-      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/tools/postgres_common.py" timestamp="1593455656708">
-        <mark key="[" line="25" column="39" />
-        <mark key="]" line="25" column="39" />
-        <mark key="^" line="25" column="39" />
-        <mark key="." line="25" column="38" />
+      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/tools/postgres_common.py" timestamp="1593534050820">
+        <mark key="[" line="25" column="52" />
+        <mark key="]" line="25" column="33" />
+        <mark key="^" line="25" column="33" />
+        <mark key="." line="25" column="32" />
       </file>
       <file name="$USER_HOME$/GitLab/pts_hec_aggregator/tools/aws_utils.py" timestamp="1593463042682">
         <mark key="[" line="29" column="22" />
@@ -168,9 +168,11 @@
       <file name="$USER_HOME$/GitLab/pts_hec_aggregator/serverless.yml" timestamp="1593198062335">
         <mark key="^" line="60" column="5" />
       </file>
-      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/src/queries.py" timestamp="1593530411853" />
+      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/src/queries.py" timestamp="1593533154760">
+        <mark key="[" line="24" column="27" />
+      </file>
       <file name="$USER_HOME$/GitLab/pts_hec_aggregator/tools/athena_common.py" timestamp="1593118340696" />
-      <file name="/Dummy.txt" timestamp="1593459801783">
+      <file name="/Dummy.txt" timestamp="1593534525252">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -184,15 +186,15 @@
         <mark key="[" line="62" column="0" />
         <mark key="]" line="62" column="6" />
       </file>
-      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/src/process_event.py" timestamp="1593191105816">
-        <mark key="'" line="63" column="0" />
-        <mark key="[" line="115" column="29" />
-        <mark key="]" line="99" column="0" />
-        <mark key="." line="99" column="0" />
+      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/src/process_event.py" timestamp="1593534332668">
+        <mark key="'" line="118" column="15" />
+        <mark key="[" line="119" column="74" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
+        <mark key="^" line="42" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="181" column="0" filename="/SE-736_analysis.ipynb" />
       <jump line="186" column="0" filename="/SE-736_analysis.ipynb" />
       <jump line="195" column="0" filename="/SE-736_analysis.ipynb" />
       <jump line="200" column="0" filename="/SE-736_analysis.ipynb" />
@@ -292,15 +294,16 @@
       <jump line="116" column="19" filename="$USER_HOME$/GitLab/pts_hec_aggregator/src/process_event.py" />
       <jump line="0" column="0" filename="/Dummy.json" />
       <jump line="63" column="0" filename="$USER_HOME$/GitLab/pts_hec_aggregator/src/process_event.py" />
+      <jump line="121" column="15" filename="$USER_HOME$/GitLab/pts_hec_aggregator/src/process_event.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>org_id, org_slug</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGZyb20gcHByaW50IGltcG9ydCBwcHJpbnQKICAgIHBwcmludChwYXlsb2Fkc1swXSkKCg==</text>
       </register>
       <register name="-" type="4">
-        <text>org_id, org_slug</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>pg_conn</text>
@@ -309,34 +312,34 @@
         <text encoding="base64">CmRlZiBnZXRfYXRoZW5hX3Jlc3VsdHNfYXNfZGljdChhdGhlbmFfY29ubjogYXRoZW5hLmNvbm5lY3Rpb24uQ29ubmVjdGlvbiwgcXVlcnk6IHN0cikgLT4gZGljdDoK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Z2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2cK</text>
+        <text encoding="base64">ICAgIGZyb20gcHByaW50IGltcG9ydCBwcHJpbnQKICAgIHBwcmludChwYXlsb2Fkc1swXSkKCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdldmVudCc6IHsK</text>
       </register>
       <register name="3" type="2">
-        <text>remove unnecessary athena_s3 reference (not used)</text>
+        <text encoding="base64">ICAgICdydW5BdCc6ICcyMDIwLTA2LTE4VDE3OjM4OjU0LjIwMzE4Ny0wNjowMCcsCiAgICAncnVuSW50ZXJ2YWwnOiAnZGFpbHknLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJzM19zdGFnaW5nX2RpciI6ICJzMzovL3Byb2R1Y3Rpb24udm8uZGF0YS5hZGhvYy9hZGhvYy9wdHNfZGFpbHkiLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdpbmRleCc6ICdoZWNfdGVzdCcsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJhdGhlbmFfczNfc3RhZ2luZ19kaXIiOiAiczM6Ly9wcm9kdWN0aW9uLnZvLmRhdGEuYWRob2MvcmVjb24vIiwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdkYXRhJzogeydvcmdJRCc6IDEsICdpbmNpZGVudHNDb3VudCc6IDF9fX0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJhdGhlbmFfczNfc3RhZ2luZ19kaXIiOiAiczM6Ly9zdGFnaW5nLnZvLmRhdGEuYWRob2MvcmVjb24vIiwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ3J1bkF0JzogJzIwMjAtMDYtMThUMTc6Mzg6NTQuMjAzMTg3LTA2OjAwJywKICAgICAgICAgICAgICAgICAgICAgICAgJ3J1bkludGVydmFsJzogJ2RhaWx5JywK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJhdGhlbmFfczNfc3RhZ2luZ19kaXIiOiAiczM6Ly9wbGF5Z3JvdW5kLnZvLmRhdGEuYWRob2MvcmVjb24vIiwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJ1bkF0ID0gbm93Lmlzb2Zvcm1hdCgpLCBcCiAgICAgICAgICAgICAgICBydW5JbnRlcnZhbCA9ICdkYWlseScsIFwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBhYzcyNjIzLi4uIHVzZSBjb3JyZWN0IGttcyBhcm4gdG8gZW5jcnlwdCBwZyBwYXNzd29yZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGluZGV4PSdoZWNfdGVzdCcsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkYXRhPWRhdGEpKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>26</text>
       </register>
     </registers>
   </component>
