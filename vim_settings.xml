@@ -144,7 +144,12 @@
         <mark key="^" line="25" column="39" />
         <mark key="." line="25" column="38" />
       </file>
-      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/tools/aws_utils.py" timestamp="1593461664361" />
+      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/tools/aws_utils.py" timestamp="1593463042682">
+        <mark key="[" line="29" column="22" />
+        <mark key="]" line="29" column="34" />
+        <mark key="^" line="29" column="34" />
+        <mark key="." line="29" column="33" />
+      </file>
       <file name="$USER_HOME$/GitLab/pts_hec_aggregator/sls_config/stg.json" timestamp="1593456407569">
         <mark key="[" line="21" column="50" />
         <mark key="]" line="21" column="50" />
