@@ -124,16 +124,16 @@
         <mark key="^" line="5" column="20" />
         <mark key="." line="5" column="15" />
       </file>
-      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/tests/test_lambda_handler.py" timestamp="1593534363030">
-        <mark key="[" line="114" column="32" />
-        <mark key="]" line="114" column="32" />
-        <mark key="." line="114" column="31" />
-        <mark key="^" line="114" column="32" />
+      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/tests/test_lambda_handler.py" timestamp="1593549883361">
+        <mark key="[" line="33" column="68" />
+        <mark key="]" line="33" column="72" />
+        <mark key="." line="30" column="0" />
+        <mark key="^" line="24" column="5" />
       </file>
-      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/sls_config/playground.json" timestamp="1593456394797">
-        <mark key="[" line="21" column="53" />
-        <mark key="]" line="21" column="53" />
-        <mark key="." line="21" column="53" />
+      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/sls_config/playground.json" timestamp="1593550525252">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
         <mark key="^" line="21" column="12" />
       </file>
       <file name="$USER_HOME$/GitLab/pts_hec_aggregator/sls_config/prod.json" timestamp="1593456376197">
@@ -173,11 +173,6 @@
       <file name="$USER_HOME$/GitLab/pts_hec_aggregator/src/queries.py" timestamp="1593533154760">
         <mark key="[" line="24" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1593539976787">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/GitLab/pts_hec_aggregator/Pipfile.lock" timestamp="1593191120088" />
       <file name="/console_2" timestamp="1593530305261">
         <mark key="[" line="0" column="0" />
@@ -187,12 +182,10 @@
         <mark key="[" line="62" column="0" />
         <mark key="]" line="62" column="6" />
       </file>
-      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/src/process_event.py" timestamp="1593545348946">
-        <mark key="'" line="116" column="75" />
-        <mark key="[" line="113" column="25" />
-        <mark key="]" line="113" column="25" />
-        <mark key="." line="113" column="25" />
-        <mark key="^" line="132" column="27" />
+      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/src/process_event.py" timestamp="1593549607816">
+        <mark key="[" line="116" column="48" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -300,44 +293,53 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>.strftime('%Y-%m-%dT00:00:00Z')MM-DD for the previous day</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="-" type="4">
-        <text>.strftime('%Y-%m-%dT00:00:00Z')MM-DD for the previous day</text>
+        <text>'2020-06-01T00:00:00Z'</text>
       </register>
       <register name="/" type="4">
         <text>now</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CmRlZiBnZXRfYXRoZW5hX3Jlc3VsdHNfYXNfZGljdChhdGhlbmFfY29ubjogYXRoZW5hLmNvbm5lY3Rpb24uQ29ubmVjdGlvbiwgcXVlcnk6IHN0cikgLT4gZGljdDoK</text>
+        <text encoding="base64">ZGVmIHRlc3RfZ2V0X3ByZXZpb3VzX2RheSgpOgogICAgIiIiIE1ha2Ugc3VyZSB0aGUgY29ycmVjdCAiIiIKICAgIHRvZGF5ID0gZGF0ZXRpbWUoMjAyMCwgNiwgMikKICAgIGFzc2VydCBwcm9jZXNzX2V2ZW50LmdldF9wcmV2aW91c19kYXkodG9kYXkpID09IGRhdGV0aW1lKDIwMjAsIDYsIDEpCg==</text>
       </register>
       <register name="1" type="2">
-        <text>x = datetime(prev_day.year, prev_day.month, prev_day.day, tzinfo=datetime)</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgZnJvbSBwcHJpbnQgaW1wb3J0IHBwcmludAo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBVc2UgdGhlIGNvcnJlY3QgcGFzc3dvcmQgZm9yIHBvc3RncmVzIG9uIHBsYXlncm91bmQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICAjIGZyb20gcHByaW50IGltcG9ydCBwcHJpbnQKICAgICMgcHJpbnQoZHVtcHMocGF5bG9hZHNbMF0pKQ==</text>
+        <text encoding="base64">ICAgICJzM19zdGFnaW5nX2RpciI6ICJzMzovL3BsYXlncm91bmQudm8uZGF0YS5hZGhvYy9hZGhvYy9wdHNfZGFpbHkiLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICJwZ19wYXNzX2VuYyI6ICJBUUlDQUhqcTh2a0kwek9PbWR5OE8yYWdKM1c0K1h0eVBxeXZoSXFCM0lIaHk2WWRDd0V1VHZrNmJlc2plTmRNOStPdG1Bb3ZBQUFBZmpCOEJna3Foa2lHOXcwQkJ3YWdiekJ0QWdFQU1HZ0dDU3FHU0liM0RRRUhBVEFlQmdsZ2hrZ0JaUU1FQVM0d0VRUU0yczVsanRKNWhWL0RKdWxQQWdFUWdEc3dmaUh1bzgxbHVFdUxyTThJbU1QRDlCLzAvZE84Z0VKVm5Wc0RaeTlFeThHakZEaDdyVUpPS2xGbEEvanlxSlBYUkNKMGNsNW4rTDMxY0E9PSIsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjIHByaW50KGYidGltZXN0YW1wID0ge3RpbWVzdGFtcC5kYXkoKX0iKQoK</text>
+        <text>Add slug as deploymentID to comply with data payload contract
+Refactor payload to be less nested and conform to contract
+Update tests for refactor</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgICAg</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRpbWU9dGltZXN0YW1wLnN0cmZ0aW1lKCclWS0lbS0lZFQwMDowMDowMFonKSwgXAo=</text>
+        <text encoding="base64">ICAgIHByaW50KGYiU2FtcGxlIHBheWxvYWQ6IHtkdW1wcyhwYXlsb2Fkc1swXSl9IikK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBkaWN0KGNvbXBvbmVudD0ndXNhZ2UuVmljdG9yT3BzT3JnQ291bnRzJywK</text>
+      <register name="9" type="4">
+        <text>{'component': 'usage.VictorOpsOrgCounts',
+                'data': {'orgID': 1, 'incidentsCount': 1},
+                'index': 'hec_test',
+                'runAt': '',
+                'runInterval': 'daily',
+                'sourcetype': '_json',
+                'time': '2020-06-01T00:00:00Z',
+                'version': '0.0.1'}</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL25vdy95ZXN0ZXJkYXkvZw==</text>
