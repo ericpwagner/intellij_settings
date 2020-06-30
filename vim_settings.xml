@@ -162,12 +162,6 @@
         <mark key="." line="21" column="50" />
         <mark key="^" line="22" column="47" />
       </file>
-      <file name="/Python Console" timestamp="1593537086302">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/GitLab/pts_hec_aggregator/serverless.yml" timestamp="1593198062335">
         <mark key="^" line="60" column="5" />
       </file>
@@ -188,11 +182,11 @@
         <mark key="[" line="62" column="0" />
         <mark key="]" line="62" column="6" />
       </file>
-      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/src/process_event.py" timestamp="1593540952411">
-        <mark key="[" line="123" column="26" />
-        <mark key="]" line="45" column="106" />
-        <mark key="." line="45" column="105" />
-        <mark key="^" line="45" column="106" />
+      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/src/process_event.py" timestamp="1593541352846">
+        <mark key="[" line="128" column="67" />
+        <mark key="]" line="130" column="27" />
+        <mark key="." line="130" column="26" />
+        <mark key="^" line="130" column="27" />
       </file>
     </filemarks>
     <jumps>
