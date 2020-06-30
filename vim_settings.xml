@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>org_id</entry>
-        <entry>vlaue}</entry>
         <entry>event_at</entry>
         <entry>&quot;</entry>
         <entry>}</entry>
@@ -27,10 +25,10 @@
         <entry>tox</entry>
         <entry>PROD</entry>
         <entry>pg_conn</entry>
+        <entry>prev_day</entry>
+        <entry>now</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL1doYXRcIGZvbGxvd3NcIGlzXCBhblwgYWJzdXJkbHlcIGxvbmdcIGVudGl0eV9kaXNwbGF5X25hbWU6L0Fic3VyZGx5XCBsb25nXCBuYW1lOi9n</entry>
-        <entry encoding="base64">JzwsJz5zL19BQ18vXy9n</entry>
         <entry encoding="base64">JzwsJz5zL29yZ19pZC9pbmNpZGVudF9pZC9n</entry>
         <entry encoding="base64">JzwsJz5zL3ZsYXVlfS92YWx1ZVs6LTZdfS9n</entry>
         <entry encoding="base64">JzwsJz5zLyIvXFwiL2c=</entry>
@@ -49,6 +47,8 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>26</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz5zL3ByZXZfZGF5L25vdy9n</entry>
+        <entry encoding="base64">JzwsJz5zL25vdy95ZXN0ZXJkYXkvZw==</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -162,6 +162,11 @@
         <mark key="." line="21" column="50" />
         <mark key="^" line="22" column="47" />
       </file>
+      <file name="/Python Console" timestamp="1593543518720">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/GitLab/pts_hec_aggregator/serverless.yml" timestamp="1593198062335">
         <mark key="^" line="60" column="5" />
       </file>
@@ -182,11 +187,12 @@
         <mark key="[" line="62" column="0" />
         <mark key="]" line="62" column="6" />
       </file>
-      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/src/process_event.py" timestamp="1593541352846">
-        <mark key="[" line="128" column="67" />
-        <mark key="]" line="130" column="27" />
-        <mark key="." line="130" column="26" />
-        <mark key="^" line="130" column="27" />
+      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/src/process_event.py" timestamp="1593545348946">
+        <mark key="'" line="116" column="75" />
+        <mark key="[" line="113" column="25" />
+        <mark key="]" line="113" column="25" />
+        <mark key="." line="113" column="25" />
+        <mark key="^" line="132" column="27" />
       </file>
     </filemarks>
     <jumps>
@@ -285,66 +291,66 @@
       <jump line="12" column="0" filename="$USER_HOME$/GitLab/pts_hec_aggregator/.envrc" />
       <jump line="15" column="4" filename="$USER_HOME$/GitLab/pts_hec_aggregator/src/process_event.py" />
       <jump line="10" column="19" filename="$USER_HOME$/GitLab/pts_hec_aggregator/src/process_event.py" />
-      <jump line="116" column="19" filename="$USER_HOME$/GitLab/pts_hec_aggregator/src/process_event.py" />
       <jump line="0" column="0" filename="/Dummy.json" />
       <jump line="63" column="0" filename="$USER_HOME$/GitLab/pts_hec_aggregator/src/process_event.py" />
       <jump line="121" column="15" filename="$USER_HOME$/GitLab/pts_hec_aggregator/src/process_event.py" />
       <jump line="122" column="65" filename="$USER_HOME$/GitLab/pts_hec_aggregator/src/process_event.py" />
+      <jump line="116" column="75" filename="$USER_HOME$/GitLab/pts_hec_aggregator/src/process_event.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>raw</text>
+        <text>.strftime('%Y-%m-%dT00:00:00Z')MM-DD for the previous day</text>
       </register>
       <register name="-" type="4">
-        <text>raw</text>
+        <text>.strftime('%Y-%m-%dT00:00:00Z')MM-DD for the previous day</text>
       </register>
       <register name="/" type="4">
-        <text>pg_conn</text>
+        <text>now</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CmRlZiBnZXRfYXRoZW5hX3Jlc3VsdHNfYXNfZGljdChhdGhlbmFfY29ubjogYXRoZW5hLmNvbm5lY3Rpb24uQ29ubmVjdGlvbiwgcXVlcnk6IHN0cikgLT4gZGljdDoK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgZnJvbSBwcHJpbnQgaW1wb3J0IHBwcmludAo=</text>
+        <text>x = datetime(prev_day.year, prev_day.month, prev_day.day, tzinfo=datetime)</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAjIGZyb20gcHByaW50IGltcG9ydCBwcHJpbnQKICAgICMgcHJpbnQoZHVtcHMocGF5bG9hZHNbMF0pKQ==</text>
+        <text encoding="base64">ICAgICMgZnJvbSBwcHJpbnQgaW1wb3J0IHBwcmludAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">CiAgICAjIGZyb20gcHByaW50IGltcG9ydCBwcHJpbnQKICAgICMgcHJpbnQoZHVtcHMocGF5bG9hZHNbMF0pKQ==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAK</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAjIHByaW50KGYidGltZXN0YW1wID0ge3RpbWVzdGFtcC5kYXkoKX0iKQoK</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">CiAgICAg</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHRpbWU9dGltZXN0YW1wLnN0cmZ0aW1lKCclWS0lbS0lZFQwMDowMDowMFonKSwgXAo=</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgIHJldHVybiBkaWN0KGNvbXBvbmVudD0ndXNhZ2UuVmljdG9yT3BzT3JnQ291bnRzJywK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGZyb20gcHByaW50IGltcG9ydCBwcHJpbnQKICAgIHBwcmludChwYXlsb2Fkc1swXSkKCg==</text>
-      </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">JzwsJz5zL25vdy95ZXN0ZXJkYXkvZw==</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>pg_conn</last-search>
+      <last-search>now</last-search>
       <last-offset />
-      <last-pattern>pg_conn</last-pattern>
-      <last-replace>rep_pg_conn</last-replace>
-      <last-substitute>pg_conn</last-substitute>
+      <last-pattern>now</last-pattern>
+      <last-replace>yesterday</last-replace>
+      <last-substitute>now</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
