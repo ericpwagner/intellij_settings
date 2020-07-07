@@ -103,11 +103,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/Pipfile" timestamp="1593191268975">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
-      </file>
       <file name="$USER_HOME$/GitLab/data/pipelineAlerts/output.tf" timestamp="1594134438533" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/1c8caa95-40a4-4694-859b-23405dbb79c7/console_2.sql" timestamp="1593530459435">
         <mark key="[" line="2" column="20" />
@@ -137,11 +132,6 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="21" column="12" />
       </file>
-      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/sls_config/prod.json" timestamp="1593456376197">
-        <mark key="]" line="19" column="52" />
-        <mark key="^" line="19" column="52" />
-        <mark key="." line="19" column="51" />
-      </file>
       <file name="/" timestamp="1593536374238">
         <mark key="[" line="0" column="0" />
       </file>
@@ -168,9 +158,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/serverless.yml" timestamp="1593198062335">
-        <mark key="^" line="60" column="5" />
-      </file>
       <file name="$USER_HOME$/GitLab/data/terraform.tf" timestamp="1594134982220">
         <mark key="'" line="33" column="48" />
       </file>
@@ -180,8 +167,16 @@
       <file name="$USER_HOME$/GitLab/api-test/tests/test_v2_incidents.py" timestamp="1594133074535">
         <mark key="'" line="557" column="33" />
       </file>
+      <file name="/console_1" timestamp="1594139114623">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/console_2" timestamp="1593530305261">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/474e0395-a1ff-498b-8c7e-10cd2ffeb7db/console_1.sql" timestamp="1594139116897">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/GitLab/pts_hec_aggregator/src/process_event.py" timestamp="1593549607816">
         <mark key="[" line="116" column="48" />
@@ -294,11 +289,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+      <register name="&quot;" type="4">
+        <text />
       </register>
       <register name="-" type="4">
-        <text>'2020-06-01T00:00:00Z'</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>alert</text>
