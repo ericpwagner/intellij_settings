@@ -46,9 +46,9 @@
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>26</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz5zL3ByZXZfZGF5L25vdy9n</entry>
         <entry encoding="base64">JzwsJz5zL25vdy95ZXN0ZXJkYXkvZw==</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -103,11 +103,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/tests/test_lambda_handler.py" timestamp="1593549883361">
-        <mark key="[" line="33" column="68" />
-        <mark key="]" line="33" column="72" />
-        <mark key="." line="30" column="0" />
-        <mark key="^" line="24" column="5" />
+      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/tests/test_lambda_handler.py" timestamp="1594146725008">
+        <mark key="[" line="70" column="67" />
+        <mark key="]" line="70" column="67" />
+        <mark key="." line="70" column="67" />
+        <mark key="^" line="68" column="69" />
       </file>
       <file name="/Python Console" timestamp="1593543518720">
         <mark key="[" line="0" column="0" />
@@ -174,10 +174,11 @@
         <mark key="^" line="5" column="20" />
         <mark key="." line="5" column="15" />
       </file>
-      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/src/process_event.py" timestamp="1593549607816">
-        <mark key="[" line="116" column="48" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
+      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/src/process_event.py" timestamp="1594146441604">
+        <mark key="[" line="26" column="65" />
+        <mark key="]" line="27" column="31" />
+        <mark key="." line="27" column="30" />
+        <mark key="^" line="27" column="31" />
       </file>
     </filemarks>
     <jumps>
@@ -286,16 +287,16 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IGRpc3RpbmN0IGFsZXJ0X2VudGl0eV9zdGF0ZQ==</text>
+        <text>test_slug_4</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGRpc3RpbmN0IGFsZXJ0X2VudGl0eV9zdGF0ZQ==</text>
+        <text>test_slug_4</text>
       </register>
       <register name="/" type="4">
         <text>alert</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZGVmIHRlc3RfZ2V0X3ByZXZpb3VzX2RheSgpOgogICAgIiIiIE1ha2Ugc3VyZSB0aGUgY29ycmVjdCAiIiIKICAgIHRvZGF5ID0gZGF0ZXRpbWUoMjAyMCwgNiwgMikKICAgIGFzc2VydCBwcm9jZXNzX2V2ZW50LmdldF9wcmV2aW91c19kYXkodG9kYXkpID09IGRhdGV0aW1lKDIwMjAsIDYsIDEpCg==</text>
+        <text encoding="base64">ICAgICAgICAxOiB7J29yZ0lEJzogMSwgJ29yZ1NsdWcnOiAndGVzdF9zbHVnXzEnfSwK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">d2hlcmUgYWxlcnRfcmVjZWl2ZWRfYXQgPj0gJzIwMTktMDUtMDEn</text>
@@ -327,7 +328,7 @@ Update tests for refactor</text>
         <text encoding="base64">ICAgIHByaW50KGYiU2FtcGxlIHBheWxvYWQ6IHtkdW1wcyhwYXlsb2Fkc1swXSl9IikK</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL25vdy95ZXN0ZXJkYXkvZw==</text>
+        <text>w</text>
       </register>
     </registers>
   </component>
