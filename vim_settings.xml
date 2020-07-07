@@ -103,8 +103,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/tests/test_lambda_handler.py" timestamp="1594148173092">
-        <mark key="^" line="75" column="69" />
+      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/tests/test_lambda_handler.py" timestamp="1594149501542">
+        <mark key="[" line="70" column="15" />
+        <mark key="]" line="57" column="0" />
+        <mark key="." line="57" column="0" />
+        <mark key="^" line="69" column="0" />
       </file>
       <file name="/Python Console" timestamp="1593543518720">
         <mark key="[" line="0" column="0" />
@@ -284,10 +287,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CmNsYXNzIE1vY2tSZXN1bHRzKG9iamVjdCk6CiAgICAiIiIgQmFzZSBjbGFzcyBmb3IgcmV0dXJuaW5nIGZha2UgcXVlcnkgcmVzdWx0cyAiIiIKICAgIHN0YXR1c19jb2RlID0gMjAwCiAgICBjb24K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>test_slug_4</text>
+        <text>sample_response</text>
       </register>
       <register name="/" type="4">
         <text>alert</text>
@@ -296,33 +299,31 @@
         <text encoding="base64">ICAgICAgICAxOiB7J29yZ0lEJzogMSwgJ29yZ1NsdWcnOiAndGVzdF9zbHVnXzEnfSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CmNsYXNzIE1vY2tSZXN1bHRzKG9iamVjdCk6CiAgICAiIiIgQmFzZSBjbGFzcyBmb3IgcmV0dXJuaW5nIGZha2UgcXVlcnkgcmVzdWx0cyAiIiIKICAgIHN0YXR1c19jb2RlID0gMjAwCiAgICBjb24K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">d2hlcmUgYWxlcnRfcmVjZWl2ZWRfYXQgPj0gJzIwMTktMDUtMDEn</text>
+        <text encoding="base64">QHB5dGVzdC5maXh0dXJlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgIHNhbXBsZV9yZXNwb25zZSA9IAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBVc2UgdGhlIGNvcnJlY3QgcGFzc3dvcmQgZm9yIHBvc3RncmVzIG9uIHBsYXlncm91bmQK</text>
+        <text encoding="base64">QG1vY2sucGF0Y2goJ3BzeWNvcGcyLmV4dGVuc2lvbnMuY29ubmVjdGlvbicsIG1vY2tNYWdpY01vY2socmV0dXJuKSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJzM19zdGFnaW5nX2RpciI6ICJzMzovL3BsYXlncm91bmQudm8uZGF0YS5hZGhvYy9hZGhvYy9wdHNfZGFpbHkiLAo=</text>
+        <text encoding="base64">QG1vY2sucGF0Y2goJ3Bvc3RncmVzX2NvbW1vbi5ydW5fcXVlcnlfZGljdChyZXBfcGdfY29ubiwgcXVlcnkpJywgbW9jay5NYWdpY01vY2socmV0dXJuX3ZhbHVlPW1vY2tfb3JnX3F1ZXJ5X2NvbnRlbnQpKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ZnJvbSBwb3N0Z3Jlc19jb21tb24gaW1wb3J0IHJ1bl9xdWVyeQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJwZ19wYXNzX2VuYyI6ICJBUUlDQUhqcTh2a0kwek9PbWR5OE8yYWdKM1c0K1h0eVBxeXZoSXFCM0lIaHk2WWRDd0V1VHZrNmJlc2plTmRNOStPdG1Bb3ZBQUFBZmpCOEJna3Foa2lHOXcwQkJ3YWdiekJ0QWdFQU1HZ0dDU3FHU0liM0RRRUhBVEFlQmdsZ2hrZ0JaUU1FQVM0d0VRUU0yczVsanRKNWhWL0RKdWxQQWdFUWdEc3dmaUh1bzgxbHVFdUxyTThJbU1QRDlCLzAvZE84Z0VKVm5Wc0RaeTlFeThHakZEaDdyVUpPS2xGbEEvanlxSlBYUkNKMGNsNW4rTDMxY0E9PSIsCg==</text>
+        <text encoding="base64">CmNsYXNzIE1vY2tSZXN1bHRzKG9iamVjdCk6CiAgICAiIiIgQmFzZSBjbGFzcyBmb3IgcmV0dXJuaW5nIGZha2UgcXVlcnkgcmVzdWx0cyAiIiIKICAgIHN0YXR1c19jb2RlID0gMjAwCiAgICBjb24K</text>
       </register>
       <register name="8" type="2">
-        <text>Add slug as deploymentID to comply with data payload contract
-Refactor payload to be less nested and conform to contract
-Update tests for refactor</text>
+        <text encoding="base64">d2hlcmUgYWxlcnRfcmVjZWl2ZWRfYXQgPj0gJzIwMTktMDUtMDEn</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
