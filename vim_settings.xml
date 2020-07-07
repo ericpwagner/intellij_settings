@@ -110,6 +110,9 @@
         <mark key="." line="0" column="11" />
         <mark key="^" line="0" column="12" />
       </file>
+      <file name="/console_7" timestamp="1594140062453">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/Dummy.json" timestamp="1593540867821">
         <mark key="[" line="0" column="0" />
       </file>
@@ -132,6 +135,12 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="21" column="12" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/044e28c2-f35f-4fff-b858-d01f3fe770cc/console_7.sql" timestamp="1594140204176">
+        <mark key="[" line="0" column="6" />
+        <mark key="]" line="0" column="6" />
+        <mark key="." line="0" column="6" />
+        <mark key="^" line="0" column="7" />
+      </file>
       <file name="/" timestamp="1593536374238">
         <mark key="[" line="0" column="0" />
       </file>
@@ -140,18 +149,6 @@
         <mark key="]" line="25" column="33" />
         <mark key="^" line="25" column="33" />
         <mark key="." line="25" column="32" />
-      </file>
-      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/tools/aws_utils.py" timestamp="1593463042682">
-        <mark key="[" line="29" column="22" />
-        <mark key="]" line="29" column="34" />
-        <mark key="^" line="29" column="34" />
-        <mark key="." line="29" column="33" />
-      </file>
-      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/sls_config/stg.json" timestamp="1593456407569">
-        <mark key="[" line="21" column="50" />
-        <mark key="]" line="21" column="50" />
-        <mark key="." line="21" column="50" />
-        <mark key="^" line="22" column="47" />
       </file>
       <file name="/Python Console" timestamp="1593543518720">
         <mark key="[" line="0" column="0" />
@@ -173,7 +170,7 @@
       <file name="/console_2" timestamp="1593530305261">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/474e0395-a1ff-498b-8c7e-10cd2ffeb7db/console_1.sql" timestamp="1594139116897">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/474e0395-a1ff-498b-8c7e-10cd2ffeb7db/console_1.sql" timestamp="1594140062448">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -290,10 +287,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text />
+        <text encoding="base64">IGRpc3RpbmN0IGFsZXJ0X2VudGl0eV9zdGF0ZQ==</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text encoding="base64">IGRpc3RpbmN0IGFsZXJ0X2VudGl0eV9zdGF0ZQ==</text>
       </register>
       <register name="/" type="4">
         <text>alert</text>
@@ -302,40 +299,33 @@
         <text encoding="base64">ZGVmIHRlc3RfZ2V0X3ByZXZpb3VzX2RheSgpOgogICAgIiIiIE1ha2Ugc3VyZSB0aGUgY29ycmVjdCAiIiIKICAgIHRvZGF5ID0gZGF0ZXRpbWUoMjAyMCwgNiwgMikKICAgIGFzc2VydCBwcm9jZXNzX2V2ZW50LmdldF9wcmV2aW91c19kYXkodG9kYXkpID09IGRhdGV0aW1lKDIwMjAsIDYsIDEpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">d2hlcmUgYWxlcnRfcmVjZWl2ZWRfYXQgPj0gJzIwMTktMDUtMDEn</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBVc2UgdGhlIGNvcnJlY3QgcGFzc3dvcmQgZm9yIHBvc3RncmVzIG9uIHBsYXlncm91bmQK</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJzM19zdGFnaW5nX2RpciI6ICJzMzovL3BsYXlncm91bmQudm8uZGF0YS5hZGhvYy9hZGhvYy9wdHNfZGFpbHkiLAo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBVc2UgdGhlIGNvcnJlY3QgcGFzc3dvcmQgZm9yIHBvc3RncmVzIG9uIHBsYXlncm91bmQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAgICJzM19zdGFnaW5nX2RpciI6ICJzMzovL3BsYXlncm91bmQudm8uZGF0YS5hZGhvYy9hZGhvYy9wdHNfZGFpbHkiLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJwZ19wYXNzX2VuYyI6ICJBUUlDQUhqcTh2a0kwek9PbWR5OE8yYWdKM1c0K1h0eVBxeXZoSXFCM0lIaHk2WWRDd0V1VHZrNmJlc2plTmRNOStPdG1Bb3ZBQUFBZmpCOEJna3Foa2lHOXcwQkJ3YWdiekJ0QWdFQU1HZ0dDU3FHU0liM0RRRUhBVEFlQmdsZ2hrZ0JaUU1FQVM0d0VRUU0yczVsanRKNWhWL0RKdWxQQWdFUWdEc3dmaUh1bzgxbHVFdUxyTThJbU1QRDlCLzAvZE84Z0VKVm5Wc0RaeTlFeThHakZEaDdyVUpPS2xGbEEvanlxSlBYUkNKMGNsNW4rTDMxY0E9PSIsCg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgICJwZ19wYXNzX2VuYyI6ICJBUUlDQUhqcTh2a0kwek9PbWR5OE8yYWdKM1c0K1h0eVBxeXZoSXFCM0lIaHk2WWRDd0V1VHZrNmJlc2plTmRNOStPdG1Bb3ZBQUFBZmpCOEJna3Foa2lHOXcwQkJ3YWdiekJ0QWdFQU1HZ0dDU3FHU0liM0RRRUhBVEFlQmdsZ2hrZ0JaUU1FQVM0d0VRUU0yczVsanRKNWhWL0RKdWxQQWdFUWdEc3dmaUh1bzgxbHVFdUxyTThJbU1QRDlCLzAvZE84Z0VKVm5Wc0RaeTlFeThHakZEaDdyVUpPS2xGbEEvanlxSlBYUkNKMGNsNW4rTDMxY0E9PSIsCg==</text>
+      </register>
+      <register name="7" type="2">
         <text>Add slug as deploymentID to comply with data payload contract
 Refactor payload to be less nested and conform to contract
 Update tests for refactor</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgIHByaW50KGYiU2FtcGxlIHBheWxvYWQ6IHtkdW1wcyhwYXlsb2Fkc1swXSl9IikK</text>
-      </register>
-      <register name="9" type="4">
-        <text>{'component': 'usage.VictorOpsOrgCounts',
-                'data': {'orgID': 1, 'incidentsCount': 1},
-                'index': 'hec_test',
-                'runAt': '',
-                'runInterval': 'daily',
-                'sourcetype': '_json',
-                'time': '2020-06-01T00:00:00Z',
-                'version': '0.0.1'}</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL25vdy95ZXN0ZXJkYXkvZw==</text>
