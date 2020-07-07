@@ -103,11 +103,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/tests/test_lambda_handler.py" timestamp="1594154388903">
-        <mark key="[" line="87" column="53" />
-        <mark key="]" line="87" column="54" />
-        <mark key="." line="87" column="53" />
-        <mark key="^" line="87" column="54" />
+      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/tests/test_lambda_handler.py" timestamp="1594157138201">
+        <mark key="[" line="91" column="26" />
+        <mark key="]" line="89" column="30" />
+        <mark key="." line="89" column="30" />
+        <mark key="^" line="89" column="20" />
         <mark key="o" line="84" column="22" />
       </file>
       <file name="/Dummy.txt" timestamp="1594150408719">
@@ -291,43 +291,43 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>n</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text>alert</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAxOiB7J29yZ0lEJzogMSwgJ29yZ1NsdWcnOiAndGVzdF9zbHVnXzEnfSwK</text>
+        <text encoding="base64">ICAgIHByaW50KGYibW9ja19jb24gPSB7bW9ja19jb259IikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG1vY2tfY3VyLmZldGNoYWxsLnJldHVybl92YWx1ZSA9IGV4cGVjdGVkCg==</text>
+        <text encoding="base64">ICAgIHByaW50KGYiYWN0dWFsID0ge3Byb2Nlc3NfZXZlbnQuZ2V0X2VuYWJsZWRfc2x1Z3MobW9ja19jb24sICdtb2NrX3F1ZXJ5Jyl9IikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIG1vY2tfY3VyLmZldGNoYWxsLnJldHVybl92YWx1ZSA9IGV4cGVjdGVkCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KGYiZXhwZWN0ZWQgPSB7ZXhwZWN0ZWR9IikK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHBvc3RncmVzX2NvbW1vbgo=</text>
+        <text encoding="base64">ICAgIHByaW50KGYiZXhwZWN0ZWQgPSB7ZXhwZWN0ZWR9IikK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">aW1wb3J0IHBvc3RncmVzX2NvbW1vbgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG1vbmtleXBhdGNoLnNldGF0dHIocHN5Y29wZzIsICwgbW9ja19vcmdfcXVlcnlfY29udGVudCkK</text>
+        <text encoding="base64">aW1wb3J0IHBvc3RncmVzX2NvbW1vbgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG1vbmtleXBhdGNoLnNldGF0dHIocHN5Y29wZzIsICwgbW9ja19vcmdfcXVlcnlfY29udGVudCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QHB5dGVzdC5maXh0dXJlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHNhbXBsZV9yZXNwb25zZSA9IAo=</text>
+        <text encoding="base64">QHB5dGVzdC5maXh0dXJlCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
