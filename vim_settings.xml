@@ -98,17 +98,19 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed Q</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed M</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/tests/test_lambda_handler.py" timestamp="1594158660236">
-        <mark key="[" line="91" column="57" />
-        <mark key="]" line="89" column="30" />
-        <mark key="." line="89" column="30" />
-        <mark key="^" line="89" column="20" />
-        <mark key="o" line="84" column="22" />
+      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/tests/test_lambda_handler.py" timestamp="1594160323738">
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="75" column="0" />
+        <mark key="." line="75" column="0" />
+        <mark key="o" line="65" column="22" />
       </file>
       <file name="/Dummy.txt" timestamp="1594150408719">
         <mark key="[" line="0" column="0" />
@@ -178,7 +180,7 @@
         <mark key="^" line="5" column="20" />
         <mark key="." line="5" column="15" />
       </file>
-      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/src/process_event.py" timestamp="1594148216639">
+      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/src/process_event.py" timestamp="1594159741435">
         <mark key="[" line="26" column="65" />
         <mark key="]" line="27" column="31" />
         <mark key="." line="27" column="30" />
@@ -290,11 +292,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>n</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIG1vY2tfY29ubmVjdC5yZXR1cm5fdmFsdWUuY3Vyc29yLnJldHVybl92YWx1ZS5mZXRjaGFsbC5yZXR1cm5fdmFsdWUgPSBNb2NrT3Jnc1Jlc3BvbnNlKCkK</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>alert</text>
@@ -303,31 +305,31 @@
         <text encoding="base64">ICAgIHByaW50KGYibW9ja19jb24gPSB7bW9ja19jb259IikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KGYiYWN0dWFsID0ge3Byb2Nlc3NfZXZlbnQuZ2V0X2VuYWJsZWRfc2x1Z3MobW9ja19jb24sICdtb2NrX3F1ZXJ5Jyl9IikK</text>
+        <text encoding="base64">ICAgIG1vY2tfY29ubmVjdC5yZXR1cm5fdmFsdWUuY3Vyc29yLnJldHVybl92YWx1ZS5mZXRjaGFsbC5yZXR1cm5fdmFsdWUgPSBNb2NrT3Jnc1Jlc3BvbnNlKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG1vY2tfY3VyLmZldGNoYWxsLnJldHVybl92YWx1ZSA9IGV4cGVjdGVkCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50KGYiZXhwZWN0ZWQgPSB7ZXhwZWN0ZWR9IikK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHBvc3RncmVzX2NvbW1vbgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHBvc3RncmVzX2NvbW1vbgo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIG1vbmtleXBhdGNoLnNldGF0dHIocHN5Y29wZzIsICwgbW9ja19vcmdfcXVlcnlfY29udGVudCkK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICMgcHJpbnQoZiJtb2NrX2NvbiA9IHttb2NrX2Nvbn0iKQogICAgIyBtb2NrX2N1ciA9IG1vY2tfY29uLmN1cnNvci5yZXR1cm5fdmFsdWUKICAgICMgcHJpbnQoZiJtb2NrX2N1ciA9IHttb2NrX2N1cn0iKQogICAgIyBtb2NrX2N1ci5leGVjdXRlLnJldHVybl92YWx1ZQogICAgIyBwcmludChmInJldHVybiB2YWwgPSB7bW9ja19jdXIuZXhlY3V0ZS5yZXR1cm5fdmFsdWV9IikKCiAgICAjIGdldF9lbmFibGVkX3NsdWdzID0gTWFnaWNNb2NrCiAgICAjIG1vbmtleXBhdGNo</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAoK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICMgbW9ua2V5cGF0Y2gK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICMgZ2V0X2VuYWJsZWRfc2x1Z3MgPSBNYWdpY01vY2sK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICMgbW9ja19jb25uZWN0LnJldHVybl92YWx1ZS5jdXJzb3IucmV0dXJuX3ZhbHVlLmZldGNoYWxsLnJldHVybl92YWx1ZSA9IE1vY2tPcmdzUmVzcG9uc2UoKQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">QHB5dGVzdC5maXh0dXJlCg==</text>
+        <text encoding="base64">ICAgIG1vY2tfY29uID0gbW9ja19jb25uZWN0LnJldHVybl92YWx1ZQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
