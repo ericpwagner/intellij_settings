@@ -106,10 +106,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/tests/test_lambda_handler.py" timestamp="1594160323738">
-        <mark key="[" line="75" column="0" />
-        <mark key="]" line="75" column="0" />
-        <mark key="." line="75" column="0" />
+      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/tests/test_lambda_handler.py" timestamp="1594161404640">
+        <mark key="'" line="75" column="4" />
+        <mark key="[" line="78" column="51" />
+        <mark key="]" line="78" column="52" />
+        <mark key="." line="78" column="0" />
         <mark key="o" line="65" column="22" />
       </file>
       <file name="/Dummy.txt" timestamp="1594150408719">
@@ -180,15 +181,14 @@
         <mark key="^" line="5" column="20" />
         <mark key="." line="5" column="15" />
       </file>
-      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/src/process_event.py" timestamp="1594159741435">
-        <mark key="[" line="26" column="65" />
-        <mark key="]" line="27" column="31" />
-        <mark key="." line="27" column="30" />
+      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/src/process_event.py" timestamp="1594161478786">
+        <mark key="[" line="87" column="0" />
+        <mark key="]" line="87" column="0" />
+        <mark key="." line="87" column="0" />
         <mark key="^" line="27" column="31" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="218" column="0" filename="/SE-736_analysis.ipynb" />
       <jump line="230" column="0" filename="/SE-736_analysis.ipynb" />
       <jump line="235" column="0" filename="/SE-736_analysis.ipynb" />
       <jump line="246" column="0" filename="/SE-736_analysis.ipynb" />
@@ -288,15 +288,16 @@
       <jump line="557" column="33" filename="$USER_HOME$/GitLab/api-test/tests/test_v2_incidents.py" />
       <jump line="325" column="31" filename="$USER_HOME$/GitLab/data/terraform.tf" />
       <jump line="33" column="48" filename="$USER_HOME$/GitLab/data/terraform.tf" />
+      <jump line="76" column="4" filename="$USER_HOME$/GitLab/pts_hec_aggregator/tests/test_lambda_handler.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG1vY2tfY29ubmVjdC5yZXR1cm5fdmFsdWUuY3Vyc29yLnJldHVybl92YWx1ZS5mZXRjaGFsbC5yZXR1cm5fdmFsdWUgPSBNb2NrT3Jnc1Jlc3BvbnNlKCkK</text>
+        <text encoding="base64">ICAgIHByaW50KGYiRW5hYmxlZCBzbHVncyByZXN1bHRzOlxuIHtyZXN1bHRzfSIpCg==</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text>alert</text>
@@ -305,31 +306,31 @@
         <text encoding="base64">ICAgIHByaW50KGYibW9ja19jb24gPSB7bW9ja19jb259IikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG1vY2tfY29ubmVjdC5yZXR1cm5fdmFsdWUuY3Vyc29yLnJldHVybl92YWx1ZS5mZXRjaGFsbC5yZXR1cm5fdmFsdWUgPSBNb2NrT3Jnc1Jlc3BvbnNlKCkK</text>
+        <text encoding="base64">ICAgIHByaW50KGYiRW5hYmxlZCBzbHVncyByZXN1bHRzOlxuIHtyZXN1bHRzfSIpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRlc3QgPSBwcm9jZXNzX2V2ZW50LmdldF9lbmFibGVkX3NsdWdzKG1vY2tfY29uKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICMgcHJpbnQoZiJtb2NrX2NvbiA9IHttb2NrX2Nvbn0iKQogICAgIyBtb2NrX2N1ciA9IG1vY2tfY29uLmN1cnNvci5yZXR1cm5fdmFsdWUKICAgICMgcHJpbnQoZiJtb2NrX2N1ciA9IHttb2NrX2N1cn0iKQogICAgIyBtb2NrX2N1ci5leGVjdXRlLnJldHVybl92YWx1ZQogICAgIyBwcmludChmInJldHVybiB2YWwgPSB7bW9ja19jdXIuZXhlY3V0ZS5yZXR1cm5fdmFsdWV9IikKCiAgICAjIGdldF9lbmFibGVkX3NsdWdzID0gTWFnaWNNb2NrCiAgICAjIG1vbmtleXBhdGNo</text>
+        <text encoding="base64">ICAgIHByaW50KGYiIHJ1bl9xdWVyeSBkaWN0ID0ge3J1bl9xdWVyeV9kaWN0LnJldHVybl92YWx1ZX0iKQ==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG1vY2tfY29ubmVjdC5yZXR1cm5fdmFsdWUuY3Vyc29yLnJldHVybl92YWx1ZS5mZXRjaGFsbC5yZXR1cm5fdmFsdWUgPSBNb2NrT3Jnc1Jlc3BvbnNlKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICMgbW9ua2V5cGF0Y2gK</text>
+        <text encoding="base64">ICAgICMgcHJpbnQoZiJtb2NrX2NvbiA9IHttb2NrX2Nvbn0iKQogICAgIyBtb2NrX2N1ciA9IG1vY2tfY29uLmN1cnNvci5yZXR1cm5fdmFsdWUKICAgICMgcHJpbnQoZiJtb2NrX2N1ciA9IHttb2NrX2N1cn0iKQogICAgIyBtb2NrX2N1ci5leGVjdXRlLnJldHVybl92YWx1ZQogICAgIyBwcmludChmInJldHVybiB2YWwgPSB7bW9ja19jdXIuZXhlY3V0ZS5yZXR1cm5fdmFsdWV9IikKCiAgICAjIGdldF9lbmFibGVkX3NsdWdzID0gTWFnaWNNb2NrCiAgICAjIG1vbmtleXBhdGNo</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgZ2V0X2VuYWJsZWRfc2x1Z3MgPSBNYWdpY01vY2sK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgbW9ja19jb25uZWN0LnJldHVybl92YWx1ZS5jdXJzb3IucmV0dXJuX3ZhbHVlLmZldGNoYWxsLnJldHVybl92YWx1ZSA9IE1vY2tPcmdzUmVzcG9uc2UoKQo=</text>
+        <text encoding="base64">ICAgIAoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG1vY2tfY29uID0gbW9ja19jb25uZWN0LnJldHVybl92YWx1ZQo=</text>
+        <text encoding="base64">ICAgICMgbW9ua2V5cGF0Y2gK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
