@@ -103,10 +103,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/tests/test_lambda_handler.py" timestamp="1594150513875">
-        <mark key="[" line="75" column="55" />
-        <mark key="]" line="83" column="69" />
-        <mark key="." line="83" column="69" />
+      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/tests/test_lambda_handler.py" timestamp="1594151328786">
+        <mark key="[" line="86" column="23" />
+        <mark key="]" line="86" column="23" />
+        <mark key="." line="86" column="23" />
+        <mark key="^" line="86" column="27" />
+        <mark key="o" line="85" column="22" />
       </file>
       <file name="/Dummy.txt" timestamp="1594150408719">
         <mark key="[" line="0" column="0" />
@@ -289,10 +291,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>-</text>
+        <text>mciwocked_response</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>mciwocked_response</text>
       </register>
       <register name="/" type="4">
         <text>alert</text>
@@ -301,31 +303,31 @@
         <text encoding="base64">ICAgICAgICAxOiB7J29yZ0lEJzogMSwgJ29yZ1NsdWcnOiAndGVzdF9zbHVnXzEnfSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG1vbmtleXBhdGNoLnNldGF0dHIocHN5Y29wZzIsICwgbW9ja19vcmdfcXVlcnlfY29udGVudCkK</text>
+        <text encoding="base64">aW1wb3J0IHBvc3RncmVzX2NvbW1vbgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG1vbmtleXBhdGNoLnNldGF0dHIocHN5Y29wZzIsICwgbW9ja19vcmdfcXVlcnlfY29udGVudCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QHB5dGVzdC5maXh0dXJlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHNhbXBsZV9yZXNwb25zZSA9IAo=</text>
+        <text encoding="base64">QHB5dGVzdC5maXh0dXJlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QG1vY2sucGF0Y2goJ3BzeWNvcGcyLmV4dGVuc2lvbnMuY29ubmVjdGlvbicsIG1vY2tNYWdpY01vY2socmV0dXJuKSkK</text>
+        <text encoding="base64">ICAgIHNhbXBsZV9yZXNwb25zZSA9IAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QG1vY2sucGF0Y2goJ3Bvc3RncmVzX2NvbW1vbi5ydW5fcXVlcnlfZGljdChyZXBfcGdfY29ubiwgcXVlcnkpJywgbW9jay5NYWdpY01vY2socmV0dXJuX3ZhbHVlPW1vY2tfb3JnX3F1ZXJ5X2NvbnRlbnQpKQo=</text>
+        <text encoding="base64">QG1vY2sucGF0Y2goJ3BzeWNvcGcyLmV4dGVuc2lvbnMuY29ubmVjdGlvbicsIG1vY2tNYWdpY01vY2socmV0dXJuKSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBwb3N0Z3Jlc19jb21tb24gaW1wb3J0IHJ1bl9xdWVyeQo=</text>
+        <text encoding="base64">QG1vY2sucGF0Y2goJ3Bvc3RncmVzX2NvbW1vbi5ydW5fcXVlcnlfZGljdChyZXBfcGdfY29ubiwgcXVlcnkpJywgbW9jay5NYWdpY01vY2socmV0dXJuX3ZhbHVlPW1vY2tfb3JnX3F1ZXJ5X2NvbnRlbnQpKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CmNsYXNzIE1vY2tSZXN1bHRzKG9iamVjdCk6CiAgICAiIiIgQmFzZSBjbGFzcyBmb3IgcmV0dXJuaW5nIGZha2UgcXVlcnkgcmVzdWx0cyAiIiIKICAgIHN0YXR1c19jb2RlID0gMjAwCiAgICBjb24K</text>
+        <text encoding="base64">ZnJvbSBwb3N0Z3Jlc19jb21tb24gaW1wb3J0IHJ1bl9xdWVyeQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">d2hlcmUgYWxlcnRfcmVjZWl2ZWRfYXQgPj0gJzIwMTktMDUtMDEn</text>
+        <text encoding="base64">CmNsYXNzIE1vY2tSZXN1bHRzKG9iamVjdCk6CiAgICAiIiIgQmFzZSBjbGFzcyBmb3IgcmV0dXJuaW5nIGZha2UgcXVlcnkgcmVzdWx0cyAiIiIKICAgIHN0YXR1c19jb2RlID0gMjAwCiAgICBjb24K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
