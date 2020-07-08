@@ -106,9 +106,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/tests/test_lambda_handler.py" timestamp="1594164394580">
+      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/tests/test_lambda_handler.py" timestamp="1594218139421">
         <mark key="'" line="70" column="8" />
-        <mark key="[" line="67" column="9" />
+        <mark key="[" line="76" column="0" />
         <mark key="]" line="67" column="9" />
         <mark key="." line="67" column="8" />
         <mark key="^" line="67" column="9" />
@@ -182,8 +182,8 @@
         <mark key="^" line="5" column="20" />
         <mark key="." line="5" column="15" />
       </file>
-      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/src/process_event.py" timestamp="1594217720969">
-        <mark key="[" line="27" column="0" />
+      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/src/process_event.py" timestamp="1594218379575">
+        <mark key="[" line="103" column="55" />
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
