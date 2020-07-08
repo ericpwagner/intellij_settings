@@ -109,10 +109,7 @@
       <file name="/console_7" timestamp="1594140062453">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GitLab/data/terraform.tf" timestamp="1594134982220">
-        <mark key="'" line="33" column="48" />
-      </file>
-      <file name="/a.sql" timestamp="1594236316630">
+      <file name="/a.sql" timestamp="1594236512257">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/GitHub/data-db-loader/tools/aws_glue/config/user_raw/stg.json" timestamp="1594234804989">
@@ -141,11 +138,14 @@
         <mark key="." line="94" column="0" />
         <mark key="o" line="64" column="22" />
       </file>
-      <file name="/Dummy.txt" timestamp="1594236316655">
+      <file name="/Dummy.txt" timestamp="1594236512279">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/af5cf58b-c890-4c1b-9baa-8de1f2c99b95/console_2.sql" timestamp="1594236154214">
         <mark key="[" line="5" column="5" />
+      </file>
+      <file name="$USER_HOME$/GitHub/data-db-loader/tools/aws_glue/aws_glue.py" timestamp="1594240616297">
+        <mark key="[" line="81" column="34" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/044e28c2-f35f-4fff-b858-d01f3fe770cc/console_7.sql" timestamp="1594140204176">
         <mark key="[" line="0" column="6" />
