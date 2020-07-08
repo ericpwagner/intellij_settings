@@ -106,15 +106,14 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/tests/test_lambda_handler.py" timestamp="1594218139421">
+      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/tests/test_lambda_handler.py" timestamp="1594221138922">
         <mark key="'" line="70" column="8" />
-        <mark key="[" line="76" column="0" />
-        <mark key="]" line="67" column="9" />
-        <mark key="." line="67" column="8" />
-        <mark key="^" line="67" column="9" />
+        <mark key="[" line="78" column="61" />
+        <mark key="]" line="94" column="0" />
+        <mark key="." line="94" column="0" />
         <mark key="o" line="64" column="22" />
       </file>
-      <file name="/Dummy.txt" timestamp="1594150408719">
+      <file name="/Dummy.txt" timestamp="1594221160973">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Python Console" timestamp="1593543518720">
@@ -182,10 +181,10 @@
         <mark key="^" line="5" column="20" />
         <mark key="." line="5" column="15" />
       </file>
-      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/src/process_event.py" timestamp="1594218379575">
-        <mark key="[" line="103" column="55" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
+      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/src/process_event.py" timestamp="1594221087897">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -294,43 +293,43 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50KGYiXG5TTFVHU1xuIHtzbHVnc30iKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KGYiSW5jaWRlbnRzIC0tLS0tLSBcbntpbmNpZGVudHN9IikK</text>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text>incidentsCount</text>
       </register>
       <register name="/" type="4">
         <text>orgSlug</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB7b3JnSUQ6IDMsIG9yZ1NsdWc6ICd0ZXN0X3NsdWdfMyd9LAo=</text>
+        <text encoding="base64">ICAgIHByaW50KGYiQXRoZW5hIHJlc3VsdHMgdHlwZSA9IHt0eXBlKHJlc3VsdHMpfSIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KGYiXG5TTFVHU1xuIHtzbHVnc30iKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KGYiSW5jaWRlbnRzIC0tLS0tLSBcbntpbmNpZGVudHN9IikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KGYiQXRoZW5hIHJlc3VsdHMgZm9yIHttZXRyaWNfbmFtZX06XG4ge3Jlc3VsdHN9IikK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChmIlJlc3VsdCA9IHtyfSIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KGYie3R5cGUocmVzdWx0c1swXSl9RW5hYmxlZCBzbHVncyByZXN1bHRzOlxuIHtyZXN1bHRzfSIpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KGYicHJvY2Vzc19ldmVudCA9IHtwcm9jZXNzX2V2ZW50LmdldF9hdGhlbmFfcmVzdWx0c19hc19kaWN0KG1vY2tfY29ubmVjdCwgJ21vY2tfcXVlcnknLCAnbWV0cmljTmFtZScpfSIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB7b3JnSUQ6IDIsICd0ZXN0X3NsdWdfMiddLAogICAgICAgICAgICBbMywgJ3Rlc3Rfc2x1Z18zJ10sCiAgICAgICAgICAgIFs0LCAndGVzdF9zbHVnXzQnXQo=</text>
+        <text encoding="base64">ICAgIHByaW50KGYibW9ja19jb25uZWN0ID0ge21vY2tfY29ubmVjdH0iKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50KHBheWxvYWRzKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KGYicnVuX3NxbCA9IHtydW5fc3FsfSIpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KHJlc3VsdHMpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KGYiSW5uZXIgcmVzdWx0cyB0eXBlID0ge3R5cGUocmVzdWx0c1swXSl9IikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgbW9ja19jb24gPSBtb2NrX2Nvbm5lY3QucmV0dXJuX3ZhbHVlCiAgICAjIHByaW50KGYiIG1vY2sgY29uID0ge21vY2tfY29ubmVjdC5fX2RpY3RfX30iKQogICAgIyBwcmludChmIkVuYWJsZWQgc2x1Z3MgcmVzdWx0czpcbiB7cmVzdWx0c30iKQoKICAgICMgdGVzdCA9IHByb2Nlc3NfZXZlbnQuZ2V0X2VuYWJsZWRfc2x1Z3MobW9ja19jb25uZWN0LCAndGVzdF9xdWVyeScpCiAgICAjIHByaW50KGYidGVzdCA9IHt0ZXN0fSIp</text>
+        <text encoding="base64">ICAgIHByaW50KGYiQXRoZW5hIHJlc3VsdHMgdHlwZSA9IHt0eXBlKHJlc3VsdHMpfSIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHBvc3RncmVzX2NvbW1vbgo=</text>
+        <text encoding="base64">ICAgIHByaW50KGYiIEF0aGVuYSBSZXN1bHRzOiBcbiB7cmVzdWx0c30iKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
