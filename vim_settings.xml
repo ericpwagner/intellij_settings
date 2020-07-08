@@ -106,6 +106,34 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/console_7" timestamp="1594140062453">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/GitLab/data/terraform.tf" timestamp="1594134982220">
+        <mark key="'" line="33" column="48" />
+      </file>
+      <file name="/a.sql" timestamp="1594236316630">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/GitHub/data-db-loader/tools/aws_glue/config/user_raw/stg.json" timestamp="1594234804989">
+        <mark key="[" line="2" column="26" />
+        <mark key="]" line="1" column="11" />
+        <mark key="^" line="1" column="11" />
+        <mark key="." line="1" column="10" />
+      </file>
+      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/.envrc" timestamp="1594144152221">
+        <mark key="'" line="37" column="0" />
+        <mark key="[" line="0" column="57" />
+        <mark key="]" line="5" column="15" />
+        <mark key="^" line="5" column="20" />
+        <mark key="." line="5" column="15" />
+      </file>
+      <file name="$USER_HOME$/GitHub/data-db-loader/tools/aws_glue/config/user_raw/playground.json" timestamp="1594234827419">
+        <mark key="[" line="2" column="18" />
+        <mark key="]" line="2" column="18" />
+        <mark key="." line="2" column="18" />
+        <mark key="^" line="1" column="19" />
+      </file>
       <file name="$USER_HOME$/GitLab/pts_hec_aggregator/tests/test_lambda_handler.py" timestamp="1594221138922">
         <mark key="'" line="70" column="8" />
         <mark key="[" line="78" column="61" />
@@ -113,19 +141,11 @@
         <mark key="." line="94" column="0" />
         <mark key="o" line="64" column="22" />
       </file>
-      <file name="/Dummy.txt" timestamp="1594221160973">
+      <file name="/Dummy.txt" timestamp="1594236316655">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1593543518720">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/sls_config/playground.json" timestamp="1593550525252">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-        <mark key="^" line="21" column="12" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/af5cf58b-c890-4c1b-9baa-8de1f2c99b95/console_2.sql" timestamp="1594236154214">
+        <mark key="[" line="5" column="5" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/044e28c2-f35f-4fff-b858-d01f3fe770cc/console_7.sql" timestamp="1594140204176">
         <mark key="[" line="0" column="6" />
@@ -133,19 +153,10 @@
         <mark key="." line="0" column="6" />
         <mark key="^" line="0" column="7" />
       </file>
-      <file name="/console_7" timestamp="1594140062453">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/" timestamp="1593536374238">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/GitLab/data/terraform.tf" timestamp="1594134982220">
-        <mark key="'" line="33" column="48" />
-      </file>
-      <file name="$USER_HOME$/GitLab/api-test/tests/test_v2_incidents.py" timestamp="1594133074535">
-        <mark key="'" line="557" column="33" />
-      </file>
       <file name="/console_1" timestamp="1594139114623">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/console_2" timestamp="1594236144339">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/474e0395-a1ff-498b-8c7e-10cd2ffeb7db/console_1.sql" timestamp="1594140062448">
@@ -159,26 +170,13 @@
         <mark key="^" line="25" column="33" />
         <mark key="." line="25" column="32" />
       </file>
-      <file name="/Dummy.json" timestamp="1593540867821">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/.envrc" timestamp="1594144152221">
-        <mark key="'" line="37" column="0" />
-        <mark key="[" line="0" column="57" />
-        <mark key="]" line="5" column="15" />
-        <mark key="^" line="5" column="20" />
-        <mark key="." line="5" column="15" />
+      <file name="$USER_HOME$/GitHub/data-db-loader/tools/aws_glue/config/user_raw/prod.json" timestamp="1594234526033">
+        <mark key="[" line="24" column="22" />
       </file>
       <file name="$USER_HOME$/GitLab/pts_hec_aggregator/src/process_event.py" timestamp="1594221087897">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
-      </file>
-      <file name="$USER_HOME$/GitHub/data-db-loader/tools/aws_glue/config/user_raw/playground.json" timestamp="1594233397193">
-        <mark key="[" line="23" column="26" />
-        <mark key="]" line="18" column="32" />
-        <mark key="." line="18" column="32" />
-        <mark key="^" line="4" column="14" />
       </file>
     </filemarks>
     <jumps>
@@ -287,10 +285,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>_user in raw format</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>_user in raw format</text>
       </register>
       <register name="/" type="4">
         <text>orgSlug</text>
