@@ -127,12 +127,6 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="21" column="12" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/1c8caa95-40a4-4694-859b-23405dbb79c7/console_2.sql" timestamp="1593530459435">
-        <mark key="[" line="2" column="20" />
-        <mark key="]" line="0" column="12" />
-        <mark key="." line="0" column="11" />
-        <mark key="^" line="0" column="12" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/044e28c2-f35f-4fff-b858-d01f3fe770cc/console_7.sql" timestamp="1594140204176">
         <mark key="[" line="0" column="6" />
         <mark key="]" line="0" column="6" />
@@ -148,16 +142,10 @@
       <file name="$USER_HOME$/GitLab/data/terraform.tf" timestamp="1594134982220">
         <mark key="'" line="33" column="48" />
       </file>
-      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/src/queries.py" timestamp="1593533154760">
-        <mark key="[" line="24" column="27" />
-      </file>
       <file name="$USER_HOME$/GitLab/api-test/tests/test_v2_incidents.py" timestamp="1594133074535">
         <mark key="'" line="557" column="33" />
       </file>
       <file name="/console_1" timestamp="1594139114623">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/console_2" timestamp="1593530305261">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/474e0395-a1ff-498b-8c7e-10cd2ffeb7db/console_1.sql" timestamp="1594140062448">
@@ -185,6 +173,12 @@
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
+      </file>
+      <file name="$USER_HOME$/GitHub/data-db-loader/tools/aws_glue/config/user_raw/playground.json" timestamp="1594233397193">
+        <mark key="[" line="23" column="26" />
+        <mark key="]" line="18" column="32" />
+        <mark key="." line="18" column="32" />
+        <mark key="^" line="4" column="14" />
       </file>
     </filemarks>
     <jumps>
@@ -292,11 +286,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50KGYiSW5jaWRlbnRzIC0tLS0tLSBcbntpbmNpZGVudHN9IikK</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>incidentsCount</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>orgSlug</text>
@@ -305,31 +299,31 @@
         <text encoding="base64">ICAgIHByaW50KGYiQXRoZW5hIHJlc3VsdHMgdHlwZSA9IHt0eXBlKHJlc3VsdHMpfSIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KGYiSW5jaWRlbnRzIC0tLS0tLSBcbntpbmNpZGVudHN9IikK</text>
+        <text encoding="base64">MTQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChmIlJlc3VsdCA9IHtyfSIpCg==</text>
+        <text encoding="base64">MTMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KGYicHJvY2Vzc19ldmVudCA9IHtwcm9jZXNzX2V2ZW50LmdldF9hdGhlbmFfcmVzdWx0c19hc19kaWN0KG1vY2tfY29ubmVjdCwgJ21vY2tfcXVlcnknLCAnbWV0cmljTmFtZScpfSIpCg==</text>
+        <text encoding="base64">MTIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50KGYibW9ja19jb25uZWN0ID0ge21vY2tfY29ubmVjdH0iKQo=</text>
+        <text encoding="base64">MTEK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50KGYicnVuX3NxbCA9IHtydW5fc3FsfSIpCg==</text>
+        <text encoding="base64">MTAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50KHJlc3VsdHMpCg==</text>
+        <text encoding="base64">OQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50KGYiSW5uZXIgcmVzdWx0cyB0eXBlID0ge3R5cGUocmVzdWx0c1swXSl9IikK</text>
+        <text encoding="base64">OAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50KGYiQXRoZW5hIHJlc3VsdHMgdHlwZSA9IHt0eXBlKHJlc3VsdHMpfSIpCg==</text>
+        <text encoding="base64">Nwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50KGYiIEF0aGVuYSBSZXN1bHRzOiBcbiB7cmVzdWx0c30iKQo=</text>
+        <text encoding="base64">Ngo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
