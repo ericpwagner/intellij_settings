@@ -112,6 +112,9 @@
       <file name="/a.sql" timestamp="1594236512257">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/GitHub/data-db-loader/tools/aws_glue/config/user_raw/table_input.json" timestamp="1594246041251">
+        <mark key="[" line="6" column="24" />
+      </file>
       <file name="$USER_HOME$/GitHub/data-db-loader/tools/aws_glue/config/user_raw/stg.json" timestamp="1594234804989">
         <mark key="[" line="2" column="26" />
         <mark key="]" line="1" column="11" />
@@ -158,11 +161,6 @@
       </file>
       <file name="/console_2" timestamp="1594236144339">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/474e0395-a1ff-498b-8c7e-10cd2ffeb7db/console_1.sql" timestamp="1594140062448">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/GitLab/pts_hec_aggregator/tools/postgres_common.py" timestamp="1594162462858">
         <mark key="[" line="53" column="39" />
