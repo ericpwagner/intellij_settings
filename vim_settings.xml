@@ -124,8 +124,10 @@
         <mark key="^" line="1" column="11" />
         <mark key="." line="1" column="10" />
       </file>
-      <file name="/Dummy.json" timestamp="1594247487120">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.json" timestamp="1594247719299">
+        <mark key="[" line="0" column="591" />
+        <mark key="]" line="0" column="591" />
+        <mark key="." line="0" column="591" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c8741a45-206f-4253-89be-6cc74f6d936f/console_12.sql" timestamp="1594246494101">
         <mark key="[" line="0" column="0" />
@@ -161,12 +163,6 @@
       </file>
       <file name="/console_2" timestamp="1594236144339">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/tools/postgres_common.py" timestamp="1594162462858">
-        <mark key="[" line="53" column="39" />
-        <mark key="]" line="25" column="33" />
-        <mark key="^" line="25" column="33" />
-        <mark key="." line="25" column="32" />
       </file>
       <file name="$USER_HOME$/GitHub/data-db-loader/tools/aws_glue/config/user_raw/prod.json" timestamp="1594234526033">
         <mark key="[" line="24" column="22" />
@@ -286,10 +282,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text />
+        <text>}</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>orgSlug</text>
