@@ -128,11 +128,11 @@
         <mark key="^" line="5" column="20" />
         <mark key="." line="5" column="15" />
       </file>
-      <file name="$USER_HOME$/GitHub/data-db-loader/tools/aws_glue/config/user_raw/playground.json" timestamp="1594234827419">
-        <mark key="[" line="2" column="18" />
-        <mark key="]" line="2" column="18" />
-        <mark key="." line="2" column="18" />
+      <file name="$USER_HOME$/GitHub/data-db-loader/tools/aws_glue/config/user_raw/playground.json" timestamp="1594244732899">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
         <mark key="^" line="1" column="19" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/GitLab/pts_hec_aggregator/tests/test_lambda_handler.py" timestamp="1594221138922">
         <mark key="'" line="70" column="8" />
@@ -284,8 +284,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>_user in raw format</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICB9LAo=</text>
       </register>
       <register name="-" type="4">
         <text>_user in raw format</text>
@@ -297,31 +297,31 @@
         <text encoding="base64">ICAgIHByaW50KGYiQXRoZW5hIHJlc3VsdHMgdHlwZSA9IHt0eXBlKHJlc3VsdHMpfSIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">MTQK</text>
+        <text encoding="base64">ICB9LAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">MTMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">MTIK</text>
+        <text encoding="base64">ICAicGFydGl0aW9ucyI6IHsKICAgICJkYXRhbGFrZV9yZWNlaXZlZF9hdCI6ICJkYXRlIg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">MTEK</text>
+        <text encoding="base64">MTQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">MTAK</text>
+        <text encoding="base64">MTMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">OQo=</text>
+        <text encoding="base64">MTIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">OAo=</text>
+        <text encoding="base64">MTEK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Nwo=</text>
+        <text encoding="base64">MTAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ngo=</text>
+        <text encoding="base64">OQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
