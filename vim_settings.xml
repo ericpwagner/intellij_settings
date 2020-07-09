@@ -138,7 +138,7 @@
         <mark key="^" line="1" column="19" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/tests/test_lambda_handler.py" timestamp="1594328792442">
+      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/tests/test_lambda_handler.py" timestamp="1594328807799">
         <mark key="'" line="77" column="8" />
         <mark key="[" line="87" column="63" />
         <mark key="]" line="88" column="0" />
@@ -168,8 +168,10 @@
       <file name="/console_3" timestamp="1594307894143">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/console_2" timestamp="1594236144339">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/README.md" timestamp="1594330971926">
+        <mark key="[" line="7" column="3" />
+        <mark key="]" line="7" column="3" />
+        <mark key="." line="7" column="3" />
       </file>
       <file name="$USER_HOME$/GitHub/data-db-loader/tools/aws_glue/config/user_raw/prod.json" timestamp="1594325516101">
         <mark key="[" line="5" column="0" />
@@ -285,11 +287,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGV4cGVjdGVkID0gewogICAgICAgICdtZXRyaWNOYW1lJzogewogICAgICAgICAgICAxOiAyMSwKICAgICAgICAgICAgMjogMzEsCiAgICAgICAgICAgIDM6IDQxLAogICAgICAgICAgICA0OiA1MQogICAgICAgIH19Cg==</text>
+      <register name="&quot;" type="4">
+        <text>env</text>
       </register>
       <register name="-" type="4">
-        <text>k</text>
+        <text>env</text>
       </register>
       <register name="/" type="4">
         <text>orgSlug</text>
