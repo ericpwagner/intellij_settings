@@ -112,7 +112,7 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="/a.sql" timestamp="1594236512257">
+      <file name="/a.sql" timestamp="1594307962229">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/GitHub/data-db-loader/tools/aws_glue/config/user_raw/table_input.json" timestamp="1594246041251">
@@ -140,14 +140,7 @@
         <mark key="^" line="1" column="19" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/tests/test_lambda_handler.py" timestamp="1594221138922">
-        <mark key="'" line="70" column="8" />
-        <mark key="[" line="78" column="61" />
-        <mark key="]" line="94" column="0" />
-        <mark key="." line="94" column="0" />
-        <mark key="o" line="64" column="22" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1594236512279">
+      <file name="/Dummy.txt" timestamp="1594307962238">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/af5cf58b-c890-4c1b-9baa-8de1f2c99b95/console_2.sql" timestamp="1594246460852">
