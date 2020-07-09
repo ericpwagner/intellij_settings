@@ -116,11 +116,10 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/GitHub/data-db-loader/tools/aws_glue/config/user_raw/table_input.json" timestamp="1594323603321" />
-      <file name="$USER_HOME$/GitHub/data-db-loader/tools/aws_glue/config/user_raw/stg.json" timestamp="1594325431720">
-        <mark key="[" line="4" column="14" />
-        <mark key="]" line="1" column="11" />
-        <mark key="^" line="1" column="11" />
-        <mark key="." line="1" column="10" />
+      <file name="$USER_HOME$/GitHub/data-db-loader/tools/aws_glue/config/user_raw/stg.json" timestamp="1594325502054">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/af5cf58b-c890-4c1b-9baa-8de1f2c99b95/console_3.sql" timestamp="1594310655189" />
       <file name="/Dummy.json" timestamp="1594247719299">
@@ -133,11 +132,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GitHub/data-db-loader/tools/aws_glue/config/user_raw/playground.json" timestamp="1594325423850">
-        <mark key="[" line="20" column="1" />
-        <mark key="]" line="20" column="0" />
+      <file name="$USER_HOME$/GitHub/data-db-loader/tools/aws_glue/config/user_raw/playground.json" timestamp="1594325524594">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
         <mark key="^" line="1" column="19" />
-        <mark key="." line="20" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1594325439370">
         <mark key="[" line="0" column="0" />
@@ -167,8 +166,10 @@
       <file name="/console_2" timestamp="1594236144339">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GitHub/data-db-loader/tools/aws_glue/config/user_raw/prod.json" timestamp="1594234526033">
-        <mark key="[" line="25" column="22" />
+      <file name="$USER_HOME$/GitHub/data-db-loader/tools/aws_glue/config/user_raw/prod.json" timestamp="1594325516101">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="/console_11" timestamp="1594246473746">
         <mark key="[" line="0" column="0" />
@@ -280,10 +281,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJkYXRhbGFrZV9yZWNlaXZlZF9hdCI6ICJkYXRlIgo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBOZXcgR0xVRSBzY2hlbWEgZm9yIHVzZXJfdjEgdGFibGUK</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>k</text>
       </register>
       <register name="/" type="4">
         <text>orgSlug</text>
@@ -292,31 +293,31 @@
         <text encoding="base64">ICAgIHByaW50KGYiQXRoZW5hIHJlc3VsdHMgdHlwZSA9IHt0eXBlKHJlc3VsdHMpfSIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJkYXRhbGFrZV9yZWNlaXZlZF9hdCI6ICJkYXRlIgo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBOZXcgR0xVRSBzY2hlbWEgZm9yIHVzZXJfdjEgdGFibGUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAicGFydGl0aW9uX3N0YXJ0IjogIjIwMTktMDUtMDEiLAo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECj09PT09PT0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAicGFydGl0aW9ucyI6IHsKICAgICJkYXRhbGFrZV9yZWNlaXZlZF9hdCI6ICJkYXRlIgogIH0sCg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJzaXplS2V5IjogIjEwNTQiLAo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJvYmplY3RDb3VudCI6ICIxIiwK</text>
+        <text encoding="base64">Pj4+Pj4+PiBOZXcgR0xVRSBzY2hlbWEgZm9yIHVzZXJfdjEgdGFibGUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJhdmVyYWdlUmVjb3JkU2l6ZSI6ICI0MjUiLAo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBOZXcgR0xVRSBzY2hlbWEgZm9yIHVzZXJfdjEgdGFibGUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJyZWNvcmRDb3VudCI6ICI0IiwK</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECj09PT09PT0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICJkYXRhbGFrZV9yZWNlaXZlZF9hdCI6ICJkYXRlIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAicGFydGl0aW9uX3N0YXJ0IjogIjIwMTktMDUtMDEiLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
