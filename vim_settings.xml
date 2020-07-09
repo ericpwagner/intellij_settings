@@ -116,8 +116,8 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/GitHub/data-db-loader/tools/aws_glue/config/user_raw/table_input.json" timestamp="1594323603321" />
-      <file name="$USER_HOME$/GitHub/data-db-loader/tools/aws_glue/config/user_raw/stg.json" timestamp="1594234804989">
-        <mark key="[" line="2" column="26" />
+      <file name="$USER_HOME$/GitHub/data-db-loader/tools/aws_glue/config/user_raw/stg.json" timestamp="1594325431720">
+        <mark key="[" line="4" column="14" />
         <mark key="]" line="1" column="11" />
         <mark key="^" line="1" column="11" />
         <mark key="." line="1" column="10" />
@@ -133,13 +133,13 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GitHub/data-db-loader/tools/aws_glue/config/user_raw/playground.json" timestamp="1594323690447">
+      <file name="$USER_HOME$/GitHub/data-db-loader/tools/aws_glue/config/user_raw/playground.json" timestamp="1594325423850">
         <mark key="[" line="20" column="1" />
         <mark key="]" line="20" column="0" />
         <mark key="^" line="1" column="19" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1594307962238">
+      <file name="/Dummy.txt" timestamp="1594325439370">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/af5cf58b-c890-4c1b-9baa-8de1f2c99b95/console_2.sql" timestamp="1594246460852">
@@ -168,7 +168,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/GitHub/data-db-loader/tools/aws_glue/config/user_raw/prod.json" timestamp="1594234526033">
-        <mark key="[" line="24" column="22" />
+        <mark key="[" line="25" column="22" />
       </file>
       <file name="/console_11" timestamp="1594246473746">
         <mark key="[" line="0" column="0" />
