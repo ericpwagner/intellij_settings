@@ -124,6 +124,7 @@
         <mark key="^" line="1" column="11" />
         <mark key="." line="1" column="10" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/af5cf58b-c890-4c1b-9baa-8de1f2c99b95/console_3.sql" timestamp="1594310655189" />
       <file name="/Dummy.json" timestamp="1594247719299">
         <mark key="[" line="0" column="591" />
         <mark key="]" line="0" column="591" />
@@ -151,7 +152,15 @@
       <file name="$USER_HOME$/GitHub/data-db-loader/tools/aws_glue/aws_glue.py" timestamp="1594242651411">
         <mark key="[" line="81" column="34" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c8741a45-206f-4253-89be-6cc74f6d936f/console_13.sql" timestamp="1594318290984">
+        <mark key="[" line="1" column="23" />
+        <mark key="]" line="1" column="23" />
+        <mark key="." line="1" column="23" />
+      </file>
       <file name="/console_12" timestamp="1594246491039">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/console_13" timestamp="1594318248910">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/console_3" timestamp="1594307894143">
@@ -273,10 +282,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>}</text>
+        <text>fact_incident</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>fact_incident</text>
       </register>
       <register name="/" type="4">
         <text>orgSlug</text>
