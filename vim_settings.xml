@@ -115,9 +115,7 @@
       <file name="/a.sql" timestamp="1594307962229">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GitHub/data-db-loader/tools/aws_glue/config/user_raw/table_input.json" timestamp="1594246041251">
-        <mark key="[" line="6" column="24" />
-      </file>
+      <file name="$USER_HOME$/GitHub/data-db-loader/tools/aws_glue/config/user_raw/table_input.json" timestamp="1594323603321" />
       <file name="$USER_HOME$/GitHub/data-db-loader/tools/aws_glue/config/user_raw/stg.json" timestamp="1594234804989">
         <mark key="[" line="2" column="26" />
         <mark key="]" line="1" column="11" />
@@ -135,8 +133,8 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GitHub/data-db-loader/tools/aws_glue/config/user_raw/playground.json" timestamp="1594244732899">
-        <mark key="[" line="20" column="0" />
+      <file name="$USER_HOME$/GitHub/data-db-loader/tools/aws_glue/config/user_raw/playground.json" timestamp="1594323690447">
+        <mark key="[" line="20" column="1" />
         <mark key="]" line="20" column="0" />
         <mark key="^" line="1" column="19" />
         <mark key="." line="20" column="0" />
@@ -149,8 +147,8 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GitHub/data-db-loader/tools/aws_glue/aws_glue.py" timestamp="1594242651411">
-        <mark key="[" line="81" column="34" />
+      <file name="$USER_HOME$/GitHub/data-db-loader/tools/aws_glue/aws_glue.py" timestamp="1594323966009">
+        <mark key="[" line="48" column="93" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c8741a45-206f-4253-89be-6cc74f6d936f/console_13.sql" timestamp="1594318290984">
         <mark key="[" line="1" column="23" />
@@ -281,11 +279,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>fact_incident</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICJkYXRhbGFrZV9yZWNlaXZlZF9hdCI6ICJkYXRlIgo=</text>
       </register>
       <register name="-" type="4">
-        <text>fact_incident</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>orgSlug</text>
@@ -294,47 +292,31 @@
         <text encoding="base64">ICAgIHByaW50KGYiQXRoZW5hIHJlc3VsdHMgdHlwZSA9IHt0eXBlKHJlc3VsdHMpfSIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text>SELECT
-t.name AS Teamname
-, esc.name AS EscalationPolicy
-, rs.label AS Rotation
-, u.username
-FROM vo_hier.Users u
-  JOIN OrganizationMembers om ON om.user_id=u.id
-  JOIN Organizations o ON o.id=om.organization_id
-  JOIN RotationMembers rm ON rm.user_id=u.id
-  JOIN Rotations rs ON rs.id=rm.rotation_id
-  JOIN Rosters r ON r.id=rs.roster_id
-  JOIN Teams t ON t.id=rs.team_id
-  JOIN team_escalation_policies teamesc ON teamesc.team_id = t.id
-  JOIN EscalationPolicies esc ON teamesc.escalation_policy_id = esc.id
-  LEFT JOIN EscalationPolicyEntries epe ON epe.rotation_group_id=rs.id
-WHERE o.slug = 'sabre-page'
-ORDER BY u.username«</text>
+        <text encoding="base64">ICAgICJkYXRhbGFrZV9yZWNlaXZlZF9hdCI6ICJkYXRlIgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB9LAo=</text>
+        <text encoding="base64">ICAicGFydGl0aW9uX3N0YXJ0IjogIjIwMTktMDUtMDEiLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAicGFydGl0aW9ucyI6IHsKICAgICJkYXRhbGFrZV9yZWNlaXZlZF9hdCI6ICJkYXRlIgogIH0sCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAicGFydGl0aW9ucyI6IHsKICAgICJkYXRhbGFrZV9yZWNlaXZlZF9hdCI6ICJkYXRlIg==</text>
+        <text encoding="base64">ICAgICJzaXplS2V5IjogIjEwNTQiLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">MTQK</text>
+        <text encoding="base64">ICAgICJvYmplY3RDb3VudCI6ICIxIiwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">MTMK</text>
+        <text encoding="base64">ICAgICJhdmVyYWdlUmVjb3JkU2l6ZSI6ICI0MjUiLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">MTIK</text>
+        <text encoding="base64">ICAgICJyZWNvcmRDb3VudCI6ICI0IiwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">MTEK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">MTAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
