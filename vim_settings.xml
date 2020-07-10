@@ -106,12 +106,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c8741a45-206f-4253-89be-6cc74f6d936f/console_11.sql" timestamp="1594246483548">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-      </file>
       <file name="/a.sql" timestamp="1594307962229">
         <mark key="[" line="0" column="0" />
       </file>
@@ -131,6 +125,13 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/.envrc" timestamp="1594396785067">
+        <mark key="'" line="37" column="0" />
+        <mark key="[" line="0" column="57" />
+        <mark key="]" line="5" column="15" />
+        <mark key="^" line="5" column="20" />
+        <mark key="." line="5" column="15" />
       </file>
       <file name="$USER_HOME$/GitHub/data-db-loader/tools/aws_glue/config/user_raw/playground.json" timestamp="1594325524594">
         <mark key="[" line="6" column="0" />
@@ -182,8 +183,10 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="/console_11" timestamp="1594246473746">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/src/process_event.py" timestamp="1594396668914">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
       </file>
     </filemarks>
     <jumps>
