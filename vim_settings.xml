@@ -106,6 +106,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/GitLab/lambda-template/{{cookiecutter.project_name_snake}}/sls_config/playground.json" timestamp="1594399479631" />
       <file name="/a.sql" timestamp="1594307962229">
         <mark key="[" line="0" column="0" />
       </file>
@@ -157,9 +158,6 @@
         <mark key="[" line="1" column="23" />
         <mark key="]" line="1" column="23" />
         <mark key="." line="1" column="23" />
-      </file>
-      <file name="/console_12" timestamp="1594246491039">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="/console_13" timestamp="1594318248910">
         <mark key="[" line="0" column="0" />
