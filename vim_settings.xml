@@ -107,9 +107,7 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/GitLab/lambda-template/{{cookiecutter.project_name_snake}}/sls_config/playground.json" timestamp="1594399479631" />
-      <file name="/a.sql" timestamp="1594307962229">
-        <mark key="[" line="0" column="0" />
-      </file>
+      <file name="$USER_HOME$/GitLab/data/core/terraform.tf" timestamp="1594413321847" />
       <file name="$USER_HOME$/GitHub/data-db-loader/tools/aws_glue/config/user_raw/table_input.json" timestamp="1594323603321" />
       <file name="$USER_HOME$/GitHub/data-db-loader/tools/aws_glue/config/user_raw/stg.json" timestamp="1594325502054">
         <mark key="[" line="6" column="0" />
@@ -159,9 +157,7 @@
       <file name="/console_13" timestamp="1594318248910">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/console_3" timestamp="1594307894143">
-        <mark key="[" line="0" column="0" />
-      </file>
+      <file name="$USER_HOME$/GitLab/data/accountRemoval/terraform.tf" timestamp="1594413369512" />
       <file name="$USER_HOME$/GitLab/pts_hec_aggregator/README.md" timestamp="1594331922500">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
