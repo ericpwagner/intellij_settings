@@ -122,6 +122,11 @@
         <mark key="^" line="5" column="20" />
         <mark key="." line="5" column="15" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/e8729eb7-7e90-475c-b5ee-b76b8f7b5577/console_4.sql" timestamp="1594669826338">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/GitLab/data/accountRemoval/terraform.tf" timestamp="1594413369512" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/e8729eb7-7e90-475c-b5ee-b76b8f7b5577/console_3.sql" timestamp="1594661951974">
         <mark key="[" line="2" column="23" />
@@ -129,33 +134,25 @@
         <mark key="." line="7" column="15" />
         <mark key="^" line="7" column="16" />
       </file>
-      <file name="$USER_HOME$/GitHub/data-db-loader/Makefile" timestamp="1594392818479">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="19" column="56" />
-        <mark key="^" line="19" column="56" />
-        <mark key="." line="19" column="55" />
-      </file>
-      <file name="$USER_HOME$/GitHub/data-db-loader/tools/aws_glue/config/user_raw/prod.json" timestamp="1594393669742">
-        <mark key="[" line="25" column="22" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/474e0395-a1ff-498b-8c7e-10cd2ffeb7db/console_3.sql" timestamp="1594662215737" />
-      <file name="/Dummy.txt" timestamp="1594393696929">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/e8729eb7-7e90-475c-b5ee-b76b8f7b5577/console_5.sql" timestamp="1594669854587">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/GitLab/data/recon/files/athena-recon-policy.tpl" timestamp="1594412415197" />
+      <file name="/console_5" timestamp="1594669834476">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/console_3" timestamp="1594661946720">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/GitLab/row-level-recon/recon/feeds/incident_v1.py" timestamp="1594663382307" />
-      <file name="/console_2" timestamp="1594661925753">
+      <file name="/console_4" timestamp="1594669824964">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/README.md" timestamp="1594331922500">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
+      <file name="/console_2" timestamp="1594661925753">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/GitLab/pts_hec_aggregator/src/process_event.py" timestamp="1594396668914">
         <mark key="[" line="28" column="0" />
