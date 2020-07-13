@@ -108,6 +108,7 @@
     <filemarks>
       <file name="$USER_HOME$/GitLab/lambda-template/{{cookiecutter.project_name_snake}}/sls_config/playground.json" timestamp="1594399479631" />
       <file name="$USER_HOME$/GitLab/data/core/terraform.tf" timestamp="1594413321847" />
+      <file name="$USER_HOME$/GitLab/row-level-recon/tools/aws_utils.py" timestamp="1594668175531" />
       <file name="$USER_HOME$/GitLab/data/recon/variables.tf" timestamp="1594412301199" />
       <file name="/Dummy.json" timestamp="1594666836814">
         <mark key="[" line="0" column="0" />
@@ -120,14 +121,6 @@
         <mark key="]" line="5" column="15" />
         <mark key="^" line="5" column="20" />
         <mark key="." line="5" column="15" />
-      </file>
-      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/tests/test_lambda_handler.py" timestamp="1594328807799">
-        <mark key="'" line="77" column="8" />
-        <mark key="[" line="87" column="63" />
-        <mark key="]" line="88" column="0" />
-        <mark key="." line="88" column="0" />
-        <mark key="^" line="88" column="0" />
-        <mark key="o" line="64" column="22" />
       </file>
       <file name="$USER_HOME$/GitLab/data/accountRemoval/terraform.tf" timestamp="1594413369512" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/e8729eb7-7e90-475c-b5ee-b76b8f7b5577/console_3.sql" timestamp="1594661951974">
