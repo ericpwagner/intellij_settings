@@ -109,8 +109,8 @@
       <file name="$USER_HOME$/GitLab/lambda-template/{{cookiecutter.project_name_snake}}/sls_config/playground.json" timestamp="1594399479631" />
       <file name="$USER_HOME$/GitLab/data/core/terraform.tf" timestamp="1594413321847" />
       <file name="$USER_HOME$/GitLab/data/recon/variables.tf" timestamp="1594412301199" />
-      <file name="/Dummy.json" timestamp="1594397214200">
-        <mark key="[" line="0" column="591" />
+      <file name="/Dummy.json" timestamp="1594666836814">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="591" />
         <mark key="." line="0" column="591" />
       </file>
