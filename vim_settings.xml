@@ -121,12 +121,6 @@
         <mark key="^" line="5" column="20" />
         <mark key="." line="5" column="15" />
       </file>
-      <file name="$USER_HOME$/GitHub/data-db-loader/tools/aws_glue/config/user_raw/playground.json" timestamp="1594325524594">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="1" column="19" />
-        <mark key="." line="6" column="0" />
-      </file>
       <file name="$USER_HOME$/GitLab/pts_hec_aggregator/tests/test_lambda_handler.py" timestamp="1594328807799">
         <mark key="'" line="77" column="8" />
         <mark key="[" line="87" column="63" />
@@ -174,6 +168,12 @@
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
+      </file>
+      <file name="$USER_HOME$/GitLab/row-level-recon/recon/recon.py" timestamp="1594662838013">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+        <mark key="^" line="27" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -282,10 +282,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>ng_daily_org_id_row_count</text>
+        <text />
       </register>
       <register name="-" type="4">
-        <text>ng_daily_org_id_row_count</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>orgSlug</text>
