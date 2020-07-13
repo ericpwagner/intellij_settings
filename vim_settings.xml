@@ -133,11 +133,11 @@
         <mark key="[" line="17" column="22" />
         <mark key="]" line="17" column="272" />
       </file>
-      <file name="$USER_HOME$/GitLab/row-level-recon/.env" timestamp="1594674065451">
+      <file name="$USER_HOME$/GitLab/row-level-recon/.env" timestamp="1594674313592">
         <mark key="'" line="7" column="18" />
-        <mark key="[" line="7" column="6" />
-        <mark key="]" line="7" column="6" />
-        <mark key="." line="7" column="6" />
+        <mark key="[" line="0" column="20" />
+        <mark key="]" line="0" column="20" />
+        <mark key="." line="0" column="20" />
         <mark key="^" line="7" column="25" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/474e0395-a1ff-498b-8c7e-10cd2ffeb7db/console_3.sql" timestamp="1594662215737" />
@@ -277,10 +277,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>uth_v1_chat,auth_v1_apppublic,incident_v1,alert_v1&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>uth_v1_chat,auth_v1_apppublic,incident_v1,alert_v1&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">Olwg</text>
