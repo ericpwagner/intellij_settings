@@ -5,8 +5,21 @@
   <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="ignoredPackages">
       <value>
-        <list size="1">
+        <list size="14">
           <item index="0" class="java.lang.String" itemvalue="awscli" />
+          <item index="1" class="java.lang.String" itemvalue="pyathena" />
+          <item index="2" class="java.lang.String" itemvalue="botocore" />
+          <item index="3" class="java.lang.String" itemvalue="pytest" />
+          <item index="4" class="java.lang.String" itemvalue="mypy" />
+          <item index="5" class="java.lang.String" itemvalue="wrapt" />
+          <item index="6" class="java.lang.String" itemvalue="wcwidth" />
+          <item index="7" class="java.lang.String" itemvalue="typing-extensions" />
+          <item index="8" class="java.lang.String" itemvalue="toml" />
+          <item index="9" class="java.lang.String" itemvalue="click" />
+          <item index="10" class="java.lang.String" itemvalue="jinja2" />
+          <item index="11" class="java.lang.String" itemvalue="boto3" />
+          <item index="12" class="java.lang.String" itemvalue="pylint" />
+          <item index="13" class="java.lang.String" itemvalue="tenacity" />
         </list>
       </value>
     </option>
