@@ -115,11 +115,11 @@
         <mark key="." line="23" column="2" />
       </file>
       <file name="$USER_HOME$/GitLab/row-level-recon/tools/aws_utils.py" timestamp="1594668175531" />
-      <file name="$USER_HOME$/GitLab/row-level-recon/lambda_handler.py" timestamp="1594749245872">
-        <mark key="[" line="76" column="51" />
-        <mark key="]" line="77" column="0" />
-        <mark key="^" line="77" column="0" />
-        <mark key="." line="77" column="0" />
+      <file name="$USER_HOME$/GitLab/row-level-recon/lambda_handler.py" timestamp="1594751618175">
+        <mark key="[" line="3" column="3" />
+        <mark key="]" line="75" column="0" />
+        <mark key="^" line="70" column="60" />
+        <mark key="." line="75" column="0" />
       </file>
       <file name="/Dummy.json" timestamp="1594666836814">
         <mark key="[" line="0" column="0" />
@@ -142,6 +142,11 @@
         <mark key="[" line="17" column="22" />
         <mark key="]" line="17" column="272" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/474e0395-a1ff-498b-8c7e-10cd2ffeb7db/console_4.sql" timestamp="1594751474145">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/GitLab/row-level-recon/.env" timestamp="1594744830658">
         <mark key="'" line="7" column="53" />
         <mark key="[" line="7" column="0" />
@@ -159,8 +164,7 @@
       </file>
       <file name="$USER_HOME$/GitLab/row-level-recon/Makefile" timestamp="1594672017888" />
       <file name="$USER_HOME$/GitLab/row-level-recon/.gitignore" timestamp="1594673488549" />
-      <file name="$USER_HOME$/GitLab/row-level-recon/recon/feeds/incident_v1.py" timestamp="1594663382307" />
-      <file name="/console_4" timestamp="1594669824964">
+      <file name="/console_4" timestamp="1594751470896">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/GitLab/row-level-recon/scripts/run_staging_feed.sh" timestamp="1594748911659">
@@ -282,10 +286,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>6</text>
+        <text />
       </register>
       <register name="-" type="4">
-        <text>6</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">Olwg</text>
@@ -293,7 +297,22 @@
       <register name="0" type="4">
         <text>&quot;auth_v1_chat,auth_v1_apppublic,incident_v1,alert_v1</text>
       </register>
-      <register name="1" type="8">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGVuZCA9IGRhdGV0aW1lLm5vdygpCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHByaW50KGYiRHVyYXRpb246IHtzdGFydCAtIGVuZH0iKQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHByaW50KCItLS0gJXMgc2Vjb25kcyAtLS0iICUgKHRpbWUudGltZSgpIC0gc3RhcnRfdGltZSkpCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIG1haW4oKQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHN0YXJ0ID0gZGF0ZXRpbWUubm93KCkK</text>
+      </register>
+      <register name="6" type="8">
         <text>export
 export
 export
@@ -303,35 +322,19 @@ export
 export
 export</text>
       </register>
-      <register name="2" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="9" type="2">
         <text>export DATA_DB_USER=
 export DATA_DB_
 export DATA_DB_
 export DATA_DB_
 export DATA_DB_
 export DATA_DB_</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">d2hlcmUgZmlra2VlZCA9ICdpbmNpZGVudCcK</text>
-      </register>
-      <register name="6" type="2">
-        <text>limit 5
-k</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">d2hlcmUgZmVlZCA9ICdpbmNpZGVudCcKb3JkZXIgYnkgcXVlcnlfdGltZSBkZXNjCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text>order by query_time desc</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
