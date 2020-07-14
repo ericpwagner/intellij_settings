@@ -115,11 +115,11 @@
         <mark key="." line="23" column="2" />
       </file>
       <file name="$USER_HOME$/GitLab/row-level-recon/tools/aws_utils.py" timestamp="1594668175531" />
-      <file name="$USER_HOME$/GitLab/row-level-recon/lambda_handler.py" timestamp="1594751618175">
-        <mark key="[" line="3" column="3" />
-        <mark key="]" line="75" column="0" />
-        <mark key="^" line="70" column="60" />
-        <mark key="." line="75" column="0" />
+      <file name="$USER_HOME$/GitLab/row-level-recon/lambda_handler.py" timestamp="1594752981296">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="^" line="35" column="18" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="/Dummy.json" timestamp="1594666836814">
         <mark key="[" line="0" column="0" />
@@ -285,11 +285,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text />
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">Olwg</text>
@@ -298,43 +298,31 @@
         <text>&quot;auth_v1_chat,auth_v1_apppublic,incident_v1,alert_v1</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGVuZCA9IGRhdGV0aW1lLm5vdygpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KGYiRHVyYXRpb246IHtzdGFydCAtIGVuZH0iKQo=</text>
+        <text encoding="base64">ICAgICMgICAgIGV4Y2VwdCBUcmlhZ2VFcnJvciBhcyBlOgogICAgIyAgICAgICAgIHByaW50KGYnRmVlZCB7ZmVlZH0gZmFpbGVkIHdpdGgge2V9JykKICAgICMgICAgICAgICBzdWNjZXNzID0gRmFsc2UKICAgICMKICAgICMgaWYgbm90IHN1Y2Nlc3M6CiAgICAjICAgICByYWlzZSBSdW50aW1lRXJyb3IoJ1JlY29uIGZhaWxlZC4nKQ==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KCItLS0gJXMgc2Vjb25kcyAtLS0iICUgKHRpbWUudGltZSgpIC0gc3RhcnRfdGltZSkpCg==</text>
+        <text encoding="base64">ICAgICMgc3VjY2VzcyA9IFRydWUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG1haW4oKQo=</text>
+        <text encoding="base64">ICAgIGFzeW5jaW8uZ2F0aGVyCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHN0YXJ0ID0gZGF0ZXRpbWUubm93KCkK</text>
+        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
       </register>
-      <register name="6" type="8">
-        <text>export
-export
-export
-export
-export
-export
-export
-export</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgX3J1bl9mb3JfZmVlZChyZWNvbl9kYXRlLCBmZWVkKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZvciBmZWVkIGluIGZlZWRzLnNwbGl0KCcsJyk6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text>export DATA_DB_USER=
-export DATA_DB_
-export DATA_DB_
-export DATA_DB_
-export DATA_DB_
-export DATA_DB_</text>
+        <text encoding="base64">ICAgIGVuZCA9IGRhdGV0aW1lLm5vdygpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
