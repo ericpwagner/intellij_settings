@@ -115,6 +115,12 @@
         <mark key="." line="23" column="2" />
       </file>
       <file name="$USER_HOME$/GitLab/row-level-recon/tools/aws_utils.py" timestamp="1594668175531" />
+      <file name="$USER_HOME$/GitLab/row-level-recon/lambda_handler.py" timestamp="1594745922180">
+        <mark key="[" line="76" column="51" />
+        <mark key="]" line="74" column="0" />
+        <mark key="^" line="74" column="0" />
+        <mark key="." line="74" column="0" />
+      </file>
       <file name="/Dummy.json" timestamp="1594666836814">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="591" />
@@ -131,12 +137,6 @@
       <file name="$USER_HOME$/GitLab/row-level-recon/serverless.yml" timestamp="1594743486162">
         <mark key="[" line="61" column="18" />
         <mark key="]" line="61" column="69" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/e8729eb7-7e90-475c-b5ee-b76b8f7b5577/console_3.sql" timestamp="1594661951974">
-        <mark key="[" line="2" column="23" />
-        <mark key="]" line="7" column="16" />
-        <mark key="." line="7" column="15" />
-        <mark key="^" line="7" column="16" />
       </file>
       <file name="$USER_HOME$/GitLab/row-level-recon/sls_config/stg.json" timestamp="1594744393700">
         <mark key="[" line="17" column="22" />
