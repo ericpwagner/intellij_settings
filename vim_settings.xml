@@ -106,6 +106,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/start_script.py" timestamp="1594740305596">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/GitLab/row-level-recon/README.md" timestamp="1594671961757">
         <mark key="[" line="23" column="1" />
         <mark key="]" line="23" column="2" />
@@ -122,6 +125,9 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="/" timestamp="1594739817104">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/GitLab/row-level-recon/serverless.yml" timestamp="1594738492692" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/e8729eb7-7e90-475c-b5ee-b76b8f7b5577/console_3.sql" timestamp="1594661951974">
         <mark key="[" line="2" column="23" />
@@ -133,7 +139,7 @@
         <mark key="[" line="17" column="22" />
         <mark key="]" line="17" column="272" />
       </file>
-      <file name="$USER_HOME$/GitLab/row-level-recon/.env" timestamp="1594739366430">
+      <file name="$USER_HOME$/GitLab/row-level-recon/.env" timestamp="1594740500551">
         <mark key="'" line="7" column="18" />
         <mark key="[" line="7" column="20" />
         <mark key="]" line="7" column="20" />
@@ -160,9 +166,6 @@
       </file>
       <file name="$USER_HOME$/GitLab/row-level-recon/scripts/run_staging_feed.sh" timestamp="1594672161579">
         <mark key="[" line="15" column="46" />
-      </file>
-      <file name="/console_2" timestamp="1594661925753">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/GitLab/row-level-recon/recon/recon.py" timestamp="1594662838013">
         <mark key="[" line="27" column="0" />
