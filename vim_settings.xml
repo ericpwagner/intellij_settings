@@ -115,11 +115,11 @@
         <mark key="." line="23" column="2" />
       </file>
       <file name="$USER_HOME$/GitLab/row-level-recon/tools/aws_utils.py" timestamp="1594668175531" />
-      <file name="$USER_HOME$/GitLab/row-level-recon/lambda_handler.py" timestamp="1594745922180">
+      <file name="$USER_HOME$/GitLab/row-level-recon/lambda_handler.py" timestamp="1594749245872">
         <mark key="[" line="76" column="51" />
-        <mark key="]" line="74" column="0" />
-        <mark key="^" line="74" column="0" />
-        <mark key="." line="74" column="0" />
+        <mark key="]" line="77" column="0" />
+        <mark key="^" line="77" column="0" />
+        <mark key="." line="77" column="0" />
       </file>
       <file name="/Dummy.json" timestamp="1594666836814">
         <mark key="[" line="0" column="0" />
@@ -149,7 +149,6 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="54" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/474e0395-a1ff-498b-8c7e-10cd2ffeb7db/console_3.sql" timestamp="1594662215737" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/e8729eb7-7e90-475c-b5ee-b76b8f7b5577/console_5.sql" timestamp="1594669854587">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -164,23 +163,17 @@
       <file name="/console_4" timestamp="1594669824964">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GitLab/row-level-recon/scripts/run_staging_feed.sh" timestamp="1594745471906">
-        <mark key="[" line="9" column="24" />
+      <file name="$USER_HOME$/GitLab/row-level-recon/scripts/run_staging_feed.sh" timestamp="1594748911659">
+        <mark key="[" line="8" column="24" />
         <mark key="]" line="16" column="0" />
         <mark key="." line="15" column="56" />
         <mark key="^" line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/GitLab/row-level-recon/docker-compose.yml" timestamp="1594744530794">
-        <mark key="[" line="12" column="8" />
-        <mark key="]" line="23" column="50" />
-        <mark key="." line="23" column="49" />
+      <file name="$USER_HOME$/GitLab/row-level-recon/docker-compose.yml" timestamp="1594748704381">
+        <mark key="[" line="12" column="13" />
+        <mark key="]" line="12" column="14" />
+        <mark key="." line="12" column="14" />
         <mark key="^" line="23" column="50" />
-      </file>
-      <file name="$USER_HOME$/GitLab/row-level-recon/recon/recon.py" timestamp="1594662838013">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
-        <mark key="^" line="27" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -289,10 +282,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;AQICAHiaQQ30cHcNxVCXg86jFs9XdVagNzerZn3X2BPfvamCXAE/J/trhfbJbFGZOqxS+w+VAAAAfjB8BgkqhkiG9w0BBwagbzBtAgEAMGgGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMvPUY3/m/CAHj5tw7AgEQgDuQhmSx2FtJpvLaf48rQXMpPUv/KQLPc6MyBso8BdwF5n9mK4RaKVpkJG0+FlDdGqGaxPcpYw+e8SLa+w==&quot;</text>
+        <text>6</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;AQICAHiaQQ30cHcNxVCXg86jFs9XdVagNzerZn3X2BPfvamCXAE/J/trhfbJbFGZOqxS+w+VAAAAfjB8BgkqhkiG9w0BBwagbzBtAgEAMGgGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMvPUY3/m/CAHj5tw7AgEQgDuQhmSx2FtJpvLaf48rQXMpPUv/KQLPc6MyBso8BdwF5n9mK4RaKVpkJG0+FlDdGqGaxPcpYw+e8SLa+w==&quot;</text>
+        <text>6</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">Olwg</text>
