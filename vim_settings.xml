@@ -114,12 +114,11 @@
         <mark key="]" line="23" column="2" />
         <mark key="." line="23" column="2" />
       </file>
-      <file name="$USER_HOME$/GitLab/row-level-recon/tools/aws_utils.py" timestamp="1594668175531" />
-      <file name="$USER_HOME$/GitLab/row-level-recon/lambda_handler.py" timestamp="1594756169093">
-        <mark key="[" line="76" column="0" />
-        <mark key="]" line="76" column="0" />
-        <mark key="^" line="36" column="0" />
-        <mark key="." line="76" column="0" />
+      <file name="$USER_HOME$/GitLab/row-level-recon/lambda_handler.py" timestamp="1594757501275">
+        <mark key="[" line="29" column="17" />
+        <mark key="]" line="37" column="0" />
+        <mark key="^" line="37" column="0" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/e8729eb7-7e90-475c-b5ee-b76b8f7b5577/console_4.sql" timestamp="1594669826338">
         <mark key="[" line="0" column="0" />
@@ -153,6 +152,10 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1594757549962">
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="/console_5" timestamp="1594669834476">
         <mark key="[" line="0" column="0" />
@@ -287,7 +290,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ci0gQWxsb3dzIGFsbCBmb3VyIGZlZWRzIHRvIHJ1</text>
       </register>
       <register name="-" type="4">
         <text>_</text>
@@ -299,31 +302,31 @@
         <text>&quot;auth_v1_chat,auth_v1_apppublic,incident_v1,alert_v1</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ci0gQWxsb3dzIGFsbCBmb3VyIGZlZWRzIHRvIHJ1</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KCItLS0gJXMgc2Vjb25kcyAtLS0iICUgKHRpbWUudGltZSgpIC0gc3RhcnRfdGltZSkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KCItLS0gJXMgc2Vjb25kcyAtLS0iICUgKHRpbWUudGltZSgpIC0gc3RhcnRfdGltZSkpCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHN0YXJ0X3RpbWUgPSB0aW1lLnRpbWUoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCB0aW1lCg==</text>
+        <text encoding="base64">ICAgIHN0YXJ0X3RpbWUgPSB0aW1lLnRpbWUoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50KGYiT2JqZWN0cyA9IHtvYmplY3RzfSIpCg==</text>
+        <text encoding="base64">ICAgIGltcG9ydCB0aW1lCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzdWNjZXNzID0gRmFsc2UK</text>
+        <text encoding="base64">ICAgIHByaW50KGYiT2JqZWN0cyA9IHtvYmplY3RzfSIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdWNjZXNzID0gRmFsc2UK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
