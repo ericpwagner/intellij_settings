@@ -138,11 +138,11 @@
         <mark key="." line="7" column="15" />
         <mark key="^" line="7" column="16" />
       </file>
-      <file name="$USER_HOME$/GitLab/row-level-recon/sls_config/stg.json" timestamp="1594673907883">
+      <file name="$USER_HOME$/GitLab/row-level-recon/sls_config/stg.json" timestamp="1594744393700">
         <mark key="[" line="17" column="22" />
         <mark key="]" line="17" column="272" />
       </file>
-      <file name="$USER_HOME$/GitLab/row-level-recon/.env" timestamp="1594744263987">
+      <file name="$USER_HOME$/GitLab/row-level-recon/.env" timestamp="1594744830658">
         <mark key="'" line="7" column="53" />
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -160,15 +160,21 @@
       </file>
       <file name="$USER_HOME$/GitLab/row-level-recon/Makefile" timestamp="1594672017888" />
       <file name="$USER_HOME$/GitLab/row-level-recon/.gitignore" timestamp="1594673488549" />
-      <file name="/console_3" timestamp="1594661946720">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/GitLab/row-level-recon/recon/feeds/incident_v1.py" timestamp="1594663382307" />
       <file name="/console_4" timestamp="1594669824964">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GitLab/row-level-recon/scripts/run_staging_feed.sh" timestamp="1594672161579">
-        <mark key="[" line="15" column="46" />
+      <file name="$USER_HOME$/GitLab/row-level-recon/scripts/run_staging_feed.sh" timestamp="1594745471906">
+        <mark key="[" line="9" column="24" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="15" column="56" />
+        <mark key="^" line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/GitLab/row-level-recon/docker-compose.yml" timestamp="1594744530794">
+        <mark key="[" line="12" column="8" />
+        <mark key="]" line="23" column="50" />
+        <mark key="." line="23" column="49" />
+        <mark key="^" line="23" column="50" />
       </file>
       <file name="$USER_HOME$/GitLab/row-level-recon/recon/recon.py" timestamp="1594662838013">
         <mark key="[" line="27" column="0" />
@@ -283,10 +289,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>&quot;AQICAHiaQQ30cHcNxVCXg86jFs9XdVagNzerZn3X2BPfvamCXAE/J/trhfbJbFGZOqxS+w+VAAAAfjB8BgkqhkiG9w0BBwagbzBtAgEAMGgGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMvPUY3/m/CAHj5tw7AgEQgDuQhmSx2FtJpvLaf48rQXMpPUv/KQLPc6MyBso8BdwF5n9mK4RaKVpkJG0+FlDdGqGaxPcpYw+e8SLa+w==&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>&quot;AQICAHiaQQ30cHcNxVCXg86jFs9XdVagNzerZn3X2BPfvamCXAE/J/trhfbJbFGZOqxS+w+VAAAAfjB8BgkqhkiG9w0BBwagbzBtAgEAMGgGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMvPUY3/m/CAHj5tw7AgEQgDuQhmSx2FtJpvLaf48rQXMpPUv/KQLPc6MyBso8BdwF5n9mK4RaKVpkJG0+FlDdGqGaxPcpYw+e8SLa+w==&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">Olwg</text>
