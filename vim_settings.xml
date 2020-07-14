@@ -47,8 +47,8 @@
         <entry encoding="base64">JzwsJz5zL29yZ1NsdWcvJ29yZ1NsdWcnL2c=</entry>
         <entry encoding="base64">JzwsJz5zL29yZ0lEL29yZ19pZC9n</entry>
         <entry encoding="base64">JzwsJz5zL29yZ1NsdWcvb3JnX3NsdWcvZw==</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz5zLzpcIC89L2c=</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -128,7 +128,10 @@
       <file name="/" timestamp="1594739817104">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GitLab/row-level-recon/serverless.yml" timestamp="1594738492692" />
+      <file name="$USER_HOME$/GitLab/row-level-recon/serverless.yml" timestamp="1594743486162">
+        <mark key="[" line="61" column="18" />
+        <mark key="]" line="61" column="69" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/e8729eb7-7e90-475c-b5ee-b76b8f7b5577/console_3.sql" timestamp="1594661951974">
         <mark key="[" line="2" column="23" />
         <mark key="]" line="7" column="16" />
@@ -139,12 +142,12 @@
         <mark key="[" line="17" column="22" />
         <mark key="]" line="17" column="272" />
       </file>
-      <file name="$USER_HOME$/GitLab/row-level-recon/.env" timestamp="1594740500551">
-        <mark key="'" line="7" column="18" />
-        <mark key="[" line="7" column="20" />
-        <mark key="]" line="7" column="20" />
-        <mark key="." line="7" column="20" />
-        <mark key="^" line="7" column="21" />
+      <file name="$USER_HOME$/GitLab/row-level-recon/.env" timestamp="1594744263987">
+        <mark key="'" line="7" column="53" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="7" column="54" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/474e0395-a1ff-498b-8c7e-10cd2ffeb7db/console_3.sql" timestamp="1594662215737" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/e8729eb7-7e90-475c-b5ee-b76b8f7b5577/console_5.sql" timestamp="1594669854587">
@@ -274,30 +277,40 @@
       <jump line="76" column="4" filename="$USER_HOME$/GitLab/pts_hec_aggregator/tests/test_lambda_handler.py" />
       <jump line="77" column="8" filename="$USER_HOME$/GitLab/pts_hec_aggregator/tests/test_lambda_handler.py" />
       <jump line="70" column="8" filename="$USER_HOME$/GitLab/pts_hec_aggregator/tests/test_lambda_handler.py" />
-      <jump line="7" column="18" filename="$USER_HOME$/GitLab/row-level-recon/.env" />
+      <jump line="7" column="53" filename="$USER_HOME$/GitLab/row-level-recon/.env" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;AQICAHiaQQ30cHcNxVCXg86jFs9XdVagNzerZn3X2BPfvamCXAE/J/trhfbJbFGZOqxS+w+VAAAAfjB8BgkqhkiG9w0BBwagbzBtAgEAMGgGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMvPUY3/m/CAHj5tw7AgEQgDuQhmSx2FtJpvLaf48rQXMpPUv/KQLPc6MyBso8BdwF5n9mK4RaKVpkJG0+FlDdGqGaxPcpYw+e8SLa+w==&quot;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;AQICAHiaQQ30cHcNxVCXg86jFs9XdVagNzerZn3X2BPfvamCXAE/J/trhfbJbFGZOqxS+w+VAAAAfjB8BgkqhkiG9w0BBwagbzBtAgEAMGgGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMvPUY3/m/CAHj5tw7AgEQgDuQhmSx2FtJpvLaf48rQXMpPUv/KQLPc6MyBso8BdwF5n9mK4RaKVpkJG0+FlDdGqGaxPcpYw+e8SLa+w==&quot;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">Olwg</text>
       </register>
       <register name="0" type="4">
-        <text>&quot;AQICAHiaQQ30cHcNxVCXg86jFs9XdVagNzerZn3X2BPfvamCXAE/J/trhfbJbFGZOqxS+w+VAAAAfjB8BgkqhkiG9w0BBwagbzBtAgEAMGgGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMvPUY3/m/CAHj5tw7AgEQgDuQhmSx2FtJpvLaf48rQXMpPUv/KQLPc6MyBso8BdwF5n9mK4RaKVpkJG0+FlDdGqGaxPcpYw+e8SLa+w==&quot;,</text>
+        <text>&quot;auth_v1_chat,auth_v1_apppublic,incident_v1,alert_v1</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="8">
+        <text>export
+export
+export
+export
+export
+export
+export
+export</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text>export DATA_DB_USER=
 export DATA_DB_
 export DATA_DB_
@@ -305,27 +318,24 @@ export DATA_DB_
 export DATA_DB_
 export DATA_DB_</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">d2hlcmUgZmlra2VlZCA9ICdpbmNpZGVudCcK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text>limit 5
 k</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">d2hlcmUgZmVlZCA9ICdpbmNpZGVudCcKb3JkZXIgYnkgcXVlcnlfdGltZSBkZXNjCg==</text>
       </register>
-      <register name="7" type="2">
-        <text>order by query_time desc</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
+        <text>order by query_time desc</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zLzpcIC89L2c=</text>
+        <text>w</text>
       </register>
     </registers>
   </component>
