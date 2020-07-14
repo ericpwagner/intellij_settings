@@ -153,15 +153,17 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1594760043140">
+      <file name="/Dummy.txt" timestamp="1594764097572">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
       </file>
       <file name="/console_5" timestamp="1594669834476">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GitLab/row-level-recon/Makefile" timestamp="1594672017888" />
+      <file name="$USER_HOME$/GitLab/row-level-recon/Makefile" timestamp="1594763995351">
+        <mark key="[" line="34" column="7" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+      </file>
       <file name="$USER_HOME$/GitLab/row-level-recon/.gitignore" timestamp="1594673488549" />
       <file name="/console_4" timestamp="1594751470896">
         <mark key="[" line="0" column="0" />
@@ -172,7 +174,7 @@
         <mark key="." line="15" column="56" />
         <mark key="^" line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/GitLab/row-level-recon/docker-compose.yml" timestamp="1594748704381">
+      <file name="$USER_HOME$/GitLab/row-level-recon/docker-compose.yml" timestamp="1594761006993">
         <mark key="[" line="12" column="13" />
         <mark key="]" line="12" column="14" />
         <mark key="." line="12" column="14" />
@@ -290,11 +292,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Pj4+Pj4+PiBBdm9pZCBwaXBlbnYtdG94IGlzc3Vlcwo=</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>3</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">Olwg</text>
@@ -303,31 +305,33 @@
         <text>&quot;auth_v1_chat,auth_v1_apppublic,incident_v1,alert_v1</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ci0gQWxsb3dzIGFsbCBmb3VyIGZlZWRzIHRvIHJ1</text>
+        <text encoding="base64">Pj4+Pj4+PiBBdm9pZCBwaXBlbnYtdG94IGlzc3Vlcwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KCItLS0gJXMgc2Vjb25kcyAtLS0iICUgKHRpbWUudGltZSgpIC0gc3RhcnRfdGltZSkpCg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CXBpcDMgaW5zdGFsbCBwb2V0cnk9PTEuMC45IHRveD09My43LjAK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>dd feed name to logged output
+
+This helps the logs make sense when this function is run asynchronously by labeling each log message with the feed to which it is attributed.</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHN0YXJ0X3RpbWUgPSB0aW1lLnRpbWUoKQo=</text>
+        <text encoding="base64">Ci0gQWxsb3dzIGFsbCBmb3VyIGZlZWRzIHRvIHJ1</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCB0aW1lCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50KGYiT2JqZWN0cyA9IHtvYmplY3RzfSIpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KCItLS0gJXMgc2Vjb25kcyAtLS0iICUgKHRpbWUudGltZSgpIC0gc3RhcnRfdGltZSkpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzdWNjZXNzID0gRmFsc2UK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
