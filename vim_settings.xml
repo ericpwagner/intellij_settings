@@ -120,11 +120,6 @@
         <mark key="^" line="37" column="0" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/e8729eb7-7e90-475c-b5ee-b76b8f7b5577/console_4.sql" timestamp="1594669826338">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="/" timestamp="1594739817104">
         <mark key="[" line="0" column="0" />
       </file>
@@ -141,6 +136,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/GitLab/row-level-recon/tests/test_functional_local.py" timestamp="1594759714053">
+        <mark key="[" line="18" column="49" />
+        <mark key="]" line="18" column="49" />
+        <mark key="." line="18" column="49" />
+      </file>
       <file name="$USER_HOME$/GitLab/row-level-recon/.env" timestamp="1594744830658">
         <mark key="'" line="7" column="53" />
         <mark key="[" line="7" column="0" />
@@ -153,7 +153,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1594758899712">
+      <file name="/Dummy.txt" timestamp="1594760043140">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
@@ -290,11 +290,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ci0gQWxsb3dzIGFsbCBmb3VyIGZlZWRzIHRvIHJ1</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">Olwg</text>
