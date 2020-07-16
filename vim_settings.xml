@@ -113,13 +113,6 @@
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="113" />
       </file>
-      <file name="/Dummy.txt" timestamp="1594847559624">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/GitLab/row-level-recon/sls_config/stg.json" timestamp="1594744393700">
-        <mark key="[" line="17" column="22" />
-        <mark key="]" line="17" column="272" />
-      </file>
       <file name="$USER_HOME$/GitLab/row-level-recon/pyproject.toml" timestamp="1594766922506">
         <mark key="[" line="31" column="11" />
         <mark key="]" line="31" column="11" />
@@ -188,6 +181,7 @@
         <mark key="." line="12" column="14" />
         <mark key="^" line="23" column="50" />
       </file>
+      <file name="$USER_HOME$/GitLab/row-level-recon/dockerfiles/Dockerfile.migration" timestamp="1594915563910" />
       <file name="$USER_HOME$/GitLab/row-level-recon/recon/recon.py" timestamp="1594847455472">
         <mark key="[" line="30" column="12" />
         <mark key="]" line="30" column="12" />
