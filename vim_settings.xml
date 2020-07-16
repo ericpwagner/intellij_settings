@@ -119,27 +119,16 @@
         <mark key="." line="31" column="11" />
       </file>
       <file name="/pyproject.toml" timestamp="1594910173150" />
-      <file name="$USER_HOME$/GitLab/row-level-recon/dockerfiles/Dockerfile.test.py37" timestamp="1594912370355">
-        <mark key="[" line="9" column="18" />
-        <mark key="]" line="9" column="18" />
-        <mark key="." line="9" column="18" />
-        <mark key="^" line="9" column="19" />
-      </file>
+      <file name="$USER_HOME$/GitLab/row-level-recon/dockerfiles/Dockerfile.test.py37" timestamp="1594912370355" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/474e0395-a1ff-498b-8c7e-10cd2ffeb7db/console_4.sql" timestamp="1594751474145">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GitLab/row-level-recon/tests/test_functional_local.py" timestamp="1594847473616">
-        <mark key="[" line="80" column="26" />
+      <file name="$USER_HOME$/GitLab/row-level-recon/tests/test_functional_local.py" timestamp="1594923116508">
+        <mark key="[" line="66" column="30" />
         <mark key="]" line="18" column="49" />
         <mark key="." line="18" column="49" />
-      </file>
-      <file name="$USER_HOME$/GitLab/row-level-recon/Makefile" timestamp="1594912308850">
-        <mark key="[" line="35" column="10" />
-        <mark key="]" line="35" column="10" />
-        <mark key="." line="35" column="10" />
-        <mark key="^" line="35" column="11" />
       </file>
       <file name="$USER_HOME$/GitLab/row-level-recon/.env" timestamp="1594744830658">
         <mark key="'" line="7" column="53" />
@@ -147,12 +136,6 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="54" />
-      </file>
-      <file name="$USER_HOME$/GitLab/row-level-recon/tox.ini" timestamp="1594912929895">
-        <mark key="[" line="2" column="14" />
-        <mark key="]" line="2" column="14" />
-        <mark key="^" line="2" column="14" />
-        <mark key="." line="2" column="13" />
       </file>
       <file name="$USER_HOME$/GitLab/row-level-recon/.gitlab-ci.yml" timestamp="1594910307152">
         <mark key="[" line="21" column="0" />
@@ -174,12 +157,6 @@
         <mark key="]" line="37" column="0" />
         <mark key="^" line="37" column="0" />
         <mark key="." line="37" column="0" />
-      </file>
-      <file name="$USER_HOME$/GitLab/row-level-recon/docker-compose.yml" timestamp="1594911553817">
-        <mark key="[" line="12" column="13" />
-        <mark key="]" line="12" column="14" />
-        <mark key="." line="12" column="14" />
-        <mark key="^" line="23" column="50" />
       </file>
       <file name="$USER_HOME$/GitLab/row-level-recon/dockerfiles/Dockerfile.migration" timestamp="1594915563910" />
       <file name="$USER_HOME$/GitLab/row-level-recon/recon/recon.py" timestamp="1594847455472">
