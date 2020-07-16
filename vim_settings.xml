@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>get_users</entry>
         <entry>select</entry>
         <entry>FROM</entry>
         <entry encoding="base64">XDx2YWx1ZVw+</entry>
@@ -27,10 +26,9 @@
         <entry>orgSlug</entry>
         <entry encoding="base64">Olwg</entry>
         <entry>env</entry>
+        <entry>LEFT</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL3N0Zy9wcm9kL2c=</entry>
-        <entry encoding="base64">JzwsJz5zL3Byb2Qvc3RnL2c=</entry>
         <entry encoding="base64">JzwsJz5zL1BST0QvU1RHL2c=</entry>
         <entry>s/pg_conn/rep_pg_conn/g</entry>
         <entry>s/pg_conn/rep_pg_conn/gc</entry>
@@ -49,6 +47,8 @@
         <entry encoding="base64">JzwsJz5zL29yZ1NsdWcvb3JnX3NsdWcvZw==</entry>
         <entry encoding="base64">JzwsJz5zLzpcIC89L2c=</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz5zL0xFRlQvL2c=</entry>
+        <entry encoding="base64">JzwsJz5zL0xFRlQvRlVMTCBPVVRFUi9n</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -106,12 +106,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/start_script.py" timestamp="1594758245965">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/.gitlab-ci.yml" timestamp="1594766128699">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="113" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c8741a45-206f-4253-89be-6cc74f6d936f/console_15.sql" timestamp="1594938419584">
+        <mark key="[" line="5" column="7" />
+        <mark key="]" line="8" column="27" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/GitLab/row-level-recon/pyproject.toml" timestamp="1594766922506">
         <mark key="[" line="31" column="11" />
@@ -120,16 +118,17 @@
       </file>
       <file name="/pyproject.toml" timestamp="1594910173150" />
       <file name="$USER_HOME$/GitLab/row-level-recon/dockerfiles/Dockerfile.test.py37" timestamp="1594912370355" />
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/474e0395-a1ff-498b-8c7e-10cd2ffeb7db/console_4.sql" timestamp="1594751474145">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/GitLab/row-level-recon/tests/test_functional_local.py" timestamp="1594927577206">
         <mark key="[" line="81" column="26" />
         <mark key="]" line="66" column="55" />
         <mark key="." line="66" column="54" />
         <mark key="^" line="66" column="55" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c8741a45-206f-4253-89be-6cc74f6d936f/console_16.sql" timestamp="1594939783977">
+        <mark key="'" line="42" column="0" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/GitLab/row-level-recon/.gitlab-ci.yml" timestamp="1594932229013">
         <mark key="'" line="55" column="42" />
@@ -137,12 +136,6 @@
         <mark key="]" line="49" column="19" />
         <mark key="^" line="21" column="27" />
         <mark key="." line="49" column="19" />
-      </file>
-      <file name="$USER_HOME$/GitLab/row-level-recon/lambda_handler.py" timestamp="1594757501275">
-        <mark key="[" line="29" column="17" />
-        <mark key="]" line="37" column="0" />
-        <mark key="^" line="37" column="0" />
-        <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/GitLab/row-level-recon/tests/flycheck_test_functional_local.py" timestamp="1594927486560">
         <mark key="[" line="67" column="30" />
@@ -156,13 +149,24 @@
         <mark key="^" line="56" column="0" />
         <mark key="." line="56" column="0" />
       </file>
-      <file name="/console_4" timestamp="1594751470896">
+      <file name="/console_14" timestamp="1594937954348">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/console_15" timestamp="1594937995769">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/console_16" timestamp="1594938661437">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/GitLab/row-level-recon/package.json" timestamp="1594932517090">
         <mark key="[" line="10" column="41" />
       </file>
       <file name="$USER_HOME$/GitLab/row-level-recon/dockerfiles/Dockerfile.migration" timestamp="1594915563910" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c8741a45-206f-4253-89be-6cc74f6d936f/console_14.sql" timestamp="1594937956078">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/GitLab/row-level-recon/recon/recon.py" timestamp="1594847455472">
         <mark key="[" line="30" column="12" />
         <mark key="]" line="30" column="12" />
@@ -171,8 +175,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="46" filename="$USER_HOME$/GitHub/data-db-loader/db_loader/entry/adhoc_kinesis_lambda.py" />
-      <jump line="40" column="14" filename="$USER_HOME$/GitHub/data-db-loader/db_loader/entry/adhoc_kinesis_lambda.py" />
       <jump line="41" column="15" filename="$USER_HOME$/GitHub/data-db-loader/db_loader/entry/adhoc_kinesis_lambda.py" />
       <jump line="44" column="42" filename="$USER_HOME$/GitHub/data-db-loader/db_loader/entry/adhoc_kinesis_lambda.py" />
       <jump line="42" column="7" filename="$USER_HOME$/GitHub/data-db-loader/tests/ad_hoc_kinesis_s3/test_ad_hoc_kinesis_s3.py" />
@@ -271,61 +273,101 @@
       <jump line="94" column="2" filename="$USER_HOME$/GitLab/row-level-recon/.gitlab-ci.yml" />
       <jump line="49" column="22" filename="$USER_HOME$/GitLab/row-level-recon/.gitlab-ci.yml" />
       <jump line="55" column="42" filename="$USER_HOME$/GitLab/row-level-recon/.gitlab-ci.yml" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/c8741a45-206f-4253-89be-6cc74f6d936f/console_16.sql" />
+      <jump line="42" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/c8741a45-206f-4253-89be-6cc74f6d936f/console_16.sql" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>pipenv</text>
+      <register name="&quot;" type="2">
+        <text>group by
+    du.username,
+    du.first,
+    du.last,
+    dep.name,
+    dep.slug,
+    drg.label,
+    dr.label,
+    overridden_user,
+    ocl.on_time,
+    ocl.off_time,
+    dr.label
+ORDER BY du.username, ocl.on_time</text>
       </register>
       <register name="-" type="4">
-        <text>pipenv</text>
+        <text encoding="base64">IEFTIHNoaWZ0TmFtZSw=</text>
       </register>
       <register name="/" type="4">
-        <text>env</text>
+        <text>LEFT</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIG15cHkge3Bvc2FyZ3M6bGFtYmRhX2hhbmRsZXIucHkgdG9vbHMgcmVjb24gY2xpLnB5fQo=</text>
+        <text encoding="base64">d2hlcmUgb3JnX2lkID0gMTA2NzgKICAgIGFuZCBpbmNpZGVudF9pZCA9IDI3ODY1NjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">W3RveF0KZW52bGlzdCA9IHB5MzcsbGludCx0eXBlCgpbdGVzdGVudl0Kc2tpcF9pbnN0YWxsID0gVHJ1ZQpjb21tYW5kcyA9CiAgICBweXRlc3QgLXYgLXJhIC0tZXhpdGZpcnN0IHtwb3NhcmdzOnRlc3RzfQoKW3Rlc3RlbnY6bGludF0KY29tbWFuZHMgPQogICAgIyBUT0RPIHB5bGludCBjbGVhbnVwIHRlc3RzCiAgICBweWxpbnQge3Bvc2FyZ3M6bGFtYmRhX2hhbmRsZXIucHkgdG9vbHMgcmVjb259CgpbdGVzdGVudjp0eXBlXQpzZXRlbnYgPQogICAgTVlQWVBBVEggPSB7dG94aW5pZGlyfQpjb21tYW5kcyA9CiAgICBteXB5IHtwb3NhcmdzOmxhbWJkYV9oYW5kbGVyLnB5IHRvb2xzIHJlY29uIGNsaS5weX0KCgo=</text>
+        <text>group by
+    du.username,
+    du.first,
+    du.last,
+    dep.name,
+    dep.slug,
+    drg.label,
+    dr.label,
+    overridden_user,
+    ocl.on_time,
+    ocl.off_time,
+    dr.label
+ORDER BY du.username, ocl.on_time</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG15cHkge3Bvc2FyZ3M6bGFtYmRhX2hhbmRsZXIucHkgdG9vbHN9Cg==</text>
+        <text>group by
+    du.username,
+    du.first,
+    du.last,
+    dep.name,
+    dep.slug,
+    drg.label,
+    dr.label,
+    overridden_user,
+    ocl.on_time,
+    ocl.off_time,
+    dr.label
+ORDER BY du.username, ocl.on_time</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">cGFzc2VudiA9CiAgICBEQVRBX0RCX0hPU1QKICAgIERBVEFfREJfUE9SVAo=</text>
+      <register name="3" type="4">
+        <text>(SELECT u2.username
+  FROM vo_reports_data_warehouse.dimension_user u2
+ WHERE u2.user_id = ocl.user_id)</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHB5bGludCB7cG9zYXJnczpsYW1iZGFfaGFuZGxlci5weSB0b29scyByZWNvbn0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHB5bGludCB7cG9zYXJnczpsYW1iZGFfaGFuZGxlci5weSB0b29scyByZWNvbn0K</text>
+        <text encoding="base64">c2VsZWN0ICoKZnJvbSB2b19yZXBvcnRzX2RhdGFfd2FyZWhvdXNlLmRpbWVuc2lvbl9vcmcKd2hlcmUgb3JnX3NsdWcgPSAnbG9nbWVpbicK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHB5bGludCB7cG9zYXJnczpzZXR1cC5weSBsYW1iZGFfaGFuZGxlciB0b29sc30K</text>
+        <text encoding="base64">W3RveF0KZW52bGlzdCA9IHB5MzcsbGludCx0eXBlCgpbdGVzdGVudl0Kc2tpcF9pbnN0YWxsID0gVHJ1ZQpjb21tYW5kcyA9CiAgICBweXRlc3QgLXYgLXJhIC0tZXhpdGZpcnN0IHtwb3NhcmdzOnRlc3RzfQoKW3Rlc3RlbnY6bGludF0KY29tbWFuZHMgPQogICAgIyBUT0RPIHB5bGludCBjbGVhbnVwIHRlc3RzCiAgICBweWxpbnQge3Bvc2FyZ3M6bGFtYmRhX2hhbmRsZXIucHkgdG9vbHMgcmVjb259CgpbdGVzdGVudjp0eXBlXQpzZXRlbnYgPQogICAgTVlQWVBBVEggPSB7dG94aW5pZGlyfQpjb21tYW5kcyA9CiAgICBteXB5IHtwb3NhcmdzOmxhbWJkYV9oYW5kbGVyLnB5IHRvb2xzIHJlY29uIGNsaS5weX0KCgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cGFzc2VudiA9CiAgICBEQVRBX0RCX0hPU1QKICAgIERBVEFfREJfUE9SVAo=</text>
+        <text encoding="base64">ICAgIG15cHkge3Bvc2FyZ3M6bGFtYmRhX2hhbmRsZXIucHkgdG9vbHN9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBvZXRyeSBpbnN0YWxsIC12Cg==</text>
+        <text encoding="base64">cGFzc2VudiA9CiAgICBEQVRBX0RCX0hPU1QKICAgIERBVEFfREJfUE9SVAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZW52bGlzdCA9IHB5MzcsbGludAo=</text>
+        <text encoding="base64">ICAgIHB5bGludCB7cG9zYXJnczpsYW1iZGFfaGFuZGxlci5weSB0b29scyByZWNvbn0K</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">JzwsJz5zL0xFRlQvRlVMTCBPVVRFUi9n</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>env</last-search>
+      <last-search>LEFT</last-search>
       <last-offset />
-      <last-pattern>env</last-pattern>
-      <last-replace>=</last-replace>
-      <last-substitute encoding="base64">Olwg</last-substitute>
+      <last-pattern>LEFT</last-pattern>
+      <last-replace>FULL OUTER</last-replace>
+      <last-substitute>LEFT</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
