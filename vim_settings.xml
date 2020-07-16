@@ -121,11 +121,17 @@
         <mark key="]" line="17" column="272" />
       </file>
       <file name="$USER_HOME$/GitLab/row-level-recon/pyproject.toml" timestamp="1594766922506">
-        <mark key="[" line="7" column="11" />
-        <mark key="]" line="7" column="11" />
-        <mark key="." line="7" column="11" />
+        <mark key="[" line="31" column="11" />
+        <mark key="]" line="31" column="11" />
+        <mark key="." line="31" column="11" />
       </file>
       <file name="/pyproject.toml" timestamp="1594910173150" />
+      <file name="$USER_HOME$/GitLab/row-level-recon/dockerfiles/Dockerfile.test.py37" timestamp="1594912370355">
+        <mark key="[" line="9" column="18" />
+        <mark key="]" line="9" column="18" />
+        <mark key="." line="9" column="18" />
+        <mark key="^" line="9" column="19" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/474e0395-a1ff-498b-8c7e-10cd2ffeb7db/console_4.sql" timestamp="1594751474145">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -136,14 +142,11 @@
         <mark key="]" line="18" column="49" />
         <mark key="." line="18" column="49" />
       </file>
-      <file name="/" timestamp="1594739817104">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/GitLab/row-level-recon/Makefile" timestamp="1594767468122">
-        <mark key="[" line="36" column="23" />
-        <mark key="]" line="36" column="44" />
-        <mark key="." line="36" column="43" />
-        <mark key="^" line="36" column="44" />
+      <file name="$USER_HOME$/GitLab/row-level-recon/Makefile" timestamp="1594912308850">
+        <mark key="[" line="35" column="10" />
+        <mark key="]" line="35" column="10" />
+        <mark key="." line="35" column="10" />
+        <mark key="^" line="35" column="11" />
       </file>
       <file name="$USER_HOME$/GitLab/row-level-recon/.env" timestamp="1594744830658">
         <mark key="'" line="7" column="53" />
@@ -152,9 +155,11 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="54" />
       </file>
-      <file name="$USER_HOME$/GitLab/row-level-recon/serverless.yml" timestamp="1594743486162">
-        <mark key="[" line="61" column="18" />
-        <mark key="]" line="61" column="69" />
+      <file name="$USER_HOME$/GitLab/row-level-recon/tox.ini" timestamp="1594912929895">
+        <mark key="[" line="2" column="14" />
+        <mark key="]" line="2" column="14" />
+        <mark key="^" line="2" column="14" />
+        <mark key="." line="2" column="13" />
       </file>
       <file name="$USER_HOME$/GitLab/row-level-recon/.gitlab-ci.yml" timestamp="1594910307152">
         <mark key="[" line="21" column="0" />
@@ -177,7 +182,7 @@
         <mark key="^" line="37" column="0" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="$USER_HOME$/GitLab/row-level-recon/docker-compose.yml" timestamp="1594910941235">
+      <file name="$USER_HOME$/GitLab/row-level-recon/docker-compose.yml" timestamp="1594911553817">
         <mark key="[" line="12" column="13" />
         <mark key="]" line="12" column="14" />
         <mark key="." line="12" column="14" />
@@ -191,8 +196,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="210" column="0" filename="/SE-736_analysis.ipynb" />
-      <jump line="30" column="0" filename="$USER_HOME$/Library/Application Support/iTerm2/Scripts/ssh_tunnels.py" />
       <jump line="8" column="20" filename="$USER_HOME$/GitHub/data-db-loader/db_loader/entry/adhoc_kinesis_lambda.py" />
       <jump line="20" column="28" filename="$USER_HOME$/GitHub/data-db-loader/db_loader/entry/adhoc_kinesis_lambda.py" />
       <jump line="35" column="3" filename="$USER_HOME$/GitHub/data-db-loader/db_loader/entry/adhoc_kinesis_lambda.py" />
@@ -291,50 +294,50 @@
       <jump line="77" column="8" filename="$USER_HOME$/GitLab/pts_hec_aggregator/tests/test_lambda_handler.py" />
       <jump line="70" column="8" filename="$USER_HOME$/GitLab/pts_hec_aggregator/tests/test_lambda_handler.py" />
       <jump line="7" column="53" filename="$USER_HOME$/GitLab/row-level-recon/.env" />
+      <jump line="35" column="0" filename="$USER_HOME$/GitLab/row-level-recon/tox.ini" />
+      <jump line="17" column="16" filename="$USER_HOME$/GitLab/row-level-recon/tox.ini" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>2</text>
+        <text encoding="base64">IC0tc3lzdGVt</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text encoding="base64">IC0tc3lzdGVt</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">Olwg</text>
       </register>
-      <register name="0" type="4">
-        <text>openjdk9-jre</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIG15cHkge3Bvc2FyZ3M6bGFtYmRhX2hhbmRsZXIucHkgdG9vbHMgcmVjb24gY2xpLnB5fQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC0gYXBrIGFkZCBvcGVuamRrOS1qcmUgcHkzLXBpcCBweXRob24zLWRldiBtYWtlIG9wZW5zc2wgYmFzaCBidWlsZC1iYXNlIGxpYmZmaS1kZXYgb3BlbnNzbC1kZXYK</text>
+        <text encoding="base64">W3RveF0KZW52bGlzdCA9IHB5MzcsbGludCx0eXBlCgpbdGVzdGVudl0Kc2tpcF9pbnN0YWxsID0gVHJ1ZQpjb21tYW5kcyA9CiAgICBweXRlc3QgLXYgLXJhIC0tZXhpdGZpcnN0IHtwb3NhcmdzOnRlc3RzfQoKW3Rlc3RlbnY6bGludF0KY29tbWFuZHMgPQogICAgIyBUT0RPIHB5bGludCBjbGVhbnVwIHRlc3RzCiAgICBweWxpbnQge3Bvc2FyZ3M6bGFtYmRhX2hhbmRsZXIucHkgdG9vbHMgcmVjb259CgpbdGVzdGVudjp0eXBlXQpzZXRlbnYgPQogICAgTVlQWVBBVEggPSB7dG94aW5pZGlyfQpjb21tYW5kcyA9CiAgICBteXB5IHtwb3NhcmdzOmxhbWJkYV9oYW5kbGVyLnB5IHRvb2xzIHJlY29uIGNsaS5weX0KCgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBBdm9pZCBwaXBlbnYtdG94IGlzc3Vlcwo=</text>
+        <text encoding="base64">ICAgIG15cHkge3Bvc2FyZ3M6bGFtYmRhX2hhbmRsZXIucHkgdG9vbHN9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">cGFzc2VudiA9CiAgICBEQVRBX0RCX0hPU1QKICAgIERBVEFfREJfUE9SVAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgIHB5bGludCB7cG9zYXJnczpsYW1iZGFfaGFuZGxlci5weSB0b29scyByZWNvbn0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CXBpcDMgaW5zdGFsbCBwb2V0cnk9PTEuMC45IHRveD09My43LjAK</text>
+        <text encoding="base64">ICAgIHB5bGludCB7cG9zYXJnczpsYW1iZGFfaGFuZGxlci5weSB0b29scyByZWNvbn0K</text>
       </register>
-      <register name="6" type="4">
-        <text>dd feed name to logged output
-
-This helps the logs make sense when this function is run asynchronously by labeling each log message with the feed to which it is attributed.</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHB5bGludCB7cG9zYXJnczpzZXR1cC5weSBsYW1iZGFfaGFuZGxlciB0b29sc30K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ci0gQWxsb3dzIGFsbCBmb3VyIGZlZWRzIHRvIHJ1</text>
+        <text encoding="base64">cGFzc2VudiA9CiAgICBEQVRBX0RCX0hPU1QKICAgIERBVEFfREJfUE9SVAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBvZXRyeSBpbnN0YWxsIC12Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50KCItLS0gJXMgc2Vjb25kcyAtLS0iICUgKHRpbWUudGltZSgpIC0gc3RhcnRfdGltZSkpCg==</text>
+        <text encoding="base64">ZW52bGlzdCA9IHB5MzcsbGludAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

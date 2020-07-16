@@ -6,6 +6,7 @@
       <mapping ext="apxc" type="JavaFX" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern=".envrc" type="PLAIN_TEXT" />
+      <mapping ext="toml" type="PLAIN_TEXT" />
       <mapping pattern="victorops" type="Python" />
       <mapping ext="tmpl" type="SQL" />
     </extensionMap>
