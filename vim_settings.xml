@@ -106,18 +106,21 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1594932570026">
+      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/setup.py" timestamp="1595888275474">
+        <mark key="[" line="15" column="20" />
+      </file>
+      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/tests/test_lambda_handler.py" timestamp="1595888721661">
+        <mark key="[" line="148" column="28" />
+        <mark key="]" line="148" column="28" />
+        <mark key="." line="148" column="28" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1595888442723">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c8741a45-206f-4253-89be-6cc74f6d936f/console_15.sql" timestamp="1594938419584">
         <mark key="[" line="5" column="7" />
         <mark key="]" line="8" column="27" />
         <mark key="." line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/GitLab/row-level-recon/pyproject.toml" timestamp="1594766922506">
-        <mark key="[" line="31" column="11" />
-        <mark key="]" line="31" column="11" />
-        <mark key="." line="31" column="11" />
       </file>
       <file name="$USER_HOME$/GitLab/row-level-recon/tests/test_functional_local.py" timestamp="1594927577206">
         <mark key="[" line="81" column="26" />
@@ -139,11 +142,11 @@
       <file name="/console_14" timestamp="1594937954348">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/src/queries.py" timestamp="1595880643886">
-        <mark key="[" line="24" column="27" />
-        <mark key="]" line="24" column="27" />
-        <mark key="^" line="24" column="27" />
-        <mark key="." line="24" column="26" />
+      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/src/queries.py" timestamp="1595888210548">
+        <mark key="[" line="14" column="28" />
+        <mark key="]" line="14" column="28" />
+        <mark key="^" line="25" column="27" />
+        <mark key="." line="14" column="28" />
       </file>
       <file name="$USER_HOME$/GitLab/row-level-recon/.gitlab-ci.yml" timestamp="1594932229013">
         <mark key="'" line="55" column="42" />
@@ -158,28 +161,24 @@
       <file name="/console_16" timestamp="1595882992261">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/README.md" timestamp="1595879689699">
-        <mark key="[" line="13" column="104" />
-        <mark key="]" line="13" column="56" />
-        <mark key="." line="13" column="55" />
-        <mark key="^" line="13" column="56" />
-      </file>
       <file name="$USER_HOME$/GitLab/row-level-recon/tests/flycheck_test_functional_local.py" timestamp="1594927486560">
         <mark key="[" line="67" column="30" />
       </file>
       <file name="$USER_HOME$/GitLab/row-level-recon/package.json" timestamp="1594932517090">
         <mark key="[" line="10" column="41" />
       </file>
+      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/__version__.py" timestamp="1595888238405">
+        <mark key="[" line="0" column="20" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c8741a45-206f-4253-89be-6cc74f6d936f/console_14.sql" timestamp="1594937956078">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GitLab/row-level-recon/recon/recon.py" timestamp="1594847455472">
-        <mark key="[" line="30" column="12" />
-        <mark key="]" line="30" column="12" />
-        <mark key="." line="30" column="12" />
-        <mark key="^" line="30" column="27" />
+      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/_version.py" timestamp="1595888262566">
+        <mark key="[" line="0" column="19" />
+        <mark key="]" line="0" column="19" />
+        <mark key="." line="0" column="19" />
       </file>
     </filemarks>
     <jumps>
@@ -288,33 +287,24 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IFRoaXMgZmFjdCBtdXN0IGJlIGNvbnNpZGVyZWQgd2hlbiB2aWV3aW5nIHRoZSBkYXRhIGluIFNwbHVuaw==</text>
+        <text>transitioned_at</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IFRoaXMgZmFjdCBtdXN0IGJlIGNvbnNpZGVyZWQgd2hlbiB2aWV3aW5nIHRoZSBkYXRhIGluIFNwbHVuaw==</text>
+        <text>transitioned_at</text>
       </register>
       <register name="/" type="4">
         <text>LEFT</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">d2hlcmUgb3JnX2lkID0gMTA2NzgKICAgIGFuZCBpbmNpZGVudF9pZCA9IDI3ODY1NjsK</text>
+        <text encoding="base64">ICAgIGFuZCAgIGRhdGVfcGFyc2Uoc3Vic3RyKHRyYW5zaXRpb25lZF9hdCwxLDEzKSwnJVktJW0tJWRUJUgnKSA+PSBEQVRFKCcyMDIwLTA2LTAxJykgCg==</text>
       </register>
       <register name="1" type="2">
-        <text>group by
-    du.username,
-    du.first,
-    du.last,
-    dep.name,
-    dep.slug,
-    drg.label,
-    dr.label,
-    overridden_user,
-    ocl.on_time,
-    ocl.off_time,
-    dr.label
-ORDER BY du.username, ocl.on_time</text>
+        <text encoding="base64">X192ZXJzaW9uX18gPSAnMC4wLjEnCg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">X192ZXJzaW9uX18gPSAnMC4wLjEnCg==</text>
+      </register>
+      <register name="3" type="2">
         <text>group by
     du.username,
     du.first,
@@ -329,28 +319,37 @@ ORDER BY du.username, ocl.on_time</text>
     dr.label
 ORDER BY du.username, ocl.on_time</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="2">
+        <text>group by
+    du.username,
+    du.first,
+    du.last,
+    dep.name,
+    dep.slug,
+    drg.label,
+    dr.label,
+    overridden_user,
+    ocl.on_time,
+    ocl.off_time,
+    dr.label
+ORDER BY du.username, ocl.on_time</text>
+      </register>
+      <register name="5" type="4">
         <text>(SELECT u2.username
   FROM vo_reports_data_warehouse.dimension_user u2
  WHERE u2.user_id = ocl.user_id)</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">c2VsZWN0ICoKZnJvbSB2b19yZXBvcnRzX2RhdGFfd2FyZWhvdXNlLmRpbWVuc2lvbl9vcmcKd2hlcmUgb3JnX3NsdWcgPSAnbG9nbWVpbicK</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">W3RveF0KZW52bGlzdCA9IHB5MzcsbGludCx0eXBlCgpbdGVzdGVudl0Kc2tpcF9pbnN0YWxsID0gVHJ1ZQpjb21tYW5kcyA9CiAgICBweXRlc3QgLXYgLXJhIC0tZXhpdGZpcnN0IHtwb3NhcmdzOnRlc3RzfQoKW3Rlc3RlbnY6bGludF0KY29tbWFuZHMgPQogICAgIyBUT0RPIHB5bGludCBjbGVhbnVwIHRlc3RzCiAgICBweWxpbnQge3Bvc2FyZ3M6bGFtYmRhX2hhbmRsZXIucHkgdG9vbHMgcmVjb259CgpbdGVzdGVudjp0eXBlXQpzZXRlbnYgPQogICAgTVlQWVBBVEggPSB7dG94aW5pZGlyfQpjb21tYW5kcyA9CiAgICBteXB5IHtwb3NhcmdzOmxhbWJkYV9oYW5kbGVyLnB5IHRvb2xzIHJlY29uIGNsaS5weX0KCgo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIG15cHkge3Bvc2FyZ3M6bGFtYmRhX2hhbmRsZXIucHkgdG9vbHN9Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">cGFzc2VudiA9CiAgICBEQVRBX0RCX0hPU1QKICAgIERBVEFfREJfUE9SVAo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB5bGludCB7cG9zYXJnczpsYW1iZGFfaGFuZGxlci5weSB0b29scyByZWNvbn0K</text>
+        <text encoding="base64">ICAgIG15cHkge3Bvc2FyZ3M6bGFtYmRhX2hhbmRsZXIucHkgdG9vbHN9Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL0xFRlQvRlVMTCBPVVRFUi9n</text>
