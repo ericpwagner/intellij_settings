@@ -158,8 +158,10 @@
       <file name="/console_16" timestamp="1595876517908">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/README.md" timestamp="1595876644310">
-        <mark key="[" line="14" column="52" />
+      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/README.md" timestamp="1595877980628">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/GitLab/row-level-recon/tests/flycheck_test_functional_local.py" timestamp="1594927486560">
         <mark key="[" line="67" column="30" />
@@ -284,23 +286,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text>group by
-    du.username,
-    du.first,
-    du.last,
-    dep.name,
-    dep.slug,
-    drg.label,
-    dr.label,
-    overridden_user,
-    ocl.on_time,
-    ocl.off_time,
-    dr.label
-ORDER BY du.username, ocl.on_time</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">VGhlIHJhdGUgYXQgd2hpY2ggdGhlIGxhbWJkYSBpcyBydW4gaXMgZGV0ZXJtaW5lZCA=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IEFTIHNoaWZ0TmFtZSw=</text>
+        <text encoding="base64">VGhlIHJhdGUgYXQgd2hpY2ggdGhlIGxhbWJkYSBpcyBydW4gaXMgZGV0ZXJtaW5lZCA=</text>
       </register>
       <register name="/" type="4">
         <text>LEFT</text>
