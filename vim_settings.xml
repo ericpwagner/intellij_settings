@@ -154,10 +154,15 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.json" timestamp="1596041323366">
-        <mark key="[" line="0" column="9" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="/Dummy.json" timestamp="1596043016842">
+        <mark key="[" line="10" column="9" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/src/process_event.py" timestamp="1596042991654">
+        <mark key="[" line="124" column="0" />
+        <mark key="]" line="124" column="0" />
+        <mark key="." line="124" column="0" />
       </file>
       <file name="$USER_HOME$/GitLab/pts_hec_aggregator/_version.py" timestamp="1595888262566">
         <mark key="[" line="0" column="19" />
@@ -271,10 +276,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text>{“event”:”79a59df900b949e55d96a1e698fbacedfd6e09d98eacf8f8d5218e7cd47ef2be batch_4.2 [15/Feb/2019:09:39:37 +0000] 192.0.2.3 […] TLSV1.1&quot;}</text>
+        <text>{“event”:”79a59df900b949e55d96a1e698fbacedfd6e09d98eacf8f8d5218e7cd47ef2be batch_4.1 [15/Feb/2019:09:39:37 +] 192.0.2.3 […] TLSV1.1&quot;}</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>0000</text>
       </register>
       <register name="/" type="4">
         <text>65</text>
@@ -283,55 +288,31 @@
         <text encoding="base64">U1RBR0lORzoKYGBgYmFzaApzZnQgdXNlIHNwbHVuay1zdGcgJiYgc2Z0IGxpc3Qtc2VydmVycyB8IGdyZXAgZXRsMQpzc2ggcmVwb3J0aW5nLWV0bDEuc3RnCmBgYAo=</text>
       </register>
       <register name="1" type="2">
-        <text>{“event”:”79a59df900b949e55d96a1e698fbacedfd6e09d98eacf8f8d5218e7cd47ef2be batch_4.2 [15/Feb/2019:09:39:37 +0000] 192.0.2.3 […] TLSV1.1&quot;}</text>
+        <text>{“event”:”79a59df900b949e55d96a1e698fbacedfd6e09d98eacf8f8d5218e7cd47ef2be batch_4.1 [15/Feb/2019:09:39:37 +] 192.0.2.3 […] TLSV1.1&quot;}</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBtb3JlIGRlc2NyaXB0aXZlIFJFQURNRQo=</text>
+        <text encoding="base64">ICAgICAgICAndmVyc2lvbic6ICcwLjAuMScK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFEClVzZXMgYSBQT0VUUlkgZW52aXJvbm1lbnQuICBGcm9tIHRvcCBsZXZlbCBkaXJlY3RvcnksIHJ1biB0aGUgZm9sbG93aW5nOgo9PT09PT09Cg==</text>
+        <text>{“event”:”79a59df900b949e55d96a1e698fbacedfd6e09d98eacf8f8d5218e7cd47ef2be batch_4.2 [15/Feb/2019:09:39:37 +0000] 192.0.2.3 […] TLSV1.1&quot;}</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Pj4+Pj4+PiBtb3JlIGRlc2NyaXB0aXZlIFJFQURNRQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECiMjIFByb2Nlc3MKPT09PT09PQo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFEClVzZXMgYSBQT0VUUlkgZW52aXJvbm1lbnQuICBGcm9tIHRvcCBsZXZlbCBkaXJlY3RvcnksIHJ1biB0aGUgZm9sbG93aW5nOgo9PT09PT09Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">X192ZXJzaW9uX18gPSAnMC4wLjEnCg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBtb3JlIGRlc2NyaXB0aXZlIFJFQURNRQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">X192ZXJzaW9uX18gPSAnMC4wLjEnCg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECiMjIFByb2Nlc3MKPT09PT09PQo=</text>
       </register>
       <register name="8" type="2">
-        <text>group by
-    du.username,
-    du.first,
-    du.last,
-    dep.name,
-    dep.slug,
-    drg.label,
-    dr.label,
-    overridden_user,
-    ocl.on_time,
-    ocl.off_time,
-    dr.label
-ORDER BY du.username, ocl.on_time</text>
+        <text encoding="base64">X192ZXJzaW9uX18gPSAnMC4wLjEnCg==</text>
       </register>
       <register name="9" type="2">
-        <text>group by
-    du.username,
-    du.first,
-    du.last,
-    dep.name,
-    dep.slug,
-    drg.label,
-    dr.label,
-    overridden_user,
-    ocl.on_time,
-    ocl.off_time,
-    dr.label
-ORDER BY du.username, ocl.on_time</text>
+        <text encoding="base64">X192ZXJzaW9uX18gPSAnMC4wLjEnCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL0xFRlQvRlVMTCBPVVRFUi9n</text>
