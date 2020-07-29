@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>FROM</entry>
         <entry encoding="base64">XDx2YWx1ZVw+</entry>
         <entry>getting recov</entry>
         <entry>recovery</entry>
@@ -27,10 +26,9 @@
         <entry>env</entry>
         <entry>LEFT</entry>
         <entry>65</entry>
+        <entry>,</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL1BST0QvU1RHL2c=</entry>
-        <entry>s/pg_conn/rep_pg_conn/g</entry>
         <entry>s/pg_conn/rep_pg_conn/gc</entry>
         <entry encoding="base64">JzwsJz5zL3BnX2Nvbm4vcmVwX3BnX2Nvbm4vZw==</entry>
         <entry>78G</entry>
@@ -49,6 +47,8 @@
         <entry>w</entry>
         <entry encoding="base64">JzwsJz5zL0xFRlQvL2c=</entry>
         <entry encoding="base64">JzwsJz5zL0xFRlQvRlVMTCBPVVRFUi9n</entry>
+        <entry encoding="base64">JzwsJz5zLywvLFwgL2c=</entry>
+        <entry encoding="base64">JzwsJz5zLywvLFwvZw==</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -154,8 +154,9 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.json" timestamp="1596043016842">
-        <mark key="[" line="10" column="9" />
+      <file name="/Dummy.json" timestamp="1596044887661">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
@@ -171,8 +172,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="42" filename="$USER_HOME$/GitHub/data-db-loader/db_loader/entry/adhoc_kinesis_lambda.py" />
-      <jump line="42" column="7" filename="$USER_HOME$/GitHub/data-db-loader/tests/ad_hoc_kinesis_s3/test_ad_hoc_kinesis_s3.py" />
       <jump line="5" column="0" filename="$USER_HOME$/GitHub/data-db-loader/tests/ad_hoc_kinesis_s3/test_ad_hoc_kinesis_s3.py" />
       <jump line="43" column="0" filename="$USER_HOME$/GitHub/data-db-loader/tests/ad_hoc_kinesis_s3/test_ad_hoc_kinesis_s3.py" />
       <jump line="99" column="0" filename="$USER_HOME$/GitHub/data-db-loader/db_loader/entry/adhoc_kinesis_lambda.py" />
@@ -271,61 +270,77 @@
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/c8741a45-206f-4253-89be-6cc74f6d936f/console_16.sql" />
       <jump line="42" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/c8741a45-206f-4253-89be-6cc74f6d936f/console_16.sql" />
       <jump line="31" column="0" filename="$USER_HOME$/GitLab/pts_hec_aggregator/README.md" />
+      <jump line="12" column="0" filename="/Dummy.json" />
+      <jump line="14" column="0" filename="/Dummy.json" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text>{“event”:”79a59df900b949e55d96a1e698fbacedfd6e09d98eacf8f8d5218e7cd47ef2be batch_4.1 [15/Feb/2019:09:39:37 +] 192.0.2.3 […] TLSV1.1&quot;}</text>
+        <text />
       </register>
       <register name="-" type="4">
         <text>0000</text>
       </register>
       <register name="/" type="4">
-        <text>65</text>
+        <text>,</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">U1RBR0lORzoKYGBgYmFzaApzZnQgdXNlIHNwbHVuay1zdGcgJiYgc2Z0IGxpc3Qtc2VydmVycyB8IGdyZXAgZXRsMQpzc2ggcmVwb3J0aW5nLWV0bDEuc3RnCmBgYAo=</text>
       </register>
       <register name="1" type="2">
-        <text>{“event”:”79a59df900b949e55d96a1e698fbacedfd6e09d98eacf8f8d5218e7cd47ef2be batch_4.1 [15/Feb/2019:09:39:37 +] 192.0.2.3 […] TLSV1.1&quot;}</text>
+        <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAndmVyc2lvbic6ICcwLjAuMScK</text>
+        <text>{
+    &quot;time&quot;: 1437522387,
+    &quot;host&quot;: &quot;playground_pts_aggregator_lambda&quot;,
+    &quot;index&quot;: &quot;hec_test&quot;,
+    &quot;sourcetype&quot;: &quot;_json&quot;,
+    &quot;event&quot;: { 
+        &quot;runAt&quot;: &quot;2020-07-29T11:00:00Z&quot;,
+        &quot;runInterval&quot;: &quot;daily&quot;,
+        &quot;component&quot;: &quot;usage.VictorOpsOrgCounts&quot;,
+        &quot;version&quot;: &quot;0.0.1&quot;
+        },
+
+        { 
+&quot;runAt&quot;: &quot;2020-07-29T11:00:00Z&quot;, &quot;runInterval&quot;: &quot;daily&quot;, &quot;component&quot;: &quot;usage.VictorOpsOrgCounts&quot;, &quot;version&quot;: &quot;0.0.1&quot; }
+}</text>
       </register>
       <register name="3" type="2">
-        <text>{“event”:”79a59df900b949e55d96a1e698fbacedfd6e09d98eacf8f8d5218e7cd47ef2be batch_4.2 [15/Feb/2019:09:39:37 +0000] 192.0.2.3 […] TLSV1.1&quot;}</text>
+        <text>{“event”:”79a59df900b949e55d96a1e698fbacedfd6e09d98eacf8f8d5218e7cd47ef2be batch_4.1 [15/Feb/2019:09:39:37 +] 192.0.2.3 […] TLSV1.1&quot;}</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBtb3JlIGRlc2NyaXB0aXZlIFJFQURNRQo=</text>
+        <text encoding="base64">ICAgICAgICAndmVyc2lvbic6ICcwLjAuMScK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFEClVzZXMgYSBQT0VUUlkgZW52aXJvbm1lbnQuICBGcm9tIHRvcCBsZXZlbCBkaXJlY3RvcnksIHJ1biB0aGUgZm9sbG93aW5nOgo9PT09PT09Cg==</text>
+        <text>{“event”:”79a59df900b949e55d96a1e698fbacedfd6e09d98eacf8f8d5218e7cd47ef2be batch_4.2 [15/Feb/2019:09:39:37 +0000] 192.0.2.3 […] TLSV1.1&quot;}</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Pj4+Pj4+PiBtb3JlIGRlc2NyaXB0aXZlIFJFQURNRQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECiMjIFByb2Nlc3MKPT09PT09PQo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFEClVzZXMgYSBQT0VUUlkgZW52aXJvbm1lbnQuICBGcm9tIHRvcCBsZXZlbCBkaXJlY3RvcnksIHJ1biB0aGUgZm9sbG93aW5nOgo9PT09PT09Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">X192ZXJzaW9uX18gPSAnMC4wLjEnCg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBtb3JlIGRlc2NyaXB0aXZlIFJFQURNRQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">X192ZXJzaW9uX18gPSAnMC4wLjEnCg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECiMjIFByb2Nlc3MKPT09PT09PQo=</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL0xFRlQvRlVMTCBPVVRFUi9n</text>
+        <text encoding="base64">JzwsJz5zLywvLFwvZw==</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>65</last-search>
+      <last-search>,</last-search>
       <last-offset />
-      <last-pattern>65</last-pattern>
-      <last-replace>FULL OUTER</last-replace>
-      <last-substitute>LEFT</last-substitute>
+      <last-pattern>,</last-pattern>
+      <last-replace>,\/g</last-replace>
+      <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
