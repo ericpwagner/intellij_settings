@@ -109,26 +109,18 @@
       <file name="$USER_HOME$/GitLab/pts_hec_aggregator/setup.py" timestamp="1595888275474">
         <mark key="[" line="15" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1595973177503">
+      <file name="/Dummy.txt" timestamp="1595976773812">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/sls_config/stg.json" timestamp="1595959129922" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c8741a45-206f-4253-89be-6cc74f6d936f/console_15.sql" timestamp="1594938419584">
         <mark key="[" line="5" column="7" />
         <mark key="]" line="8" column="27" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/Makefile" timestamp="1595976578653" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c8741a45-206f-4253-89be-6cc74f6d936f/console_16.sql" timestamp="1595006704832">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="4" />
         <mark key="." line="12" column="4" />
-      </file>
-      <file name="$USER_HOME$/GitLab/row-level-recon/Makefile" timestamp="1594931442172">
-        <mark key="[" line="56" column="14" />
-        <mark key="]" line="56" column="0" />
-        <mark key="^" line="56" column="0" />
-        <mark key="." line="56" column="0" />
       </file>
       <file name="/console_14" timestamp="1594937954348">
         <mark key="[" line="0" column="0" />
@@ -151,13 +143,6 @@
       <file name="/console_16" timestamp="1595882992261">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/README.md" timestamp="1595976312594">
-        <mark key="'" line="31" column="0" />
-        <mark key="[" line="13" column="51" />
-        <mark key="]" line="70" column="15" />
-        <mark key="^" line="63" column="3" />
-        <mark key="." line="70" column="15" />
-      </file>
       <file name="$USER_HOME$/GitLab/row-level-recon/package.json" timestamp="1594932517090">
         <mark key="[" line="10" column="41" />
       </file>
@@ -168,6 +153,11 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="/Dummy.json" timestamp="1596041323366">
+        <mark key="[" line="0" column="9" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/GitLab/pts_hec_aggregator/_version.py" timestamp="1595888262566">
         <mark key="[" line="0" column="19" />
@@ -280,8 +270,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>(</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Pj4+Pj4+PiBtb3JlIGRlc2NyaXB0aXZlIFJFQURNRQo=</text>
       </register>
       <register name="-" type="4">
         <text>(</text>
@@ -293,27 +283,24 @@
         <text encoding="base64">U1RBR0lORzoKYGBgYmFzaApzZnQgdXNlIHNwbHVuay1zdGcgJiYgc2Z0IGxpc3Qtc2VydmVycyB8IGdyZXAgZXRsMQpzc2ggcmVwb3J0aW5nLWV0bDEuc3RnCmBgYAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">X192ZXJzaW9uX18gPSAnMC4wLjEnCg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBtb3JlIGRlc2NyaXB0aXZlIFJFQURNRQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">X192ZXJzaW9uX18gPSAnMC4wLjEnCg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFEClVzZXMgYSBQT0VUUlkgZW52aXJvbm1lbnQuICBGcm9tIHRvcCBsZXZlbCBkaXJlY3RvcnksIHJ1biB0aGUgZm9sbG93aW5nOgo9PT09PT09Cg==</text>
       </register>
       <register name="3" type="2">
-        <text>group by
-    du.username,
-    du.first,
-    du.last,
-    dep.name,
-    dep.slug,
-    drg.label,
-    dr.label,
-    overridden_user,
-    ocl.on_time,
-    ocl.off_time,
-    dr.label
-ORDER BY du.username, ocl.on_time</text>
+        <text encoding="base64">Pj4+Pj4+PiBtb3JlIGRlc2NyaXB0aXZlIFJFQURNRQo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">PDw8PDw8PCBIRUFECiMjIFByb2Nlc3MKPT09PT09PQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">X192ZXJzaW9uX18gPSAnMC4wLjEnCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">X192ZXJzaW9uX18gPSAnMC4wLjEnCg==</text>
+      </register>
+      <register name="7" type="2">
         <text>group by
     du.username,
     du.first,
@@ -328,22 +315,25 @@ ORDER BY du.username, ocl.on_time</text>
     dr.label
 ORDER BY du.username, ocl.on_time</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="2">
+        <text>group by
+    du.username,
+    du.first,
+    du.last,
+    dep.name,
+    dep.slug,
+    drg.label,
+    dr.label,
+    overridden_user,
+    ocl.on_time,
+    ocl.off_time,
+    dr.label
+ORDER BY du.username, ocl.on_time</text>
+      </register>
+      <register name="9" type="4">
         <text>(SELECT u2.username
   FROM vo_reports_data_warehouse.dimension_user u2
  WHERE u2.user_id = ocl.user_id)</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">c2VsZWN0ICoKZnJvbSB2b19yZXBvcnRzX2RhdGFfd2FyZWhvdXNlLmRpbWVuc2lvbl9vcmcKd2hlcmUgb3JnX3NsdWcgPSAnbG9nbWVpbicK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">W3RveF0KZW52bGlzdCA9IHB5MzcsbGludCx0eXBlCgpbdGVzdGVudl0Kc2tpcF9pbnN0YWxsID0gVHJ1ZQpjb21tYW5kcyA9CiAgICBweXRlc3QgLXYgLXJhIC0tZXhpdGZpcnN0IHtwb3NhcmdzOnRlc3RzfQoKW3Rlc3RlbnY6bGludF0KY29tbWFuZHMgPQogICAgIyBUT0RPIHB5bGludCBjbGVhbnVwIHRlc3RzCiAgICBweWxpbnQge3Bvc2FyZ3M6bGFtYmRhX2hhbmRsZXIucHkgdG9vbHMgcmVjb259CgpbdGVzdGVudjp0eXBlXQpzZXRlbnYgPQogICAgTVlQWVBBVEggPSB7dG94aW5pZGlyfQpjb21tYW5kcyA9CiAgICBteXB5IHtwb3NhcmdzOmxhbWJkYV9oYW5kbGVyLnB5IHRvb2xzIHJlY29uIGNsaS5weX0KCgo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIG15cHkge3Bvc2FyZ3M6bGFtYmRhX2hhbmRsZXIucHkgdG9vbHN9Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL0xFRlQvRlVMTCBPVVRFUi9n</text>
