@@ -134,10 +134,11 @@
       <file name="/console_16" timestamp="1595882992261">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/README.md" timestamp="1596055843425">
-        <mark key="[" line="43" column="91" />
-        <mark key="]" line="43" column="75" />
-        <mark key="." line="43" column="75" />
+      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/README.md" timestamp="1596056324889">
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
+        <mark key="^" line="40" column="12" />
       </file>
       <file name="$USER_HOME$/GitLab/pts_hec_aggregator/__version__.py" timestamp="1595888238405">
         <mark key="[" line="0" column="20" />
@@ -269,8 +270,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>the performing this</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Pj4+Pj4+PiBtb3JlIGRlc2NyaXB0aXZlIFJFQURNRQo=</text>
       </register>
       <register name="-" type="4">
         <text>the performing this</text>
@@ -282,16 +283,25 @@
         <text encoding="base64">U1RBR0lORzoKYGBgYmFzaApzZnQgdXNlIHNwbHVuay1zdGcgJiYgc2Z0IGxpc3Qtc2VydmVycyB8IGdyZXAgZXRsMQpzc2ggcmVwb3J0aW5nLWV0bDEuc3RnCmBgYAo=</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">Pj4+Pj4+PiBtb3JlIGRlc2NyaXB0aXZlIFJFQURNRQo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">PT09PT09PQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">VGhlICJ2aWN0b3JvcHNfbWVydGljcyIKLSBTdGFnaW5nIGFuZCBQbGF5Z3JvdW5kOgo=</text>
       </register>
-      <register name="2" type="4">
+      <register name="5" type="4">
         <text>used in the payload will be
 overriden</text>
       </register>
-      <register name="3" type="2">
+      <register name="6" type="2">
         <text />
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text>{
     &quot;time&quot;: 1437522387,
     &quot;host&quot;: &quot;playground_pts_aggregator_lambda&quot;,
@@ -308,20 +318,11 @@ overriden</text>
 &quot;runAt&quot;: &quot;2020-07-29T11:00:00Z&quot;, &quot;runInterval&quot;: &quot;daily&quot;, &quot;component&quot;: &quot;usage.VictorOpsOrgCounts&quot;, &quot;version&quot;: &quot;0.0.1&quot; }
 }</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text>{“event”:”79a59df900b949e55d96a1e698fbacedfd6e09d98eacf8f8d5218e7cd47ef2be batch_4.1 [15/Feb/2019:09:39:37 +] 192.0.2.3 […] TLSV1.1&quot;}</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAndmVyc2lvbic6ICcwLjAuMScK</text>
-      </register>
-      <register name="7" type="2">
-        <text>{“event”:”79a59df900b949e55d96a1e698fbacedfd6e09d98eacf8f8d5218e7cd47ef2be batch_4.2 [15/Feb/2019:09:39:37 +0000] 192.0.2.3 […] TLSV1.1&quot;}</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBtb3JlIGRlc2NyaXB0aXZlIFJFQURNRQo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFEClVzZXMgYSBQT0VUUlkgZW52aXJvbm1lbnQuICBGcm9tIHRvcCBsZXZlbCBkaXJlY3RvcnksIHJ1biB0aGUgZm9sbG93aW5nOgo9PT09PT09Cg==</text>
+        <text encoding="base64">ICAgICAgICAndmVyc2lvbic6ICcwLjAuMScK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLywvLFwvZw==</text>
