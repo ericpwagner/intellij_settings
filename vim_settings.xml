@@ -106,40 +106,20 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/tools/aws_utils.py" timestamp="1596055922585" />
-      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/sls_config/stg.json" timestamp="1596055764785" />
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c8741a45-206f-4253-89be-6cc74f6d936f/console_15.sql" timestamp="1594938419584">
-        <mark key="[" line="5" column="7" />
-        <mark key="]" line="8" column="27" />
-        <mark key="." line="7" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c8741a45-206f-4253-89be-6cc74f6d936f/console_16.sql" timestamp="1595006704832">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="4" />
-        <mark key="." line="12" column="4" />
-      </file>
-      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/src/queries.py" timestamp="1595972047495">
-        <mark key="[" line="14" column="28" />
-        <mark key="]" line="14" column="28" />
-        <mark key="." line="14" column="28" />
-      </file>
-      <file name="/Dummy.json" timestamp="1596044887661">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/GitLab/pts_hec_aggregator/setup.py" timestamp="1595888275474">
         <mark key="[" line="15" column="20" />
       </file>
       <file name="/Dummy.txt" timestamp="1596059549670">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/sls_config/prod.json" timestamp="1596055298176" />
+      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/src/queries.py" timestamp="1595972047495">
+        <mark key="[" line="14" column="28" />
+        <mark key="]" line="14" column="28" />
+        <mark key="." line="14" column="28" />
+      </file>
       <file name="/console_15" timestamp="1595882992207">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GitLab/row-level-recon/serverless.yml" timestamp="1596054275352" />
       <file name="/console_16" timestamp="1595882992261">
         <mark key="[" line="0" column="0" />
       </file>
@@ -152,8 +132,13 @@
       <file name="$USER_HOME$/GitLab/pts_hec_aggregator/__version__.py" timestamp="1595888238405">
         <mark key="[" line="0" column="20" />
       </file>
+      <file name="/Dummy.json" timestamp="1596044887661">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/GitLab/pts_hec_aggregator/src/process_event.py" timestamp="1596060767546">
-        <mark key="[" line="93" column="0" />
         <mark key="]" line="157" column="0" />
         <mark key="." line="157" column="0" />
       </file>
