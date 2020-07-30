@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>stg</entry>
         <entry>prod</entry>
         <entry>tox</entry>
         <entry>PROD</entry>
@@ -27,6 +26,7 @@
         <entry>'</entry>
         <entry>{</entry>
         <entry>}</entry>
+        <entry>event</entry>
       </history-search>
       <history-cmd>
         <entry>78</entry>
@@ -116,7 +116,8 @@
         <mark key="^" line="59" column="2" />
         <mark key="." line="57" column="10" />
       </file>
-      <file name="/Dummy.txt" timestamp="1596128243457">
+      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/sls_config/stg.json" timestamp="1596135835694" />
+      <file name="/Dummy.txt" timestamp="1596139113524">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/GitLab/pts_hec_aggregator/sls_config/playground.json" timestamp="1596127266686" />
@@ -125,11 +126,12 @@
         <mark key="]" line="14" column="28" />
         <mark key="." line="14" column="28" />
       </file>
-      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/README.md" timestamp="1596135276358">
-        <mark key="[" line="82" column="15" />
-        <mark key="]" line="82" column="15" />
-        <mark key="." line="82" column="15" />
-        <mark key="^" line="69" column="6" />
+      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/README.md" timestamp="1596140059023">
+        <mark key="'" line="119" column="109" />
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="0" />
+        <mark key="." line="68" column="0" />
+        <mark key="^" line="121" column="23" />
       </file>
       <file name="$USER_HOME$/GitLab/pts_hec_aggregator/__version__.py" timestamp="1595888238405">
         <mark key="[" line="0" column="20" />
@@ -158,8 +160,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="99" column="0" filename="$USER_HOME$/GitHub/data-db-loader/db_loader/entry/adhoc_kinesis_lambda.py" />
-      <jump line="303" column="0" filename="$USER_HOME$/GitHub/data-db-loader/serverless.yml" />
       <jump line="65" column="46" filename="$USER_HOME$/GitHub/data-db-loader/db_loader/entry/adhoc_kinesis_lambda.py" />
       <jump line="29" column="0" filename="$USER_HOME$/GitHub/data-db-loader/Makefile" />
       <jump line="34" column="0" filename="$USER_HOME$/GitHub/data-db-loader/Makefile" />
@@ -258,48 +258,50 @@
       <jump line="14" column="0" filename="/Dummy.json" />
       <jump line="64" column="1" filename="$USER_HOME$/GitLab/pts_hec_aggregator/tests/test_lambda_handler.py" />
       <jump line="60" column="0" filename="$USER_HOME$/GitLab/pts_hec_aggregator/tests/test_lambda_handler.py" />
+      <jump line="77" column="42" filename="$USER_HOME$/GitLab/pts_hec_aggregator/README.md" />
+      <jump line="119" column="109" filename="$USER_HOME$/GitLab/pts_hec_aggregator/README.md" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>XLNAJ03OODYGVV2218JA5FDGEKHXZDQJ</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>XLNAJ03OODYGVV2218JA5FDGEKHXZDQJ</text>
       </register>
       <register name="/" type="4">
-        <text>}</text>
+        <text>event</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">U1RBR0lORzoKYGBgYmFzaApzZnQgdXNlIHNwbHVuay1zdGcgJiYgc2Z0IGxpc3Qtc2VydmVycyB8IGdyZXAgZXRsMQpzc2ggcmVwb3J0aW5nLWV0bDEuc3RnCmBgYAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChmIlBheWxvYWQgPSBcbiB7ZGF0YX0iKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChmIlNlbmRpbmcgYmF0Y2ggb2Yge2xlbihiYXRjaCl9IG1lc3NhZ2VzIikK</text>
+        <text encoding="base64">Pj4+Pj4+PiBtb3JlIGRlc2NyaXB0aXZlIFJFQURNRQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhID0gZHVtcHMocCkK</text>
+        <text encoding="base64">Pj4+Pj4+PiBlNTk2NjY1Li4uIG1vcmUgZGVzY3JpcHRpdmUgUkVBRE1FCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IAo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">PT09PT09PQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -308,9 +310,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>}</last-search>
+      <last-search>event</last-search>
       <last-offset />
-      <last-pattern>}</last-pattern>
+      <last-pattern>event</last-pattern>
       <last-replace>\\}</last-replace>
       <last-substitute>}</last-substitute>
       <last-dir>1</last-dir>
