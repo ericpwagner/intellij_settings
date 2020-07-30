@@ -7,9 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDx2YWx1ZVw+</entry>
-        <entry>getting recov</entry>
-        <entry>recovery</entry>
         <entry>stg</entry>
         <entry>prod</entry>
         <entry>tox</entry>
@@ -27,11 +24,11 @@
         <entry>LEFT</entry>
         <entry>65</entry>
         <entry>,</entry>
+        <entry>'</entry>
+        <entry>{</entry>
+        <entry>}</entry>
       </history-search>
       <history-cmd>
-        <entry>s/pg_conn/rep_pg_conn/gc</entry>
-        <entry encoding="base64">JzwsJz5zL3BnX2Nvbm4vcmVwX3BnX2Nvbm4vZw==</entry>
-        <entry>78G</entry>
         <entry>78</entry>
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz53</entry>
@@ -44,11 +41,14 @@
         <entry encoding="base64">JzwsJz5zL29yZ0lEL29yZ19pZC9n</entry>
         <entry encoding="base64">JzwsJz5zL29yZ1NsdWcvb3JnX3NsdWcvZw==</entry>
         <entry encoding="base64">JzwsJz5zLzpcIC89L2c=</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz5zL0xFRlQvL2c=</entry>
         <entry encoding="base64">JzwsJz5zL0xFRlQvRlVMTCBPVVRFUi9n</entry>
         <entry encoding="base64">JzwsJz5zLywvLFwgL2c=</entry>
         <entry encoding="base64">JzwsJz5zLywvLFwvZw==</entry>
+        <entry encoding="base64">JzwsJz5zLycvL2c=</entry>
+        <entry encoding="base64">JzwsJz5zL3svXFx7L2c=</entry>
+        <entry encoding="base64">JzwsJz5zL30vXFx9L2c=</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -109,25 +109,21 @@
       <file name="$USER_HOME$/GitLab/pts_hec_aggregator/setup.py" timestamp="1595888275474">
         <mark key="[" line="15" column="20" />
       </file>
-      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/tests/test_lambda_handler.py" timestamp="1596121447285">
-        <mark key="[" line="25" column="29" />
-        <mark key="]" line="25" column="29" />
-        <mark key="^" line="26" column="16" />
-        <mark key="." line="25" column="29" />
+      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/tests/test_lambda_handler.py" timestamp="1596125944400">
+        <mark key="'" line="61" column="0" />
+        <mark key="[" line="53" column="19" />
+        <mark key="]" line="57" column="10" />
+        <mark key="^" line="59" column="2" />
+        <mark key="." line="57" column="10" />
       </file>
-      <file name="/Dummy.txt" timestamp="1596121682040">
+      <file name="/Dummy.txt" timestamp="1596126203165">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1596121126669">
-        <mark key="[" line="0" column="34" />
-      </file>
+      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/sls_config/playground.json" timestamp="1596127266686" />
       <file name="$USER_HOME$/GitLab/pts_hec_aggregator/src/queries.py" timestamp="1595972047495">
         <mark key="[" line="14" column="28" />
         <mark key="]" line="14" column="28" />
         <mark key="." line="14" column="28" />
-      </file>
-      <file name="/console_16" timestamp="1595882992261">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/GitLab/pts_hec_aggregator/README.md" timestamp="1596059649873">
         <mark key="[" line="105" column="6" />
@@ -144,11 +140,16 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/src/process_event.py" timestamp="1596122658802">
-        <mark key="[" line="73" column="23" />
-        <mark key="]" line="85" column="44" />
-        <mark key="." line="85" column="44" />
-        <mark key="^" line="85" column="44" />
+      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/src/process_event.py" timestamp="1596127728890">
+        <mark key="[" line="41" column="45" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
+      </file>
+      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/.envrc" timestamp="1596127868265">
+        <mark key="[" line="0" column="36" />
+        <mark key="]" line="3" column="17" />
+        <mark key="." line="3" column="16" />
+        <mark key="^" line="3" column="17" />
       </file>
       <file name="$USER_HOME$/GitLab/pts_hec_aggregator/_version.py" timestamp="1595888262566">
         <mark key="[" line="0" column="19" />
@@ -157,8 +158,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="0" filename="$USER_HOME$/GitHub/data-db-loader/tests/ad_hoc_kinesis_s3/test_ad_hoc_kinesis_s3.py" />
-      <jump line="43" column="0" filename="$USER_HOME$/GitHub/data-db-loader/tests/ad_hoc_kinesis_s3/test_ad_hoc_kinesis_s3.py" />
       <jump line="99" column="0" filename="$USER_HOME$/GitHub/data-db-loader/db_loader/entry/adhoc_kinesis_lambda.py" />
       <jump line="303" column="0" filename="$USER_HOME$/GitHub/data-db-loader/serverless.yml" />
       <jump line="65" column="46" filename="$USER_HOME$/GitHub/data-db-loader/db_loader/entry/adhoc_kinesis_lambda.py" />
@@ -257,62 +256,63 @@
       <jump line="31" column="0" filename="$USER_HOME$/GitLab/pts_hec_aggregator/README.md" />
       <jump line="12" column="0" filename="/Dummy.json" />
       <jump line="14" column="0" filename="/Dummy.json" />
+      <jump line="64" column="1" filename="$USER_HOME$/GitLab/pts_hec_aggregator/tests/test_lambda_handler.py" />
+      <jump line="60" column="0" filename="$USER_HOME$/GitLab/pts_hec_aggregator/tests/test_lambda_handler.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>5</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
-        <text>,</text>
+        <text>}</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">U1RBR0lORzoKYGBgYmFzaApzZnQgdXNlIHNwbHVuay1zdGcgJiYgc2Z0IGxpc3Qtc2VydmVycyB8IGdyZXAgZXRsMQpzc2ggcmVwb3J0aW5nLWV0bDEuc3RnCmBgYAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChmIlBheWxvYWQgPSBcbiB7ZGF0YX0iKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KGYiU2VuZGluZyB7bGVuKHBheWxvYWRzKX0gbWVzc2FnZXMiKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChmIlNlbmRpbmcgYmF0Y2ggb2Yge2xlbihiYXRjaCl9IG1lc3NhZ2VzIikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZpbmFsID0gW2Z1bGxfbGlzdFtpICogbjooaSArIDEpICogbl0gZm9yIGkgaW4gcmFuZ2UoKGxlbihmdWxsX2xpc3QpICsgbiAtIDEpIC8vIG4pXQogICAgcHJpbnQoZmluYWwpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBtb3JlIGRlc2NyaXB0aXZlIFJFQURNRQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAgICAgICBkYXRhID0gZHVtcHMocCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">VGhlICJ2aWN0b3JvcHNfbWVydGljcyIKLSBTdGFnaW5nIGFuZCBQbGF5Z3JvdW5kOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>used in the payload will be
-overriden</text>
+      <register name="9" type="2">
+        <text encoding="base64">IAo=</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zLywvLFwvZw==</text>
+        <text>w</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>,</last-search>
+      <last-search>}</last-search>
       <last-offset />
-      <last-pattern>,</last-pattern>
-      <last-replace>,\/g</last-replace>
-      <last-substitute>,</last-substitute>
+      <last-pattern>}</last-pattern>
+      <last-replace>\\}</last-replace>
+      <last-substitute>}</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
