@@ -110,11 +110,11 @@
         <mark key="[" line="15" column="20" />
       </file>
       <file name="$USER_HOME$/GitLab/pts_hec_aggregator/tests/test_lambda_handler.py" timestamp="1596125944400">
-        <mark key="'" line="61" column="0" />
-        <mark key="[" line="53" column="19" />
-        <mark key="]" line="57" column="10" />
-        <mark key="^" line="59" column="2" />
-        <mark key="." line="57" column="10" />
+        <mark key="'" line="100" column="0" />
+        <mark key="[" line="92" column="19" />
+        <mark key="]" line="96" column="10" />
+        <mark key="^" line="98" column="2" />
+        <mark key="." line="96" column="10" />
       </file>
       <file name="$USER_HOME$/GitLab/pts_hec_aggregator/sls_config/stg.json" timestamp="1596135835694" />
       <file name="/Dummy.txt" timestamp="1596139113524">
@@ -141,11 +141,6 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/src/process_event.py" timestamp="1596127728890">
-        <mark key="[" line="41" column="45" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
       </file>
       <file name="$USER_HOME$/GitLab/pts_hec_aggregator/.envrc" timestamp="1596135008258">
         <mark key="[" line="0" column="36" />
