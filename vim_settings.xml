@@ -133,9 +133,12 @@
       <file name="$USER_HOME$/GitLab/data/refine/alarms.tf" timestamp="1596743672739">
         <mark key="'" line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/GitLab/data/terraform.tf" timestamp="1596745696436">
+      <file name="$USER_HOME$/GitLab/data/terraform.tf" timestamp="1596746893710">
         <mark key="'" line="439" column="0" />
-        <mark key="^" line="298" column="66" />
+        <mark key="[" line="81" column="55" />
+        <mark key="]" line="81" column="55" />
+        <mark key="^" line="81" column="55" />
+        <mark key="." line="81" column="54" />
       </file>
       <file name="$USER_HOME$/GitLab/data/backend.tf" timestamp="1596744390083">
         <mark key="[" line="9" column="26" />
@@ -159,7 +162,7 @@
       <file name="$USER_HOME$/GitLab/data/load/alarms.tf" timestamp="1596744468563">
         <mark key="'" line="41" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1596743878073">
+      <file name="/Dummy.txt" timestamp="1596747032033">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/GitLab/data/postgres/variables.tf" timestamp="1596744972901">
