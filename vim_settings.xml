@@ -107,11 +107,10 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/GitLab/pts_hec_aggregator/sls_config/stg.json" timestamp="1596135835694" />
-      <file name="/Dummy.json" timestamp="1596044887661">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/GitLab/data/backend.tf" timestamp="1596740980340">
+        <mark key="[" line="8" column="24" />
+        <mark key="]" line="8" column="28" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/GitLab/pts_hec_aggregator/.envrc" timestamp="1596135008258">
         <mark key="[" line="0" column="36" />
@@ -130,8 +129,10 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/GitLab/pts_hec_aggregator/sls_config/playground.json" timestamp="1596127266686" />
-      <file name="$USER_HOME$/GitLab/data/production.tfvars" timestamp="1596740579274">
-        <mark key="[" line="7" column="50" />
+      <file name="$USER_HOME$/GitLab/data/production.tfvars" timestamp="1596740844077">
+        <mark key="[" line="8" column="8" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/GitLab/pts_hec_aggregator/README.md" timestamp="1596140059023">
         <mark key="'" line="119" column="109" />
@@ -247,7 +248,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dmFyaWFibGUgZGF0YV9yb3V0aW5nX2tleSB7fQo=</text>
       </register>
       <register name="-" type="4">
         <text>XLNAJ03OODYGVV2218JA5FDGEKHXZDQJ</text>
@@ -256,34 +257,34 @@
         <text>event</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">U1RBR0lORzoKYGBgYmFzaApzZnQgdXNlIHNwbHVuay1zdGcgJiYgc2Z0IGxpc3Qtc2VydmVycyB8IGdyZXAgZXRsMQpzc2ggcmVwb3J0aW5nLWV0bDEuc3RnCmBgYAo=</text>
+        <text encoding="base64">dmFyaWFibGUgZGF0YV9yb3V0aW5nX2tleSB7fQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dmFyaWFibGUgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBtb3JlIGRlc2NyaXB0aXZlIFJFQURNRQo=</text>
+        <text encoding="base64">ZGF0YV9sb3dfcm91dGluZ19rZXkgICAgICAgICAgICAgPSAiZGF0YV9sb3dfc2V2Igo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Pj4+Pj4+PiBtb3JlIGRlc2NyaXB0aXZlIFJFQURNRQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">PT09PT09PQo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBlNTk2NjY1Li4uIG1vcmUgZGVzY3JpcHRpdmUgUkVBRE1FCg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBlNTk2NjY1Li4uIG1vcmUgZGVzY3JpcHRpdmUgUkVBRE1FCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
