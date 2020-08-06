@@ -107,11 +107,6 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/GitLab/pts_hec_aggregator/sls_config/stg.json" timestamp="1596135835694" />
-      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/src/queries.py" timestamp="1595972047495">
-        <mark key="[" line="14" column="28" />
-        <mark key="]" line="14" column="28" />
-        <mark key="." line="14" column="28" />
-      </file>
       <file name="/Dummy.json" timestamp="1596044887661">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -135,6 +130,9 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/GitLab/pts_hec_aggregator/sls_config/playground.json" timestamp="1596127266686" />
+      <file name="$USER_HOME$/GitLab/data/production.tfvars" timestamp="1596740579274">
+        <mark key="[" line="7" column="50" />
+      </file>
       <file name="$USER_HOME$/GitLab/pts_hec_aggregator/README.md" timestamp="1596140059023">
         <mark key="'" line="119" column="109" />
         <mark key="[" line="68" column="0" />
