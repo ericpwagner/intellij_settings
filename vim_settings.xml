@@ -106,35 +106,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/setup.py" timestamp="1595888275474">
-        <mark key="[" line="15" column="20" />
-      </file>
-      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/tests/test_lambda_handler.py" timestamp="1596125944400">
-        <mark key="'" line="100" column="0" />
-        <mark key="[" line="92" column="19" />
-        <mark key="]" line="96" column="10" />
-        <mark key="^" line="98" column="2" />
-        <mark key="." line="96" column="10" />
-      </file>
       <file name="$USER_HOME$/GitLab/pts_hec_aggregator/sls_config/stg.json" timestamp="1596135835694" />
-      <file name="/Dummy.txt" timestamp="1596139113524">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/sls_config/playground.json" timestamp="1596127266686" />
       <file name="$USER_HOME$/GitLab/pts_hec_aggregator/src/queries.py" timestamp="1595972047495">
         <mark key="[" line="14" column="28" />
         <mark key="]" line="14" column="28" />
         <mark key="." line="14" column="28" />
-      </file>
-      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/README.md" timestamp="1596140059023">
-        <mark key="'" line="119" column="109" />
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="68" column="0" />
-        <mark key="." line="68" column="0" />
-        <mark key="^" line="121" column="23" />
-      </file>
-      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/__version__.py" timestamp="1595888238405">
-        <mark key="[" line="0" column="20" />
       </file>
       <file name="/Dummy.json" timestamp="1596044887661">
         <mark key="'" line="0" column="0" />
@@ -148,10 +124,23 @@
         <mark key="." line="3" column="16" />
         <mark key="^" line="3" column="17" />
       </file>
-      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/_version.py" timestamp="1595888262566">
-        <mark key="[" line="0" column="19" />
-        <mark key="]" line="0" column="19" />
-        <mark key="." line="0" column="19" />
+      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/tests/test_lambda_handler.py" timestamp="1596125944400">
+        <mark key="'" line="100" column="0" />
+        <mark key="[" line="92" column="19" />
+        <mark key="]" line="96" column="10" />
+        <mark key="^" line="98" column="2" />
+        <mark key="." line="96" column="10" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1596139113524">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/sls_config/playground.json" timestamp="1596127266686" />
+      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/README.md" timestamp="1596140059023">
+        <mark key="'" line="119" column="109" />
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="0" />
+        <mark key="." line="68" column="0" />
+        <mark key="^" line="121" column="23" />
       </file>
     </filemarks>
     <jumps>
