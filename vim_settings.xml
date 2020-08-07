@@ -116,11 +116,12 @@
         <mark key="^" line="15" column="0" />
         <mark key="." line="14" column="1" />
       </file>
-      <file name="$USER_HOME$/GitLab/data/pts/alarms.tf" timestamp="1596826432801">
+      <file name="$USER_HOME$/GitLab/data/pts/alarms.tf" timestamp="1596830413542">
         <mark key="'" line="41" column="0" />
-        <mark key="[" line="0" column="40" />
-        <mark key="]" line="0" column="40" />
-        <mark key="." line="0" column="40" />
+        <mark key="[" line="9" column="25" />
+        <mark key="]" line="9" column="66" />
+        <mark key="." line="9" column="65" />
+        <mark key="^" line="9" column="66" />
       </file>
       <file name="$USER_HOME$/GitLab/data/noopUsers/variables.tf" timestamp="1596744943871" />
       <file name="$USER_HOME$/GitLab/data/terraform.tf" timestamp="1596746893710">
@@ -274,10 +275,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>auth_loader_dlq_messages</text>
+        <text>There are messages in the DLQ for the reporting pipeline in the ${var.stream_type} loader&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>auth_loader_dlq_messages</text>
+        <text>There are messages in the DLQ for the reporting pipeline in the ${var.stream_type} loader&quot;</text>
       </register>
       <register name="/" type="4">
         <text>data_dlq_events</text>
