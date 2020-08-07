@@ -106,33 +106,25 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/GitLab/data/pipelineAlerts/sns.tf" timestamp="1596744527787">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="8" column="81" />
-      </file>
       <file name="$USER_HOME$/GitLab/data/pipelineAlerts/variables.tf" timestamp="1596744958952">
         <mark key="[" line="10" column="26" />
         <mark key="]" line="15" column="0" />
         <mark key="^" line="15" column="0" />
         <mark key="." line="14" column="1" />
       </file>
-      <file name="$USER_HOME$/GitLab/data/pts/alarms.tf" timestamp="1596830413542">
-        <mark key="'" line="41" column="0" />
-        <mark key="[" line="9" column="25" />
-        <mark key="]" line="9" column="66" />
-        <mark key="." line="9" column="65" />
-        <mark key="^" line="9" column="66" />
+      <file name="$USER_HOME$/GitLab/data/pts/alarms.tf" timestamp="1596831723792">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="22" column="30" />
+        <mark key="]" line="18" column="55" />
+        <mark key="." line="18" column="54" />
+        <mark key="^" line="18" column="55" />
       </file>
       <file name="$USER_HOME$/GitLab/data/noopUsers/variables.tf" timestamp="1596744943871" />
-      <file name="$USER_HOME$/GitLab/data/terraform.tf" timestamp="1596746893710">
-        <mark key="'" line="439" column="0" />
-        <mark key="[" line="81" column="55" />
-        <mark key="]" line="81" column="55" />
-        <mark key="^" line="81" column="55" />
-        <mark key="." line="81" column="54" />
-      </file>
-      <file name="$USER_HOME$/GitLab/data/pts/variables.tf" timestamp="1596744988428">
+      <file name="$USER_HOME$/GitLab/data/pts/variables.tf" timestamp="1596831467292">
         <mark key="[" line="20" column="1" />
+        <mark key="]" line="23" column="1" />
+        <mark key="^" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/GitLab/data/recon/variables.tf" timestamp="1596744935601">
         <mark key="[" line="61" column="27" />
@@ -145,11 +137,24 @@
         <mark key="]" line="52" column="1" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/GitLab/data/load/alarms.tf" timestamp="1596744468563">
-        <mark key="'" line="41" column="0" />
+      <file name="$USER_HOME$/GitLab/data/users/variables.tf" timestamp="1596745024759" />
+      <file name="$USER_HOME$/GitLab/data/terraform.tf" timestamp="1596746893710">
+        <mark key="'" line="439" column="0" />
+        <mark key="[" line="81" column="55" />
+        <mark key="]" line="81" column="55" />
+        <mark key="^" line="81" column="55" />
+        <mark key="." line="81" column="54" />
+      </file>
+      <file name="$USER_HOME$/GitLab/data/dms/variables.tf" timestamp="1596831453812">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="21" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1596747032033">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/GitLab/data/recon/alarms.tf" timestamp="1596830505262">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="66" />
       </file>
       <file name="$USER_HOME$/GitLab/data/playground.tfvars" timestamp="1596744758119">
         <mark key="'" line="15" column="93" />
@@ -166,11 +171,9 @@
       <file name="$USER_HOME$/GitLab/data/refine/variables.tf" timestamp="1596745011083">
         <mark key="'" line="50" column="0" />
       </file>
-      <file name="$USER_HOME$/GitLab/data/users/variables.tf" timestamp="1596745024759" />
       <file name="$USER_HOME$/GitLab/pts_hec_aggregator/src/process_event.py" timestamp="1596818342379" />
     </filemarks>
     <jumps>
-      <jump line="208" column="4" filename="$USER_HOME$/GitLab/extractinator/src/queries.py" />
       <jump line="223" column="4" filename="$USER_HOME$/GitLab/extractinator/src/queries.py" />
       <jump line="239" column="4" filename="$USER_HOME$/GitLab/extractinator/src/queries.py" />
       <jump line="111" column="0" filename="$USER_HOME$/GitLab/extractinator/src/queries.py" />
@@ -270,64 +273,50 @@
       <jump line="439" column="0" filename="$USER_HOME$/GitLab/data/terraform.tf" />
       <jump line="3" column="34" filename="$USER_HOME$/GitLab/data/pts/alarms.tf" />
       <jump line="41" column="0" filename="$USER_HOME$/GitLab/data/pts/alarms.tf" />
+      <jump line="0" column="0" filename="$USER_HOME$/GitLab/data/pts/alarms.tf" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>There are messages in the DLQ for the reporting pipeline in the ${var.stream_type} loader&quot;</text>
+        <text>_pts_lambda_failure&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>There are messages in the DLQ for the reporting pipeline in the ${var.stream_type} loader&quot;</text>
+        <text>_pts_lambda_failure&quot;</text>
       </register>
       <register name="/" type="4">
         <text>data_dlq_events</text>
       </register>
       <register name="0" type="2">
-        <text>{
-  &quot;time&quot;: 1437522387
-  &quot;host&quot;: &quot;playground_pts_aggregator_lambda&quot;,
-  &quot;index&quot;: &quot;hec_test&quot;,
-  &quot;sourcetype&quot;: &quot;_json&quot;{
-  &quot;runAt&quot;: &quot;2020-07-29T11:00:00Z&quot;,
-  &quot;runInterval&quot;: &quot;daily&quot;,
-  &quot;component&quot;: &quot;usage.VictorOpsOrgCounts&quot;,
-  &quot;version&quot;: &quot;0.0.1&quot;,
-  &quot;deploymentID&quot;: &quot;vo-456&quot;,
-  &quot;orgID&quot;: 456,
-  &quot;org_slug&quot;: &quot;some_other_org&quot;,
-  &quot;alertsCount&quot;: 145,
-  &quot;incidentsCount&quot;: 68,
-  &quot;usersCount&quot;: 102,
-  &quot;loginsCount&quot;: 88
+        <text>variable &quot;alert_sns_arn&quot; {
 }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CnJlc291cmNlICJhd3NfY2xvdWR3YXRjaF9tZXRyaWNfYWxhcm0iICJsb2FkZXJfbGFja3NfaW5jb21pbmdfZXZlbnRzIiB7CiAgYWxhcm1fbmFtZSAgICAgICAgICA9ICJbJHt2YXIuaG9zdF9wcmVmaXh9XSR7dmFyLnN0cmVhbV90eXBlfV9sb2FkZXJfbGFja3NfaW5jb21pbmdfZXZlbnRzIgogIGNvbXBhcmlzb25fb3BlcmF0b3IgPSAiTGVzc1RoYW5UaHJlc2hvbGQiCiAgZXZhbHVhdGlvbl9wZXJpb2RzICA9ICIxIgogIG1ldHJpY19uYW1lICAgICAgICAgPSAiSW52b2NhdGlvbnMiCiAgbmFtZXNwYWNlICAgICAgICAgICA9ICJBV1MvTGFtYmRhIgogIHBlcmlvZCAgICAgICAgICAgICAgPSB2YXIuYWxlcnRfbm9fZXZlbnRzX3BlcmlvZF9zZWNvbmRzCiAgc3RhdGlzdGljICAgICAgICAgICA9ICJTdW0iCiAgdGhyZXNob2xkICAgICAgICAgICA9IGxvY2FsLnRocmVzaG9sZHNbIk1pbmltdW1FdmVudENvdW50UGVyUGVyaW9kIl0KICBhbGFybV9kZXNjcmlwdGlvbiAgID0gIk5vIGV2ZW50cyBoYXZlIGJlZW4gcmVjZW5ldGx5IHJlY2VpdmVkIGluIHRoZSAke3Zhci5zdHJlYW1fdHlwZX0gbG9hZGVyIGxhbWJkYSEiCiAgYWxhcm1fYWN0aW9ucyAgICAgICA9IFt2YXIuZGF0YV9kbHFfZXZlbnRzX3Nuc19hcm5dCiAgdHJlYXRfbWlzc2luZ19kYXRhICA9ICJicmVhY2hpbmciCgogIGRpbWVuc2lvbnMgPSB7CiAgICBGdW5jdGlvbk5hbWUgPSAiZGF0YS1sb2FkLSR7dmFyLnN0cmVhbV90eXBlfSIKICB9Cn0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bG9jYWxzIHsKICB0aHJlc2hvbGRzID0gewogICAgRExRTWVzc2FnZXMgICAgICAgICAgICAgICAgPSAwCiAgICBNaW5pbXVtRXZlbnRDb3VudFBlclBlcmlvZCA9IDEKICB9Cn0K</text>
+        <text encoding="base64">ICAgIEZVID0gImRhdGEtbG9hZC0ke3Zhci5zdHJlYW1fdHlwZX0tZGxxIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgCg==</text>
+        <text encoding="base64">ICBhbGFybV9hY3Rpb25zICAgICAgID0gWyIke3Zhci5kYXRhX2RscV9ldmVudHNfc25zX2Fybn0iXQo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text>}</text>
+        <text encoding="base64">bG9jYWxzIHsKICB0aHJlc2hvbGRzID0gewogICAgRExRTWVzc2FnZXMgICAgICAgICAgICAgICAgPSAwCiAgICBNaW5pbXVtRXZlbnRDb3VudFBlclBlcmlvZCA9IDEKICB9Cn0K</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgewogICAgICAgICAgICAgICAgInJ1bkF0IjogIjIwMjAtMDctMjlUMTE6MDA6MDBaIiwKICAgICAgICAgICAgICAgICJydW5JbnRlcnZhbCI6ICJkYWlseSIsCiAgICAgICAgICAgICAgICAiY29tcG9uZW50IjogInVzYWdlLlZpY3Rvck9wc09yZ0NvdW50cyIsCiAgICAgICAgICAgICAgICAidmVyc2lvbiI6ICIwLjAuMSIsCiAgICAgICAgICAgICAgICAiZGVwbG95bWVudElEIjogInZvLTc4OSIsCiAgICAgICAgICAgICAgICAib3JnSUQiOiA3ODksCiAgICAgICAgICAgICAgICAib3JnX3NsdWciOiAiYW5vdGhlcl9vcmciLAogICAgICAgICAgICAgICAgImFsZXJ0c0NvdW50IjogMTUsCiAgICAgICAgICAgICAgICAiaW5jaWRlbnRzQ291bnQiOiA3OCwKICAgICAgICAgICAgICAgICJ1c2Vyc0NvdW50IjogMTM0LAogICAgICAgICAgICAgICAgImxvZ2luc0NvdW50IjogMjA1CiAgICAgICAgICAgIH0=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBkYXRhX3JvdXRpbmdfa2V5ICAgICAgICAgICAgID0gdmFyLmRhdGFfcm91dGluZ19rZXloCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBkYXRhX3JvdXRpbmdfa2V5ICAgICAgICAgICAgICAgICAgICAgID0gdmFyLmRhdGFfcm91dGluZ19rZXkK</text>
+        <text>}</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICBkYXRhX3JvdXRpbmdfa2V5ICAgICAgICAgICAgICAgPSB2YXIuZGF0YV9yb3V0aW5nX2tleQo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgewogICAgICAgICAgICAgICAgInJ1bkF0IjogIjIwMjAtMDctMjlUMTE6MDA6MDBaIiwKICAgICAgICAgICAgICAgICJydW5JbnRlcnZhbCI6ICJkYWlseSIsCiAgICAgICAgICAgICAgICAiY29tcG9uZW50IjogInVzYWdlLlZpY3Rvck9wc09yZ0NvdW50cyIsCiAgICAgICAgICAgICAgICAidmVyc2lvbiI6ICIwLjAuMSIsCiAgICAgICAgICAgICAgICAiZGVwbG95bWVudElEIjogInZvLTc4OSIsCiAgICAgICAgICAgICAgICAib3JnSUQiOiA3ODksCiAgICAgICAgICAgICAgICAib3JnX3NsdWciOiAiYW5vdGhlcl9vcmciLAogICAgICAgICAgICAgICAgImFsZXJ0c0NvdW50IjogMTUsCiAgICAgICAgICAgICAgICAiaW5jaWRlbnRzQ291bnQiOiA3OCwKICAgICAgICAgICAgICAgICJ1c2Vyc0NvdW50IjogMTM0LAogICAgICAgICAgICAgICAgImxvZ2luc0NvdW50IjogMjA1CiAgICAgICAgICAgIH0=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
