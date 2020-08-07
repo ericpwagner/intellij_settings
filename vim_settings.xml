@@ -110,16 +110,6 @@
         <mark key="'" line="0" column="0" />
         <mark key="[" line="8" column="81" />
       </file>
-      <file name="$USER_HOME$/GitLab/data/staging.tfvars" timestamp="1596744124764">
-        <mark key="'" line="15" column="92" />
-        <mark key="[" line="9" column="41" />
-        <mark key="]" line="9" column="41" />
-        <mark key="." line="9" column="41" />
-        <mark key="^" line="9" column="21" />
-      </file>
-      <file name="$USER_HOME$/GitLab/data/pipelineAlerts/output.tf" timestamp="1596743542287">
-        <mark key="'" line="2" column="0" />
-      </file>
       <file name="$USER_HOME$/GitLab/data/pipelineAlerts/variables.tf" timestamp="1596744958952">
         <mark key="[" line="10" column="26" />
         <mark key="]" line="21" column="0" />
@@ -130,21 +120,12 @@
         <mark key="'" line="29" column="0" />
         <mark key="[" line="29" column="1" />
       </file>
-      <file name="$USER_HOME$/GitLab/data/refine/alarms.tf" timestamp="1596743672739">
-        <mark key="'" line="41" column="0" />
-      </file>
       <file name="$USER_HOME$/GitLab/data/terraform.tf" timestamp="1596746893710">
         <mark key="'" line="439" column="0" />
         <mark key="[" line="81" column="55" />
         <mark key="]" line="81" column="55" />
         <mark key="^" line="81" column="55" />
         <mark key="." line="81" column="54" />
-      </file>
-      <file name="$USER_HOME$/GitLab/data/backend.tf" timestamp="1596744390083">
-        <mark key="[" line="9" column="26" />
-        <mark key="]" line="9" column="26" />
-        <mark key="." line="9" column="26" />
-        <mark key="^" line="7" column="34" />
       </file>
       <file name="$USER_HOME$/GitLab/data/pts/variables.tf" timestamp="1596744988428">
         <mark key="[" line="20" column="1" />
@@ -158,6 +139,11 @@
         <mark key="]" line="67" column="30" />
         <mark key="^" line="67" column="30" />
         <mark key="." line="67" column="29" />
+      </file>
+      <file name="/Dummy.json" timestamp="1596818813379">
+        <mark key="[" line="34" column="1" />
+        <mark key="]" line="52" column="1" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/GitLab/data/load/alarms.tf" timestamp="1596744468563">
         <mark key="'" line="41" column="0" />
@@ -183,10 +169,8 @@
       <file name="$USER_HOME$/GitLab/data/refine/variables.tf" timestamp="1596745011083">
         <mark key="'" line="56" column="0" />
       </file>
-      <file name="$USER_HOME$/GitLab/data/noopUsers/alarms.tf" timestamp="1596743454958">
-        <mark key="'" line="42" column="0" />
-      </file>
       <file name="$USER_HOME$/GitLab/data/users/variables.tf" timestamp="1596745024759" />
+      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/src/process_event.py" timestamp="1596818342379" />
     </filemarks>
     <jumps>
       <jump line="171" column="4" filename="$USER_HOME$/GitLab/extractinator/src/queries.py" />
@@ -294,7 +278,23 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBkYXRhX3JvdXRpbmdfa2V5X21vZF9zZXYgICAgICAgICAgICAgID0gdmFyLmRhdGFfcm91dGluZ19rZXlfbW9kX3Nldgo=</text>
+        <text>{
+  &quot;time&quot;: 1437522387
+  &quot;host&quot;: &quot;playground_pts_aggregator_lambda&quot;,
+  &quot;index&quot;: &quot;hec_test&quot;,
+  &quot;sourcetype&quot;: &quot;_json&quot;{
+  &quot;runAt&quot;: &quot;2020-07-29T11:00:00Z&quot;,
+  &quot;runInterval&quot;: &quot;daily&quot;,
+  &quot;component&quot;: &quot;usage.VictorOpsOrgCounts&quot;,
+  &quot;version&quot;: &quot;0.0.1&quot;,
+  &quot;deploymentID&quot;: &quot;vo-456&quot;,
+  &quot;orgID&quot;: 456,
+  &quot;org_slug&quot;: &quot;some_other_org&quot;,
+  &quot;alertsCount&quot;: 145,
+  &quot;incidentsCount&quot;: 68,
+  &quot;usersCount&quot;: 102,
+  &quot;loginsCount&quot;: 88
+}</text>
       </register>
       <register name="-" type="4">
         <text>h</text>
@@ -303,25 +303,41 @@
         <text>data_dlq_events</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBkYXRhX3JvdXRpbmdfa2V5X21vZF9zZXYgICAgICAgICAgICAgID0gdmFyLmRhdGFfcm91dGluZ19rZXlfbW9kX3Nldgo=</text>
+        <text>{
+  &quot;time&quot;: 1437522387
+  &quot;host&quot;: &quot;playground_pts_aggregator_lambda&quot;,
+  &quot;index&quot;: &quot;hec_test&quot;,
+  &quot;sourcetype&quot;: &quot;_json&quot;{
+  &quot;runAt&quot;: &quot;2020-07-29T11:00:00Z&quot;,
+  &quot;runInterval&quot;: &quot;daily&quot;,
+  &quot;component&quot;: &quot;usage.VictorOpsOrgCounts&quot;,
+  &quot;version&quot;: &quot;0.0.1&quot;,
+  &quot;deploymentID&quot;: &quot;vo-456&quot;,
+  &quot;orgID&quot;: 456,
+  &quot;org_slug&quot;: &quot;some_other_org&quot;,
+  &quot;alertsCount&quot;: 145,
+  &quot;incidentsCount&quot;: 68,
+  &quot;usersCount&quot;: 102,
+  &quot;loginsCount&quot;: 88
+}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBkYXRhX3JvdXRpbmdfa2V5ICAgICAgICAgICAgID0gdmFyLmRhdGFfcm91dGluZ19rZXloCg==</text>
+        <text encoding="base64">ICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBkYXRhX3JvdXRpbmdfa2V5ICAgICAgICAgICAgICAgICAgICAgID0gdmFyLmRhdGFfcm91dGluZ19rZXkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBkYXRhX3JvdXRpbmdfa2V5ICAgICAgICAgICAgICAgPSB2YXIuZGF0YV9yb3V0aW5nX2tleQo=</text>
+        <text>}</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBkYXRhX3JvdXRpbmdfa2V5ICAgICAgICAgICAgICAgPSB2YXIuZGF0YV9yb3V0aW5nX2tleQo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgewogICAgICAgICAgICAgICAgInJ1bkF0IjogIjIwMjAtMDctMjlUMTE6MDA6MDBaIiwKICAgICAgICAgICAgICAgICJydW5JbnRlcnZhbCI6ICJkYWlseSIsCiAgICAgICAgICAgICAgICAiY29tcG9uZW50IjogInVzYWdlLlZpY3Rvck9wc09yZ0NvdW50cyIsCiAgICAgICAgICAgICAgICAidmVyc2lvbiI6ICIwLjAuMSIsCiAgICAgICAgICAgICAgICAiZGVwbG95bWVudElEIjogInZvLTc4OSIsCiAgICAgICAgICAgICAgICAib3JnSUQiOiA3ODksCiAgICAgICAgICAgICAgICAib3JnX3NsdWciOiAiYW5vdGhlcl9vcmciLAogICAgICAgICAgICAgICAgImFsZXJ0c0NvdW50IjogMTUsCiAgICAgICAgICAgICAgICAiaW5jaWRlbnRzQ291bnQiOiA3OCwKICAgICAgICAgICAgICAgICJ1c2Vyc0NvdW50IjogMTM0LAogICAgICAgICAgICAgICAgImxvZ2luc0NvdW50IjogMjA1CiAgICAgICAgICAgIH0=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBkYXRhX3JvdXRpbmdfa2V5ICAgICAgICAgICAgICAgPSB2YXIuZGF0YV9yb3V0aW5nX2tleQo=</text>
+        <text encoding="base64">ICBkYXRhX3JvdXRpbmdfa2V5ICAgICAgICAgICAgID0gdmFyLmRhdGFfcm91dGluZ19rZXloCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBkYXRhX3JvdXRpbmdfa2V5ICAgICAgICAgICAgICAgPSB2YXIuZGF0YV9yb3V0aW5nX2tleQo=</text>
+        <text encoding="base64">ICBkYXRhX3JvdXRpbmdfa2V5ICAgICAgICAgICAgICAgICAgICAgID0gdmFyLmRhdGFfcm91dGluZ19rZXkK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICBkYXRhX3JvdXRpbmdfa2V5ICAgICAgICAgICAgICAgPSB2YXIuZGF0YV9yb3V0aW5nX2tleQo=</text>
@@ -330,7 +346,7 @@
         <text encoding="base64">ICBkYXRhX3JvdXRpbmdfa2V5ICAgICAgICAgICAgICAgPSB2YXIuZGF0YV9yb3V0aW5nX2tleQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBkYXRhX3JvdXRpbmdfa2V5ICAgICAgICAgICAgICAgPSB2YXIuZGF0YV9yb3V0aW5nX2tleQo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
