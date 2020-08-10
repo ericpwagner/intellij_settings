@@ -106,10 +106,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c8741a45-206f-4253-89be-6cc74f6d936f/console_19.sql" timestamp="1597081579866">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c8741a45-206f-4253-89be-6cc74f6d936f/console_19.sql" timestamp="1597081652182">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="2" column="26" />
+        <mark key="." line="2" column="25" />
+        <mark key="^" line="2" column="26" />
       </file>
       <file name="$USER_HOME$/GitLab/data/pts/alarms.tf" timestamp="1597078538948">
         <mark key="'" line="0" column="0" />
@@ -137,6 +138,12 @@
         <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/GitLab/data/Makefile" timestamp="1597076155884" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c8741a45-206f-4253-89be-6cc74f6d936f/console_20.sql" timestamp="1597082240791">
+        <mark key="[" line="4" column="24" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="5" column="0" />
+      </file>
       <file name="/console_17" timestamp="1597080868553">
         <mark key="[" line="0" column="0" />
       </file>
@@ -156,6 +163,9 @@
       <file name="$USER_HOME$/GitLab/data/dms/variables.tf" timestamp="1596831453812">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="21" column="0" />
+      </file>
+      <file name="/console_20" timestamp="1597081687546">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1597080771818">
         <mark key="[" line="0" column="0" />
@@ -290,17 +300,17 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text />
+      <register name="&quot;" type="2">
+        <text encoding="base64">c2VsZWN0ICoKZnJvbSB2b19kYXRhX2FuYWx5dGljcy5mYWN0X2luY2lkZW50X3YxCndoZXJlIG9yZ19pZCA9IDEzMjMzCiAgICBhbmQgaW5jaWRlbnRfaWQgPSA2NTEyNQo=</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>_curr_v1</text>
       </register>
       <register name="/" type="4">
         <text>pts</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBob3N0X3ByZWZpeCAgICAgICAgICAgICAgICAgICAgICAgICAgID0gdmFyLmhvc3RfcHJlZml4Cg==</text>
+        <text encoding="base64">c2VsZWN0ICoKZnJvbSB2b19kYXRhX2FuYWx5dGljcy5mYWN0X2luY2lkZW50X3YxCndoZXJlIG9yZ19pZCA9IDEzMjMzCiAgICBhbmQgaW5jaWRlbnRfaWQgPSA2NTEyNQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Pj4+Pj4+PiBBZGQgYWxlcnRpbmcgZm9yIFBUUwo=</text>
