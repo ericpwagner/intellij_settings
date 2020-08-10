@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>prev_day</entry>
         <entry>now</entry>
         <entry>mock_api</entry>
         <entry>alert</entry>
@@ -27,6 +26,7 @@
         <entry>data_dlq_events</entry>
         <entry>recon</entry>
         <entry>pts</entry>
+        <entry>RCV</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3ByZXZfZGF5L25vdy9n</entry>
@@ -132,17 +132,18 @@
         <mark key="^" line="61" column="30" />
         <mark key="." line="61" column="29" />
       </file>
-      <file name="/Dummy.json" timestamp="1596818813379">
-        <mark key="[" line="34" column="1" />
-        <mark key="]" line="52" column="1" />
-        <mark key="." line="36" column="0" />
+      <file name="/Dummy.json" timestamp="1597088530254">
+        <mark key="'" line="28" column="44" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/GitLab/data/Makefile" timestamp="1597076155884" />
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c8741a45-206f-4253-89be-6cc74f6d936f/console_20.sql" timestamp="1597086723327">
-        <mark key="[" line="8" column="17" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-        <mark key="^" line="4" column="4" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c8741a45-206f-4253-89be-6cc74f6d936f/console_20.sql" timestamp="1597088375973">
+        <mark key="[" line="25" column="15" />
+        <mark key="]" line="25" column="15" />
+        <mark key="." line="25" column="15" />
+        <mark key="^" line="22" column="0" />
       </file>
       <file name="/console_17" timestamp="1597080868553">
         <mark key="[" line="0" column="0" />
@@ -196,7 +197,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="163" column="11" filename="$USER_HOME$/GitLab/extractinator/src/queries.py" />
       <jump line="162" column="0" filename="$USER_HOME$/GitLab/extractinator/src/queries.py" />
       <jump line="186" column="0" filename="$USER_HOME$/GitLab/extractinator/src/queries.py" />
       <jump line="219" column="7" filename="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736-acks.ipynb" />
@@ -296,48 +296,49 @@
       <jump line="335" column="59" filename="$USER_HOME$/GitLab/data/terraform.tf" />
       <jump line="362" column="64" filename="$USER_HOME$/GitLab/data/terraform.tf" />
       <jump line="280" column="8" filename="$USER_HOME$/GitLab/data/terraform.tf" />
+      <jump line="28" column="44" filename="/Dummy.json" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">d2hlcmUgb3JnX2lkID0gMTMyMzMKICBhbmQgaW5jaWRlbnRfaWQgPSA2NTEyNToK</text>
+      <register name="&quot;" type="4">
+        <text>19170</text>
       </register>
       <register name="-" type="4">
-        <text>65125</text>
+        <text>19170</text>
       </register>
       <register name="/" type="4">
-        <text>pts</text>
+        <text>RCV</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">d2hlcmUgb3JnX2lkID0gMzIyNTYKICAgIGFuZCBpbmNpZGVudF9pZCA9IDM2Ngo=</text>
+        <text encoding="base64">c2VsZWN0ICoKZnJvbSB2b19kYXRhX2FuYWx5dGljcy5mYWN0X2FsZXJ0X3YxCndoZXJlIG9yZ19pZCA9IDE5MTcwCiAgYW5kIGluY2lkZW50X2lkID0gMTQwNTcxCm9yZGVyIGJ5IG1ldGFfd3JpdHRlbl9hdDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">d2hlcmUgb3JnX2lkID0gMTMyMzMKICBhbmQgaW5jaWRlbnRfaWQgPSA2NTEyNToK</text>
+        <text encoding="base64">ICAib3JnSUQiOiA0NTYsCiAgIm9yZ19zbHVnIjogInNvbWVfb3RoZXJfb3JnIiwKICAiYWxlcnRzQ291bnQiOiAxNDUsCiAgImluY2lkZW50c0NvdW50IjogNjgsCiAgInVzZXJzQ291bnQiOiAxMDIsCiAgImxvZ2luc0NvdW50IjogODgKfQoKewogICJ0aW1lIjogMTQzNzUyMjM4NwogICJob3N0IjogInBsYXlncm91bmRfcHRzX2FnZ3JlZ2F0b3JfbGFtYmRhIiwKICAiaW5kZXgiOiAiaGVjX3Rlc3QiLAogICJzb3VyY2V0eXBlIjogIl9qc29uInsKICAicnVuQXQiOiAiMjAyMC0wNy0yOVQxMTowMDowMFoiLAogICJydW5JbnRlcnZhbCI6ICJkYWlseSIsCiAgImNvbXBvbmVudCI6ICJ1c2FnZS5WaWN0b3JPcHNPcmdDb3VudHMiLAogICJ2ZXJzaW9uIjogIjAuMC4xIiwKICAiZGVwbG95bWVudElEIjogInZvLTQ1NiIsCiAgIm9yZ0lEIjogNDU2LAogICJvcmdfc2x1ZyI6ICJzb21lX290aGVyX29yZyIsCiAgImFsZXJ0c0NvdW50IjogMTQ1LAogICJpbmNpZGVudHNDb3VudCI6IDY4LAogICJ1c2Vyc0NvdW50IjogMTAyLAogICJsb2dpbnNDb3VudCI6IDg4Cn0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBBZGQgYWxlcnRpbmcgZm9yIFBUUwo=</text>
+        <text encoding="base64">ICAiZGVwbG95bWVudElEIjogInZvLTQ1NiIsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECiAgYWxhcm1fbmFtZSAgICAgICAgICA9ICJQVFMtSEVDIExhbWJkYSBSdW50aW1lIFRvbyBTbG93IG9uIFske3Zhci5ob3N0X3ByZWZpeH1dIgo9PT09PT09Cg==</text>
+        <text encoding="base64">ewogICJ0aW1lIjogMTQzNzUyMjM4NywKICAiaG9zdCI6ICJwbGF5Z3JvdW5kX3B0c19hZ2dyZWdhdG9yX2xhbWJkYSIsCiAgImluZGV4IjogImhlY190ZXN0IiwKICAic291cmNldHlwZSI6ICJfanNvbiIKICAicnVuQXQiOiAiMjAyMC0wNy0yOVQxMTowMDowMFoiLAogICJydW5JbnRlcnZhbCI6ICJkYWlseSIsCiAgImNvbXBvbmVudCI6ICJ1c2FnZS5WaWN0b3JPcHNPcmdDb3VudHMiLAogICJ2ZXJzaW9uIjogIjAuMC4xIiwKICAiZGVwbG95bWVudElEIjogInZvLTEyMyIsCiAgIm9yZ0lEIjogMTIzLAogICJvcmdfc2x1ZyI6ICJzb21lX29yZyIsCiAgImFsZXJ0c0NvdW50IjogMjAsCiAgImluY2lkZW50c0NvdW50IjogMTIsCiAgInVzZXJzQ291bnQiOiAxMywKICAibG9naW5zQ291bnQiOiAyNwp9Cgp7CiAgInRpbWUiOiAxNDM3NTIyMzg3CiAgImhvc3QiOiAicGxheWdyb3VuZF9wdHNfYWdncmVnYXRvcl9sYW1iZGEiLAogICJpbmRleCI6ICJoZWNfdGVzdCIsCiAgInNvdXJjZXR5cGUiOiAiX2pzb24iewogICJydW5BdCI6ICIyMDIwLTA3LTI5VDExOjAwOjAwWiIsCiAgInJ1bkludGVydmFsIjogImRhaWx5IiwKICAiY29tcG9uZW50IjogInVzYWdlLlZpY3Rvck9wc09yZ0NvdW50cyIsCiAgInZlcnNpb24iOiAiMC4wLjEiLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBBZGQgYWxlcnRpbmcgZm9yIFBUUwo=</text>
+        <text encoding="base64">d2hlcmUgb3JnX2lkID0gMzUyNTYKICBhbmQgaW5jaWRlbnRfaWQgPSAzNjY7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECiAgYWxhcm1fbmFtZSAgICAgICAgICA9ICJQVFNfSEVDIExhbWJkYSBGYWlsZWQgd2l0aCBFcnJvciBvbiBbJHt2YXIuaG9zdF9wcmVmaXh9XSIKPT09PT09PQo=</text>
+        <text encoding="base64">d2hlcmUgb3JnX2lkID0gMTMyMzMKICBhbmQgaW5jaWRlbnRfaWQgPSA2NTEyNToK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBhbGVydF9zbnNfYXJuCg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBBZGQgYWxlcnRpbmcgZm9yIFBUUwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CnJlc291cmNlICJhd3NfY2xvdWR3YXRjaF9tZXRyaWNfYWxhcm0iICJsb2FkZXJfbGFja3NfaW5jb21pbmdfZXZlbnRzIiB7CiAgYWxhcm1fbmFtZSAgICAgICAgICA9ICJbJHt2YXIuaG9zdF9wcmVmaXh9XSR7dmFyLnN0cmVhbV90eXBlfV9sb2FkZXJfbGFja3NfaW5jb21pbmdfZXZlbnRzIgogIGNvbXBhcmlzb25fb3BlcmF0b3IgPSAiTGVzc1RoYW5UaHJlc2hvbGQiCiAgZXZhbHVhdGlvbl9wZXJpb2RzICA9ICIxIgogIG1ldHJpY19uYW1lICAgICAgICAgPSAiSW52b2NhdGlvbnMiCiAgbmFtZXNwYWNlICAgICAgICAgICA9ICJBV1MvTGFtYmRhIgogIHBlcmlvZCAgICAgICAgICAgICAgPSB2YXIuYWxlcnRfbm9fZXZlbnRzX3BlcmlvZF9zZWNvbmRzCiAgc3RhdGlzdGljICAgICAgICAgICA9ICJTdW0iCiAgdGhyZXNob2xkICAgICAgICAgICA9IGxvY2FsLnRocmVzaG9sZHNbIk1pbmltdW1FdmVudENvdW50UGVyUGVyaW9kIl0KICBhbGFybV9kZXNjcmlwdGlvbiAgID0gIk5vIGV2ZW50cyBoYXZlIGJlZW4gcmVjZW5ldGx5IHJlY2VpdmVkIGluIHRoZSAke3Zhci5zdHJlYW1fdHlwZX0gbG9hZGVyIGxhbWJkYSEiCiAgYWxhcm1fYWN0aW9ucyAgICAgICA9IFt2YXIuZGF0YV9kbHFfZXZlbnRzX3Nuc19hcm5dCiAgdHJlYXRfbWlzc2luZ19kYXRhICA9ICJicmVhY2hpbmciCgogIGRpbWVuc2lvbnMgPSB7CiAgICBGdW5jdGlvbk5hbWUgPSAiZGF0YS1sb2FkLSR7dmFyLnN0cmVhbV90eXBlfSIKICB9Cn0K</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECiAgYWxhcm1fbmFtZSAgICAgICAgICA9ICJQVFMtSEVDIExhbWJkYSBSdW50aW1lIFRvbyBTbG93IG9uIFske3Zhci5ob3N0X3ByZWZpeH1dIgo9PT09PT09Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEZVID0gImRhdGEtbG9hZC0ke3Zhci5zdHJlYW1fdHlwZX0tZGxxIgo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBBZGQgYWxlcnRpbmcgZm9yIFBUUwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBhbGFybV9hY3Rpb25zICAgICAgID0gWyIke3Zhci5kYXRhX2RscV9ldmVudHNfc25zX2Fybn0iXQo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECiAgYWxhcm1fbmFtZSAgICAgICAgICA9ICJQVFNfSEVDIExhbWJkYSBGYWlsZWQgd2l0aCBFcnJvciBvbiBbJHt2YXIuaG9zdF9wcmVmaXh9XSIKPT09PT09PQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -346,9 +347,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>pts</last-search>
+      <last-search>RCV</last-search>
       <last-offset />
-      <last-pattern>pts</last-pattern>
+      <last-pattern>RCV</last-pattern>
       <last-replace>data_analytics_events</last-replace>
       <last-substitute>data_dlq_events</last-substitute>
       <last-dir>1</last-dir>
