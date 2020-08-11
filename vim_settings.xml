@@ -132,15 +132,17 @@
         <mark key="^" line="61" column="30" />
         <mark key="." line="61" column="29" />
       </file>
-      <file name="/Dummy.json" timestamp="1597159205522">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.json" timestamp="1597185529245">
+        <mark key="[" line="4" column="20" />
+        <mark key="]" line="4" column="20" />
+        <mark key="." line="4" column="20" />
       </file>
       <file name="$USER_HOME$/GitLab/data/Makefile" timestamp="1597076155884" />
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c8741a45-206f-4253-89be-6cc74f6d936f/console_20.sql" timestamp="1597160775424">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c8741a45-206f-4253-89be-6cc74f6d936f/console_20.sql" timestamp="1597185233979">
         <mark key="[" line="3" column="20" />
-        <mark key="]" line="3" column="20" />
-        <mark key="." line="3" column="20" />
-        <mark key="^" line="2" column="19" />
+        <mark key="]" line="15" column="26" />
+        <mark key="." line="15" column="25" />
+        <mark key="^" line="15" column="26" />
       </file>
       <file name="/console_17" timestamp="1597080868553">
         <mark key="[" line="0" column="0" />
@@ -299,10 +301,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>21598</text>
+        <text>CRITICALCannot connect to dbi:mysql:dpg_system_config:host=127.0.0.1:port=3307: Can't connect to MySQL server on '127.0.0.1' (111)&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>21598</text>
+        <text>CRITICALCannot connect to dbi:mysql:dpg_system_config:host=127.0.0.1:port=3307: Can't connect to MySQL server on '127.0.0.1' (111)&quot;</text>
       </register>
       <register name="/" type="4">
         <text>RCV</text>
@@ -311,31 +313,65 @@
         <text encoding="base64">c2VsZWN0ICoKZnJvbSB2b19kYXRhX2FuYWx5dGljcy5mYWN0X2luY2lkZW50X3YxCndoZXJlIG9yZ19pZCA9IDE2MDI2CiAgYW5kIGluY2lkZW50X2lkID0gMjE1OTgKb3JkZXIgYnkgbWV0YV93cml0dGVuX2F0Owo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAsIGkubW9uaXRvcl9pZAo=</text>
+        <text>{
+  &quot;HOSTOUTPUT&quot;: &quot;&quot;,
+  &quot;ack_msg&quot;: &quot;&quot;,
+  &quot;VO_ORGANIZATION_ID&quot;: &quot;votest_data_team_sandbox&quot;,
+  &quot;SERVICEOUTPUT&quot;: &quot;CRITICALCannot connect to dbi:mysql:dpg_system_config:host=127.0.0.1:port=3307: Can't connect to MySQL server on '127.0.0.1' (111)&quot;,
+  &quot;monitoring_tool&quot;: &quot;NAGIOS&quot;,
+  &quot;state_start_time&quot;: &quot;CRITICAL&quot;,
+  &quot;timestamp&quot;: &quot;1587719572105&quot;,
+  &quot;LASTSERVICESTATECHANGE&quot;: &quot;1587717409&quot;,
+  &quot;VO_UUID&quot;: &quot;abb2a0bf-2999-4278-8c4f-3cb1f4438aaf&quot;,
+  &quot;TIMET&quot;: &quot;1587719572105&quot;,
+  &quot;HOSTNAME&quot;: &quot;sv2prdapp015&quot;,
+  &quot;entity_display_name&quot;: &quot;Check Authd In Service&quot;,
+  &quot;VO_ALERT_RCV_TIME&quot;: &quot;1587719572105&quot;,
+  &quot;alert_type&quot;: &quot;PROBLEM&quot;,
+  &quot;host_name&quot;: &quot;sv2prdapp015&quot;,
+  &quot;entity_state&quot;: &quot;CRITICAL&quot;,
+  &quot;_CONTACTVO_MONITOR_NAME&quot;: &quot;SV2&quot;,
+  &quot;NOTIFICATIONAUTHOR&quot;: &quot;&quot;,
+  &quot;SERVICEDISPLAYNAME&quot;: &quot;Check Authd In Service&quot;,
+  &quot;_CONTACTVO_ORGANIZATION_KEY&quot;: &quot;8651265b-a130-4a13-99fb-ba6f5e3792ea&quot;,
+  &quot;VO_ALERT_TYPE&quot;: &quot;SERVICE&quot;,
+  &quot;LASTHOSTSTATECHANGE&quot;: &quot;0&quot;,
+  &quot;NOTIFICATIONCOMMENT&quot;: &quot;&quot;,
+  &quot;ack_author&quot;: &quot;&quot;,
+  &quot;api_key&quot;: &quot;2802582a-24d4-43dc-8223-7d2b37608a5e&quot;,
+  &quot;entity_id&quot;: &quot;SV2/sv2prdapp015/Check Authd In Service&quot;,
+  &quot;state_message&quot;: &quot;CRITICALCannot connect to dbi:mysql:dpg_system_config:host=127.0.0.1:port=3307: Can't connect to MySQL server on '127.0.0.1' (111)&quot;,
+  &quot;HOSTDISPLAYNAME&quot;: &quot;sv2prdapp015&quot;,
+  &quot;SERVICEDESC&quot;: &quot;Check Authd In Service&quot;,
+  &quot;SERVICESTATE&quot;: &quot;CRITICAL&quot;,
+  &quot;NOTIFICATIONTYPE&quot;: &quot;PROBLEM&quot;,
+  &quot;HOSTSTATE&quot;: &quot;&quot;,
+  &quot;VO_MONITOR_TYPE&quot;: &quot;1&quot;
+}</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LS0gIGFuZCBvLm9yZ19zbHVnID0gJ3NvdnJuJwo=</text>
+        <text encoding="base64">ICAgICAsIGkubW9uaXRvcl9pZAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">d2hlcmUgb3JnX2lkID0gMTkxNzAKICAgIGFuZCBpbmNpZGVudF9pZCA9IDE0MDU3MQo=</text>
+        <text encoding="base64">LS0gIGFuZCBvLm9yZ19zbHVnID0gJ3NvdnJuJwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAiQ09OVEFDVEdST1VQQUxJQVMiOiAiTmFnaW9zIEFkbWluaXN0cmF0b3JzIiwK</text>
+        <text encoding="base64">d2hlcmUgb3JnX2lkID0gMTkxNzAKICAgIGFuZCBpbmNpZGVudF9pZCA9IDE0MDU3MQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAiX0NPTlRBQ1RWT19PUkdBTklaQVRJT05fSUQiOiAiYXBwb2ludG1lbnRwbHVzIiwK</text>
+        <text encoding="base64">ICAiQ09OVEFDVEdST1VQQUxJQVMiOiAiTmFnaW9zIEFkbWluaXN0cmF0b3JzIiwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAiU0VSVklDRVBFUkNFTlRDSEFOR0UiOiAiMTcuNTciLAo=</text>
+        <text encoding="base64">ICAiX0NPTlRBQ1RWT19PUkdBTklaQVRJT05fSUQiOiAiYXBwb2ludG1lbnRwbHVzIiwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAiU0VSVklDRU5PVElGSUNBVElPTlBFUklPRCI6ICIyNHg3IiwK</text>
+        <text encoding="base64">ICAiU0VSVklDRVBFUkNFTlRDSEFOR0UiOiAiMTcuNTciLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAiSE9TVFNUQVRFSUQiOiAiMCIsCg==</text>
+        <text encoding="base64">ICAiU0VSVklDRU5PVElGSUNBVElPTlBFUklPRCI6ICIyNHg3IiwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAiTEFTVEhPU1RTVEFURUlEIjogIjAiLAo=</text>
+        <text encoding="base64">ICAiSE9TVFNUQVRFSUQiOiAiMCIsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
