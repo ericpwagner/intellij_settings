@@ -110,12 +110,6 @@
         <mark key="[" line="116" column="7" />
       </file>
       <file name="$USER_HOME$/GitLab/alert-core/alert-core-common/src/main/scala/victorops/alertcore/data/cassandra/IncidentsDao.scala" timestamp="1597178455798" />
-      <file name="$USER_HOME$/GitLab/data/pipelineAlerts/variables.tf" timestamp="1596744958952">
-        <mark key="[" line="10" column="26" />
-        <mark key="]" line="15" column="0" />
-        <mark key="^" line="15" column="0" />
-        <mark key="." line="14" column="1" />
-      </file>
       <file name="$USER_HOME$/GitLab/data-lambda-refine/src/main/scala/victorops/datapipeline/lambdas/models/Incidents.scala" timestamp="1597165140991" />
       <file name="$USER_HOME$/GitLab/data/pts/alarms.tf" timestamp="1596833881391">
         <mark key="'" line="0" column="0" />
@@ -137,7 +131,8 @@
         <mark key="^" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/GitLab/alert-core/alert-core-server/app/victorops/alertcore/actors/KinesisReportingActor.scala" timestamp="1597174120099" />
+      <file name="$USER_HOME$/GitLab/alert-core/alert-core-server/app/victorops/alertcore/actors/KinesisReportingActor.scala" timestamp="1597179360240" />
+      <file name="$USER_HOME$/GitLab/alert-core/alert-core-processing/src/main/scala/victorops/alertcore/processing/IncidentProcessingEvent.scala" timestamp="1597179700994" />
       <file name="$USER_HOME$/GitLab/data/recon/variables.tf" timestamp="1596833176379">
         <mark key="[" line="61" column="27" />
         <mark key="]" line="61" column="30" />
