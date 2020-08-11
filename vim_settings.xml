@@ -112,7 +112,7 @@
         <mark key="." line="2" column="25" />
         <mark key="^" line="2" column="26" />
       </file>
-      <file name="$USER_HOME$/GitLab/data/pts/alarms.tf" timestamp="1597084306791">
+      <file name="$USER_HOME$/GitLab/data/pts/alarms.tf" timestamp="1597159618358">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="24" column="28" />
         <mark key="]" line="20" column="0" />
@@ -132,14 +132,15 @@
         <mark key="^" line="61" column="30" />
         <mark key="." line="61" column="29" />
       </file>
-      <file name="/Dummy.json" timestamp="1597157309415">
+      <file name="/Dummy.json" timestamp="1597159205522">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/GitLab/data/Makefile" timestamp="1597076155884" />
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c8741a45-206f-4253-89be-6cc74f6d936f/console_20.sql" timestamp="1597157758572">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c8741a45-206f-4253-89be-6cc74f6d936f/console_20.sql" timestamp="1597158846541">
+        <mark key="[" line="15" column="20" />
+        <mark key="]" line="15" column="20" />
+        <mark key="." line="15" column="20" />
+        <mark key="^" line="14" column="19" />
       </file>
       <file name="/console_17" timestamp="1597080868553">
         <mark key="[" line="0" column="0" />
@@ -297,11 +298,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAsIGkubW9uaXRvcl9pZAo=</text>
+      <register name="&quot;" type="4">
+        <text>21598</text>
       </register>
       <register name="-" type="4">
-        <text>fact_incident_v</text>
+        <text>21598</text>
       </register>
       <register name="/" type="4">
         <text>RCV</text>
