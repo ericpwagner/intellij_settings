@@ -136,6 +136,7 @@
         <mark key="^" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
+      <file name="$USER_HOME$/GitLab/alert-core/alert-core-server/app/victorops/alertcore/actors/KinesisReportingActor.scala" timestamp="1597174120099" />
       <file name="$USER_HOME$/GitLab/data/recon/variables.tf" timestamp="1596833176379">
         <mark key="[" line="61" column="27" />
         <mark key="]" line="61" column="30" />
@@ -159,25 +160,10 @@
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="66" />
       </file>
-      <file name="$USER_HOME$/GitLab/data/playground.tfvars" timestamp="1596744758119">
-        <mark key="'" line="15" column="93" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/GitLab/data/production.tfvars" timestamp="1596744749924">
-        <mark key="'" line="13" column="93" />
-        <mark key="[" line="9" column="18" />
-        <mark key="]" line="9" column="18" />
-        <mark key="." line="9" column="18" />
-      </file>
       <file name="$USER_HOME$/GitLab/data/refine/variables.tf" timestamp="1596745011083">
         <mark key="'" line="50" column="0" />
       </file>
       <file name="$USER_HOME$/GitLab/data-lambda-refine/src/main/scala/victorops/datapipeline/lambdas/models/Alerts.scala" timestamp="1597161943016" />
-      <file name="$USER_HOME$/GitLab/row-level-recon/package.json" timestamp="1594932517090">
-        <mark key="[" line="10" column="41" />
-      </file>
     </filemarks>
     <jumps>
       <jump line="223" column="4" filename="$USER_HOME$/GitLab/extractinator/src/queries.py" />
