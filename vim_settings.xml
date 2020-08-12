@@ -119,25 +119,14 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="19" column="78" />
       </file>
-      <file name="$USER_HOME$/GitLab/data/pts/variables.tf" timestamp="1597076432359">
-        <mark key="a" line="16" column="32" />
-        <mark key="[" line="20" column="1" />
-        <mark key="]" line="22" column="1" />
-        <mark key="^" line="22" column="0" />
-        <mark key="." line="21" column="0" />
-      </file>
-      <file name="$USER_HOME$/GitLab/data/recon/variables.tf" timestamp="1597076422940">
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="56" column="1" />
-        <mark key="^" line="61" column="30" />
-        <mark key="." line="61" column="29" />
-      </file>
-      <file name="/Dummy.json" timestamp="1597185529245">
-        <mark key="[" line="4" column="20" />
+      <file name="/Dummy.json" timestamp="1597254769222">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="4" column="20" />
         <mark key="." line="4" column="20" />
       </file>
-      <file name="$USER_HOME$/GitLab/data/Makefile" timestamp="1597076155884" />
+      <file name="/vodat.vo_data_analytics.fact_auth_v1" timestamp="1597254808900">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c8741a45-206f-4253-89be-6cc74f6d936f/console_20.sql" timestamp="1597185233979">
         <mark key="[" line="3" column="20" />
         <mark key="]" line="15" column="26" />
@@ -160,19 +149,19 @@
         <mark key="^" line="338" column="15" />
         <mark key="." line="339" column="14" />
       </file>
-      <file name="$USER_HOME$/GitLab/data/dms/variables.tf" timestamp="1596831453812">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="21" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c8741a45-206f-4253-89be-6cc74f6d936f/console_21.sql" timestamp="1597255264960">
+        <mark key="[" line="1" column="35" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="/console_20" timestamp="1597081687546">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1597083255969">
+      <file name="/console_21" timestamp="1597255001500">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GitLab/data/recon/alarms.tf" timestamp="1596830505262">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="66" />
+      <file name="/Dummy.txt" timestamp="1597083255969">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/console_6" timestamp="1597081527710">
         <mark key="[" line="0" column="0" />
@@ -183,10 +172,16 @@
         <mark key="." line="0" column="1" />
         <mark key="^" line="0" column="2" />
       </file>
+      <file name="/foo.bar" timestamp="1597254808931">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c8741a45-206f-4253-89be-6cc74f6d936f/console_18.sql" timestamp="1597081361420">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="/fact_auth_v1 [PROD - vodat]" timestamp="1597254808861">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/GitLab/pts_hec_aggregator/src/process_event.py" timestamp="1597080759865">
         <mark key="[" line="15" column="13" />
@@ -300,11 +295,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>CRITICALCannot connect to dbi:mysql:dpg_system_config:host=127.0.0.1:port=3307: Can't connect to MySQL server on '127.0.0.1' (111)&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">LS0gd2hlcmUgYXV0aF9ldmVudF9hdCA+PSAnMjAyMC0wOC0wMSc=</text>
       </register>
       <register name="-" type="4">
-        <text>CRITICALCannot connect to dbi:mysql:dpg_system_config:host=127.0.0.1:port=3307: Can't connect to MySQL server on '127.0.0.1' (111)&quot;</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>RCV</text>
@@ -313,6 +308,9 @@
         <text encoding="base64">c2VsZWN0ICoKZnJvbSB2b19kYXRhX2FuYWx5dGljcy5mYWN0X2luY2lkZW50X3YxCndoZXJlIG9yZ19pZCA9IDE2MDI2CiAgYW5kIGluY2lkZW50X2lkID0gMjE1OTgKb3JkZXIgYnkgbWV0YV93cml0dGVuX2F0Owo=</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">LS0gd2hlcmUgYXV0aF9ldmVudF9hdCA+PSAnMjAyMC0wOC0wMSc=</text>
+      </register>
+      <register name="2" type="2">
         <text>{
   &quot;HOSTOUTPUT&quot;: &quot;&quot;,
   &quot;ack_msg&quot;: &quot;&quot;,
@@ -349,29 +347,26 @@
   &quot;VO_MONITOR_TYPE&quot;: &quot;1&quot;
 }</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAsIGkubW9uaXRvcl9pZAo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">LS0gIGFuZCBvLm9yZ19zbHVnID0gJ3NvdnJuJwo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">d2hlcmUgb3JnX2lkID0gMTkxNzAKICAgIGFuZCBpbmNpZGVudF9pZCA9IDE0MDU3MQo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAiQ09OVEFDVEdST1VQQUxJQVMiOiAiTmFnaW9zIEFkbWluaXN0cmF0b3JzIiwK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAiX0NPTlRBQ1RWT19PUkdBTklaQVRJT05fSUQiOiAiYXBwb2ludG1lbnRwbHVzIiwK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAiU0VSVklDRVBFUkNFTlRDSEFOR0UiOiAiMTcuNTciLAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAiU0VSVklDRU5PVElGSUNBVElPTlBFUklPRCI6ICIyNHg3IiwK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAiSE9TVFNUQVRFSUQiOiAiMCIsCg==</text>
+        <text encoding="base64">ICAiU0VSVklDRU5PVElGSUNBVElPTlBFUklPRCI6ICIyNHg3IiwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
