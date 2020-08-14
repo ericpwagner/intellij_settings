@@ -106,6 +106,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/GitLab/row-level-recon/recon/feeds/templates/user_v1/raw/athena/daily-org-id-row-counts.sql.tmpl" timestamp="1597437513912" />
       <file name="/Dummy.json" timestamp="1597164169128">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="131" column="1" />
@@ -127,9 +128,6 @@
         <mark key="[" line="1" column="35" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
-      </file>
-      <file name="/console_20" timestamp="1597081687546">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="/console_21" timestamp="1597255001500">
         <mark key="[" line="0" column="0" />
