@@ -142,13 +142,6 @@
       <file name="/console_19" timestamp="1597081578403">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GitLab/data/terraform.tf" timestamp="1597076502180">
-        <mark key="'" line="280" column="8" />
-        <mark key="[" line="339" column="14" />
-        <mark key="]" line="339" column="14" />
-        <mark key="^" line="338" column="15" />
-        <mark key="." line="339" column="14" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c8741a45-206f-4253-89be-6cc74f6d936f/console_21.sql" timestamp="1597255264960">
         <mark key="[" line="1" column="35" />
         <mark key="]" line="2" column="0" />
@@ -160,11 +153,19 @@
       <file name="/console_21" timestamp="1597255001500">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/console_22" timestamp="1597415063905">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1597083255969">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/console_6" timestamp="1597081527710">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c8741a45-206f-4253-89be-6cc74f6d936f/console_22.sql" timestamp="1597415068656">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/e8729eb7-7e90-475c-b5ee-b76b8f7b5577/console_6.sql" timestamp="1597081533675">
         <mark key="[" line="0" column="1" />
@@ -182,12 +183,6 @@
       </file>
       <file name="/fact_auth_v1 [PROD - vodat]" timestamp="1597254808861">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/src/process_event.py" timestamp="1597080759865">
-        <mark key="[" line="15" column="13" />
-        <mark key="]" line="5" column="15" />
-        <mark key="^" line="5" column="15" />
-        <mark key="." line="5" column="14" />
       </file>
     </filemarks>
     <jumps>
@@ -295,8 +290,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">LS0gd2hlcmUgYXV0aF9ldmVudF9hdCA+PSAnMjAyMC0wOC0wMSc=</text>
+      <register name="&quot;" type="4">
+        <text />
       </register>
       <register name="-" type="4">
         <text />
