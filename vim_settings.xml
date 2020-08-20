@@ -109,10 +109,10 @@
       <file name="$USER_HOME$/GitLab/row-level-recon/recon/feeds/templates/user_v1/raw/athena/daily-org-id-row-counts.sql.tmpl" timestamp="1597761382293">
         <mark key="'" line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/GitLab/row-level-recon/README.md" timestamp="1597954845888">
-        <mark key="[" line="10" column="7" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/GitLab/row-level-recon/README.md" timestamp="1597956601235">
+        <mark key="[" line="6" column="20" />
+        <mark key="]" line="6" column="20" />
+        <mark key="." line="6" column="20" />
       </file>
       <file name="/vodat.vo_data_analytics.fact_auth_v1" timestamp="1597254808900">
         <mark key="[" line="0" column="0" />
@@ -273,10 +273,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>_</text>
+        <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text>refined</text>
