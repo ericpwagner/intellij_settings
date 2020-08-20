@@ -109,6 +109,9 @@
       <file name="$USER_HOME$/GitLab/row-level-recon/recon/feeds/templates/user_v1/raw/athena/daily-org-id-row-counts.sql.tmpl" timestamp="1597761382293">
         <mark key="'" line="15" column="0" />
       </file>
+      <file name="$USER_HOME$/GitLab/row-level-recon/README.md" timestamp="1597951017730">
+        <mark key="[" line="0" column="5" />
+      </file>
       <file name="/vodat.vo_data_analytics.fact_auth_v1" timestamp="1597254808900">
         <mark key="[" line="0" column="0" />
       </file>
@@ -159,9 +162,6 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="/foo.bar" timestamp="1597254808931">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/fact_auth_v1 [PROD - vodat]" timestamp="1597254808861">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
