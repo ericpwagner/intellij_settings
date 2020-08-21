@@ -109,11 +109,11 @@
       <file name="$USER_HOME$/GitLab/row-level-recon/recon/feeds/templates/user_v1/raw/athena/daily-org-id-row-counts.sql.tmpl" timestamp="1597761382293">
         <mark key="'" line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/GitLab/row-level-recon/README.md" timestamp="1597961123510">
-        <mark key="[" line="73" column="52" />
-        <mark key="]" line="73" column="99" />
-        <mark key="." line="73" column="99" />
-        <mark key="^" line="66" column="17" />
+      <file name="$USER_HOME$/GitLab/row-level-recon/README.md" timestamp="1598025673623">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="4" column="4" />
       </file>
       <file name="$USER_HOME$/GitLab/row-level-recon/recon/feeds/templates/user_v1/refined/athena/daily-org-id-row-counts.sql.tmpl" timestamp="1597761409585">
         <mark key="[" line="8" column="0" />
@@ -151,7 +151,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1598024506441">
+      <file name="/Dummy.txt" timestamp="1598025590593">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -280,10 +280,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text>update README with latest and greatest</text>
+        <text encoding="base64">Pj4+Pj4+PiB1cGRhdGUgUkVBRE1FIHdpdGggbGF0ZXN0IGFuZCBncmVhdGVzdAo=</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text encoding="base64">ICN2by10ZWFtLWRhdC1wdWJsaWM=</text>
       </register>
       <register name="/" type="4">
         <text>refined</text>
@@ -292,31 +292,31 @@
         <text encoding="base64">eyJ0cmFuc2FjdGlvbl9pZCI6IjE3OWMyZGYwLTY0MmMtNDM2OC1iYjkyLWEwMWFlOGRmMzU5YSIsIm9yZ19pZCI6MjAwMTE4LCJkYXRhX3R5cGUiOiJpbmNpZGVudHMiLCJkYXRhIjp7ImluY2lkZW50cyI6W3sib3JnX2lkIjoyMDAxMTgsImluY2lkZW50X2lkIjozMTkwLCJlbnRpdHlfaWQiOiJiZW5jaGVudGl0eV9qZW5raW5zLWFsZXJ0Y29yZThfMTU0OTY3MDM2MTEyMF9mYWxzZV81MyIsImluY2lkZW50X3BoYXNlIjoidHJpZ2dlcmVkIiwiZGlzcGxheV9uYW1lIjoiYmVuY2hlbnRpdHlfamVua2lucy1hbGVydGNvcmU4XzE1NDk2NzAzNjExMjBfZmFsc2VfNTMiLCJzdGF0ZV9tZXNzYWdlIjoiYmVuY2hfc3RhdGVfamVua2luc19hbGVydGNvcmU4XzE1NDk2NzAzNjExMjBfY3JpdHNGb3JFbnRpdHk6MV9hbGVydEluUnVuOjU0X2lzUmVzb2x2ZTpmYWxzZV9lbnRpdHlJZE51bTo1M191c2VyUmVzb2x2YWJsZTpmYWxzZSIsImVudGl0eV90eXBlIjoic2VydmljZSIsImVudGl0eV9zdGF0ZSI6ImNyaXRpY2FsIiwibW9uaXRvcl90eXBlIjoiYXBpIiwicm91dGluZ19rZXkiOiJyb3V0aW5nZGVmYXVsdCIsImhvc3RfbmFtZSI6bnVsbCwic2VydmljZV9uYW1lIjoiYmVuY2hlbnRpdHlfamVua2lucy1hbGVydGNvcmU4XzE1NDk2NzAzNjExMjBfZmFsc2VfNTMiLCJhY2tlZF9ieSI6bnVsbCwiYWNrZWRfYXQiOm51bGwsImFja19leHBpcmVfYXQiOm51bGwsImF1dG9fcmVzb2x2ZV9hdCI6bnVsbCwic25vb3plX3VudGlsIjpudWxsLCJmaXJzdF9hbGVydF91dWlkIjoiZGQ5YWI0MjItMzViZi00NTlmLWEyMTAtMzE1M2VkMTBhN2M3IiwiZmlyc3RfYWxlcnRfYXQiOiIyMDE5LTAyLTA5VDAwOjAwOjM2LjAxMVoiLCJsYXN0X2FsZXJ0X3V1aWQiOiJkZDlhYjQyMi0zNWJmLTQ1OWYtYTIxMC0zMTUzZWQxMGE3YzciLCJsYXN0X2FsZXJ0X2F0IjoiMjAxOS0wMi0wOVQwMDowMDozNi4wMTFaIiwiYWxlcnRfY291bnQiOjEsImFubm90YXRpb25fY291bnQiOjAsImVzY2FsYXRpb25zIjpbeyJwb2xpY3kiOnsic2x1ZyI6InRlYW0tV3VwZ0F0Q29rSUtpcGhXZSIsIm5hbWUiOiJFeGFtcGxlIn0sInRlYW0iOnsic2x1ZyI6InRlYW0tV3VwZ0F0Q29rSUtpcGhXZSIsIm5hbWUiOiJFeGFtcGxlIn0sInN0YXJ0ZWRfYXQiOiIyMDE5LTAyLTA5VDAwOjAwOjM2LjQ5N1oifV0sInBhZ2luZ3MiOltdLCJ1c2VycyI6W10sInRhZ3MiOlsiaW5jaWRlbnQzMTkwIiwicm91dGluZ2RlZmF1bHQiXSwiaXNfbXVsdGlfcmVzcG9uZGVyIjpmYWxzZSwiaW5jaWRlbnRfZGV0YWlscyI6eyJWT19PUkdBTklaQVRJT05fSUQiOiJqZW5raW5zX2FsZXJ0Y29yZTgiLCJtb25pdG9yaW5nX3Rvb2wiOiJBUEkiLCJWT19ST1VUSU5HX0tFWVMiOiJkZWZhdWx0Iiwic3RhdGVfc3RhcnRfdGltZSI6IjE1NDk2NzA0MzYwMTEiLCJ0aW1lc3RhbXAiOiIxNTQ5NjcwNDM2MDExIiwiVk9fVVVJRCI6ImRkOWFiNDIyLTM1YmYtNDU5Zi1hMjEwLTMxNTNlZDEwYTdjNyIsImVudGl0eV9kaXNwbGF5X25hbWUiOiJiZW5jaGVudGl0eV9qZW5raW5zLWFsZXJ0Y29yZThfMTU0OTY3MDM2MTEyMF9mYWxzZV81MyIsIlZPX0FMRVJUX1JDVl9USU1FIjoiMTU0OTY3MDQzNjAxMSIsIm1lc3NhZ2VfdHlwZSI6ImNyaXRpY2FsIiwiYWxlcnRfdHlwZSI6ImNyaXRpY2FsIiwiWC1Gb3J3YXJkZWQtRm9yIjoiMzUuMTY3LjE2OC4wIiwiZW50aXR5X3N0YXRlIjoiQ1JJVElDQUwiLCJWT19BTEVSVF9UWVBFIjoiU0VSVklDRSIsIlgtRm9yd2FyZGVkLVBvcnQiOiI0NDMiLCJhcGlfa2V5IjoiYzdkMGY1MzEtNGNmNS00Njc2LThlMmMtYmUwMDI1ZjljZTdhIiwiZW50aXR5X2lkIjoiYmVuY2hlbnRpdHlfamVua2lucy1hbGVydGNvcmU4XzE1NDk2NzAzNjExMjBfZmFsc2VfNTMiLCJzdGF0ZV9tZXNzYWdlIjoiYmVuY2hfc3RhdGVfamVua2luc19hbGVydGNvcmU4XzE1NDk2NzAzNjExMjBfY3JpdHNGb3JFbnRpdHk6MV9hbGVydEluUnVuOjU0X2lzUmVzb2x2ZTpmYWxzZV9lbnRpdHlJZE51bTo1M191c2VyUmVzb2x2YWJsZTpmYWxzZSIsIlgtRm9yd2FyZGVkLVByb3RvIjoiaHR0cHMiLCJTRVJWSUNFU1RBVEUiOiJDUklUSUNBTCIsIk5PVElGSUNBVElPTlRZUEUiOiJjcml0aWNhbCIsIkNPTlRBQ1RHUk9VUE5BTUUiOiJkZWZhdWx0Iiwicm91dGluZ19rZXkiOiJkZWZhdWx0IiwiVk9fTU9OSVRPUl9UWVBFIjoiNCIsIlgtQW16bi1UcmFjZS1JZCI6IlJvb3Q9MS01YzVlMTgyNC03ZTc5ZmE2MTRlZTk0NTRkOGUyMjlkMDcifX1dfX0K</text>
       </register>
       <register name="1" type="2">
-        <text>update README with latest and greatest</text>
+        <text encoding="base64">Pj4+Pj4+PiB1cGRhdGUgUkVBRE1FIHdpdGggbGF0ZXN0IGFuZCBncmVhdGVzdAo=</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IChhc3N1bWluZyBpdCBwYXNzZXMKdG94LCBsaW50LCBhbmYgcHl0ZXN0IGpvYnMgZmlyc3QsICk=</text>
+      <register name="2" type="2">
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">U2xhY2sgY2hhbm5lbDogI3ZvLXRlYW0tZGF0LXB1YmxpYwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IFlvdSBoYXZlIHRvIGJlIGxvZ2dlZCB1c2luZyBzYW1sMmF3cyBpbiBvcmRlciB0byBkbyBhbnkgQXRoZW5hLWJhc2VkIHF1ZXJpZXMuIEFsc28geW91IG5lZWQgc3NoIGNvbmZpZyBzZXR1cCBmb3IgREIgdHVubmVscy4K</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="5" type="2">
-        <text>_This tool/lambda checks that the data between our stages (`raw`, `refined` and `loaded`) is in sync.</text>
+        <text encoding="base64">U2xhY2sgY2hhbm5lbDogI3ZvLXRlYW0tZGF0LXB1YmxpYwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PT09PT09PQo+Pj4+Pj4+IGNvbnN0cmFpbiBxdWVyaWVzIHRvIHByZXZpb3VzIGRheQo=</text>
+        <text encoding="base64">Pj4+Pj4+PiB1cGRhdGUgUkVBRE1FIHdpdGggbGF0ZXN0IGFuZCBncmVhdGVzdAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAgIEFORCBldmVudF9hdCA9IChTRUxFQ1QgbWF4KGV2ZW50X2F0KQogICAgICAgICAgICAgICAgICAgICAgRlJPTSBkYXRhX3BpcGVsaW5lX3YxLnVzZXJfcmVmaW5lZF92MQogICAgICAgICAgICAgICAgICAgICAgV0hFUkUgZGF0YWxha2VfcmVjZWl2ZWRfYXQgPSBEQVRFKCd7e2V2ZW50X2F0fX0nKSkK</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECj09PT09PT0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBjb25zdHJhaW4gcXVlcmllcyB0byBwcmV2aW91cyBkYXkK</text>
+        <text>update README with latest and greatest</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECiAgU0VMRUNUIERJU1RJTkNUCj09PT09PT0K</text>
+      <register name="9" type="4">
+        <text encoding="base64">IChhc3N1bWluZyBpdCBwYXNzZXMKdG94LCBsaW50LCBhbmYgcHl0ZXN0IGpvYnMgZmlyc3QsICk=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
