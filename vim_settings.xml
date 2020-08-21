@@ -109,7 +109,7 @@
       <file name="$USER_HOME$/GitLab/row-level-recon/recon/feeds/templates/user_v1/raw/athena/daily-org-id-row-counts.sql.tmpl" timestamp="1597761382293">
         <mark key="'" line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/GitLab/row-level-recon/README.md" timestamp="1598025673623">
+      <file name="$USER_HOME$/GitLab/row-level-recon/README.md" timestamp="1598031006451">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
@@ -120,6 +120,7 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/GitLab/data-lambda-refine/Makefile" timestamp="1598031280908" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c8741a45-206f-4253-89be-6cc74f6d936f/console_24.sql" timestamp="1597676591943">
         <mark key="[" line="6" column="117" />
         <mark key="]" line="9" column="71" />
@@ -132,18 +133,14 @@
       <file name="/console_24" timestamp="1597676037403">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GitLab/data-lambda-refine/README.md" timestamp="1598030205039">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="10" column="70" />
-        <mark key="." line="10" column="70" />
+      <file name="$USER_HOME$/GitLab/data-lambda-refine/README.md" timestamp="1598031586891">
+        <mark key="[" line="21" column="107" />
+        <mark key="]" line="21" column="109" />
+        <mark key="^" line="21" column="109" />
+        <mark key="." line="21" column="108" />
       </file>
       <file name="/console_25" timestamp="1598027795730">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c8741a45-206f-4253-89be-6cc74f6d936f/console_21.sql" timestamp="1597255264960">
-        <mark key="[" line="1" column="35" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
       </file>
       <file name="/console_22" timestamp="1597415063905">
         <mark key="[" line="0" column="0" />
@@ -165,7 +162,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/README.md" timestamp="1598027803213">
+      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/README.md" timestamp="1598030965955">
         <mark key="'" line="125" column="109" />
         <mark key="]" line="74" column="0" />
         <mark key="." line="74" column="0" />
@@ -277,11 +274,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>epline</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IyMgVGVzdGluZwpUT0RPOiBVcGRhdGUgd2l0aCBjb3JyZWN0IHRlc3QgY29tbWFuZHMgLyBwcm9jZXNzCg==</text>
       </register>
       <register name="-" type="4">
-        <text>epline</text>
+        <text>tox, lint, pytest</text>
       </register>
       <register name="/" type="4">
         <text>refined</text>
@@ -290,31 +287,32 @@
         <text encoding="base64">eyJ0cmFuc2FjdGlvbl9pZCI6IjE3OWMyZGYwLTY0MmMtNDM2OC1iYjkyLWEwMWFlOGRmMzU5YSIsIm9yZ19pZCI6MjAwMTE4LCJkYXRhX3R5cGUiOiJpbmNpZGVudHMiLCJkYXRhIjp7ImluY2lkZW50cyI6W3sib3JnX2lkIjoyMDAxMTgsImluY2lkZW50X2lkIjozMTkwLCJlbnRpdHlfaWQiOiJiZW5jaGVudGl0eV9qZW5raW5zLWFsZXJ0Y29yZThfMTU0OTY3MDM2MTEyMF9mYWxzZV81MyIsImluY2lkZW50X3BoYXNlIjoidHJpZ2dlcmVkIiwiZGlzcGxheV9uYW1lIjoiYmVuY2hlbnRpdHlfamVua2lucy1hbGVydGNvcmU4XzE1NDk2NzAzNjExMjBfZmFsc2VfNTMiLCJzdGF0ZV9tZXNzYWdlIjoiYmVuY2hfc3RhdGVfamVua2luc19hbGVydGNvcmU4XzE1NDk2NzAzNjExMjBfY3JpdHNGb3JFbnRpdHk6MV9hbGVydEluUnVuOjU0X2lzUmVzb2x2ZTpmYWxzZV9lbnRpdHlJZE51bTo1M191c2VyUmVzb2x2YWJsZTpmYWxzZSIsImVudGl0eV90eXBlIjoic2VydmljZSIsImVudGl0eV9zdGF0ZSI6ImNyaXRpY2FsIiwibW9uaXRvcl90eXBlIjoiYXBpIiwicm91dGluZ19rZXkiOiJyb3V0aW5nZGVmYXVsdCIsImhvc3RfbmFtZSI6bnVsbCwic2VydmljZV9uYW1lIjoiYmVuY2hlbnRpdHlfamVua2lucy1hbGVydGNvcmU4XzE1NDk2NzAzNjExMjBfZmFsc2VfNTMiLCJhY2tlZF9ieSI6bnVsbCwiYWNrZWRfYXQiOm51bGwsImFja19leHBpcmVfYXQiOm51bGwsImF1dG9fcmVzb2x2ZV9hdCI6bnVsbCwic25vb3plX3VudGlsIjpudWxsLCJmaXJzdF9hbGVydF91dWlkIjoiZGQ5YWI0MjItMzViZi00NTlmLWEyMTAtMzE1M2VkMTBhN2M3IiwiZmlyc3RfYWxlcnRfYXQiOiIyMDE5LTAyLTA5VDAwOjAwOjM2LjAxMVoiLCJsYXN0X2FsZXJ0X3V1aWQiOiJkZDlhYjQyMi0zNWJmLTQ1OWYtYTIxMC0zMTUzZWQxMGE3YzciLCJsYXN0X2FsZXJ0X2F0IjoiMjAxOS0wMi0wOVQwMDowMDozNi4wMTFaIiwiYWxlcnRfY291bnQiOjEsImFubm90YXRpb25fY291bnQiOjAsImVzY2FsYXRpb25zIjpbeyJwb2xpY3kiOnsic2x1ZyI6InRlYW0tV3VwZ0F0Q29rSUtpcGhXZSIsIm5hbWUiOiJFeGFtcGxlIn0sInRlYW0iOnsic2x1ZyI6InRlYW0tV3VwZ0F0Q29rSUtpcGhXZSIsIm5hbWUiOiJFeGFtcGxlIn0sInN0YXJ0ZWRfYXQiOiIyMDE5LTAyLTA5VDAwOjAwOjM2LjQ5N1oifV0sInBhZ2luZ3MiOltdLCJ1c2VycyI6W10sInRhZ3MiOlsiaW5jaWRlbnQzMTkwIiwicm91dGluZ2RlZmF1bHQiXSwiaXNfbXVsdGlfcmVzcG9uZGVyIjpmYWxzZSwiaW5jaWRlbnRfZGV0YWlscyI6eyJWT19PUkdBTklaQVRJT05fSUQiOiJqZW5raW5zX2FsZXJ0Y29yZTgiLCJtb25pdG9yaW5nX3Rvb2wiOiJBUEkiLCJWT19ST1VUSU5HX0tFWVMiOiJkZWZhdWx0Iiwic3RhdGVfc3RhcnRfdGltZSI6IjE1NDk2NzA0MzYwMTEiLCJ0aW1lc3RhbXAiOiIxNTQ5NjcwNDM2MDExIiwiVk9fVVVJRCI6ImRkOWFiNDIyLTM1YmYtNDU5Zi1hMjEwLTMxNTNlZDEwYTdjNyIsImVudGl0eV9kaXNwbGF5X25hbWUiOiJiZW5jaGVudGl0eV9qZW5raW5zLWFsZXJ0Y29yZThfMTU0OTY3MDM2MTEyMF9mYWxzZV81MyIsIlZPX0FMRVJUX1JDVl9USU1FIjoiMTU0OTY3MDQzNjAxMSIsIm1lc3NhZ2VfdHlwZSI6ImNyaXRpY2FsIiwiYWxlcnRfdHlwZSI6ImNyaXRpY2FsIiwiWC1Gb3J3YXJkZWQtRm9yIjoiMzUuMTY3LjE2OC4wIiwiZW50aXR5X3N0YXRlIjoiQ1JJVElDQUwiLCJWT19BTEVSVF9UWVBFIjoiU0VSVklDRSIsIlgtRm9yd2FyZGVkLVBvcnQiOiI0NDMiLCJhcGlfa2V5IjoiYzdkMGY1MzEtNGNmNS00Njc2LThlMmMtYmUwMDI1ZjljZTdhIiwiZW50aXR5X2lkIjoiYmVuY2hlbnRpdHlfamVua2lucy1hbGVydGNvcmU4XzE1NDk2NzAzNjExMjBfZmFsc2VfNTMiLCJzdGF0ZV9tZXNzYWdlIjoiYmVuY2hfc3RhdGVfamVua2luc19hbGVydGNvcmU4XzE1NDk2NzAzNjExMjBfY3JpdHNGb3JFbnRpdHk6MV9hbGVydEluUnVuOjU0X2lzUmVzb2x2ZTpmYWxzZV9lbnRpdHlJZE51bTo1M191c2VyUmVzb2x2YWJsZTpmYWxzZSIsIlgtRm9yd2FyZGVkLVByb3RvIjoiaHR0cHMiLCJTRVJWSUNFU1RBVEUiOiJDUklUSUNBTCIsIk5PVElGSUNBVElPTlRZUEUiOiJjcml0aWNhbCIsIkNPTlRBQ1RHUk9VUE5BTUUiOiJkZWZhdWx0Iiwicm91dGluZ19rZXkiOiJkZWZhdWx0IiwiVk9fTU9OSVRPUl9UWVBFIjoiNCIsIlgtQW16bi1UcmFjZS1JZCI6IlJvb3Q9MS01YzVlMTgyNC03ZTc5ZmE2MTRlZTk0NTRkOGUyMjlkMDcifX1dfX0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">UmVmaW5lciBFVEwgU2NhbGEgZm9yIERhdGEgUGlwZWxpbmVzCg==</text>
+        <text encoding="base64">IyMgVGVzdGluZwpUT0RPOiBVcGRhdGUgd2l0aCBjb3JyZWN0IHRlc3QgY29tbWFuZHMgLyBwcm9jZXNzCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Pj4+Pj4+PiB1cGRhdGUgUkVBRE1FIHdpdGggbGF0ZXN0IGFuZCBncmVhdGVzdAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">U2xhY2sgY2hhbm5lbDogI3ZvLXRlYW0tZGF0LXB1YmxpYwo=</text>
+        <text encoding="base64">IyB1c2luZyBlbmRkdmlyb25tZW50IHZhcmlhYmxlcwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text>We can use the function
+`getSysEnvVarWithDefault(key: String, defaultValue: String): String` to read environment variable and provide defaults.</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">U2xhY2sgY2hhbm5lbDogI3ZvLXRlYW0tZGF0LXB1YmxpYwo=</text>
+        <text encoding="base64">UmVmaW5lciBFVEwgU2NhbGEgZm9yIERhdGEgUGlwZWxpbmVzCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Pj4+Pj4+PiB1cGRhdGUgUkVBRE1FIHdpdGggbGF0ZXN0IGFuZCBncmVhdGVzdAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECj09PT09PT0K</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="9" type="2">
-        <text>update README with latest and greatest</text>
+        <text encoding="base64">U2xhY2sgY2hhbm5lbDogI3ZvLXRlYW0tZGF0LXB1YmxpYwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
