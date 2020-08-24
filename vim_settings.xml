@@ -106,7 +106,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1598281387339">
+      <file name="/Dummy.txt" timestamp="1598284395599">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -134,11 +134,11 @@
       <file name="/console_24" timestamp="1597676037403">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GitLab/data-lambda-refine/README.md" timestamp="1598280073750">
-        <mark key="[" line="43" column="8" />
-        <mark key="]" line="44" column="104" />
-        <mark key="^" line="44" column="104" />
-        <mark key="." line="44" column="103" />
+      <file name="$USER_HOME$/GitLab/data-lambda-refine/README.md" timestamp="1598283018650">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="^" line="31" column="23" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="/console_25" timestamp="1598278290528">
         <mark key="[" line="0" column="0" />
@@ -296,28 +296,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBkb2NzOiBBZGQgcmVhZG1lIG9uIGhvdyB0byBidWlsZCBhbmQgc2hpcCBjb2RlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IHdpbGwgYmUgYXV0b21hdGljYWxseSBkZXBsb3llZCB0byBwbGF5Z3JvdW5kIGFuZCBjYW4gYmUgbWFudWFsbHkgZGVwbG95ZWQgdG8gc3RhZ2luZyBhbmQvb3IgcHJvZHVjdGlvbi4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiB1cGRhdGUgcmVhZG1lIGRlc2NyaXB0aW9uIGFuZCBzZXJ2aWNlIG93bmVyc2hpcCBpbmZvCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiMjIFRlc3RpbmcKVE9ETzogVXBkYXRlIHdpdGggY29ycmVjdCB0ZXN0IGNvbW1hbmRzIC8gcHJvY2Vzcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyMgVGVzdGluZwpUT0RPOiBVcGRhdGUgd2l0aCBjb3JyZWN0IHRlc3QgY29tbWFuZHMgLyBwcm9jZXNzCg==</text>
+        <text encoding="base64">TG9naW4gdG8gdGhlIGFwcHJvcHJpYXRlIGVudiB3aXRoIHNhbWwyYXdzIHRoZW4gcnVuOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBIb3cgdG8gZGVwbG95Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLzIwMjAtMDgtMjEvMjAyMC0wOC0xOS9n</text>
