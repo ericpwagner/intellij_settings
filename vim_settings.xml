@@ -106,6 +106,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c8741a45-206f-4253-89be-6cc74f6d936f/console_28.sql" timestamp="1598459782351">
+        <mark key="'" line="13" column="2" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
       <file name="/console_9" timestamp="1598304442005">
         <mark key="[" line="0" column="0" />
       </file>
@@ -118,42 +124,42 @@
         <mark key="." line="4" column="24" />
         <mark key="^" line="4" column="25" />
       </file>
-      <file name="$USER_HOME$/GitLab/data-lambda-refine/README.md" timestamp="1598283018650">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="^" line="31" column="23" />
-        <mark key="." line="34" column="0" />
+      <file name="$USER_HOME$/GitLab/data-lambda-refine/README.md" timestamp="1598473332384">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="104" />
+        <mark key="^" line="17" column="104" />
+        <mark key="." line="17" column="103" />
       </file>
       <file name="/console_25" timestamp="1598278290528">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/console_26" timestamp="1598278297050">
+      <file name="/console_26" timestamp="1598374412754">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/console_27" timestamp="1598285385003">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/console_28" timestamp="1598389886247">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/Dummy.json" timestamp="1598304428472">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1598284395599">
+      <file name="/Dummy.txt" timestamp="1598473768076">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GitHub/data-db-loader/db_loader/entry/adhoc_kinesis_lambda.py" timestamp="1598368185041" />
-      <file name="$USER_HOME$/GitHub/data-db-loader/tools/cli_tools_entrypoint.py" timestamp="1598297950635">
+      <file name="$USER_HOME$/GitHub/data-db-loader/db_loader/entry/adhoc_kinesis_lambda.py" timestamp="1598380256768" />
+      <file name="$USER_HOME$/GitHub/data-db-loader/tools/cli_tools_entrypoint.py" timestamp="1598457635857">
         <mark key="'" line="115" column="63" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c8741a45-206f-4253-89be-6cc74f6d936f/console_26.sql" timestamp="1598047357329">
-        <mark key="'" line="44" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/044e28c2-f35f-4fff-b858-d01f3fe770cc/console_10.sql" timestamp="1598374400176">
-        <mark key="'" line="8" column="2" />
-        <mark key="[" line="3" column="27" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="9" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/044e28c2-f35f-4fff-b858-d01f3fe770cc/console_10.sql" timestamp="1598459333709">
+        <mark key="'" line="7" column="2" />
+        <mark key="[" line="13" column="38" />
+        <mark key="]" line="16" column="28" />
+        <mark key="^" line="18" column="169" />
+        <mark key="." line="16" column="28" />
       </file>
       <file name="$USER_HOME$/GitLab/pts_hec_aggregator/README.md" timestamp="1598281470339">
         <mark key="'" line="125" column="109" />
@@ -172,11 +178,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GitHub/data-db-loader/Makefile" timestamp="1598050071373">
-        <mark key="]" line="24" column="38" />
-        <mark key="^" line="24" column="38" />
-        <mark key="." line="24" column="37" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c8741a45-206f-4253-89be-6cc74f6d936f/console_27.sql" timestamp="1598286051898">
         <mark key="'" line="53" column="0" />
         <mark key="[" line="12" column="46" />
@@ -189,8 +190,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/c8741a45-206f-4253-89be-6cc74f6d936f/console.sql" />
-      <jump line="47" column="30" filename="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736_resolves.ipynb" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/c8741a45-206f-4253-89be-6cc74f6d936f/console_2.sql" />
       <jump line="708" column="0" filename="$USER_HOME$/GitLab/data/dms/terraform.tf" />
       <jump line="161" column="0" filename="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736-acks.ipynb" />
@@ -289,15 +288,17 @@
       <jump line="115" column="63" filename="$USER_HOME$/GitHub/data-db-loader/tools/cli_tools_entrypoint.py" />
       <jump line="4" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/044e28c2-f35f-4fff-b858-d01f3fe770cc/console_10.sql" />
       <jump line="8" column="2" filename="$APPLICATION_CONFIG_DIR$/consoles/db/044e28c2-f35f-4fff-b858-d01f3fe770cc/console_10.sql" />
+      <jump line="3" column="26" filename="$APPLICATION_CONFIG_DIR$/consoles/db/c8741a45-206f-4253-89be-6cc74f6d936f/console_28.sql" />
+      <jump line="8" column="2" filename="$APPLICATION_CONFIG_DIR$/consoles/db/c8741a45-206f-4253-89be-6cc74f6d936f/console_28.sql" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgKTsK</text>
+      <register name="&quot;" type="4">
+        <text>meta_written_at</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>meta_written_at</text>
       </register>
       <register name="/" type="4">
         <text>fetch</text>
@@ -306,35 +307,36 @@
         <text encoding="base64">ICBhbmQgaW5jaWRlbnRfaWQgPSA2NDQxMjMgCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgKTsK</text>
+        <text encoding="base64">CndpdGggb3JpZ19maWxlcyBhcyAoCiAgICBzZWxlY3QKICAgICAgICBjb25jYXQoaW5jaWRlbnRfcGhhc2UpCikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICA2NDQxMjMK</text>
+        <text>feed=incident_v1/datalake_received_at=2020-08-26/00/stg.splunk-ssc-vo-staging.victorops.net-incident-108-2020-08-26-00-59-03-ae0c6fd4-2e69-4573-a3ae-914e01301923.json.gzand incident_id = 234405;
+feed=incident_v1/datalake_received_at=2020-08-25/20/stg.splunk-ssc-vo-staging.victorops.net-incident-108-2020-08-25-20-59-03-1a3354c9-4355-41c6-99d4-8fd5fc5b9449.json.gz</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBhbmQgaW5jaWRlbnRfaWQgSU4gKAotLSAgICAgICAgICAgICAgICAgICAgICAgNjQ0MTE5Ci0tICAgICAgICAgICAgICAgICAgICAgICAsIDY0NDEyMgo=</text>
+        <text encoding="base64">CnNlbGVjdCAqCmZyb20gdm9fcmVwb3J0c19kYXRhX3dhcmVob3VzZS5kaW1lbnNpb25fb3JnCndoZXJlIG9yZ19pZCA9IDEyMzA0</text>
       </register>
       <register name="4" type="4">
+        <text encoding="base64">KGxvdyBwZXJjZW50YWdlIApsb3NzIGZyb20gUzMgaXMgcG9zc2libGUsIGluIHdoaWNoIGNhc2UgdGhlIGZpbGUgbmV2ZXIgZ2V0cyBwcm9jZXNzZWQgYnkgdGhlIHJlZmluZXIgYnV0IHJlbWFpbnMgaW4gcmF3KSA=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgKTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICA2NDQxMjMK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBhbmQgaW5jaWRlbnRfaWQgSU4gKAotLSAgICAgICAgICAgICAgICAgICAgICAgNjQ0MTE5Ci0tICAgICAgICAgICAgICAgICAgICAgICAsIDY0NDEyMgo=</text>
+      </register>
+      <register name="8" type="4">
         <text>(
 --                       644119
 --                       , 644122
                        644123
                      )</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">LS0gICAgICAgICAgICAgICAgICAgICAgIDY0NDExOQotLSAgICAgICAgICAgICAgICAgICAgICAgLCA2NDQxMjIKICAgICAgICAgICAgICAgICAgICAgICwgNjQ0MTIzCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBkb2NzOiBBZGQgcmVhZG1lIG9uIGhvdyB0byBidWlsZCBhbmQgc2hpcCBjb2RlCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">IHdpbGwgYmUgYXV0b21hdGljYWxseSBkZXBsb3llZCB0byBwbGF5Z3JvdW5kIGFuZCBjYW4gYmUgbWFudWFsbHkgZGVwbG95ZWQgdG8gc3RhZ2luZyBhbmQvb3IgcHJvZHVjdGlvbi4K</text>
+        <text encoding="base64">LS0gICAgICAgICAgICAgICAgICAgICAgIDY0NDExOQotLSAgICAgICAgICAgICAgICAgICAgICAgLCA2NDQxMjIKICAgICAgICAgICAgICAgICAgICAgICwgNjQ0MTIzCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLzIwMjAtMDgtMjAvMjAyMC0wOC0yMy9nYw==</text>
