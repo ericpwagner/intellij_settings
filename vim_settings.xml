@@ -112,6 +112,12 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="$USER_HOME$/GitLab/platform-reporting/README.md" timestamp="1598478223836">
+        <mark key="[" line="24" column="31" />
+        <mark key="]" line="24" column="31" />
+        <mark key="^" line="12" column="2" />
+        <mark key="." line="24" column="31" />
+      </file>
       <file name="/console_9" timestamp="1598304442005">
         <mark key="[" line="0" column="0" />
       </file>
@@ -142,7 +148,7 @@
       <file name="/Dummy.json" timestamp="1598304428472">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1598473768076">
+      <file name="/Dummy.txt" timestamp="1598478303159">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -163,12 +169,6 @@
         <mark key="]" line="74" column="0" />
         <mark key="." line="74" column="0" />
         <mark key="^" line="127" column="23" />
-      </file>
-      <file name="$USER_HOME$/GitLab/correlated-incidents/README.md" timestamp="1598281381547">
-        <mark key="[" line="0" column="22" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="2" column="0" />
-        <mark key="." line="2" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/044e28c2-f35f-4fff-b858-d01f3fe770cc/console_8.sql" timestamp="1598289668558">
         <mark key="[" line="0" column="0" />
@@ -292,10 +292,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>meta_written_at</text>
+        <text>svg</text>
       </register>
       <register name="-" type="4">
-        <text>meta_written_at</text>
+        <text>svg</text>
       </register>
       <register name="/" type="4">
         <text>fetch</text>
