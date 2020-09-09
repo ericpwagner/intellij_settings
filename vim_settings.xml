@@ -118,16 +118,12 @@
         <mark key="^" line="12" column="2" />
         <mark key="." line="24" column="31" />
       </file>
-      <file name="$USER_HOME$/tf_training/myconfig.tf" timestamp="1599663157355">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="5" column="1" />
-        <mark key="^" line="6" column="0" />
+      <file name="$USER_HOME$/tf_training/myconfig.tf" timestamp="1599664630848">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="/console_9" timestamp="1598304442005">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/console_8" timestamp="1598289666984">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/044e28c2-f35f-4fff-b858-d01f3fe770cc/console_9.sql" timestamp="1598310626244">
@@ -142,6 +138,7 @@
         <mark key="^" line="17" column="104" />
         <mark key="." line="17" column="103" />
       </file>
+      <file name="$USER_HOME$/GitLab/data/.terraform/terraform.tfstate" timestamp="1599664493796" />
       <file name="/console_26" timestamp="1598374412754">
         <mark key="[" line="0" column="0" />
       </file>
@@ -162,6 +159,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/GitLab/data/Makefile" timestamp="1599665111649" />
       <file name="$USER_HOME$/GitHub/data-db-loader/db_loader/entry/adhoc_kinesis_lambda.py" timestamp="1598380256768" />
       <file name="$USER_HOME$/GitHub/data-db-loader/tools/cli_tools_entrypoint.py" timestamp="1598457635857">
         <mark key="'" line="115" column="63" />
@@ -177,13 +175,6 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c8741a45-206f-4253-89be-6cc74f6d936f/console_27.sql" timestamp="1598286051898">
-        <mark key="'" line="53" column="0" />
-        <mark key="[" line="12" column="46" />
-        <mark key="]" line="12" column="46" />
-        <mark key="." line="12" column="46" />
-        <mark key="^" line="12" column="39" />
       </file>
       <file name="/console_10" timestamp="1598372739948">
         <mark key="[" line="0" column="0" />
@@ -294,8 +285,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>refined_bucket</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBhY2Nlc3Nfa2V5ID0gIkFLSUFRUkdaTU5RV1RKN1ZWQ1ZBIgo=</text>
       </register>
       <register name="-" type="4">
         <text>refined_bucket</text>
@@ -307,6 +298,9 @@
         <text encoding="base64">ICBhbmQgaW5jaWRlbnRfaWQgPSA2NDQxMjMgCg==</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICBhY2Nlc3Nfa2V5ID0gIkFLSUFRUkdaTU5RV1RKN1ZWQ1ZBIgo=</text>
+      </register>
+      <register name="2" type="2">
         <text>{
  &quot;cells&quot;: [
   {
@@ -342,9 +336,6 @@
  &quot;nbformat_minor&quot;: 0
 }</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
@@ -358,14 +349,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyUlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CndpdGggb3JpZ19maWxlcyBhcyAoCiAgICBzZWxlY3QKICAgICAgICBjb25jYXQoaW5jaWRlbnRfcGhhc2UpCikK</text>
+        <text encoding="base64">IyUlCg==</text>
       </register>
       <register name="9" type="2">
-        <text>feed=incident_v1/datalake_received_at=2020-08-26/00/stg.splunk-ssc-vo-staging.victorops.net-incident-108-2020-08-26-00-59-03-ae0c6fd4-2e69-4573-a3ae-914e01301923.json.gzand incident_id = 234405;
-feed=incident_v1/datalake_received_at=2020-08-25/20/stg.splunk-ssc-vo-staging.victorops.net-incident-108-2020-08-25-20-59-03-1a3354c9-4355-41c6-99d4-8fd5fc5b9449.json.gz</text>
+        <text encoding="base64">CndpdGggb3JpZ19maWxlcyBhcyAoCiAgICBzZWxlY3QKICAgICAgICBjb25jYXQoaW5jaWRlbnRfcGhhc2UpCikK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
