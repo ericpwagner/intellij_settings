@@ -139,6 +139,11 @@
       <file name="/console_26" timestamp="1598374412754">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c8741a45-206f-4253-89be-6cc74f6d936f/console_29.sql" timestamp="1599672492113">
+        <mark key="[" line="5" column="12" />
+        <mark key="]" line="5" column="12" />
+        <mark key="." line="5" column="12" />
+      </file>
       <file name="$USER_HOME$/tf_training/first_file.tf" timestamp="1599604712028">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -280,11 +285,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBhY2Nlc3Nfa2V5ID0gIkFLSUFRUkdaTU5RV1RKN1ZWQ1ZBIgo=</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>refined_bucket</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>fetch</text>
@@ -293,9 +298,12 @@
         <text encoding="base64">ICBhbmQgaW5jaWRlbnRfaWQgPSA2NDQxMjMgCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBhY2Nlc3Nfa2V5ID0gIkFLSUFRUkdaTU5RV1RKN1ZWQ1ZBIgo=</text>
+        <text encoding="base64">ICAgIGRlcC5zbHVnLAotLSAgICAgZHJnLmxhYmVsLAotLSAgICAgZHIubGFiZWwK</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICBhY2Nlc3Nfa2V5ID0gIkFLSUFRUkdaTU5RV1RKN1ZWQ1ZBIgo=</text>
+      </register>
+      <register name="3" type="2">
         <text>{
  &quot;cells&quot;: [
   {
@@ -331,9 +339,6 @@
  &quot;nbformat_minor&quot;: 0
 }</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
@@ -347,10 +352,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyUlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CndpdGggb3JpZ19maWxlcyBhcyAoCiAgICBzZWxlY3QKICAgICAgICBjb25jYXQoaW5jaWRlbnRfcGhhc2UpCikK</text>
+        <text encoding="base64">IyUlCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
