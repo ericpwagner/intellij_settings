@@ -44,11 +44,11 @@
         <entry encoding="base64">JzwsJz5zL2RhdGFfZGxxX2V2ZW50cy9kYXRhX2FuYWx5dGljc19ldmVudHMvZ2M=</entry>
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz5zL3JlZmluZWQvcmF3L2c=</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz5zLzIwMjAtMDgtMjAvMjAyMC0wOC0yMS9n</entry>
         <entry encoding="base64">JzwsJz5zLzIwMjAtMDgtMjEvMjAyMC0wOC0xOS9n</entry>
         <entry encoding="base64">JzwsJz5zLzIwMjAtMDgtMDEvMjAyMC0wOC0xOC9n</entry>
         <entry encoding="base64">JzwsJz5zLzIwMjAtMDgtMjAvMjAyMC0wOC0yMy9nYw==</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -118,10 +118,11 @@
         <mark key="^" line="12" column="2" />
         <mark key="." line="24" column="31" />
       </file>
-      <file name="$USER_HOME$/tf_training/myconfig.tf" timestamp="1599605384963">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/tf_training/myconfig.tf" timestamp="1599663157355">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="5" column="1" />
+        <mark key="^" line="6" column="0" />
       </file>
       <file name="/console_9" timestamp="1598304442005">
         <mark key="[" line="0" column="0" />
@@ -144,9 +145,6 @@
       <file name="/console_26" timestamp="1598374412754">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/console_27" timestamp="1598285385003">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/tf_training/first_file.tf" timestamp="1599604712028">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -155,6 +153,7 @@
       <file name="/console_28" timestamp="1598389886247">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/GitLab/data/recon/variables.tf" timestamp="1599662400499" />
       <file name="/Dummy.json" timestamp="1598304428472">
         <mark key="[" line="0" column="0" />
       </file>
@@ -295,11 +294,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>refined_bucket</text>
       </register>
       <register name="-" type="4">
-        <text>svg</text>
+        <text>refined_bucket</text>
       </register>
       <register name="/" type="4">
         <text>fetch</text>
@@ -308,7 +307,40 @@
         <text encoding="base64">ICBhbmQgaW5jaWRlbnRfaWQgPSA2NDQxMjMgCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>{
+ &quot;cells&quot;: [
+  {
+   &quot;cell_type&quot;: &quot;code&quot;,
+   &quot;execution_count&quot;: null,
+   &quot;metadata&quot;: {
+    &quot;collapsed&quot;: true
+   },
+   &quot;outputs&quot;: [],
+   &quot;source&quot;: []
+  }
+ ],
+ &quot;metadata&quot;: {
+  &quot;kernelspec&quot;: {
+   &quot;display_name&quot;: &quot;${KERNEL_SPEC_DISPLAY_NAME}&quot;,
+   &quot;language&quot;: &quot;${KERNEL_SPEC_LANGUAGE}&quot;,
+   &quot;name&quot;: &quot;${KERNEL_SPEC_NAME}&quot;
+  },
+  &quot;language_info&quot;: {
+   &quot;codemirror_mode&quot;: {
+    &quot;name&quot;: &quot;ipython&quot;,
+    &quot;version&quot;: 2
+   },
+   &quot;file_extension&quot;: &quot;.py&quot;,
+   &quot;mimetype&quot;: &quot;text/x-python&quot;,
+   &quot;name&quot;: &quot;python&quot;,
+   &quot;nbconvert_exporter&quot;: &quot;python&quot;,
+   &quot;pygments_lexer&quot;: &quot;ipython2&quot;,
+   &quot;version&quot;: &quot;2.7.6&quot;
+  }
+ },
+ &quot;nbformat&quot;: 4,
+ &quot;nbformat_minor&quot;: 0
+}</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -323,20 +355,20 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyUlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CndpdGggb3JpZ19maWxlcyBhcyAoCiAgICBzZWxlY3QKICAgICAgICBjb25jYXQoaW5jaWRlbnRfcGhhc2UpCikK</text>
+        <text encoding="base64">IyUlCg==</text>
       </register>
       <register name="8" type="2">
+        <text encoding="base64">CndpdGggb3JpZ19maWxlcyBhcyAoCiAgICBzZWxlY3QKICAgICAgICBjb25jYXQoaW5jaWRlbnRfcGhhc2UpCikK</text>
+      </register>
+      <register name="9" type="2">
         <text>feed=incident_v1/datalake_received_at=2020-08-26/00/stg.splunk-ssc-vo-staging.victorops.net-incident-108-2020-08-26-00-59-03-ae0c6fd4-2e69-4573-a3ae-914e01301923.json.gzand incident_id = 234405;
 feed=incident_v1/datalake_received_at=2020-08-25/20/stg.splunk-ssc-vo-staging.victorops.net-incident-108-2020-08-25-20-59-03-1a3354c9-4355-41c6-99d4-8fd5fc5b9449.json.gz</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">CnNlbGVjdCAqCmZyb20gdm9fcmVwb3J0c19kYXRhX3dhcmVob3VzZS5kaW1lbnNpb25fb3JnCndoZXJlIG9yZ19pZCA9IDEyMzA0</text>
-      </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zLzIwMjAtMDgtMjAvMjAyMC0wOC0yMy9nYw==</text>
+        <text>w</text>
       </register>
     </registers>
   </component>
