@@ -118,16 +118,12 @@
         <mark key="^" line="12" column="2" />
         <mark key="." line="24" column="31" />
       </file>
-      <file name="$USER_HOME$/tf_training/myconfig.tf" timestamp="1599664630848">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/044e28c2-f35f-4fff-b858-d01f3fe770cc/console_9.sql" timestamp="1598310626244">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="4" column="25" />
-        <mark key="." line="4" column="24" />
-        <mark key="^" line="4" column="25" />
+      <file name="$USER_HOME$/tf_training/myconfig.tf" timestamp="1599677652372">
+        <mark key="'" line="32" column="38" />
+        <mark key="[" line="56" column="29" />
+        <mark key="]" line="56" column="31" />
+        <mark key="." line="56" column="30" />
+        <mark key="^" line="56" column="31" />
       </file>
       <file name="$USER_HOME$/GitLab/data-lambda-refine/README.md" timestamp="1599604433473">
         <mark key="[" line="17" column="0" />
@@ -139,10 +135,10 @@
       <file name="/console_26" timestamp="1598374412754">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c8741a45-206f-4253-89be-6cc74f6d936f/console_29.sql" timestamp="1599672492113">
-        <mark key="[" line="5" column="12" />
-        <mark key="]" line="5" column="12" />
-        <mark key="." line="5" column="12" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c8741a45-206f-4253-89be-6cc74f6d936f/console_29.sql" timestamp="1599675860808">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/tf_training/first_file.tf" timestamp="1599604712028">
         <mark key="[" line="0" column="0" />
@@ -169,6 +165,9 @@
       <file name="$USER_HOME$/GitHub/data-db-loader/tools/cli_tools_entrypoint.py" timestamp="1598457635857">
         <mark key="'" line="115" column="63" />
       </file>
+      <file name="/" timestamp="1599676289877">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/044e28c2-f35f-4fff-b858-d01f3fe770cc/console_10.sql" timestamp="1598459333709">
         <mark key="'" line="7" column="2" />
         <mark key="[" line="13" column="38" />
@@ -181,8 +180,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/c8741a45-206f-4253-89be-6cc74f6d936f/console_2.sql" />
-      <jump line="708" column="0" filename="$USER_HOME$/GitLab/data/dms/terraform.tf" />
       <jump line="161" column="0" filename="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736-acks.ipynb" />
       <jump line="162" column="0" filename="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736-acks.ipynb" />
       <jump line="164" column="0" filename="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736-acks.ipynb" />
@@ -281,29 +278,37 @@
       <jump line="8" column="2" filename="$APPLICATION_CONFIG_DIR$/consoles/db/044e28c2-f35f-4fff-b858-d01f3fe770cc/console_10.sql" />
       <jump line="3" column="26" filename="$APPLICATION_CONFIG_DIR$/consoles/db/c8741a45-206f-4253-89be-6cc74f6d936f/console_28.sql" />
       <jump line="8" column="2" filename="$APPLICATION_CONFIG_DIR$/consoles/db/c8741a45-206f-4253-89be-6cc74f6d936f/console_28.sql" />
+      <jump line="28" column="0" filename="$USER_HOME$/tf_training/myconfig.tf" />
+      <jump line="32" column="38" filename="$USER_HOME$/tf_training/myconfig.tf" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>list_output</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>list_output</text>
       </register>
       <register name="/" type="4">
         <text>fetch</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBhbmQgaW5jaWRlbnRfaWQgPSA2NDQxMjMgCg==</text>
+        <text encoding="base64">b3V0cHV0ICJsaXN0X291dHB1dCIgewogIHZhbHVlID0gIiR7dmFyLmxpc3RfZXhhbXBsZX0iCn0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRlcC5zbHVnLAotLSAgICAgZHJnLmxhYmVsLAotLSAgICAgZHIubGFiZWwK</text>
+        <text encoding="base64">ICB9Igo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBhY2Nlc3Nfa2V5ID0gIkFLSUFRUkdaTU5RV1RKN1ZWQ1ZBIgo=</text>
+        <text encoding="base64">U0VMRUNUICBkdS51c2VybmFtZSwgIGR1LmZpcnN0LCAgZHUubGFzdCwgIGRlcC5uYW1lLCAgZGVwLnNsdWcsICBkcmcubGFiZWwgQVMgcm90YXRpb25OYW1lLCAgZHIubGFiZWwgQVMgc2hpZnROYW1lLCAgKCAgIFNFTEVDVCAgICAgICAgICB1Mi51c2VybmFtZSAgICAgRlJPTSAgICAgICAgICBkaW1lbnNpb25fdXNlciB1MiAgICBXSEVSRSAgICAgICAgICB1Mi51c2VyX2lkID0gb2NsLnVzZXJfaWQpIG92ZXJyaWRkZW5fdXNlciwgIG9jbC5vbl90aW1lLCAgb2NsLm9mZl90aW1lICBGUk9NIGZhY3RfdXNlcl9vbl9jYWxsIG9jbCBKT0lOICBkaW1lbnNpb25fdXNlciBkdSAgICBPTiAgb2NsLnVzZXJfaWQgPSBkdS51c2VyX2lkICAgTEVGVCBKT0lOIGRpbWVuc2lvbl9lc2NhbGF0aW9uX3BvbGljaWVzIGRlcCAgICBPTiBkZXAucG9saWN5X2lkID0gb2NsLnBvbGljeV9pZCAgICAgICAgICAgICBMRUZUIEpPSU4gICAgICBkaW1lbnNpb25fcm90YXRpb25zIGRyICAgT04gICAgICBkci5yb3RhdGlvbl9pZCA9IG9jbC5vbl9zaGlmdF9pZCAgQU5EIGRyLnRlYW1faWQgPSBvY2wudGVhbV9pZCAgQU5EIGRyLmNyZWF0ZWRfYXQgPSAgICAgICggICAgICAgU0VMRUNUICAgICAgICAgICAgICBNQVgoeC5jcmVhdGVkX2F0KSAgICAgICAgIEZST00gICAgICAgICAgICAgIGRpbWVuc2lvbl9yb3RhdGlvbnMgeCAgICAgICAgV0hFUkUgICAgICAgICAgICAgIHgucm90YXRpb25faWQgPSBkci5yb3RhdGlvbl9pZCAgICAgICAgICBBTkQgeC50ZWFtX2lkID0gZHIudGVhbV9pZCAgICAgICAgICBBTkQgeC5jcmVhdGVkX2F0IDwgb2NsLm9uX3RpbWUgICAgICAgICAgTElNSVQgMSkgICBMRUZUIEpPSU4gICAgICBkaW1lbnNpb25fcm90YXRpb25fZ3JvdXBzIGRyZyAgIE9OICAgICAgZHJnLnJvdGF0aW9uX2dyb3VwX2lkID0gZHIuZ3JvdXBfaWQgIEFORCBkcmcudGVhbV9pZCA9IG9jbC50ZWFtX2lkICBBTkQgZHJnLmNyZWF0ZWRfYXQgPSAgICAgICggICAgICAgU0VMRUNUICAgICAgICAgICAgICBNQVgoeC5jcmVhdGVkX2F0KSAgICAgICAgIEZST00gICAgICAgICAgICAgIGRpbWVuc2lvbl9yb3RhdGlvbl9ncm91cHMgeCAgICAgICAgV0hFUkUgICAgICAgICAgeC5yb3RhdGlvbl9ncm91cF9pZCA9IGRyZy5yb3RhdGlvbl9ncm91cF9pZCAgICAgICAgICBBTkQgeC50ZWFtX2lkID0gZHJnLnRlYW1faWQgICAgICAgICAgQU5EIHguY3JlYXRlZF9hdCA8IG9jbC5vbl90aW1lICAgICAgICAgIExJTUlUIDEpICAgV0hFUkUgb2NsLm9yZ19pZCA9IDEyMTgxIEFORCBkdS52ZXJpZmllZCA9IHRydWUgQU5EIGR1LnVzZXJuYW1lID0gJ3N1bmR1cycgQU5EIG9jbC51c2VyX2lkIElOICggU0VMRUNUIHVzZXJfaWQgRlJPTSBkaW1lbnNpb25fb3JnX21lbWJlcnMgV0hFUkUgb3JnX2lkID0gMTIxODEgKSBBTkQgKCBvY2wub2ZmX3RpbWUgPiAnMjAyMC0wOC0xMVQwNjowMDowMC4wMDBaJyBPUiBvY2wub2ZmX3RpbWUgSVMgTlVMTCApIEFORCBvY2wub25fdGltZSA8ICcyMDIwLTA4LTE1VDA1OjU5OjU5Ljk5OVonIEdST1VQIEJZICAgb2NsLnVzZXJfaWQsICAgb2NsLm9uX3RpbWUsICAgb2NsLm9mZl90aW1lLCAgIG9jbC5vbl9pZCwgICBkdS51c2VybmFtZSwgICBkdS5maXJzdCwgICBkdS5sYXN0LCAgIGRlcC5uYW1lLCAgIGRlcC5zbHVnLCAgIGRyZy5sYWJlbCwgICBkci5sYWJlbCAgT1JERVIgQlkgICAgZHUudXNlcm5hbWUsICAgIG9jbC5vbl90aW1l</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgIGRlcC5zbHVnLAotLSAgICAgZHJnLmxhYmVsLAotLSAgICAgZHIubGFiZWwK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBhY2Nlc3Nfa2V5ID0gIkFLSUFRUkdaTU5RV1RKN1ZWQ1ZBIgo=</text>
+      </register>
+      <register name="5" type="2">
         <text>{
  &quot;cells&quot;: [
   {
@@ -339,12 +344,6 @@
  &quot;nbformat_minor&quot;: 0
 }</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
@@ -355,7 +354,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyUlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

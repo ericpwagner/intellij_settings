@@ -8,6 +8,9 @@
   <action id="ActivatePythonConsoleToolWindow">
     <keyboard-shortcut first-keystroke="meta alt c" />
   </action>
+  <action id="ActivateSQLFormatterToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl meta s" />
+  </action>
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="shift ctrl t" />
   </action>
