@@ -118,6 +118,11 @@
         <mark key="^" line="12" column="2" />
         <mark key="." line="24" column="31" />
       </file>
+      <file name="$USER_HOME$/tf_training/myconfig.tf" timestamp="1599605384963">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="/console_9" timestamp="1598304442005">
         <mark key="[" line="0" column="0" />
       </file>
@@ -142,6 +147,11 @@
       <file name="/console_27" timestamp="1598285385003">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/tf_training/first_file.tf" timestamp="1599604712028">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="/console_28" timestamp="1598389886247">
         <mark key="[" line="0" column="0" />
       </file>
@@ -163,12 +173,6 @@
         <mark key="]" line="16" column="28" />
         <mark key="^" line="18" column="169" />
         <mark key="." line="16" column="28" />
-      </file>
-      <file name="$USER_HOME$/GitLab/pts_hec_aggregator/README.md" timestamp="1598281470339">
-        <mark key="'" line="125" column="109" />
-        <mark key="]" line="74" column="0" />
-        <mark key="." line="74" column="0" />
-        <mark key="^" line="127" column="23" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/044e28c2-f35f-4fff-b858-d01f3fe770cc/console_8.sql" timestamp="1598289668558">
         <mark key="[" line="0" column="0" />
@@ -291,8 +295,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>svg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>svg</text>
@@ -304,36 +308,32 @@
         <text encoding="base64">ICBhbmQgaW5jaWRlbnRfaWQgPSA2NDQxMjMgCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CndpdGggb3JpZ19maWxlcyBhcyAoCiAgICBzZWxlY3QKICAgICAgICBjb25jYXQoaW5jaWRlbnRfcGhhc2UpCikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">IyUlCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CndpdGggb3JpZ19maWxlcyBhcyAoCiAgICBzZWxlY3QKICAgICAgICBjb25jYXQoaW5jaWRlbnRfcGhhc2UpCikK</text>
+      </register>
+      <register name="8" type="2">
         <text>feed=incident_v1/datalake_received_at=2020-08-26/00/stg.splunk-ssc-vo-staging.victorops.net-incident-108-2020-08-26-00-59-03-ae0c6fd4-2e69-4573-a3ae-914e01301923.json.gzand incident_id = 234405;
 feed=incident_v1/datalake_received_at=2020-08-25/20/stg.splunk-ssc-vo-staging.victorops.net-incident-108-2020-08-25-20-59-03-1a3354c9-4355-41c6-99d4-8fd5fc5b9449.json.gz</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CnNlbGVjdCAqCmZyb20gdm9fcmVwb3J0c19kYXRhX3dhcmVob3VzZS5kaW1lbnNpb25fb3JnCndoZXJlIG9yZ19pZCA9IDEyMzA0</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">KGxvdyBwZXJjZW50YWdlIApsb3NzIGZyb20gUzMgaXMgcG9zc2libGUsIGluIHdoaWNoIGNhc2UgdGhlIGZpbGUgbmV2ZXIgZ2V0cyBwcm9jZXNzZWQgYnkgdGhlIHJlZmluZXIgYnV0IHJlbWFpbnMgaW4gcmF3KSA=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgKTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICA2NDQxMjMK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBhbmQgaW5jaWRlbnRfaWQgSU4gKAotLSAgICAgICAgICAgICAgICAgICAgICAgNjQ0MTE5Ci0tICAgICAgICAgICAgICAgICAgICAgICAsIDY0NDEyMgo=</text>
-      </register>
-      <register name="8" type="4">
-        <text>(
---                       644119
---                       , 644122
-                       644123
-                     )</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">LS0gICAgICAgICAgICAgICAgICAgICAgIDY0NDExOQotLSAgICAgICAgICAgICAgICAgICAgICAgLCA2NDQxMjIKICAgICAgICAgICAgICAgICAgICAgICwgNjQ0MTIzCg==</text>
+        <text encoding="base64">CnNlbGVjdCAqCmZyb20gdm9fcmVwb3J0c19kYXRhX3dhcmVob3VzZS5kaW1lbnNpb25fb3JnCndoZXJlIG9yZ19pZCA9IDEyMzA0</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLzIwMjAtMDgtMjAvMjAyMC0wOC0yMy9nYw==</text>
