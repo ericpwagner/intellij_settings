@@ -119,12 +119,15 @@
         <mark key="." line="24" column="31" />
       </file>
       <file name="$USER_HOME$/GitLab/data/.terraform/modules/modules.json" timestamp="1599677879114" />
-      <file name="$USER_HOME$/tf_training/myconfig.tf" timestamp="1599678215319">
-        <mark key="'" line="67" column="0" />
-        <mark key="[" line="56" column="22" />
-        <mark key="]" line="74" column="31" />
-        <mark key="." line="74" column="30" />
-        <mark key="^" line="74" column="31" />
+      <file name="$USER_HOME$/tf_training/myconfig.tf" timestamp="1599764589411">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/tf_training/outputs.tf" timestamp="1599764622541">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/GitLab/data-lambda-refine/README.md" timestamp="1599604433473">
         <mark key="[" line="17" column="0" />
@@ -133,9 +136,6 @@
         <mark key="." line="17" column="103" />
       </file>
       <file name="$USER_HOME$/GitLab/data/.terraform/terraform.tfstate" timestamp="1599664493796" />
-      <file name="/console_26" timestamp="1598374412754">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c8741a45-206f-4253-89be-6cc74f6d936f/console_29.sql" timestamp="1599675860808">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -162,7 +162,6 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/GitLab/data/Makefile" timestamp="1599665111649" />
-      <file name="$USER_HOME$/GitHub/data-db-loader/db_loader/entry/adhoc_kinesis_lambda.py" timestamp="1598380256768" />
       <file name="$USER_HOME$/GitHub/data-db-loader/tools/cli_tools_entrypoint.py" timestamp="1598457635857">
         <mark key="'" line="115" column="63" />
       </file>
@@ -175,6 +174,11 @@
         <mark key="]" line="16" column="28" />
         <mark key="^" line="18" column="169" />
         <mark key="." line="16" column="28" />
+      </file>
+      <file name="$USER_HOME$/tf_training/variables.tf" timestamp="1599764634444">
+        <mark key="[" line="33" column="1" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -282,8 +286,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>boolean_example</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>boolean_example</text>
@@ -295,64 +299,31 @@
         <text encoding="base64">b3V0cHV0ICJib29sX291dHB1dCIgewogIHZhbHVlID0gIiR7dmFyLmJvb2xlYW5fZXhhbXBsZX0iCn0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB9Igo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">U0VMRUNUICBkdS51c2VybmFtZSwgIGR1LmZpcnN0LCAgZHUubGFzdCwgIGRlcC5uYW1lLCAgZGVwLnNsdWcsICBkcmcubGFiZWwgQVMgcm90YXRpb25OYW1lLCAgZHIubGFiZWwgQVMgc2hpZnROYW1lLCAgKCAgIFNFTEVDVCAgICAgICAgICB1Mi51c2VybmFtZSAgICAgRlJPTSAgICAgICAgICBkaW1lbnNpb25fdXNlciB1MiAgICBXSEVSRSAgICAgICAgICB1Mi51c2VyX2lkID0gb2NsLnVzZXJfaWQpIG92ZXJyaWRkZW5fdXNlciwgIG9jbC5vbl90aW1lLCAgb2NsLm9mZl90aW1lICBGUk9NIGZhY3RfdXNlcl9vbl9jYWxsIG9jbCBKT0lOICBkaW1lbnNpb25fdXNlciBkdSAgICBPTiAgb2NsLnVzZXJfaWQgPSBkdS51c2VyX2lkICAgTEVGVCBKT0lOIGRpbWVuc2lvbl9lc2NhbGF0aW9uX3BvbGljaWVzIGRlcCAgICBPTiBkZXAucG9saWN5X2lkID0gb2NsLnBvbGljeV9pZCAgICAgICAgICAgICBMRUZUIEpPSU4gICAgICBkaW1lbnNpb25fcm90YXRpb25zIGRyICAgT04gICAgICBkci5yb3RhdGlvbl9pZCA9IG9jbC5vbl9zaGlmdF9pZCAgQU5EIGRyLnRlYW1faWQgPSBvY2wudGVhbV9pZCAgQU5EIGRyLmNyZWF0ZWRfYXQgPSAgICAgICggICAgICAgU0VMRUNUICAgICAgICAgICAgICBNQVgoeC5jcmVhdGVkX2F0KSAgICAgICAgIEZST00gICAgICAgICAgICAgIGRpbWVuc2lvbl9yb3RhdGlvbnMgeCAgICAgICAgV0hFUkUgICAgICAgICAgICAgIHgucm90YXRpb25faWQgPSBkci5yb3RhdGlvbl9pZCAgICAgICAgICBBTkQgeC50ZWFtX2lkID0gZHIudGVhbV9pZCAgICAgICAgICBBTkQgeC5jcmVhdGVkX2F0IDwgb2NsLm9uX3RpbWUgICAgICAgICAgTElNSVQgMSkgICBMRUZUIEpPSU4gICAgICBkaW1lbnNpb25fcm90YXRpb25fZ3JvdXBzIGRyZyAgIE9OICAgICAgZHJnLnJvdGF0aW9uX2dyb3VwX2lkID0gZHIuZ3JvdXBfaWQgIEFORCBkcmcudGVhbV9pZCA9IG9jbC50ZWFtX2lkICBBTkQgZHJnLmNyZWF0ZWRfYXQgPSAgICAgICggICAgICAgU0VMRUNUICAgICAgICAgICAgICBNQVgoeC5jcmVhdGVkX2F0KSAgICAgICAgIEZST00gICAgICAgICAgICAgIGRpbWVuc2lvbl9yb3RhdGlvbl9ncm91cHMgeCAgICAgICAgV0hFUkUgICAgICAgICAgeC5yb3RhdGlvbl9ncm91cF9pZCA9IGRyZy5yb3RhdGlvbl9ncm91cF9pZCAgICAgICAgICBBTkQgeC50ZWFtX2lkID0gZHJnLnRlYW1faWQgICAgICAgICAgQU5EIHguY3JlYXRlZF9hdCA8IG9jbC5vbl90aW1lICAgICAgICAgIExJTUlUIDEpICAgV0hFUkUgb2NsLm9yZ19pZCA9IDEyMTgxIEFORCBkdS52ZXJpZmllZCA9IHRydWUgQU5EIGR1LnVzZXJuYW1lID0gJ3N1bmR1cycgQU5EIG9jbC51c2VyX2lkIElOICggU0VMRUNUIHVzZXJfaWQgRlJPTSBkaW1lbnNpb25fb3JnX21lbWJlcnMgV0hFUkUgb3JnX2lkID0gMTIxODEgKSBBTkQgKCBvY2wub2ZmX3RpbWUgPiAnMjAyMC0wOC0xMVQwNjowMDowMC4wMDBaJyBPUiBvY2wub2ZmX3RpbWUgSVMgTlVMTCApIEFORCBvY2wub25fdGltZSA8ICcyMDIwLTA4LTE1VDA1OjU5OjU5Ljk5OVonIEdST1VQIEJZICAgb2NsLnVzZXJfaWQsICAgb2NsLm9uX3RpbWUsICAgb2NsLm9mZl90aW1lLCAgIG9jbC5vbl9pZCwgICBkdS51c2VybmFtZSwgICBkdS5maXJzdCwgICBkdS5sYXN0LCAgIGRlcC5uYW1lLCAgIGRlcC5zbHVnLCAgIGRyZy5sYWJlbCwgICBkci5sYWJlbCAgT1JERVIgQlkgICAgZHUudXNlcm5hbWUsICAgIG9jbC5vbl90aW1l</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlcC5zbHVnLAotLSAgICAgZHJnLmxhYmVsLAotLSAgICAgZHIubGFiZWwK</text>
+        <text encoding="base64">CgoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBhY2Nlc3Nfa2V5ID0gIkFLSUFRUkdaTU5RV1RKN1ZWQ1ZBIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text>{
- &quot;cells&quot;: [
-  {
-   &quot;cell_type&quot;: &quot;code&quot;,
-   &quot;execution_count&quot;: null,
-   &quot;metadata&quot;: {
-    &quot;collapsed&quot;: true
-   },
-   &quot;outputs&quot;: [],
-   &quot;source&quot;: []
-  }
- ],
- &quot;metadata&quot;: {
-  &quot;kernelspec&quot;: {
-   &quot;display_name&quot;: &quot;${KERNEL_SPEC_DISPLAY_NAME}&quot;,
-   &quot;language&quot;: &quot;${KERNEL_SPEC_LANGUAGE}&quot;,
-   &quot;name&quot;: &quot;${KERNEL_SPEC_NAME}&quot;
-  },
-  &quot;language_info&quot;: {
-   &quot;codemirror_mode&quot;: {
-    &quot;name&quot;: &quot;ipython&quot;,
-    &quot;version&quot;: 2
-   },
-   &quot;file_extension&quot;: &quot;.py&quot;,
-   &quot;mimetype&quot;: &quot;text/x-python&quot;,
-   &quot;name&quot;: &quot;python&quot;,
-   &quot;nbconvert_exporter&quot;: &quot;python&quot;,
-   &quot;pygments_lexer&quot;: &quot;ipython2&quot;,
-   &quot;version&quot;: &quot;2.7.6&quot;
-  }
- },
- &quot;nbformat&quot;: 4,
- &quot;nbformat_minor&quot;: 0
-}</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB9Igo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">U0VMRUNUICBkdS51c2VybmFtZSwgIGR1LmZpcnN0LCAgZHUubGFzdCwgIGRlcC5uYW1lLCAgZGVwLnNsdWcsICBkcmcubGFiZWwgQVMgcm90YXRpb25OYW1lLCAgZHIubGFiZWwgQVMgc2hpZnROYW1lLCAgKCAgIFNFTEVDVCAgICAgICAgICB1Mi51c2VybmFtZSAgICAgRlJPTSAgICAgICAgICBkaW1lbnNpb25fdXNlciB1MiAgICBXSEVSRSAgICAgICAgICB1Mi51c2VyX2lkID0gb2NsLnVzZXJfaWQpIG92ZXJyaWRkZW5fdXNlciwgIG9jbC5vbl90aW1lLCAgb2NsLm9mZl90aW1lICBGUk9NIGZhY3RfdXNlcl9vbl9jYWxsIG9jbCBKT0lOICBkaW1lbnNpb25fdXNlciBkdSAgICBPTiAgb2NsLnVzZXJfaWQgPSBkdS51c2VyX2lkICAgTEVGVCBKT0lOIGRpbWVuc2lvbl9lc2NhbGF0aW9uX3BvbGljaWVzIGRlcCAgICBPTiBkZXAucG9saWN5X2lkID0gb2NsLnBvbGljeV9pZCAgICAgICAgICAgICBMRUZUIEpPSU4gICAgICBkaW1lbnNpb25fcm90YXRpb25zIGRyICAgT04gICAgICBkci5yb3RhdGlvbl9pZCA9IG9jbC5vbl9zaGlmdF9pZCAgQU5EIGRyLnRlYW1faWQgPSBvY2wudGVhbV9pZCAgQU5EIGRyLmNyZWF0ZWRfYXQgPSAgICAgICggICAgICAgU0VMRUNUICAgICAgICAgICAgICBNQVgoeC5jcmVhdGVkX2F0KSAgICAgICAgIEZST00gICAgICAgICAgICAgIGRpbWVuc2lvbl9yb3RhdGlvbnMgeCAgICAgICAgV0hFUkUgICAgICAgICAgICAgIHgucm90YXRpb25faWQgPSBkci5yb3RhdGlvbl9pZCAgICAgICAgICBBTkQgeC50ZWFtX2lkID0gZHIudGVhbV9pZCAgICAgICAgICBBTkQgeC5jcmVhdGVkX2F0IDwgb2NsLm9uX3RpbWUgICAgICAgICAgTElNSVQgMSkgICBMRUZUIEpPSU4gICAgICBkaW1lbnNpb25fcm90YXRpb25fZ3JvdXBzIGRyZyAgIE9OICAgICAgZHJnLnJvdGF0aW9uX2dyb3VwX2lkID0gZHIuZ3JvdXBfaWQgIEFORCBkcmcudGVhbV9pZCA9IG9jbC50ZWFtX2lkICBBTkQgZHJnLmNyZWF0ZWRfYXQgPSAgICAgICggICAgICAgU0VMRUNUICAgICAgICAgICAgICBNQVgoeC5jcmVhdGVkX2F0KSAgICAgICAgIEZST00gICAgICAgICAgICAgIGRpbWVuc2lvbl9yb3RhdGlvbl9ncm91cHMgeCAgICAgICAgV0hFUkUgICAgICAgICAgeC5yb3RhdGlvbl9ncm91cF9pZCA9IGRyZy5yb3RhdGlvbl9ncm91cF9pZCAgICAgICAgICBBTkQgeC50ZWFtX2lkID0gZHJnLnRlYW1faWQgICAgICAgICAgQU5EIHguY3JlYXRlZF9hdCA8IG9jbC5vbl90aW1lICAgICAgICAgIExJTUlUIDEpICAgV0hFUkUgb2NsLm9yZ19pZCA9IDEyMTgxIEFORCBkdS52ZXJpZmllZCA9IHRydWUgQU5EIGR1LnVzZXJuYW1lID0gJ3N1bmR1cycgQU5EIG9jbC51c2VyX2lkIElOICggU0VMRUNUIHVzZXJfaWQgRlJPTSBkaW1lbnNpb25fb3JnX21lbWJlcnMgV0hFUkUgb3JnX2lkID0gMTIxODEgKSBBTkQgKCBvY2wub2ZmX3RpbWUgPiAnMjAyMC0wOC0xMVQwNjowMDowMC4wMDBaJyBPUiBvY2wub2ZmX3RpbWUgSVMgTlVMTCApIEFORCBvY2wub25fdGltZSA8ICcyMDIwLTA4LTE1VDA1OjU5OjU5Ljk5OVonIEdST1VQIEJZICAgb2NsLnVzZXJfaWQsICAgb2NsLm9uX3RpbWUsICAgb2NsLm9mZl90aW1lLCAgIG9jbC5vbl9pZCwgICBkdS51c2VybmFtZSwgICBkdS5maXJzdCwgICBkdS5sYXN0LCAgIGRlcC5uYW1lLCAgIGRlcC5zbHVnLCAgIGRyZy5sYWJlbCwgICBkci5sYWJlbCAgT1JERVIgQlkgICAgZHUudXNlcm5hbWUsICAgIG9jbC5vbl90aW1l</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlcC5zbHVnLAotLSAgICAgZHJnLmxhYmVsLAotLSAgICAgZHIubGFiZWwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBhY2Nlc3Nfa2V5ID0gIkFLSUFRUkdaTU5RV1RKN1ZWQ1ZBIgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
