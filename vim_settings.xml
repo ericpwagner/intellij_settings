@@ -7,9 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>env</entry>
-        <entry>LEFT</entry>
-        <entry>65</entry>
         <entry>,</entry>
         <entry>'</entry>
         <entry>{</entry>
@@ -27,11 +24,11 @@
         <entry>fetch</entry>
         <entry>apppub</entry>
         <entry>343815065853</entry>
+        <entry>playground</entry>
+        <entry>play</entry>
+        <entry>772842846267</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zLzpcIC89L2c=</entry>
-        <entry encoding="base64">JzwsJz5zL0xFRlQvL2c=</entry>
-        <entry encoding="base64">JzwsJz5zL0xFRlQvRlVMTCBPVVRFUi9n</entry>
         <entry encoding="base64">JzwsJz5zLywvLFwgL2c=</entry>
         <entry encoding="base64">JzwsJz5zLywvLFwvZw==</entry>
         <entry encoding="base64">JzwsJz5zLycvL2c=</entry>
@@ -49,6 +46,9 @@
         <entry>w</entry>
         <entry encoding="base64">JzwsJz5zL2FwcHB1Yi9jaGF0L2c=</entry>
         <entry encoding="base64">JzwsJz5zLzM0MzgxNTA2NTg1My83NzI4NDI4NDYyNjcvZw==</entry>
+        <entry encoding="base64">JzwsJz5zL3BsYXlncm91bmQvc3RhZ2luZy9n</entry>
+        <entry encoding="base64">JzwsJz5zL3BsYXkvc3RnL2c=</entry>
+        <entry encoding="base64">JzwsJz5zLzc3Mjg0Mjg0NjI2Ny8xOTc3MjM5MDc4NDUvZw==</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -121,12 +121,6 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/GitLab/data-lambda-refine/README.md" timestamp="1599604433473">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="104" />
-        <mark key="^" line="17" column="104" />
-        <mark key="." line="17" column="103" />
-      </file>
       <file name="$USER_HOME$/GitLab/data-lambda-refine/sls_config/prod.json" timestamp="1600881662551">
         <mark key="'" line="29" column="2" />
         <mark key="[" line="25" column="0" />
@@ -152,6 +146,11 @@
         <mark key="]" line="131" column="1" />
         <mark key="." line="115" column="0" />
       </file>
+      <file name="/Dummy.txt" timestamp="1600882949776">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c8741a45-206f-4253-89be-6cc74f6d936f/console_29.sql" timestamp="1599675860808">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -170,7 +169,8 @@
       <file name="$USER_HOME$/tf_training/test_s3_file.txt" timestamp="1599768105531">
         <mark key="[" line="0" column="13" />
       </file>
-      <file name="$USER_HOME$/GitLab/data-lambda-refine/sls_config/stg.json" timestamp="1600881671151">
+      <file name="$USER_HOME$/GitLab/data-lambda-refine/sls_config/stg.json" timestamp="1600882387194">
+        <mark key="'" line="29" column="1" />
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
         <mark key="^" line="29" column="83" />
@@ -183,8 +183,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="180" column="0" filename="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736_resolves.ipynb" />
-      <jump line="2" column="51" filename="$APPLICATION_CONFIG_DIR$/consoles/db/044e28c2-f35f-4fff-b858-d01f3fe770cc/console.sql" />
       <jump line="123" column="0" filename="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736_resolves.ipynb" />
       <jump line="484" column="44" filename="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736_resolves.ipynb" />
       <jump line="511" column="28" filename="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736_resolves.ipynb" />
@@ -283,61 +281,63 @@
       <jump line="29" column="4" filename="$USER_HOME$/GitLab/data-lambda-refine/sls_config/playground.json" />
       <jump line="3" column="0" filename="$USER_HOME$/GitLab/data-lambda-refine/sls_config/prod.json" />
       <jump line="29" column="2" filename="$USER_HOME$/GitLab/data-lambda-refine/sls_config/prod.json" />
+      <jump line="28" column="4" filename="$USER_HOME$/GitLab/data-lambda-refine/sls_config/stg.json" />
+      <jump line="29" column="1" filename="$USER_HOME$/GitLab/data-lambda-refine/sls_config/stg.json" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAiaW5jaWRlbnRfcmF3X2J1Y2tldCI6ICJwci5zcGx1bmstc3NjLXZvLXByb2R1Y3Rpb24udmljdG9yb3BzLm5ldC1pbmNpZGVudCIsCg==</text>
+        <text>Switch auth feeds to sqsLambda handler and update event</text>
       </register>
       <register name="-" type="4">
         <text>play.splunk-ssc-vo-playground.victorops.net-auth-chat-data&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>343815065853</text>
+        <text>772842846267</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICJpbmNpZGVudF9zcXNfYXJuIjogImFybjphd3M6c3FzOnVzLXdlc3QtMjozNDM4MTUwNjU4NTM6ZGF0YS1yYXctaW5jaWRlbnRfdjEiLAogICAgImF1dGhfYXBwcHViX3Jhd19idWNrZXQiOiAicGxheS5zcGx1bmstc3NjLXZvLXBsYXlncm91bmQudmljdG9yb3BzLm5ldC1hdXRoLWFwcHB1Yi1kYXRhIiwKICAgICJhdXRoX2FwcHB1Yl9zcXNfYXJuIjogImFybjphd3M6c3FzOnVzLXdlc3QtMjozNDM4MTUwNjU4NTM6ZGF0YS1yYXdfYXBwcHViLWF1dGhfdjEiLAogICAgImF1dGhfY2hhdF9yYXdfYnVja2V0IjogInBsYXkuc3BsdW5rLXNzYy12by1wbGF5Z3JvdW5kLnZpY3Rvcm9wcy5uZXQtYXV0aC1jaGF0LWRhdGEiLAogICAgImF1dGhfY2hhdF9zcXNfYXJuIjogImFybjphd3M6c3FzOnVzLXdlc3QtMjozNDM4MTUwNjU4NTM6ZGF0YS1yYXdfY2hhdC1hdXRoX3YxIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAiaW5jaWRlbnRfcmF3X2J1Y2tldCI6ICJwci5zcGx1bmstc3NjLXZvLXByb2R1Y3Rpb24udmljdG9yb3BzLm5ldC1pbmNpZGVudCIsCg==</text>
+        <text>Switch auth feeds to sqsLambda handler and update event</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLSBwcmVmaXg6ICdmZWVkJTNEYXV0aF92MS8nCg==</text>
+        <text encoding="base64">ICAgICAgICAiaW5jaWRlbnRfcmF3X2J1Y2tldCI6ICJwci5zcGx1bmstc3NjLXZvLXByb2R1Y3Rpb24udmljdG9yb3BzLm5ldC1pbmNpZGVudCIsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLSBleGlzdGluZ1MzOgogICAgICAgICAgYnVja2V0OiAke2ZpbGUoc2xzX2NvbmZpZy8ke3NlbGY6cHJvdmlkZXIuc3RhZ2V9Lmpzb24pOmF1dGhBcHBwdWJsaWNfcmF3X2J1Y2tldH0KICAgICAgICAgIGV2ZW50czoKICAgICAgICAgICAgLSBzMzpPYmplY3RDcmVhdGVkOioKICAgICAgICAgIHJ1bGVzOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLSBwcmVmaXg6ICdmZWVkJTNEYXV0aF92MS8nCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLSBleGlzdGluZ1MzOgogICAgICAgICAgYnVja2V0OiAke2ZpbGUoc2xzX2NvbmZpZy8ke3NlbGY6cHJvdmlkZXIuc3RhZ2V9Lmpzb24pOmF1dGhDaGF0X3Jhd19idWNrZXR9CiAgICAgICAgICBldmVudHM6CiAgICAgICAgICAgIC0gczM6T2JqZWN0Q3JlYXRlZDoqCiAgICAgICAgICBydWxlczoKICAgICAgICAgICAgLSBwcmVmaXg6ICdmZWVkJTNEYXV0aF92MS8nCg==</text>
+        <text encoding="base64">ICAgICAgLSBleGlzdGluZ1MzOgogICAgICAgICAgYnVja2V0OiAke2ZpbGUoc2xzX2NvbmZpZy8ke3NlbGY6cHJvdmlkZXIuc3RhZ2V9Lmpzb24pOmF1dGhBcHBwdWJsaWNfcmF3X2J1Y2tldH0KICAgICAgICAgIGV2ZW50czoKICAgICAgICAgICAgLSBzMzpPYmplY3RDcmVhdGVkOioKICAgICAgICAgIHJ1bGVzOgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLSBleGlzdGluZ1MzOgogICAgICAgICAgYnVja2V0OiAke2ZpbGUoc2xzX2NvbmZpZy8ke3NlbGY6cHJvdmlkZXIuc3RhZ2V9Lmpzb24pOmF1dGhDaGF0X3Jhd19idWNrZXR9CiAgICAgICAgICBldmVudHM6CiAgICAgICAgICAgIC0gczM6T2JqZWN0Q3JlYXRlZDoqCiAgICAgICAgICBydWxlczoKICAgICAgICAgICAgLSBwcmVmaXg6ICdmZWVkJTNEYXV0aF92MS8nCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gIGV0YWcgPSBmaWxlbWQ1KCJVc2Vycy9ld2FnbmVyL0Rvd25sb2Fkcy90ZXN0X3MzX2ZsZS50eHQiKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAjIGV0YWcgPSAiJHttZDUoZmlsZSgicGF0aC90by9maWxlIikpfSIK</text>
+        <text encoding="base64">Ly8gIGV0YWcgPSBmaWxlbWQ1KCJVc2Vycy9ld2FnbmVyL0Rvd25sb2Fkcy90ZXN0X3MzX2ZsZS50eHQiKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAjIEZvciBUZXJyYWZvcm0gMC4xMS4xMSBhbmQgZWFybGllciwgdXNlIHRoZSBtZDUoKSBmdW5jdGlvbiBhbmQgdGhlIGZpbGUoKSBmdW5jdGlvbjoK</text>
+        <text encoding="base64">ICAjIGV0YWcgPSAiJHttZDUoZmlsZSgicGF0aC90by9maWxlIikpfSIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAjIFRoZSBmaWxlbWQ1KCkgZnVuY3Rpb24gaXMgYXZhaWxhYmxlIGluIFRlcnJhZm9ybSAwLjExLjEyIGFuZCBsYXRlcgo=</text>
+        <text encoding="base64">ICAjIEZvciBUZXJyYWZvcm0gMC4xMS4xMSBhbmQgZWFybGllciwgdXNlIHRoZSBtZDUoKSBmdW5jdGlvbiBhbmQgdGhlIGZpbGUoKSBmdW5jdGlvbjoK</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zLzM0MzgxNTA2NTg1My83NzI4NDI4NDYyNjcvZw==</text>
+        <text encoding="base64">JzwsJz5zLzc3Mjg0Mjg0NjI2Ny8xOTc3MjM5MDc4NDUvZw==</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>343815065853</last-search>
+      <last-search>772842846267</last-search>
       <last-offset />
-      <last-pattern>343815065853</last-pattern>
-      <last-replace>772842846267</last-replace>
-      <last-substitute>343815065853</last-substitute>
+      <last-pattern>772842846267</last-pattern>
+      <last-replace>197723907845</last-replace>
+      <last-substitute>772842846267</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
