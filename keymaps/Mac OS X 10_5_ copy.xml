@@ -8,6 +8,9 @@
   <action id="ActivatePythonConsoleToolWindow">
     <keyboard-shortcut first-keystroke="meta alt c" />
   </action>
+  <action id="ActivateSQLFormatterToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl meta s" />
+  </action>
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="shift ctrl t" />
   </action>
@@ -95,6 +98,9 @@
   <action id="Scala.ShowImplicits">
     <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
     <keyboard-shortcut first-keystroke="shift ctrl alt add" />
+  </action>
+  <action id="TFFmtFileAction">
+    <keyboard-shortcut first-keystroke="shift meta y" />
   </action>
   <action id="Terminal.SwitchFocusToEditor">
     <keyboard-shortcut first-keystroke="shift meta e" />
