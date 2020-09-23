@@ -106,6 +106,16 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1600893525229">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c8741a45-206f-4253-89be-6cc74f6d936f/console_29.sql" timestamp="1599675860808">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/tf_training/myconfig.tf" timestamp="1599768073813">
         <mark key="[" line="19" column="18" />
         <mark key="]" line="18" column="0" />
@@ -116,10 +126,30 @@
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/GitLab/data-lambda-refine/sls_config/playground.json" timestamp="1600881563747">
+        <mark key="'" line="29" column="4" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="29" column="83" />
+        <mark key="^" line="26" column="4" />
+        <mark key="." line="26" column="3" />
+      </file>
       <file name="$USER_HOME$/tf_training/outputs.tf" timestamp="1599765585657">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
+      </file>
+      <file name="/" timestamp="1599771632806">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/tf_training/test_s3_file.txt" timestamp="1599768105531">
+        <mark key="[" line="0" column="13" />
+      </file>
+      <file name="$USER_HOME$/GitLab/data-lambda-refine/sls_config/stg.json" timestamp="1600882387194">
+        <mark key="'" line="29" column="1" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="^" line="29" column="83" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/GitLab/data-lambda-refine/sls_config/prod.json" timestamp="1600881662551">
         <mark key="'" line="29" column="2" />
@@ -135,7 +165,7 @@
       <file name="/console_29" timestamp="1599671598525">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GitLab/data-lambda-refine/serverless.yml" timestamp="1600881004743">
+      <file name="$USER_HOME$/GitLab/data-lambda-refine/serverless.yml" timestamp="1600893476507">
         <mark key="[" line="81" column="65" />
         <mark key="]" line="81" column="65" />
         <mark key="^" line="70" column="71" />
@@ -145,36 +175,6 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="131" column="1" />
         <mark key="." line="115" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1600882949776">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c8741a45-206f-4253-89be-6cc74f6d936f/console_29.sql" timestamp="1599675860808">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/GitLab/data-lambda-refine/sls_config/playground.json" timestamp="1600881563747">
-        <mark key="'" line="29" column="4" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="29" column="83" />
-        <mark key="^" line="26" column="4" />
-        <mark key="." line="26" column="3" />
-      </file>
-      <file name="/" timestamp="1599771632806">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/tf_training/test_s3_file.txt" timestamp="1599768105531">
-        <mark key="[" line="0" column="13" />
-      </file>
-      <file name="$USER_HOME$/GitLab/data-lambda-refine/sls_config/stg.json" timestamp="1600882387194">
-        <mark key="'" line="29" column="1" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="^" line="29" column="83" />
-        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/tf_training/variables.tf" timestamp="1599764634444">
         <mark key="[" line="33" column="1" />
@@ -287,11 +287,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text>Switch auth feeds to sqsLambda handler and update event</text>
+      <register name="&quot;" type="4">
+        <text>chat</text>
       </register>
       <register name="-" type="4">
-        <text>play.splunk-ssc-vo-playground.victorops.net-auth-chat-data&quot;</text>
+        <text>chat</text>
       </register>
       <register name="/" type="4">
         <text>772842846267</text>
