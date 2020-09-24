@@ -78,11 +78,17 @@
     <keyboard-shortcut first-keystroke="shift ctrl close_bracket" />
   </action>
   <action id="NextEditorTab" />
+  <action id="NextSplitter">
+    <keyboard-shortcut first-keystroke="shift alt close_bracket" />
+  </action>
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="shift meta close_bracket" />
   </action>
   <action id="OpenFile">
     <keyboard-shortcut first-keystroke="shift ctrl o" />
+  </action>
+  <action id="PrevSplitter">
+    <keyboard-shortcut first-keystroke="shift alt open_bracket" />
   </action>
   <action id="PreviousEditorTab" />
   <action id="PreviousTab">
@@ -104,6 +110,9 @@
   </action>
   <action id="Terminal.SwitchFocusToEditor">
     <keyboard-shortcut first-keystroke="shift meta e" />
+  </action>
+  <action id="UnsplitAll">
+    <keyboard-shortcut first-keystroke="shift ctrl u" />
   </action>
   <action id="Vcs.MoveChangedLinesToChangelist" />
   <action id="WelcomeScreen.ManageLicense">
