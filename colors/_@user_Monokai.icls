@@ -4,7 +4,7 @@
     <property name="created">2018-07-30T08:14:20</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2018.1.4.0.0</property>
-    <property name="modified">2020-09-16T12:12:07</property>
+    <property name="modified">2020-09-25T09:28:39</property>
     <property name="originalScheme">Monokai</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Monospaced" />
@@ -895,6 +895,11 @@
       <value>
         <option name="FOREGROUND" value="224422" />
         <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="LOG_WARNING_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="3c3f41" />
       </value>
     </option>
     <option name="MACRONAME">

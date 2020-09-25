@@ -106,19 +106,14 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c8741a45-206f-4253-89be-6cc74f6d936f/console_28.sql" timestamp="1598459782351">
-        <mark key="'" line="13" column="2" />
+      <file name="vim_settings.xml" timestamp="1601046947688">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/GitLab/platform-reporting/README.md" timestamp="1598478223836">
-        <mark key="[" line="24" column="31" />
-        <mark key="]" line="24" column="31" />
-        <mark key="^" line="12" column="2" />
-        <mark key="." line="24" column="31" />
+      <file name="/Dummy.txt" timestamp="1598478303159">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GitLab/data/.terraform/modules/modules.json" timestamp="1599677879114" />
       <file name="$USER_HOME$/tf_training/myconfig.tf" timestamp="1599768073813">
         <mark key="[" line="19" column="18" />
         <mark key="]" line="18" column="0" />
@@ -134,17 +129,17 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
+      <file name="/" timestamp="1601047674546">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/GitLab/data-lambda-refine/README.md" timestamp="1599604433473">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="104" />
         <mark key="^" line="17" column="104" />
         <mark key="." line="17" column="103" />
       </file>
-      <file name="$USER_HOME$/GitLab/data/.terraform/terraform.tfstate" timestamp="1599664493796" />
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c8741a45-206f-4253-89be-6cc74f6d936f/console_29.sql" timestamp="1599675860808">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/tf_training/test_s3_file.txt" timestamp="1599768105531">
+        <mark key="[" line="0" column="13" />
       </file>
       <file name="$USER_HOME$/tf_training/first_file.tf" timestamp="1599604712028">
         <mark key="[" line="0" column="0" />
@@ -154,28 +149,16 @@
       <file name="/console_29" timestamp="1599671598525">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GitLab/data/recon/variables.tf" timestamp="1599662400499" />
-      <file name="/Dummy.json" timestamp="1599665160820">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1598478303159">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c8741a45-206f-4253-89be-6cc74f6d936f/console_29.sql" timestamp="1599675860808">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GitLab/data/Makefile" timestamp="1599665111649" />
-      <file name="/" timestamp="1599771632806">
+      <file name="/Dummy.json" timestamp="1599665160820">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/tf_training/test_s3_file.txt" timestamp="1599768105531">
-        <mark key="[" line="0" column="13" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/044e28c2-f35f-4fff-b858-d01f3fe770cc/console_10.sql" timestamp="1598459333709">
-        <mark key="'" line="7" column="2" />
-        <mark key="[" line="13" column="38" />
-        <mark key="]" line="16" column="28" />
-        <mark key="^" line="18" column="169" />
-        <mark key="." line="16" column="28" />
+      <file name="/console_10" timestamp="1601046705187">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/tf_training/variables.tf" timestamp="1599764634444">
         <mark key="[" line="33" column="1" />
