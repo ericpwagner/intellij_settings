@@ -150,6 +150,11 @@
       <file name="/console_29" timestamp="1599671598525">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/GitHub/data-db-loader/pyproject.toml" timestamp="1601073186956">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c8741a45-206f-4253-89be-6cc74f6d936f/console_29.sql" timestamp="1599675860808">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -272,11 +277,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>:</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">bW90byA9ICIxLjMuOCIK</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>16</text>
       </register>
       <register name="/" type="4">
         <text>fetch</text>
@@ -285,31 +290,31 @@
         <text>Users/ewagner/Downloads/test_s3_fle.txt</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bW90byA9ICIxLjMuOCIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gIGV0YWcgPSBmaWxlbWQ1KCJVc2Vycy9ld2FnbmVyL0Rvd25sb2Fkcy90ZXN0X3MzX2ZsZS50eHQiKQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAjIGV0YWcgPSAiJHttZDUoZmlsZSgicGF0aC90by9maWxlIikpfSIK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAjIEZvciBUZXJyYWZvcm0gMC4xMS4xMSBhbmQgZWFybGllciwgdXNlIHRoZSBtZDUoKSBmdW5jdGlvbiBhbmQgdGhlIGZpbGUoKSBmdW5jdGlvbjoK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAjIFRoZSBmaWxlbWQ1KCkgZnVuY3Rpb24gaXMgYXZhaWxhYmxlIGluIFRlcnJhZm9ybSAwLjExLjEyIGFuZCBsYXRlcgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICByZWdpb24gPSAK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBhY2wgICAgPSAicHJpdmF0ZSIK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Ly8gIGV0YWcgPSBmaWxlbWQ1KCJVc2Vycy9ld2FnbmVyL0Rvd25sb2Fkcy90ZXN0X3MzX2ZsZS50eHQiKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAjIGV0YWcgPSAiJHttZDUoZmlsZSgicGF0aC90by9maWxlIikpfSIK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAjIEZvciBUZXJyYWZvcm0gMC4xMS4xMSBhbmQgZWFybGllciwgdXNlIHRoZSBtZDUoKSBmdW5jdGlvbiBhbmQgdGhlIGZpbGUoKSBmdW5jdGlvbjoK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAjIFRoZSBmaWxlbWQ1KCkgZnVuY3Rpb24gaXMgYXZhaWxhYmxlIGluIFRlcnJhZm9ybSAwLjExLjEyIGFuZCBsYXRlcgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICByZWdpb24gPSAK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICBhY2wgICAgPSAicHJpdmF0ZSIK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>57</text>
