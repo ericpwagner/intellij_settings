@@ -109,11 +109,6 @@
       <file name="vim_settings.xml" timestamp="1601046947688">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1598478303159">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/tf_training/myconfig.tf" timestamp="1599768073813">
         <mark key="[" line="19" column="18" />
         <mark key="]" line="18" column="0" />
@@ -128,18 +123,6 @@
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
-      </file>
-      <file name="/" timestamp="1601047742702">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/GitLab/data-lambda-refine/README.md" timestamp="1599604433473">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="104" />
-        <mark key="^" line="17" column="104" />
-        <mark key="." line="17" column="103" />
-      </file>
-      <file name="$USER_HOME$/tf_training/test_s3_file.txt" timestamp="1599768105531">
-        <mark key="[" line="0" column="13" />
       </file>
       <file name="$USER_HOME$/tf_training/first_file.tf" timestamp="1599604712028">
         <mark key="[" line="0" column="0" />
@@ -156,6 +139,18 @@
       </file>
       <file name="/Dummy.json" timestamp="1599665160820">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1601048606747">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/GitHub/data-db-loader/tests/conftest.py" timestamp="1601049334885" />
+      <file name="/" timestamp="1601047742702">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/tf_training/test_s3_file.txt" timestamp="1599768105531">
+        <mark key="[" line="0" column="13" />
       </file>
       <file name="/console_10" timestamp="1601046705187">
         <mark key="[" line="0" column="0" />
