@@ -4,7 +4,7 @@
     <property name="created">2018-07-30T08:14:20</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2018.1.4.0.0</property>
-    <property name="modified">2020-06-08T08:59:41</property>
+    <property name="modified">2020-09-16T12:12:07</property>
     <property name="originalScheme">Monokai</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Monospaced" />
@@ -226,6 +226,11 @@
     <option name="CONDITIONALLY_NOT_COMPILED">
       <value>
         <option name="FOREGROUND" value="75715e" />
+      </value>
+    </option>
+    <option name="CONSOLE_BLACK_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="1815ff" />
       </value>
     </option>
     <option name="CONSOLE_BLUE_OUTPUT">
@@ -25586,8 +25591,9 @@
     </option>
     <option name="SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="6b1e12" />
-        <option name="BACKGROUND" value="f37b1e" />
+        <option name="FOREGROUND" value="dbe00b" />
+        <option name="BACKGROUND" value="295765" />
+        <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" value="3c3f41" />
       </value>
     </option>
