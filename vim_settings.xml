@@ -29,8 +29,6 @@
         <entry>fetch</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL29yZ0lEL29yZ19pZC9n</entry>
-        <entry encoding="base64">JzwsJz5zL29yZ1NsdWcvb3JnX3NsdWcvZw==</entry>
         <entry encoding="base64">JzwsJz5zLzpcIC89L2c=</entry>
         <entry encoding="base64">JzwsJz5zL0xFRlQvL2c=</entry>
         <entry encoding="base64">JzwsJz5zL0xFRlQvRlVMTCBPVVRFUi9n</entry>
@@ -49,6 +47,8 @@
         <entry encoding="base64">JzwsJz5zLzIwMjAtMDgtMDEvMjAyMC0wOC0xOC9n</entry>
         <entry encoding="base64">JzwsJz5zLzIwMjAtMDgtMjAvMjAyMC0wOC0yMy9nYw==</entry>
         <entry>w</entry>
+        <entry>40</entry>
+        <entry>57</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -114,13 +114,23 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/GitHub/data-db-loader/tests/conftest.py" timestamp="1601067431660">
+        <mark key="[" line="92" column="42" />
+        <mark key="]" line="92" column="42" />
+        <mark key="." line="92" column="41" />
+        <mark key="^" line="92" column="42" />
+      </file>
       <file name="$USER_HOME$/tf_training/myconfig.tf" timestamp="1599768073813">
         <mark key="[" line="19" column="18" />
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
         <mark key="^" line="18" column="1" />
       </file>
-      <file name="$USER_HOME$/GitHub/data-db-loader/tests/dlq_tools/test_dlq.py" timestamp="1601067377580" />
+      <file name="$USER_HOME$/GitHub/data-db-loader/tests/dlq_tools/test_dlq.py" timestamp="1601067495056">
+        <mark key="[" line="56" column="47" />
+        <mark key="]" line="56" column="47" />
+        <mark key="." line="56" column="47" />
+      </file>
       <file name="$USER_HOME$/tf_training/test_s3_file_2.txt" timestamp="1599768200034">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -262,11 +272,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>:</text>
       </register>
       <register name="-" type="4">
-        <text>path/to/file</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text>fetch</text>
@@ -302,7 +312,7 @@
         <text encoding="base64">Cgo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>57</text>
       </register>
     </registers>
   </component>
