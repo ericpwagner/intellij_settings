@@ -8,9 +8,6 @@
   <action id="ActivatePythonConsoleToolWindow">
     <keyboard-shortcut first-keystroke="meta alt c" />
   </action>
-  <action id="ActivateSQLFormatterToolWindow">
-    <keyboard-shortcut first-keystroke="ctrl meta s" />
-  </action>
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="shift ctrl t" />
   </action>
@@ -18,9 +15,6 @@
   <action id="CommentByBlockComment">
     <keyboard-shortcut first-keystroke="shift meta divide" />
     <keyboard-shortcut first-keystroke="shift meta divide" />
-  </action>
-  <action id="Console.TableResult.Transpose">
-    <keyboard-shortcut first-keystroke="ctrl meta t" />
   </action>
   <action id="Diff.NextChange">
     <keyboard-shortcut first-keystroke="shift meta close_bracket" />
@@ -78,17 +72,11 @@
     <keyboard-shortcut first-keystroke="shift ctrl close_bracket" />
   </action>
   <action id="NextEditorTab" />
-  <action id="NextSplitter">
-    <keyboard-shortcut first-keystroke="shift alt close_bracket" />
-  </action>
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="shift meta close_bracket" />
   </action>
   <action id="OpenFile">
     <keyboard-shortcut first-keystroke="shift ctrl o" />
-  </action>
-  <action id="PrevSplitter">
-    <keyboard-shortcut first-keystroke="shift alt open_bracket" />
   </action>
   <action id="PreviousEditorTab" />
   <action id="PreviousTab">
@@ -105,14 +93,8 @@
     <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
     <keyboard-shortcut first-keystroke="shift ctrl alt add" />
   </action>
-  <action id="TFFmtFileAction">
-    <keyboard-shortcut first-keystroke="shift meta y" />
-  </action>
   <action id="Terminal.SwitchFocusToEditor">
     <keyboard-shortcut first-keystroke="shift meta e" />
-  </action>
-  <action id="UnsplitAll">
-    <keyboard-shortcut first-keystroke="shift ctrl u" />
   </action>
   <action id="Vcs.MoveChangedLinesToChangelist" />
   <action id="WelcomeScreen.ManageLicense">
