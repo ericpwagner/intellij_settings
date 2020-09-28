@@ -5,6 +5,9 @@
   <action id="ActivateJSONFormatterToolWindow">
     <keyboard-shortcut first-keystroke="ctrl meta j" />
   </action>
+  <action id="ActivatePylintToolWindow">
+    <keyboard-shortcut first-keystroke="shift alt l" />
+  </action>
   <action id="ActivatePythonConsoleToolWindow">
     <keyboard-shortcut first-keystroke="meta alt c" />
   </action>
@@ -93,9 +96,6 @@
   <action id="PreviousEditorTab" />
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="shift meta open_bracket" />
-  </action>
-  <action id="PylintModifiedFilesAction">
-    <keyboard-shortcut first-keystroke="shift alt l" />
   </action>
   <action id="RecentLocations" />
   <action id="RestoreDefaultLayout" />

@@ -114,11 +114,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GitHub/data-db-loader/tests/conftest.py" timestamp="1601067431660">
-        <mark key="[" line="92" column="42" />
-        <mark key="]" line="92" column="42" />
-        <mark key="." line="92" column="41" />
-        <mark key="^" line="92" column="42" />
+      <file name="$USER_HOME$/GitHub/data-db-loader/tests/conftest.py" timestamp="1601313275745">
+        <mark key="[" line="127" column="0" />
+        <mark key="]" line="127" column="2" />
+        <mark key="." line="127" column="1" />
+        <mark key="^" line="127" column="2" />
       </file>
       <file name="$USER_HOME$/tf_training/myconfig.tf" timestamp="1599768073813">
         <mark key="[" line="19" column="18" />
@@ -146,6 +146,12 @@
       </file>
       <file name="$USER_HOME$/GitHub/data-db-loader/tests/lambda_tools/test_lambda.py" timestamp="1601310983261">
         <mark key="'" line="7" column="17" />
+      </file>
+      <file name="$USER_HOME$/GitHub/data-db-loader/setup.py" timestamp="1601313014328">
+        <mark key="[" line="25" column="47" />
+        <mark key="]" line="25" column="46" />
+        <mark key="^" line="25" column="46" />
+        <mark key="." line="25" column="45" />
       </file>
       <file name="$USER_HOME$/tf_training/test_s3_file.txt" timestamp="1599768105531">
         <mark key="[" line="0" column="13" />
@@ -281,7 +287,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">bW90byA9ICIxLjMuOCIK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
         <text>16</text>
@@ -293,31 +299,31 @@
         <text>Users/ewagner/Downloads/test_s3_fle.txt</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bW90byA9ICIxLjMuOCIK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KHRoaXMpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gIGV0YWcgPSBmaWxlbWQ1KCJVc2Vycy9ld2FnbmVyL0Rvd25sb2Fkcy90ZXN0X3MzX2ZsZS50eHQiKQo=</text>
+        <text encoding="base64">ZGVmIHRoaW5nX3RoYXRfaXNfdG9vX2xvbmdfYXNrZGdnaGFrc2pkZ2hha3NkamZoYWtzZGpmaGFrc2RqZmhha3NkamZoYWtzZGpmaGtzZGpmaGRmaGFramRmaGFrZGpnaGFraGFma2doYWtmamdoYWprc2doYWtzamRnaGFza2RqZ2godGhpcyk6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAjIGV0YWcgPSAiJHttZDUoZmlsZSgicGF0aC90by9maWxlIikpfSIK</text>
+        <text encoding="base64">bW90byA9ICIxLjMuOCIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAjIEZvciBUZXJyYWZvcm0gMC4xMS4xMSBhbmQgZWFybGllciwgdXNlIHRoZSBtZDUoKSBmdW5jdGlvbiBhbmQgdGhlIGZpbGUoKSBmdW5jdGlvbjoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAjIFRoZSBmaWxlbWQ1KCkgZnVuY3Rpb24gaXMgYXZhaWxhYmxlIGluIFRlcnJhZm9ybSAwLjExLjEyIGFuZCBsYXRlcgo=</text>
+        <text encoding="base64">Ly8gIGV0YWcgPSBmaWxlbWQ1KCJVc2Vycy9ld2FnbmVyL0Rvd25sb2Fkcy90ZXN0X3MzX2ZsZS50eHQiKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICByZWdpb24gPSAK</text>
+        <text encoding="base64">ICAjIGV0YWcgPSAiJHttZDUoZmlsZSgicGF0aC90by9maWxlIikpfSIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBhY2wgICAgPSAicHJpdmF0ZSIK</text>
+        <text encoding="base64">ICAjIEZvciBUZXJyYWZvcm0gMC4xMS4xMSBhbmQgZWFybGllciwgdXNlIHRoZSBtZDUoKSBmdW5jdGlvbiBhbmQgdGhlIGZpbGUoKSBmdW5jdGlvbjoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAjIFRoZSBmaWxlbWQ1KCkgZnVuY3Rpb24gaXMgYXZhaWxhYmxlIGluIFRlcnJhZm9ybSAwLjExLjEyIGFuZCBsYXRlcgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
