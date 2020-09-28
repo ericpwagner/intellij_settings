@@ -46,9 +46,9 @@
         <entry encoding="base64">JzwsJz5zLzIwMjAtMDgtMjEvMjAyMC0wOC0xOS9n</entry>
         <entry encoding="base64">JzwsJz5zLzIwMjAtMDgtMDEvMjAyMC0wOC0xOC9n</entry>
         <entry encoding="base64">JzwsJz5zLzIwMjAtMDgtMjAvMjAyMC0wOC0yMy9nYw==</entry>
-        <entry>w</entry>
         <entry>40</entry>
         <entry>57</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -150,10 +150,11 @@
       <file name="/console_29" timestamp="1599671598525">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GitHub/data-db-loader/pyproject.toml" timestamp="1601073186956">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
+      <file name="$USER_HOME$/GitHub/data-db-loader/pyproject.toml" timestamp="1601309619296">
+        <mark key="[" line="26" column="8" />
+        <mark key="]" line="38" column="27" />
+        <mark key="." line="38" column="26" />
+        <mark key="^" line="38" column="27" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c8741a45-206f-4253-89be-6cc74f6d936f/console_29.sql" timestamp="1599675860808">
         <mark key="[" line="0" column="0" />
@@ -317,7 +318,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>57</text>
+        <text>w</text>
       </register>
     </registers>
   </component>
