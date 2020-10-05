@@ -15,6 +15,7 @@
     <data-source source="LOCAL" name="STG - vodat" uuid="044e28c2-f35f-4fff-b858-d01f3fe770cc">
       <driver-ref>postgresql</driver-ref>
       <synchronize>true</synchronize>
+      <schema-control>AUTOMATIC</schema-control>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://127.0.0.1:4497/vodat</jdbc-url>
     </data-source>
