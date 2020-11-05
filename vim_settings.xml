@@ -29,7 +29,6 @@
         <entry>mock_lambda</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zLzpcIC89L2c=</entry>
         <entry encoding="base64">JzwsJz5zL0xFRlQvL2c=</entry>
         <entry encoding="base64">JzwsJz5zL0xFRlQvRlVMTCBPVVRFUi9n</entry>
         <entry encoding="base64">JzwsJz5zLywvLFwgL2c=</entry>
@@ -48,6 +47,7 @@
         <entry encoding="base64">JzwsJz5zLzIwMjAtMDgtMjAvMjAyMC0wOC0yMy9nYw==</entry>
         <entry>40</entry>
         <entry>57</entry>
+        <entry>86</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -109,45 +109,21 @@
       <file name="vim_settings.xml" timestamp="1601046947688">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GitLab/data-lambda-refine/src/test/scala/victorops/datapipeline/lambdas/handlers/IncidentSpec.scala" timestamp="1604601915409" />
-      <file name="$USER_HOME$/tf_training/myconfig.tf" timestamp="1599768073813">
-        <mark key="[" line="19" column="18" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-        <mark key="^" line="18" column="1" />
-      </file>
-      <file name="$USER_HOME$/tf_training/test_s3_file_2.txt" timestamp="1599768200034">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/tf_training/outputs.tf" timestamp="1599765585657">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
-      </file>
-      <file name="$USER_HOME$/GitHub/data-db-loader/tests/lambda_tools/test_lambda.py" timestamp="1601310983261">
-        <mark key="'" line="7" column="17" />
-      </file>
-      <file name="$USER_HOME$/GitHub/data-db-loader/setup.py" timestamp="1601313014328">
-        <mark key="[" line="25" column="47" />
-        <mark key="]" line="25" column="46" />
-        <mark key="^" line="25" column="46" />
-        <mark key="." line="25" column="45" />
-      </file>
-      <file name="$USER_HOME$/GitHub/data-db-loader/pyproject.toml" timestamp="1601309619296">
-        <mark key="]" line="39" column="27" />
-        <mark key="." line="39" column="26" />
-        <mark key="^" line="39" column="27" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1601051711549">
+      <file name="/Dummy.txt" timestamp="1604612764860">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c8741a45-206f-4253-89be-6cc74f6d936f/console_29.sql" timestamp="1599675860808">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/GitLab/data-lambda-refine/src/main/scala/victorops/datapipeline/lambdas/utilities/QualitySet.scala" timestamp="1604614585165">
+        <mark key="'" line="122" column="34" />
+        <mark key="[" line="122" column="0" />
+        <mark key="]" line="122" column="157" />
+      </file>
+      <file name="$USER_HOME$/GitLab/data-lambda-refine/src/test/scala/victorops/datapipeline/lambdas/handlers/IncidentSpec.scala" timestamp="1604614917120">
+        <mark key="[" line="10" column="62" />
+        <mark key="]" line="10" column="62" />
+        <mark key="^" line="10" column="50" />
+        <mark key="." line="10" column="62" />
       </file>
       <file name="$USER_HOME$/GitLab/data-lambda-refine/src/main/scala/victorops/datapipeline/lambdas/handlers/LambdaHandler.scala" timestamp="1604601892613">
         <mark key="[" line="61" column="5" />
@@ -161,11 +137,46 @@
         <mark key="." line="127" column="1" />
         <mark key="^" line="127" column="2" />
       </file>
+      <file name="$USER_HOME$/tf_training/myconfig.tf" timestamp="1599768073813">
+        <mark key="[" line="19" column="18" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="18" column="1" />
+      </file>
       <file name="$USER_HOME$/GitHub/data-db-loader/tests/dlq_tools/test_dlq.py" timestamp="1601311880867">
         <mark key="'" line="218" column="33" />
         <mark key="[" line="80" column="9" />
         <mark key="]" line="4" column="47" />
         <mark key="." line="4" column="47" />
+      </file>
+      <file name="$USER_HOME$/GitLab/data-lambda-refine/build.sbt" timestamp="1604614319682">
+        <mark key="a" line="20" column="28" />
+        <mark key="[" line="85" column="36" />
+        <mark key="]" line="85" column="37" />
+        <mark key="." line="85" column="36" />
+        <mark key="^" line="85" column="37" />
+      </file>
+      <file name="$USER_HOME$/tf_training/test_s3_file_2.txt" timestamp="1599768200034">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/GitLab/data-lambda-refine/src/test/scala/victorops/datapipeline/lambdas/handlers/AlertSpec.scala" timestamp="1604611806415">
+        <mark key="[" line="9" column="25" />
+        <mark key="]" line="9" column="26" />
+        <mark key="." line="9" column="26" />
+      </file>
+      <file name="$USER_HOME$/GitLab/data-lambda-refine/src/main/scala/victorops/datapipeline/lambdas/models/Incidents.scala" timestamp="1604613445480">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="45" />
+      </file>
+      <file name="$USER_HOME$/GitHub/data-db-loader/tests/lambda_tools/test_lambda.py" timestamp="1601310983261">
+        <mark key="'" line="7" column="17" />
+      </file>
+      <file name="$USER_HOME$/GitHub/data-db-loader/setup.py" timestamp="1601313014328">
+        <mark key="[" line="25" column="47" />
+        <mark key="]" line="25" column="46" />
+        <mark key="^" line="25" column="46" />
+        <mark key="." line="25" column="45" />
       </file>
       <file name="/" timestamp="1601064652873">
         <mark key="[" line="0" column="0" />
@@ -173,17 +184,24 @@
       <file name="$USER_HOME$/tf_training/test_s3_file.txt" timestamp="1599768105531">
         <mark key="[" line="0" column="13" />
       </file>
-      <file name="$USER_HOME$/tf_training/variables.tf" timestamp="1599764634444">
-        <mark key="[" line="33" column="1" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="/sbtShell" timestamp="1604614268596">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/GitHub/data-db-loader/pyproject.toml" timestamp="1601309619296">
+        <mark key="]" line="39" column="27" />
+        <mark key="." line="39" column="26" />
+        <mark key="^" line="39" column="27" />
+      </file>
+      <file name="$USER_HOME$/GitLab/data-lambda-refine/src/test/scala/victorops/datapipeline/lambdas/handlers/S3Handler.scala" timestamp="1604611902128">
+        <mark key="[" line="24" column="23" />
+        <mark key="]" line="24" column="23" />
+        <mark key="." line="24" column="23" />
       </file>
       <file name="/console_10" timestamp="1601046705187">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="484" column="44" filename="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736_resolves.ipynb" />
       <jump line="511" column="28" filename="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736_resolves.ipynb" />
       <jump line="512" column="21" filename="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736_resolves.ipynb" />
       <jump line="513" column="37" filename="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736_resolves.ipynb" />
@@ -283,48 +301,49 @@
       <jump line="203" column="33" filename="$USER_HOME$/GitHub/data-db-loader/tests/dlq_tools/test_dlq.py" />
       <jump line="17" column="9" filename="$USER_HOME$/GitHub/data-db-loader/tests/lambda_tools/test_lambda.py" />
       <jump line="7" column="17" filename="$USER_HOME$/GitHub/data-db-loader/tests/lambda_tools/test_lambda.py" />
+      <jump line="122" column="34" filename="$USER_HOME$/GitLab/data-lambda-refine/src/main/scala/victorops/datapipeline/lambdas/utilities/QualitySet.scala" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>T</text>
+        <text>defaultResolvedIfNegativeTtr</text>
       </register>
       <register name="-" type="4">
-        <text>T</text>
+        <text>defaultResolvedIfNegativeTtr</text>
       </register>
       <register name="/" type="4">
         <text>mock_lambda</text>
       </register>
-      <register name="0" type="4">
-        <text>Users/ewagner/Downloads/test_s3_fle.txt</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBkZWYgZGVmYXVsdFJlc29sdmVkSWZOZWdhdGl2ZVR0cihpbmNpZGVudFBoYXNlOiBTdHJpbmcsIHJlc29sdmVkQXQ6IE9wdGlvbltJbnN0YW50XSwgZmlyc3RBbGVydEF0OiBPcHRpb25bSW5zdGFudF0sIGV2ZW50QXQ6IE9wdGlvbltJbnN0YW50XSwgcGF0aDogU3RyaW5nKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KHRoaXMpCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ZGVmIHRoaW5nX3RoYXRfaXNfdG9vX2xvbmdfYXNrZGdnaGFrc2pkZ2hha3NkamZoYWtzZGpmaGFrc2RqZmhha3NkamZoYWtzZGpmaGtzZGpmaGRmaGFramRmaGFrZGpnaGFraGFma2doYWtmamdoYWprc2doYWtzamRnaGFza2RqZ2godGhpcyk6Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">bW90byA9ICIxLjMuOCIK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgZCA9IFF1YWxpdHlSZXN1bHQoZXZlbnRBdCwgcGF0aCwgUXVhbGl0eVNldC5ERUZBVUxURUQpZXR1cm4gZXZlbnQgYXQgaWYgcmVzb2x2ZWQgYXQgaXNuJ3QgcHJlc2VudCIpIHsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICB9Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gIGV0YWcgPSBmaWxlbWQ1KCJVc2Vycy9ld2FnbmVyL0Rvd25sb2Fkcy90ZXN0X3MzX2ZsZS50eHQiKQo=</text>
+        <text encoding="base64">ICAiZGVmYXVsdFJlc29sdmVkSWZOZWdhdGl2ZVR0ciIgd2hlbiB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAjIGV0YWcgPSAiJHttZDUoZmlsZSgicGF0aC90by9maWxlIikpfSIK</text>
+        <text encoding="base64">dmljdG9yb3BzL2RhdGFwaXBlbGluZS9sYW1iZGFzL3V0aWxpdGllcy9RdWFsaXR5U2V0LnNjYWxhCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAjIEZvciBUZXJyYWZvcm0gMC4xMS4xMSBhbmQgZWFybGllciwgdXNlIHRoZSBtZDUoKSBmdW5jdGlvbiBhbmQgdGhlIGZpbGUoKSBmdW5jdGlvbjoK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAjIFRoZSBmaWxlbWQ1KCkgZnVuY3Rpb24gaXMgYXZhaWxhYmxlIGluIFRlcnJhZm9ybSAwLjExLjEyIGFuZCBsYXRlcgo=</text>
+        <text encoding="base64">ICAgIHByaW50KHRoaXMpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
