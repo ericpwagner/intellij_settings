@@ -114,16 +114,17 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GitLab/data-lambda-refine/src/main/scala/victorops/datapipeline/lambdas/utilities/QualitySet.scala" timestamp="1604614585165">
+      <file name="$USER_HOME$/GitLab/data-lambda-refine/src/main/scala/victorops/datapipeline/lambdas/utilities/QualitySet.scala" timestamp="1604617178680">
         <mark key="'" line="122" column="34" />
-        <mark key="[" line="122" column="0" />
-        <mark key="]" line="122" column="157" />
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="77" column="66" />
       </file>
-      <file name="$USER_HOME$/GitLab/data-lambda-refine/src/test/scala/victorops/datapipeline/lambdas/handlers/IncidentSpec.scala" timestamp="1604614917120">
-        <mark key="[" line="10" column="62" />
-        <mark key="]" line="10" column="62" />
-        <mark key="^" line="10" column="50" />
-        <mark key="." line="10" column="62" />
+      <file name="$USER_HOME$/GitLab/data-lambda-refine/src/test/scala/victorops/datapipeline/lambdas/handlers/IncidentSpec.scala" timestamp="1604617214282">
+        <mark key="'" line="79" column="84" />
+        <mark key="[" line="74" column="43" />
+        <mark key="]" line="74" column="89" />
+        <mark key="." line="74" column="43" />
+        <mark key="^" line="109" column="46" />
       </file>
       <file name="$USER_HOME$/GitLab/data-lambda-refine/src/main/scala/victorops/datapipeline/lambdas/handlers/LambdaHandler.scala" timestamp="1604601892613">
         <mark key="[" line="61" column="5" />
@@ -202,7 +203,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="511" column="28" filename="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736_resolves.ipynb" />
       <jump line="512" column="21" filename="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736_resolves.ipynb" />
       <jump line="513" column="37" filename="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736_resolves.ipynb" />
       <jump line="517" column="53" filename="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736_resolves.ipynb" />
@@ -302,48 +302,49 @@
       <jump line="17" column="9" filename="$USER_HOME$/GitHub/data-db-loader/tests/lambda_tools/test_lambda.py" />
       <jump line="7" column="17" filename="$USER_HOME$/GitHub/data-db-loader/tests/lambda_tools/test_lambda.py" />
       <jump line="122" column="34" filename="$USER_HOME$/GitLab/data-lambda-refine/src/main/scala/victorops/datapipeline/lambdas/utilities/QualitySet.scala" />
+      <jump line="79" column="84" filename="$USER_HOME$/GitLab/data-lambda-refine/src/test/scala/victorops/datapipeline/lambdas/handlers/IncidentSpec.scala" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>defaultResolvedIfNegativeTtr</text>
+        <text encoding="base64">KGltcGxpY2l0IHRqczogV3JpdGVzW1RdKTogUXVhbGl0eVJlc3VsdFtUXSA9IA==</text>
       </register>
       <register name="-" type="4">
-        <text>defaultResolvedIfNegativeTtr</text>
+        <text encoding="base64">KGltcGxpY2l0IHRqczogV3JpdGVzW1RdKTogUXVhbGl0eVJlc3VsdFtUXSA9IA==</text>
       </register>
       <register name="/" type="4">
         <text>mock_lambda</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBkZWYgZGVmYXVsdFJlc29sdmVkSWZOZWdhdGl2ZVR0cihpbmNpZGVudFBoYXNlOiBTdHJpbmcsIHJlc29sdmVkQXQ6IE9wdGlvbltJbnN0YW50XSwgZmlyc3RBbGVydEF0OiBPcHRpb25bSW5zdGFudF0sIGV2ZW50QXQ6IE9wdGlvbltJbnN0YW50XSwgcGF0aDogU3RyaW5nKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIChpbXBsaWNpdCB0anM6IFdyaXRlc1tUXSk6IFF1YWxpdHlSZXN1bHRbVF0gPSB7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdmFsIHJlc29sdmVkQXQgPSBzb21lKE5vbmUpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgZCA9IFF1YWxpdHlSZXN1bHQoZXZlbnRBdCwgcGF0aCwgUXVhbGl0eVNldC5ERUZBVUxURUQpZXR1cm4gZXZlbnQgYXQgaWYgcmVzb2x2ZWQgYXQgaXNuJ3QgcHJlc2VudCIpIHsK</text>
+        <text encoding="base64">ICAgICAgCiAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAiZGVmYXVsdFJlc29sdmVkSWZOZWdhdGl2ZVR0ciIgd2hlbiB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dmljdG9yb3BzL2RhdGFwaXBlbGluZS9sYW1iZGFzL3V0aWxpdGllcy9RdWFsaXR5U2V0LnNjYWxhCg==</text>
+        <text encoding="base64">ICAgZCA9IFF1YWxpdHlSZXN1bHQoZXZlbnRBdCwgcGF0aCwgUXVhbGl0eVNldC5ERUZBVUxURUQpZXR1cm4gZXZlbnQgYXQgaWYgcmVzb2x2ZWQgYXQgaXNuJ3QgcHJlc2VudCIpIHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50KHRoaXMpCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
