@@ -109,12 +109,11 @@
       <file name="vim_settings.xml" timestamp="1601046947688">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GitLab/data-lambda-refine/src/main/scala/victorops/datapipeline/lambdas/utilities/QualitySet.scala" timestamp="1604619895236">
+      <file name="$USER_HOME$/GitLab/data-lambda-refine/src/main/scala/victorops/datapipeline/lambdas/utilities/QualitySet.scala" timestamp="1604685355138">
         <mark key="'" line="122" column="34" />
-        <mark key="[" line="131" column="52" />
-        <mark key="]" line="131" column="52" />
-        <mark key="." line="131" column="52" />
-        <mark key="^" line="131" column="34" />
+        <mark key="[" line="133" column="40" />
+        <mark key="]" line="126" column="61" />
+        <mark key="." line="126" column="1" />
       </file>
       <file name="$USER_HOME$/GitLab/data-lambda-refine/src/test/scala/victorops/datapipeline/lambdas/handlers/IncidentSpec.scala" timestamp="1604618086100">
         <mark key="'" line="79" column="84" />
@@ -153,17 +152,17 @@
         <mark key="." line="39" column="26" />
         <mark key="^" line="39" column="27" />
       </file>
-      <file name="$USER_HOME$/GitLab/data-lambda-refine/src/test/scala/victorops/datapipeline/lambdas/handlers/S3Handler.scala" timestamp="1604618694996">
+      <file name="$USER_HOME$/GitLab/data-lambda-refine/src/test/scala/victorops/datapipeline/lambdas/handlers/S3Handler.scala" timestamp="1604684249191">
         <mark key="'" line="105" column="8" />
         <mark key="[" line="101" column="19" />
-        <mark key="]" line="105" column="24" />
-        <mark key="." line="104" column="0" />
-        <mark key="^" line="102" column="25" />
+        <mark key="]" line="102" column="11" />
+        <mark key="." line="102" column="10" />
+        <mark key="^" line="102" column="11" />
       </file>
-      <file name="/Dummy.json" timestamp="1604620685709">
+      <file name="/Dummy.json" timestamp="1604684812111">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GitLab/data-lambda-refine/src/test/resources/data/goodIncidents.json" timestamp="1604680196472">
+      <file name="$USER_HOME$/GitLab/data-lambda-refine/src/test/resources/data/goodIncidents.json" timestamp="1604685120127">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="2274" />
       </file>
@@ -309,8 +308,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>eventAt</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhY2tlZF9hdDogT3B0aW9uW0luc3RhbnRdLAo=</text>
       </register>
       <register name="-" type="4">
         <text>eventAt</text>
@@ -322,31 +321,31 @@
         <text encoding="base64">ICAgICAgICBjYXNlIChOb25lLCBTb21lKF8pLCBTb21lKF8pKSA9PiBRdWFsaXR5UmVzdWx0KGV2ZW50QXQsIHBhdGgsIFF1YWxpdHlTZXQuREVGQVVMVEVEKSAvLyByZXR1cm4gZXZlbnQgYXQgc28gd2UgaGF2ZSBhIHBvc2l0aXZlIFRUUgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnRsbihyZXNvbHZlZEF0KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhY2tlZF9hdDogT3B0aW9uW0luc3RhbnRdLAo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgcHJpbnRsbihyZXNvbHZlZEF0KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgcHJpbnRsbihyZXNvbHZlZEF0KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGl0KCJzaG91bGQgcmV0dXJuIFF1YWxpdHlTZXQuTUlTU0lORyBpZiBhbGwgYXJlIG1pc3NpbmciKSB7CiAgICAgIHZhbCBleHBlY3RlZFJlc3VsdCA9IFF1YWxpdHlSZXN1bHQoTm9uZSwgInJlc29sdmVkX2F0IikKICAgICAgdmFsIGFjdHVhbFJlc3VsdCA9IFF1YWxpdHlSZWFkcy5kZWZhdWx0UmVzb2x2ZWRJZk5lZ2F0aXZlVHRyKCJyZXNvbHZlZCIsIE5vbmUsIE5vbmUsIE5vbmUsICJyZXNvbHZlZF9hdCIpCiAgICAgIGFzc2VydChhY3R1YWxSZXN1bHQgPT0gZXhwZWN0ZWRSZXN1bHQpCiAgICB9</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly9pbXBvcnQgcGxheS5hcGkubGlicy5qc29uLldyaXRlcwo=</text>
+        <text encoding="base64">ICAgIGl0KCJzaG91bGQgcmV0dXJuIFF1YWxpdHlTZXQuTUlTU0lORyBpZiBhbGwgYXJlIG1pc3NpbmciKSB7CiAgICAgIHZhbCBleHBlY3RlZFJlc3VsdCA9IFF1YWxpdHlSZXN1bHQoTm9uZSwgInJlc29sdmVkX2F0IikKICAgICAgdmFsIGFjdHVhbFJlc3VsdCA9IFF1YWxpdHlSZWFkcy5kZWZhdWx0UmVzb2x2ZWRJZk5lZ2F0aXZlVHRyKCJyZXNvbHZlZCIsIE5vbmUsIE5vbmUsIE5vbmUsICJyZXNvbHZlZF9hdCIpCiAgICAgIGFzc2VydChhY3R1YWxSZXN1bHQgPT0gZXhwZWN0ZWRSZXN1bHQpCiAgICB9</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Ly9pbXBvcnQgcGxheS5hcGkubGlicy5qc29uLldyaXRlcwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdmFsIHJlc29sdmVkQXQgPSBzb21lKE5vbmUpCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3JlZi9leHAvZw==</text>
