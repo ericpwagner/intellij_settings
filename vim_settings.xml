@@ -109,19 +109,18 @@
       <file name="vim_settings.xml" timestamp="1601046947688">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GitLab/data-lambda-refine/src/main/scala/victorops/datapipeline/lambdas/utilities/QualitySet.scala" timestamp="1604696112092">
+      <file name="$USER_HOME$/GitLab/data-lambda-refine/src/main/scala/victorops/datapipeline/lambdas/utilities/QualitySet.scala" timestamp="1604696951336">
         <mark key="'" line="122" column="34" />
-        <mark key="[" line="137" column="184" />
-        <mark key="]" line="138" column="120" />
-        <mark key="." line="138" column="119" />
-        <mark key="^" line="138" column="120" />
+        <mark key="[" line="144" column="1" />
+        <mark key="]" line="144" column="108" />
+        <mark key="." line="144" column="1" />
       </file>
-      <file name="$USER_HOME$/GitLab/data-lambda-refine/src/test/scala/victorops/datapipeline/lambdas/handlers/IncidentSpec.scala" timestamp="1604686092806">
+      <file name="$USER_HOME$/GitLab/data-lambda-refine/src/test/scala/victorops/datapipeline/lambdas/handlers/IncidentSpec.scala" timestamp="1604697401763">
         <mark key="'" line="79" column="84" />
-        <mark key="[" line="104" column="114" />
-        <mark key="]" line="104" column="6" />
-        <mark key="." line="104" column="5" />
-        <mark key="^" line="104" column="6" />
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="85" column="26" />
+        <mark key="." line="85" column="0" />
+        <mark key="^" line="88" column="7" />
       </file>
       <file name="$USER_HOME$/tf_training/test_s3_file_2.txt" timestamp="1599768200034">
         <mark key="'" line="0" column="0" />
@@ -132,11 +131,11 @@
         <mark key="]" line="9" column="26" />
         <mark key="." line="9" column="26" />
       </file>
-      <file name="$USER_HOME$/GitLab/data-lambda-refine/src/main/scala/victorops/datapipeline/lambdas/models/Incidents.scala" timestamp="1604685848284">
-        <mark key="[" line="109" column="36" />
-        <mark key="]" line="113" column="18" />
-        <mark key="^" line="113" column="28" />
-        <mark key="." line="113" column="18" />
+      <file name="$USER_HOME$/GitLab/data-lambda-refine/src/main/scala/victorops/datapipeline/lambdas/models/Incidents.scala" timestamp="1604697226218">
+        <mark key="[" line="110" column="24" />
+        <mark key="]" line="114" column="47" />
+        <mark key="^" line="115" column="15" />
+        <mark key="." line="114" column="0" />
       </file>
       <file name="$USER_HOME$/GitHub/data-db-loader/tests/lambda_tools/test_lambda.py" timestamp="1601310983261">
         <mark key="'" line="7" column="17" />
@@ -310,17 +309,17 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBhY2tlZEF0ID0gYWNrZWRBdCwK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>firstAlertAt</text>
       </register>
       <register name="/" type="4">
         <text>outfile</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgKHJlc29sdmVkQXQsIGZpcnN0QWxlcnRBdCwgZXZlbnRBdCwgYWNrZWRBdCkgbWF0Y2ggewo=</text>
+      <register name="0" type="4">
+        <text>ackedAt</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -341,31 +340,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBmaXJzdEFsZXJ0QXQ6IE9wdGlvbltJbnN0YW50XSwK</text>
+        <text encoding="base64">ICAgICAgICBhY2tlZEF0ID0gYWNrZWRBdCwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBldmVudEF0OiBPcHRpb25bSW5zdGFudF0sCg==</text>
+        <text encoding="base64">ICAgICAgICBldmVudEF0ID0gZXZlbnRBdCwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjYXNlIChOb25lLCBTb21lKF8pLCBOb25lLCBTb21lKF8pKSA9PiBRdWFsaXR5UmVzdWx0KGFja2VkQXQsIHBhdGgsIFF1YWxpdHlTZXQuTUlTU0lORykgLy8gcmV0dXJuIGZpcnN0X2FsZXJ0X2F0IHNvIHdlIGhhdmUgYSBwb3NpdGl2ZSBUVFIKICAgICAgICBjYXNlIChOb25lLCBTb21lKF8pLCBOb25lLCBOb25lKSA9PiBRdWFsaXR5UmVzdWx0KGZpcnN0QWxlcnRBdCwgcGF0aCwgUXVhbGl0eVNldC5NSVNTSU5HKSAvLyByZXR1cm4gZmlyc3RfYWxlcnRfYXQgc28gd2UgaGF2ZSBhIHBvc2l0aXZlIFRUUgo=</text>
+        <text encoding="base64">ICAgICAgICBldmVudEF0ID0gZXZlbnRBdCwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBldmVudEF0ID0gZXZlbnRBdCwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGZpcnN0QWxlcnRBdD1pbmNpZGVudC5maXJzdF9hbGVydF9hdCwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGV2ZW50QXQ9cmF3LmV2ZW50X2F0LAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnRsbihsaW5lKQo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBJZiByZXNvbHZlZF9hdCwgZXZlbnRfYXQsIGFja2VkX2F0IGFyZSBhbGwgbWlzc2luZywgZGVmYXVsdCB0byBmaXJzdF9hbGVydCBhdCBhcyBhIGxhc3QgcmVzb3J0ICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4ocyIvVXNlcnMvZXdhZ25lci8kaW5wdXRGaWxlLW5ldyIpCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBJZiBhbGwgdGltZXN0YW1wcyBmcm9tIGFsZXJ0Y29yZSBhcmUgbWlzc2luZyBhbmQgYWxsIHdlIGhhdmUgaXMgdGhlIGV2ZW50X2F0IHRpbWVzdGFtcCBmcm9tIEtpbmVzaXMsIGRlZmF1bHQgdG8gZXZlbnRfYXQgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG91dGZpbGUubWtkaXJzKCkK</text>
+        <text encoding="base64">ICAgICAgICAvLyBJZiByZXNvbHZlZF9hdCwgZXZlbnRfYXQsIGFja2VkX2F0IGFyZSBhbGwgbWlzc2luZywgZGVmYXVsdCB0byBmaXJzdF9hbGVydCBhdCBhcyBhIGxhc3QgcmVzb3J0ICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL291dGZpbGUvcHcvZw==</text>
