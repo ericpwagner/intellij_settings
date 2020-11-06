@@ -109,12 +109,12 @@
       <file name="vim_settings.xml" timestamp="1601046947688">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GitLab/data-lambda-refine/src/main/scala/victorops/datapipeline/lambdas/utilities/QualitySet.scala" timestamp="1604619097706">
+      <file name="$USER_HOME$/GitLab/data-lambda-refine/src/main/scala/victorops/datapipeline/lambdas/utilities/QualitySet.scala" timestamp="1604619895236">
         <mark key="'" line="122" column="34" />
-        <mark key="[" line="127" column="27" />
-        <mark key="]" line="127" column="27" />
-        <mark key="." line="127" column="27" />
-        <mark key="^" line="127" column="23" />
+        <mark key="[" line="131" column="52" />
+        <mark key="]" line="131" column="52" />
+        <mark key="." line="131" column="52" />
+        <mark key="^" line="131" column="34" />
       </file>
       <file name="$USER_HOME$/GitLab/data-lambda-refine/src/test/scala/victorops/datapipeline/lambdas/handlers/IncidentSpec.scala" timestamp="1604618086100">
         <mark key="'" line="79" column="84" />
@@ -132,7 +132,7 @@
         <mark key="]" line="9" column="26" />
         <mark key="." line="9" column="26" />
       </file>
-      <file name="$USER_HOME$/GitLab/data-lambda-refine/src/main/scala/victorops/datapipeline/lambdas/models/Incidents.scala" timestamp="1604613445480">
+      <file name="$USER_HOME$/GitLab/data-lambda-refine/src/main/scala/victorops/datapipeline/lambdas/models/Incidents.scala" timestamp="1604619786757">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="45" />
       </file>
@@ -160,10 +160,10 @@
         <mark key="." line="104" column="0" />
         <mark key="^" line="102" column="25" />
       </file>
-      <file name="/Dummy.json" timestamp="1604619270189">
+      <file name="/Dummy.json" timestamp="1604620685709">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GitLab/data-lambda-refine/src/test/resources/data/goodIncidents.json" timestamp="1604619264199">
+      <file name="$USER_HOME$/GitLab/data-lambda-refine/src/test/resources/data/goodIncidents.json" timestamp="1604620343954">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="2274" />
       </file>
@@ -309,17 +309,17 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">eyJ0cmFuc2FjdGlvbl9pZCI6IjBhZDFlMDY1LWFmMDktNDA0Ni05M2VlLWM2ZWQ5MWE4Y2U4ZCIsIm9yZ19pZCI6MjAwMTI0LCJkYXRhX3R5cGUiOiJpbmNpZGVudHMiLCJkYXRhIjp7ImluY2lkZW50cyI6W3sib3JnX2lkIjoyMDAxMjQsImluY2lkZW50X2lkIjozNTE4LCJlbnRpdHlfaWQiOiJiZW5jaGVudGl0eV9qZW5raW5zLWFsZXJ0Y29yZTEwXzE1NDk2NzAzNjExMThfdHJ1ZV80NiIsImluY2lkZW50X3BoYXNlIjoicmVzb2x2ZWQiLCJkaXNwbGF5X25hbWUiOiJiZW5jaGVudGl0eV9qZW5raW5zLWFsZXJ0Y29yZTEwXzE1NDk2NzAzNjExMThfdHJ1ZV80NiIsInN0YXRlX21lc3NhZ2UiOiJSZXNvbHZlZCBieSBnZnJhbmsiLCJlbnRpdHlfdHlwZSI6InNlcnZpY2UiLCJlbnRpdHlfc3RhdGUiOiJvayIsIm1vbml0b3JfdHlwZSI6ImFwaSIsInJvdXRpbmdfa2V5Ijoicm91dGluZ2RlZmF1bHQiLCJob3N0X25hbWUiOm51bGwsInNlcnZpY2VfbmFtZSI6ImJlbmNoZW50aXR5X2plbmtpbnMtYWxlcnRjb3JlMTBfMTU0OTY3MDM2MTExOF90cnVlXzQ2IiwiYWNrZWRfYnkiOiJnZnJhbmsiLCJhY2tlZF9hdCI6IjIwMTktMDItMDlUMDA6MDA6MzYuNzY3WiIsImFja19leHBpcmVfYXQiOm51bGwsImF1dG9fcmVzb2x2ZV9hdCI6bnVsbCwic25vb3plX3VudGlsIjpudWxsLCJmaXJzdF9hbGVydF91dWlkIjoiNzFlNGYxNWQtYzJjZC00YjczLWI3NDAtYzVmMWM1NjJiNjJiIiwiZmlyc3RfYWxlcnRfYXQiOiIyMDE5LTAyLTA5VDAwOjAwOjI4Ljg4MVoiLCJsYXN0X2FsZXJ0X3V1aWQiOiI3MWU0ZjE1ZC1jMmNkLTRiNzMtYjc0MC1jNWYxYzU2MmI2MmIiLCJsYXN0X2FsZXJ0X2F0IjoiMjAxOS0wMi0wOVQwMDowMDoyOC44ODFaIiwiYWxlcnRfY291bnQiOjEsImFubm90YXRpb25fY291bnQiOjAsImVzY2FsYXRpb25zIjpbeyJwb2xpY3kiOnsic2x1ZyI6InRlYW0tZ3QxMlBXUlhQTXdiRm92MyIsIm5hbWUiOiJFeGFtcGxlIn0sInRlYW0iOnsic2x1ZyI6InRlYW0tZ3QxMlBXUlhQTXdiRm92MyIsIm5hbWUiOiJFeGFtcGxlIn0sInN0YXJ0ZWRfYXQiOiIyMDE5LTAyLTA5VDAwOjAwOjMwLjM1OFoiLCJhY2tlZF9ieSI6ImdmcmFuayIsImFja2VkX2F0IjoiMjAxOS0wMi0wOVQwMDowMDozMi43NzhaIn1dLCJwYWdpbmdzIjpbXSwidXNlcnMiOlt7InVzZXJuYW1lIjoiZ2ZyYW5rIiwidG91Y2hlZF9hdCI6IjIwMTktMDItMDlUMDA6MDA6MzAuNDI3WiJ9XSwidGFncyI6WyJpbmNpZGVudDM1MTgiLCJyb3V0aW5nZGVmYXVsdCJdLCJpc19tdWx0aV9yZXNwb25kZXIiOmZhbHNlLCJpbmNpZGVudF9kZXRhaWxzIjp7IkhPU1RPVVRQVVQiOiJSZXNvbHZlZCBieSBnZnJhbmsiLCJWT19PUkdBTklaQVRJT05fSUQiOiJqZW5raW5zX2FsZXJ0Y29yZTEwIiwibW9uaXRvcmluZ190b29sIjoiQVBJIiwiVk9fUk9VVElOR19LRVlTIjoiZGVmYXVsdCIsInN0YXRlX3N0YXJ0X3RpbWUiOiIxNTQ5NjcwNDMyNzg3IiwidGltZXN0YW1wIjoiMTU0OTY3MDQzMjc4NyIsIlZPX1VVSUQiOiI3MWU0ZjE1ZC1jMmNkLTRiNzMtYjc0MC1jNWYxYzU2MmI2MmIiLCJUSU1FVCI6IjE1NDk2NzA0MzY3NzIiLCJlbnRpdHlfZGlzcGxheV9uYW1lIjoiYmVuY2hlbnRpdHlfamVua2lucy1hbGVydGNvcmUxMF8xNTQ5NjcwMzYxMTE4X3RydWVfNDYiLCJWT19BTEVSVF9SQ1ZfVElNRSI6IjE1NDk2NzA0MzY3NzIiLCJtZXNzYWdlX3R5cGUiOiJSRUNPVkVSWSIsImFsZXJ0X3R5cGUiOiJSRUNPVkVSWSIsIlgtRm9yd2FyZGVkLUZvciI6IjM1LjE2Ny4xNjguMCIsImVudGl0eV9zdGF0ZSI6IlVQIiwiVk9fQUxFUlRfVFlQRSI6IlNFUlZJQ0UiLCJYLUZvcndhcmRlZC1Qb3J0IjoiNDQzIiwiYWNrX2F1dGhvciI6ImdmcmFuayIsImFwaV9rZXkiOiJhMGY0NDQ3Yi05YmQ3LTRlZjMtODNmNC1iYjkwMTgyODliMzciLCJlbnRpdHlfaWQiOiJiZW5jaGVudGl0eV9qZW5raW5zLWFsZXJ0Y29yZTEwXzE1NDk2NzAzNjExMThfdHJ1ZV80NiIsInN0YXRlX21lc3NhZ2UiOiJSZXNvbHZlZCBieSBnZnJhbmsiLCJpc192b19hY2siOiIxIiwiWC1Gb3J3YXJkZWQtUHJvdG8iOiJodHRwcyIsIlNFUlZJQ0VTVEFURSI6IkNSSVRJQ0FMIiwiTk9USUZJQ0FUSU9OVFlQRSI6IlJFQ09WRVJZIiwiQ09OVEFDVEdST1VQTkFNRSI6ImRlZmF1bHQiLCJIT1NUU1RBVEUiOiJVUCIsInJvdXRpbmdfa2V5IjoiZGVmYXVsdCIsIlZPX01PTklUT1JfVFlQRSI6IjQiLCJYLUFtem4tVHJhY2UtSWQiOiJSb290PTEtNWM1ZTE4MWMtYTU2NWVlODIwMWQ2MDk2MDBjNDAwMThjIn19XX19Cg==</text>
+      <register name="&quot;" type="4">
+        <text>eventAt</text>
       </register>
       <register name="-" type="4">
-        <text>firstAlertAt</text>
+        <text>eventAt</text>
       </register>
       <register name="/" type="4">
         <text>ref</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">eyJ0cmFuc2FjdGlvbl9pZCI6IjBhZDFlMDY1LWFmMDktNDA0Ni05M2VlLWM2ZWQ5MWE4Y2U4ZCIsIm9yZ19pZCI6MjAwMTI0LCJkYXRhX3R5cGUiOiJpbmNpZGVudHMiLCJkYXRhIjp7ImluY2lkZW50cyI6W3sib3JnX2lkIjoyMDAxMjQsImluY2lkZW50X2lkIjozNTE4LCJlbnRpdHlfaWQiOiJiZW5jaGVudGl0eV9qZW5raW5zLWFsZXJ0Y29yZTEwXzE1NDk2NzAzNjExMThfdHJ1ZV80NiIsImluY2lkZW50X3BoYXNlIjoicmVzb2x2ZWQiLCJkaXNwbGF5X25hbWUiOiJiZW5jaGVudGl0eV9qZW5raW5zLWFsZXJ0Y29yZTEwXzE1NDk2NzAzNjExMThfdHJ1ZV80NiIsInN0YXRlX21lc3NhZ2UiOiJSZXNvbHZlZCBieSBnZnJhbmsiLCJlbnRpdHlfdHlwZSI6InNlcnZpY2UiLCJlbnRpdHlfc3RhdGUiOiJvayIsIm1vbml0b3JfdHlwZSI6ImFwaSIsInJvdXRpbmdfa2V5Ijoicm91dGluZ2RlZmF1bHQiLCJob3N0X25hbWUiOm51bGwsInNlcnZpY2VfbmFtZSI6ImJlbmNoZW50aXR5X2plbmtpbnMtYWxlcnRjb3JlMTBfMTU0OTY3MDM2MTExOF90cnVlXzQ2IiwiYWNrZWRfYnkiOiJnZnJhbmsiLCJhY2tlZF9hdCI6IjIwMTktMDItMDlUMDA6MDA6MzYuNzY3WiIsImFja19leHBpcmVfYXQiOm51bGwsImF1dG9fcmVzb2x2ZV9hdCI6bnVsbCwic25vb3plX3VudGlsIjpudWxsLCJmaXJzdF9hbGVydF91dWlkIjoiNzFlNGYxNWQtYzJjZC00YjczLWI3NDAtYzVmMWM1NjJiNjJiIiwiZmlyc3RfYWxlcnRfYXQiOiIyMDE5LTAyLTA5VDAwOjAwOjI4Ljg4MVoiLCJsYXN0X2FsZXJ0X3V1aWQiOiI3MWU0ZjE1ZC1jMmNkLTRiNzMtYjc0MC1jNWYxYzU2MmI2MmIiLCJsYXN0X2FsZXJ0X2F0IjoiMjAxOS0wMi0wOVQwMDowMDoyOC44ODFaIiwiYWxlcnRfY291bnQiOjEsImFubm90YXRpb25fY291bnQiOjAsImVzY2FsYXRpb25zIjpbeyJwb2xpY3kiOnsic2x1ZyI6InRlYW0tZ3QxMlBXUlhQTXdiRm92MyIsIm5hbWUiOiJFeGFtcGxlIn0sInRlYW0iOnsic2x1ZyI6InRlYW0tZ3QxMlBXUlhQTXdiRm92MyIsIm5hbWUiOiJFeGFtcGxlIn0sInN0YXJ0ZWRfYXQiOiIyMDE5LTAyLTA5VDAwOjAwOjMwLjM1OFoiLCJhY2tlZF9ieSI6ImdmcmFuayIsImFja2VkX2F0IjoiMjAxOS0wMi0wOVQwMDowMDozMi43NzhaIn1dLCJwYWdpbmdzIjpbXSwidXNlcnMiOlt7InVzZXJuYW1lIjoiZ2ZyYW5rIiwidG91Y2hlZF9hdCI6IjIwMTktMDItMDlUMDA6MDA6MzAuNDI3WiJ9XSwidGFncyI6WyJpbmNpZGVudDM1MTgiLCJyb3V0aW5nZGVmYXVsdCJdLCJpc19tdWx0aV9yZXNwb25kZXIiOmZhbHNlLCJpbmNpZGVudF9kZXRhaWxzIjp7IkhPU1RPVVRQVVQiOiJSZXNvbHZlZCBieSBnZnJhbmsiLCJWT19PUkdBTklaQVRJT05fSUQiOiJqZW5raW5zX2FsZXJ0Y29yZTEwIiwibW9uaXRvcmluZ190b29sIjoiQVBJIiwiVk9fUk9VVElOR19LRVlTIjoiZGVmYXVsdCIsInN0YXRlX3N0YXJ0X3RpbWUiOiIxNTQ5NjcwNDMyNzg3IiwidGltZXN0YW1wIjoiMTU0OTY3MDQzMjc4NyIsIlZPX1VVSUQiOiI3MWU0ZjE1ZC1jMmNkLTRiNzMtYjc0MC1jNWYxYzU2MmI2MmIiLCJUSU1FVCI6IjE1NDk2NzA0MzY3NzIiLCJlbnRpdHlfZGlzcGxheV9uYW1lIjoiYmVuY2hlbnRpdHlfamVua2lucy1hbGVydGNvcmUxMF8xNTQ5NjcwMzYxMTE4X3RydWVfNDYiLCJWT19BTEVSVF9SQ1ZfVElNRSI6IjE1NDk2NzA0MzY3NzIiLCJtZXNzYWdlX3R5cGUiOiJSRUNPVkVSWSIsImFsZXJ0X3R5cGUiOiJSRUNPVkVSWSIsIlgtRm9yd2FyZGVkLUZvciI6IjM1LjE2Ny4xNjguMCIsImVudGl0eV9zdGF0ZSI6IlVQIiwiVk9fQUxFUlRfVFlQRSI6IlNFUlZJQ0UiLCJYLUZvcndhcmRlZC1Qb3J0IjoiNDQzIiwiYWNrX2F1dGhvciI6ImdmcmFuayIsImFwaV9rZXkiOiJhMGY0NDQ3Yi05YmQ3LTRlZjMtODNmNC1iYjkwMTgyODliMzciLCJlbnRpdHlfaWQiOiJiZW5jaGVudGl0eV9qZW5raW5zLWFsZXJ0Y29yZTEwXzE1NDk2NzAzNjExMThfdHJ1ZV80NiIsInN0YXRlX21lc3NhZ2UiOiJSZXNvbHZlZCBieSBnZnJhbmsiLCJpc192b19hY2siOiIxIiwiWC1Gb3J3YXJkZWQtUHJvdG8iOiJodHRwcyIsIlNFUlZJQ0VTVEFURSI6IkNSSVRJQ0FMIiwiTk9USUZJQ0FUSU9OVFlQRSI6IlJFQ09WRVJZIiwiQ09OVEFDVEdST1VQTkFNRSI6ImRlZmF1bHQiLCJIT1NUU1RBVEUiOiJVUCIsInJvdXRpbmdfa2V5IjoiZGVmYXVsdCIsIlZPX01PTklUT1JfVFlQRSI6IjQiLCJYLUFtem4tVHJhY2UtSWQiOiJSb290PTEtNWM1ZTE4MWMtYTU2NWVlODIwMWQ2MDk2MDBjNDAwMThjIn19XX19Cg==</text>
+        <text encoding="base64">ICAgICAgICBjYXNlIChOb25lLCBTb21lKF8pLCBTb21lKF8pKSA9PiBRdWFsaXR5UmVzdWx0KGV2ZW50QXQsIHBhdGgsIFF1YWxpdHlTZXQuREVGQVVMVEVEKSAvLyByZXR1cm4gZXZlbnQgYXQgc28gd2UgaGF2ZSBhIHBvc2l0aXZlIFRUUgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgcHJpbnRsbihyZXNvbHZlZEF0KQo=</text>
