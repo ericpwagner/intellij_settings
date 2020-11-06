@@ -309,11 +309,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>L</text>
       </register>
       <register name="-" type="4">
-        <text>firstAlertAt</text>
+        <text>L</text>
       </register>
       <register name="/" type="4">
         <text>last_alert_uuid</text>
