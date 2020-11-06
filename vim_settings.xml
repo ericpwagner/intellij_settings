@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>,</entry>
         <entry>'</entry>
         <entry>{</entry>
         <entry>}</entry>
@@ -27,6 +26,7 @@
         <entry>ref</entry>
         <entry>pw</entry>
         <entry>outfile</entry>
+        <entry>last_alert_uuid</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLycvL2c=</entry>
@@ -150,16 +150,17 @@
         <mark key="." line="39" column="26" />
         <mark key="^" line="39" column="27" />
       </file>
-      <file name="$USER_HOME$/GitLab/data-lambda-refine/src/test/scala/victorops/datapipeline/lambdas/handlers/S3Handler.scala" timestamp="1604698231466">
+      <file name="$USER_HOME$/GitLab/data-lambda-refine/src/test/scala/victorops/datapipeline/lambdas/handlers/S3Handler.scala" timestamp="1604699818893">
         <mark key="'" line="96" column="24" />
-        <mark key="[" line="94" column="0" />
+        <mark key="[" line="97" column="5" />
         <mark key="]" line="94" column="0" />
         <mark key="." line="94" column="0" />
       </file>
-      <file name="/Dummy.json" timestamp="1604698137473">
+      <file name="/Dummy.json" timestamp="1604699713199">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GitLab/data-lambda-refine/src/test/resources/data/goodIncidents.json" timestamp="1604685120127">
+      <file name="$USER_HOME$/GitLab/data-lambda-refine/src/test/resources/data/goodIncidents.json" timestamp="1604699796335">
+        <mark key="'" line="152" column="498" />
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="2274" />
       </file>
@@ -204,7 +205,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="553" column="0" filename="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736_resolves.ipynb" />
       <jump line="543" column="1" filename="$USER_HOME$/GitHub/data_misc/analysis_misc/SE-736_resolves.ipynb" />
       <jump line="43" column="9" filename="$USER_HOME$/GitLab/tox_and_lint_fixes/serverless.yml" />
       <jump line="53" column="57" filename="$USER_HOME$/GitLab/tox_and_lint_fixes/serverless.yml" />
@@ -304,6 +304,7 @@
       <jump line="95" column="5" filename="$USER_HOME$/GitLab/data-lambda-refine/src/test/scala/victorops/datapipeline/lambdas/handlers/S3Handler.scala" />
       <jump line="93" column="1" filename="$USER_HOME$/GitLab/data-lambda-refine/src/test/scala/victorops/datapipeline/lambdas/handlers/S3Handler.scala" />
       <jump line="97" column="24" filename="$USER_HOME$/GitLab/data-lambda-refine/src/test/scala/victorops/datapipeline/lambdas/handlers/S3Handler.scala" />
+      <jump line="152" column="498" filename="$USER_HOME$/GitLab/data-lambda-refine/src/test/resources/data/goodIncidents.json" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -315,7 +316,7 @@
         <text>firstAlertAt</text>
       </register>
       <register name="/" type="4">
-        <text>outfile</text>
+        <text>last_alert_uuid</text>
       </register>
       <register name="0" type="4">
         <text>ackedAt</text>
@@ -372,9 +373,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>outfile</last-search>
+      <last-search>last_alert_uuid</last-search>
       <last-offset />
-      <last-pattern>outfile</last-pattern>
+      <last-pattern>last_alert_uuid</last-pattern>
       <last-replace>pw</last-replace>
       <last-substitute>outfile</last-substitute>
       <last-dir>1</last-dir>
