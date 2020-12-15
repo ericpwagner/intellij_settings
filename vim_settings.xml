@@ -29,7 +29,6 @@
         <entry>resovled_by</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL3svXFx7L2c=</entry>
         <entry encoding="base64">JzwsJz5zL30vXFx9L2c=</entry>
         <entry encoding="base64">JzwsJz5zL2RscS9hbmFseXRpY3MvZw==</entry>
         <entry>q</entry>
@@ -49,6 +48,7 @@
         <entry encoding="base64">JzwsJz5zL291dGZpbGUvcHcvZw==</entry>
         <entry>w</entry>
         <entry>346</entry>
+        <entry>33</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -450,7 +450,7 @@
         <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL3JlZi9leHAvZw==</text>
+        <text>33</text>
       </register>
     </registers>
   </component>
