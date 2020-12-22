@@ -206,11 +206,11 @@
         <mark key="^" line="82" column="1795" />
         <mark key="." line="146" column="1146" />
       </file>
-      <file name="$USER_HOME$/GitLab/platform-reporting/reporting-persistence/src/test/scala/victorops/reporting/persistence/TestDatabases.scala" timestamp="1608668620341">
+      <file name="$USER_HOME$/GitLab/platform-reporting/reporting-persistence/src/test/scala/victorops/reporting/persistence/TestDatabases.scala" timestamp="1608678680043">
         <mark key="[" line="32" column="47" />
-        <mark key="]" line="32" column="47" />
-        <mark key="^" line="31" column="48" />
-        <mark key="." line="32" column="47" />
+        <mark key="]" line="32" column="6" />
+        <mark key="^" line="32" column="6" />
+        <mark key="." line="32" column="5" />
       </file>
     </filemarks>
     <jumps>
