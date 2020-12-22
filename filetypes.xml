@@ -4,8 +4,8 @@
     <extensionMap>
       <mapping ext="py37" type="Dockerfile" />
       <mapping ext="apxc" type="JavaFX" />
-      <mapping pattern="variables.tf" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern="variables.tf" type="PLAIN_TEXT" />
       <mapping pattern=".envrc" type="PLAIN_TEXT" />
       <mapping ext="tfstate" type="PLAIN_TEXT" />
       <mapping pattern="victorops" type="Python" />
