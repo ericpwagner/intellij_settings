@@ -203,12 +203,12 @@
       <file name="/Dummy.json" timestamp="1604684812111">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GitLab/platform-reporting/reporting-persistence/src/main/resources/migrations/postgres/V20201222.00__FactUser.sql" timestamp="1608661568970">
+      <file name="$USER_HOME$/GitLab/platform-reporting/reporting-persistence/src/main/resources/migrations/postgres/V20201222.00__FactUser.sql" timestamp="1608667542515">
         <mark key="'" line="20" column="4" />
-        <mark key="[" line="22" column="96" />
-        <mark key="]" line="22" column="97" />
-        <mark key="." line="22" column="97" />
-        <mark key="^" line="23" column="48" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="1" column="2" />
+        <mark key="." line="2" column="1" />
+        <mark key="^" line="1" column="2" />
       </file>
       <file name="$USER_HOME$/GitLab/data-lambda-refine/src/test/resources/data/goodIncidents.json" timestamp="1604685120127">
         <mark key="'" line="152" column="498" />
