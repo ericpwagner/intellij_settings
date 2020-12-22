@@ -176,7 +176,7 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="2274" />
       </file>
-      <file name="/Dummy.txt" timestamp="1604612764860">
+      <file name="/Dummy.txt" timestamp="1608669383951">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -186,12 +186,6 @@
         <mark key="]" line="57" column="36" />
         <mark key="." line="57" column="35" />
         <mark key="^" line="57" column="36" />
-      </file>
-      <file name="$USER_HOME$/GitHub/data-db-loader/tests/conftest.py" timestamp="1601313275745">
-        <mark key="[" line="127" column="0" />
-        <mark key="]" line="127" column="2" />
-        <mark key="." line="127" column="1" />
-        <mark key="^" line="127" column="2" />
       </file>
       <file name="$USER_HOME$/GitLab/platform-reporting/reporting-persistence/src/main/resources/migrations/mysql/pipelinedb/V20201222.00__FactUser.sql" timestamp="1608660665066">
         <mark key="[" line="0" column="33" />
@@ -211,6 +205,12 @@
         <mark key="]" line="146" column="1146" />
         <mark key="^" line="82" column="1795" />
         <mark key="." line="146" column="1146" />
+      </file>
+      <file name="$USER_HOME$/GitLab/platform-reporting/reporting-persistence/src/test/scala/victorops/reporting/persistence/TestDatabases.scala" timestamp="1608668620341">
+        <mark key="[" line="32" column="47" />
+        <mark key="]" line="32" column="47" />
+        <mark key="^" line="31" column="48" />
+        <mark key="." line="32" column="47" />
       </file>
     </filemarks>
     <jumps>
@@ -319,16 +319,16 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>2</text>
+        <text>auth</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>auth</text>
       </register>
       <register name="/" type="4">
         <text>ref</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjYXNlIChOb25lLCBTb21lKF8pLCBTb21lKF8pKSA9PiBRdWFsaXR5UmVzdWx0KGV2ZW50QXQsIHBhdGgsIFF1YWxpdHlTZXQuREVGQVVMVEVEKSAvLyByZXR1cm4gZXZlbnQgYXQgc28gd2UgaGF2ZSBhIHBvc2l0aXZlIFRUUgo=</text>
+        <text encoding="base64">ICAgICAgXyA8LSBzcWwiQ1JFQVRFIFRBQkxFIElGIE5PVCBFWElTVFMgZmFjdF9hdXRoX3YxX3BhcnRfMCBQQVJUSVRJT04gT0Ygdm9fZGF0YV9hbmFseXRpY3MuZmFjdF9hdXRoX3YxIEZPUiBWQUxVRVMgV0lUSCAoTU9EVUxVUyAxLCBSRU1BSU5ERVIgMCkiLnVwZGF0ZS5ydW4K</text>
       </register>
       <register name="p" type="4">
         <keys>
