@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>recon</entry>
         <entry>pts</entry>
         <entry>RCV</entry>
         <entry>refined</entry>
@@ -27,9 +26,9 @@
         <entry>\`</entry>
         <entry>datetime</entry>
         <entry>timestampz</entry>
+        <entry>COLLATE\ utf8mb4_unicode_ci</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL3JlZmluZWQvcmF3L2c=</entry>
         <entry encoding="base64">JzwsJz5zLzIwMjAtMDgtMjAvMjAyMC0wOC0yMS9n</entry>
         <entry encoding="base64">JzwsJz5zLzIwMjAtMDgtMjEvMjAyMC0wOC0xOS9n</entry>
         <entry encoding="base64">JzwsJz5zLzIwMjAtMDgtMDEvMjAyMC0wOC0xOC9n</entry>
@@ -49,6 +48,7 @@
         <entry encoding="base64">JzwsJz5zL1xgLy9n</entry>
         <entry encoding="base64">JzwsJz5zL2RhdGV0aW1lL3RpbWVzdGFtcHovZw==</entry>
         <entry encoding="base64">JzwsJz5zL3RpbWVzdGFtcHovdGltZXN0YW1wdHovZw==</entry>
+        <entry encoding="base64">JzwsJz5zL0NPTExBVEVcIHV0ZjhtYjRfdW5pY29kZV9jaS8vZw==</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -144,7 +144,7 @@
         <mark key="[" line="331" column="6" />
         <mark key="]" line="331" column="30" />
       </file>
-      <file name="$USER_HOME$/GitLab/platform-reporting/reporting-persistence/src/main/resources/migrations/postgres/V20200406.00__Baseline.sql" timestamp="1608661105606">
+      <file name="$USER_HOME$/GitLab/platform-reporting/reporting-persistence/src/main/resources/migrations/postgres/V20200406.00__Baseline.sql" timestamp="1608753150045">
         <mark key="[" line="206" column="20" />
         <mark key="]" line="206" column="41" />
       </file>
@@ -176,7 +176,7 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="2274" />
       </file>
-      <file name="/Dummy.txt" timestamp="1608680835638">
+      <file name="/Dummy.txt" timestamp="1608753240843">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -200,11 +200,11 @@
         <mark key="^" line="82" column="1795" />
         <mark key="." line="146" column="1146" />
       </file>
-      <file name="$USER_HOME$/GitLab/platform-reporting/reporting-persistence/src/main/resources/migrations/postgres/V20201223.00__FactUser.sql" timestamp="1608752508087">
+      <file name="$USER_HOME$/GitLab/platform-reporting/reporting-persistence/src/main/resources/migrations/postgres/V20201223.00__FactUser.sql" timestamp="1608753207581">
         <mark key="'" line="23" column="0" />
-        <mark key="[" line="6" column="16" />
-        <mark key="]" line="6" column="16" />
-        <mark key="." line="6" column="16" />
+        <mark key="[" line="4" column="24" />
+        <mark key="]" line="4" column="24" />
+        <mark key="." line="4" column="24" />
       </file>
       <file name="$USER_HOME$/GitLab/platform-reporting/reporting-persistence/src/test/scala/victorops/reporting/persistence/TestDatabases.scala" timestamp="1608679747586">
         <mark key="[" line="32" column="0" />
@@ -214,7 +214,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="9" filename="$USER_HOME$/GitLab/tox_and_lint_fixes/serverless.yml" />
       <jump line="53" column="57" filename="$USER_HOME$/GitLab/tox_and_lint_fixes/serverless.yml" />
       <jump line="13" column="8" filename="$USER_HOME$/GitLab/tox_and_lint_fixes/serverless.yml" />
       <jump line="11" column="0" filename="$USER_HOME$/GitLab/pts_hec_aggregator/src/process_event.py" />
@@ -312,6 +311,7 @@
       <jump line="47" column="72" filename="$USER_HOME$/GitLab/platform-reporting/reporting-server/app/victorops/reporting/services/PipelineResponseMetricsService.scala" />
       <jump line="0" column="0" filename="$USER_HOME$/GitLab/platform-reporting/reporting-server/app/victorops/reporting/services/PipelineResponseMetricsService.scala" />
       <jump line="13" column="27" filename="$USER_HOME$/GitLab/platform-reporting/reporting-persistence/src/main/resources/migrations/postgres/V20201223.00__FactUser.sql" />
+      <jump line="22" column="54" filename="$USER_HOME$/GitLab/platform-reporting/reporting-persistence/src/main/resources/migrations/postgres/V20201223.00__FactUser.sql" />
       <jump line="0" column="0" filename="$USER_HOME$/GitLab/platform-reporting/reporting-persistence/src/main/resources/migrations/postgres/V20201223.00__FactUser.sql" />
       <jump line="23" column="0" filename="$USER_HOME$/GitLab/platform-reporting/reporting-persistence/src/main/resources/migrations/postgres/V20201223.00__FactUser.sql" />
     </jumps>
@@ -319,13 +319,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>timestampz</text>
+        <text>COLLATE\ utf8mb4_unicode_ci</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgXyA8LSBzcWwiQ1JFQVRFIFRBQkxFIElGIE5PVCBFWElTVFMgZmFjdF9hdXRoX3YxX3BhcnRfMCBQQVJUSVRJT04gT0Ygdm9fZGF0YV9hbmFseXRpY3MuZmFjdF9hdXRoX3YxIEZPUiBWQUxVRVMgV0lUSCAoTU9EVUxVUyAxLCBSRU1BSU5ERVIgMCkiLnVwZGF0ZS5ydW4K</text>
@@ -456,17 +456,17 @@
         <text encoding="base64">Ly9pbXBvcnQgcGxheS5hcGkubGlicy5qc29uLldyaXRlcwo=</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL3RpbWVzdGFtcHovdGltZXN0YW1wdHovZw==</text>
+        <text encoding="base64">JzwsJz5zL0NPTExBVEVcIHV0ZjhtYjRfdW5pY29kZV9jaS8vZw==</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>timestampz</last-search>
+      <last-search>COLLATE\ utf8mb4_unicode_ci</last-search>
       <last-offset />
-      <last-pattern>timestampz</last-pattern>
-      <last-replace>timestamptz</last-replace>
-      <last-substitute>timestampz</last-substitute>
+      <last-pattern>COLLATE\ utf8mb4_unicode_ci</last-pattern>
+      <last-replace />
+      <last-substitute>COLLATE\ utf8mb4_unicode_ci</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
