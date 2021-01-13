@@ -4,7 +4,7 @@
     <property name="created">2018-07-30T08:14:20</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2018.1.4.0.0</property>
-    <property name="modified">2020-12-15T13:35:35</property>
+    <property name="modified">2021-01-13T11:14:59</property>
     <property name="originalScheme">Monokai</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Monospaced" />
@@ -787,9 +787,8 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="19445d" />
-        <option name="EFFECT_COLOR" value="7a7400" />
-        <option name="ERROR_STRIPE_COLOR" value="ccccff" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" value="de0909" />
       </value>
     </option>
     <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES">
@@ -25775,7 +25774,9 @@
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="472c47" />
+        <option name="EFFECT_COLOR" value="67d91b" />
         <option name="ERROR_STRIPE_COLOR" value="ffcdff" />
+        <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
