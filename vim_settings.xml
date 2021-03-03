@@ -182,15 +182,17 @@
       <file name="$USER_HOME$/GitLab/platform-reporting/reporting-persistence/src/main/resources/migrations/mysql/pipelinedb/V20201223.00__FactUser.sql" timestamp="1608667876662">
         <mark key="[" line="23" column="129" />
       </file>
-      <file name="$USER_HOME$/GitLab/data-lambda-refine/.gitlab-ci.yml" timestamp="1613578357951">
-        <mark key="'" line="108" column="7" />
-        <mark key="[" line="120" column="0" />
-        <mark key="]" line="120" column="0" />
-        <mark key="^" line="110" column="34" />
-        <mark key="." line="120" column="0" />
+      <file name="$USER_HOME$/GitLab/data-lambda-refine/Makefile" timestamp="1614785548211">
+        <mark key="[" line="33" column="21" />
+        <mark key="]" line="32" column="14" />
+        <mark key="." line="32" column="13" />
+        <mark key="^" line="32" column="14" />
       </file>
-      <file name="/sbtShell" timestamp="1604614268596">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/GitLab/data-lambda-refine/.gitlab-ci.yml" timestamp="1614785691413">
+        <mark key="[" line="119" column="15" />
+        <mark key="]" line="119" column="15" />
+        <mark key="^" line="73" column="36" />
+        <mark key="." line="119" column="15" />
       </file>
       <file name="$USER_HOME$/GitLab/data-lambda-refine/src/test/scala/victorops/datapipeline/lambdas/handlers/S3Handler.scala" timestamp="1604684249191">
         <mark key="'" line="105" column="8" />
@@ -320,17 +322,17 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC0gZGVwbG95X3N0YWdpbmcK</text>
+      <register name="&quot;" type="4">
+        <text>vo_lambda_deploy_role</text>
       </register>
       <register name="-" type="4">
-        <text>production</text>
+        <text>vo_lambda_deploy_role</text>
       </register>
       <register name="/" type="4">
         <text>COLLATE\ utf8mb4_unicode_ci</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgXyA8LSBzcWwiQ1JFQVRFIFRBQkxFIElGIE5PVCBFWElTVFMgZmFjdF9hdXRoX3YxX3BhcnRfMCBQQVJUSVRJT04gT0Ygdm9fZGF0YV9hbmFseXRpY3MuZmFjdF9hdXRoX3YxIEZPUiBWQUxVRVMgV0lUSCAoTU9EVUxVUyAxLCBSRU1BSU5ERVIgMCkiLnVwZGF0ZS5ydW4K</text>
+        <text encoding="base64">ICAgIFJPTEVfTkFNRTogdm9fbGFtYmRhX2RlcGxveV9yb2xlCg==</text>
       </register>
       <register name="p" type="4">
         <keys>
