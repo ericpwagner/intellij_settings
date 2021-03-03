@@ -112,18 +112,6 @@
         <mark key="]" line="126" column="61" />
         <mark key="." line="126" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1614800471960">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/GitLab/data-lambda-refine/src/test/scala/victorops/datapipeline/lambdas/handlers/IncidentSpec.scala" timestamp="1604618086100">
-        <mark key="'" line="79" column="84" />
-        <mark key="[" line="104" column="0" />
-        <mark key="]" line="104" column="0" />
-        <mark key="." line="104" column="0" />
-        <mark key="^" line="9" column="12" />
-      </file>
       <file name="$USER_HOME$/GitLab/platform-reporting/reporting-server/app/victorops/reporting/services/PipelineResponseMetricsService.scala" timestamp="1608073289967">
         <mark key="'" line="0" column="0" />
       </file>
@@ -134,39 +122,9 @@
         <mark key="^" line="247" column="16" />
         <mark key="." line="247" column="15" />
       </file>
-      <file name="$USER_HOME$/GitLab/platform-reporting/reporting-persistence/src/main/resources/migrations/mysql/pipelinedb/V20201222.00__FactUser.sql" timestamp="1608660665066">
-        <mark key="[" line="0" column="33" />
-        <mark key="]" line="14" column="53" />
-        <mark key="." line="14" column="52" />
-        <mark key="^" line="14" column="53" />
-      </file>
-      <file name="$USER_HOME$/GitLab/data-lambda-refine/src/test/resources/data/goodIncidentsRefined.json" timestamp="1604942631944">
-        <mark key="[" line="146" column="1146" />
-        <mark key="]" line="146" column="1146" />
-        <mark key="^" line="82" column="1795" />
-        <mark key="." line="146" column="1146" />
-      </file>
-      <file name="$USER_HOME$/GitLab/data-lambda-refine/src/main/scala/victorops/datapipeline/lambdas/models/Incidents.scala" timestamp="1604619786757">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="45" />
-        <mark key="^" line="115" column="15" />
-        <mark key="." line="114" column="0" />
-      </file>
-      <file name="$USER_HOME$/GitLab/platform-reporting/reporting-persistence/src/main/resources/migrations/postgres/V20201223.00__FactUser.sql" timestamp="1608754571892">
-        <mark key="'" line="23" column="0" />
-        <mark key="[" line="15" column="46" />
-        <mark key="]" line="4" column="24" />
-        <mark key="." line="4" column="24" />
-      </file>
       <file name="$USER_HOME$/GitLab/platform-reporting/reporting-persistence/src/main/scala/victorops/reporting/repositories/IncidentRepository.scala" timestamp="1607616255519">
         <mark key="[" line="331" column="6" />
         <mark key="]" line="331" column="30" />
-      </file>
-      <file name="$USER_HOME$/GitLab/platform-reporting/reporting-persistence/src/test/scala/victorops/reporting/persistence/TestDatabases.scala" timestamp="1608679747586">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="^" line="32" column="6" />
-        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/GitLab/platform-reporting/reporting-persistence/src/main/resources/migrations/postgres/V20200406.00__Baseline.sql" timestamp="1608754566251">
         <mark key="[" line="206" column="20" />
@@ -175,17 +133,11 @@
       <file name="$USER_HOME$/GitLab/platform-reporting/reporting-persistence/src/main/resources/migrations/mysql/pipelinedb/V20201223.00__FactUser.sql" timestamp="1608667876662">
         <mark key="[" line="23" column="129" />
       </file>
-      <file name="$USER_HOME$/GitLab/data-lambda-refine/Makefile" timestamp="1614792678697">
-        <mark key="[" line="34" column="20" />
-        <mark key="]" line="33" column="28" />
-        <mark key="." line="33" column="27" />
-        <mark key="^" line="33" column="28" />
-      </file>
-      <file name="$USER_HOME$/GitLab/data-lambda-refine/sls_config/cyclops_playground.json" timestamp="1614800994077" />
-      <file name="$USER_HOME$/GitLab/data-lambda-refine/.gitlab-ci.yml" timestamp="1614800062776">
-        <mark key="[" line="62" column="25" />
-        <mark key="]" line="123" column="0" />
-        <mark key="." line="123" column="0" />
+      <file name="$USER_HOME$/GitLab/data-lambda-refine/serverless.yml" timestamp="1614804191617">
+        <mark key="[" line="98" column="30" />
+        <mark key="]" line="98" column="30" />
+        <mark key="." line="98" column="30" />
+        <mark key="^" line="102" column="0" />
       </file>
       <file name="$USER_HOME$/GitLab/data-lambda-refine/src/test/scala/victorops/datapipeline/lambdas/handlers/S3Handler.scala" timestamp="1604684249191">
         <mark key="'" line="105" column="8" />
@@ -208,6 +160,52 @@
         <mark key="'" line="152" column="498" />
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="2274" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1614800471960">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/GitLab/platform-reporting/reporting-persistence/src/main/resources/migrations/mysql/pipelinedb/V20201222.00__FactUser.sql" timestamp="1608660665066">
+        <mark key="[" line="0" column="33" />
+        <mark key="]" line="14" column="53" />
+        <mark key="." line="14" column="52" />
+        <mark key="^" line="14" column="53" />
+      </file>
+      <file name="$USER_HOME$/GitLab/data-lambda-refine/sls_config/playground.json" timestamp="1614803921685">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/GitLab/data-lambda-refine/src/test/resources/data/goodIncidentsRefined.json" timestamp="1604942631944">
+        <mark key="[" line="146" column="1146" />
+        <mark key="]" line="146" column="1146" />
+        <mark key="^" line="82" column="1795" />
+        <mark key="." line="146" column="1146" />
+      </file>
+      <file name="$USER_HOME$/GitLab/platform-reporting/reporting-persistence/src/main/resources/migrations/postgres/V20201223.00__FactUser.sql" timestamp="1608754571892">
+        <mark key="'" line="23" column="0" />
+        <mark key="[" line="15" column="46" />
+        <mark key="]" line="4" column="24" />
+        <mark key="." line="4" column="24" />
+      </file>
+      <file name="$USER_HOME$/GitLab/platform-reporting/reporting-persistence/src/test/scala/victorops/reporting/persistence/TestDatabases.scala" timestamp="1608679747586">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="^" line="32" column="6" />
+        <mark key="." line="32" column="0" />
+      </file>
+      <file name="$USER_HOME$/GitLab/data-lambda-refine/Makefile" timestamp="1614792678697">
+        <mark key="[" line="34" column="20" />
+        <mark key="]" line="33" column="28" />
+        <mark key="." line="33" column="27" />
+        <mark key="^" line="33" column="28" />
+      </file>
+      <file name="$USER_HOME$/GitLab/data-lambda-refine/sls_config/cyclops_playground.json" timestamp="1614801101064" />
+      <file name="$USER_HOME$/GitLab/data-lambda-refine/.gitlab-ci.yml" timestamp="1614800062776">
+        <mark key="[" line="62" column="25" />
+        <mark key="]" line="123" column="0" />
+        <mark key="." line="123" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -315,17 +313,17 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>t</text>
       </register>
       <register name="-" type="4">
-        <text>vo_lambda_deploy_role</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>COLLATE\ utf8mb4_unicode_ci</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFJPTEVfTkFNRTogdm9fbGFtYmRhX2RlcGxveV9yb2xlCg==</text>
+        <text encoding="base64">ICAgIHJvbGU6ICR7ZmlsZShzbHNfY29uZmlnLyR7c2VsZjpwcm92aWRlci5zdGFnZX0uanNvbik6aW5jaWRlbnRfcm9sZV9hcm59Cg==</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -426,31 +424,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG5hbWUK</text>
       </register>
       <register name="2" type="2">
-        <text>* Also fixes a schema violation warning on the &quot;AWS_SDK_LOAD_CONFIG&quot;</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text>Add cyclops deployment stage</text>
+        <text encoding="base64">ICAgICJ2cGMiOiB7CiAgICAgICJzZWN1cml0eUdyb3VwSWRzIjogWwogICAgICAgICAgInNnLTBhOWYwMjY5Y2YxMjQ3NzZmIgogICAgICBdLAogICAgICAic3VibmV0SWRzIjogWwogICAgICAgICAgInN1Ym5ldC0wZTIxNmJiNjVkMDZmMjRmYiIsCiAgICAgICAgICAic3VibmV0LTA3MDdlNzUzODMzYjFkZDZmIiwKICAgICAgICAgICJzdWJuZXQtMDI4NWQwNWE1NmQ4MjhiMDciCiAgICAgIF0KICAgIH0s</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC0gcGFja2FnZV9jeWNsb3BzX3BsYXlncm91bmQK</text>
+        <text encoding="base64">ICAgICJsb2dzX3N0cmVhbSI6ICJzdHJlYW0vcGxheS11cy13ZXN0LTItZGF0YS1sYW1iZGEtbG9ncyIsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC0gZGVwbG95X3N0YWdpbmcK</text>
+        <text encoding="base64">ICAgICJhbGVydF9yb2xlX2FybiI6ICJhcm46YXdzOmlhbTo6MzQzODE1MDY1ODUzOnJvbGUvZGF0YS1sYW1iZGEtcmVmaW5lLWFsZXJ0IiwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC0gZGVwbG95X3BsYXlncm91bmQK</text>
+        <text encoding="base64">ICAgICJhbGVydF9yYXdfYnVja2V0IjogInBsYXkuc3BsdW5rLXNzYy12by1wbGF5Z3JvdW5kLnZpY3Rvcm9wcy5uZXQtYWxlcnQiLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBvbmx5OgogICAgLSBtYXN0ZXI=</text>
+        <text encoding="base64">ICAgICJhbGVydF9zcXNfYXJuIjogImFybjphd3M6c3FzOnVzLXdlc3QtMjozNDM4MTUwNjU4NTM6ZGF0YS1yYXctYWxlcnRfdjEiLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgXyA8LSBzcWwiQ1JFQVRFIFRBQkxFIElGIE5PVCBFWElTVFMgZmFjdF91c2VyX3YxX3BhcnRfMCBQQVJUSVRJT04gT0Ygdm9fZGF0YV9hbmFseXRpY3MuZmFjdF91c2VyX3YxIEZPUiBWQUxVRVMgV0lUSCAoTU9EVUxVUyAxLCBSRU1BSU5ERVIgMCkiLnVwZGF0ZS5ydW4K</text>
+        <text encoding="base64">ICAgICJhdXRoQ2hhdF9yb2xlX2FybiI6ICJhcm46YXdzOmlhbTo6MzQzODE1MDY1ODUzOnJvbGUvZGF0YS1sYW1iZGEtcmVmaW5lLWF1dGhDaGF0IiwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhY2tlZF9hdDogT3B0aW9uW0luc3RhbnRdLAo=</text>
+        <text encoding="base64">ICAgICJhdXRoQXBwcHVibGljX3JvbGVfYXJuIjogImFybjphd3M6aWFtOjozNDM4MTUwNjU4NTM6cm9sZS9kYXRhLWxhbWJkYS1yZWZpbmUtYXV0aEFwcHB1YmxpYyIsCg==</text>
       </register>
       <register name=":" type="4">
         <text>63</text>
