@@ -29,7 +29,6 @@
         <entry>COLLATE\ utf8mb4_unicode_ci</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zLzIwMjAtMDgtMjAvMjAyMC0wOC0yMS9n</entry>
         <entry encoding="base64">JzwsJz5zLzIwMjAtMDgtMjEvMjAyMC0wOC0xOS9n</entry>
         <entry encoding="base64">JzwsJz5zLzIwMjAtMDgtMDEvMjAyMC0wOC0xOC9n</entry>
         <entry encoding="base64">JzwsJz5zLzIwMjAtMDgtMjAvMjAyMC0wOC0yMy9nYw==</entry>
@@ -49,6 +48,7 @@
         <entry encoding="base64">JzwsJz5zL2RhdGV0aW1lL3RpbWVzdGFtcHovZw==</entry>
         <entry encoding="base64">JzwsJz5zL3RpbWVzdGFtcHovdGltZXN0YW1wdHovZw==</entry>
         <entry encoding="base64">JzwsJz5zL0NPTExBVEVcIHV0ZjhtYjRfdW5pY29kZV9jaS8vZw==</entry>
+        <entry>63</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -112,10 +112,10 @@
         <mark key="]" line="126" column="61" />
         <mark key="." line="126" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1608754670061">
+      <file name="/Dummy.txt" timestamp="1614800471960">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/GitLab/data-lambda-refine/src/test/scala/victorops/datapipeline/lambdas/handlers/IncidentSpec.scala" timestamp="1604618086100">
         <mark key="'" line="79" column="84" />
@@ -139,13 +139,6 @@
         <mark key="]" line="14" column="53" />
         <mark key="." line="14" column="52" />
         <mark key="^" line="14" column="53" />
-      </file>
-      <file name="$USER_HOME$/GitLab/data-lambda-refine/build.sbt" timestamp="1604614319682">
-        <mark key="a" line="20" column="28" />
-        <mark key="[" line="85" column="36" />
-        <mark key="]" line="85" column="37" />
-        <mark key="." line="85" column="36" />
-        <mark key="^" line="85" column="37" />
       </file>
       <file name="$USER_HOME$/GitLab/data-lambda-refine/src/test/resources/data/goodIncidentsRefined.json" timestamp="1604942631944">
         <mark key="[" line="146" column="1146" />
@@ -188,11 +181,11 @@
         <mark key="." line="33" column="27" />
         <mark key="^" line="33" column="28" />
       </file>
-      <file name="$USER_HOME$/GitLab/data-lambda-refine/.gitlab-ci.yml" timestamp="1614785691413">
-        <mark key="[" line="119" column="15" />
-        <mark key="]" line="119" column="15" />
-        <mark key="^" line="73" column="36" />
-        <mark key="." line="119" column="15" />
+      <file name="$USER_HOME$/GitLab/data-lambda-refine/sls_config/cyclops_playground.json" timestamp="1614800994077" />
+      <file name="$USER_HOME$/GitLab/data-lambda-refine/.gitlab-ci.yml" timestamp="1614800062776">
+        <mark key="[" line="62" column="25" />
+        <mark key="]" line="123" column="0" />
+        <mark key="." line="123" column="0" />
       </file>
       <file name="$USER_HOME$/GitLab/data-lambda-refine/src/test/scala/victorops/datapipeline/lambdas/handlers/S3Handler.scala" timestamp="1604684249191">
         <mark key="'" line="105" column="8" />
@@ -322,8 +315,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>vo_lambda_deploy_role</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>vo_lambda_deploy_role</text>
@@ -433,34 +426,34 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC0gZGVwbG95X3N0YWdpbmcK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIC0gZGVwbG95X3BsYXlncm91bmQK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBvbmx5OgogICAgLSBtYXN0ZXI=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgXyA8LSBzcWwiQ1JFQVRFIFRBQkxFIElGIE5PVCBFWElTVFMgZmFjdF91c2VyX3YxX3BhcnRfMCBQQVJUSVRJT04gT0Ygdm9fZGF0YV9hbmFseXRpY3MuZmFjdF91c2VyX3YxIEZPUiBWQUxVRVMgV0lUSCAoTU9EVUxVUyAxLCBSRU1BSU5ERVIgMCkiLnVwZGF0ZS5ydW4K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhY2tlZF9hdDogT3B0aW9uW0luc3RhbnRdLAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnRsbihyZXNvbHZlZEF0KQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnRsbihyZXNvbHZlZEF0KQo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text>* Also fixes a schema violation warning on the &quot;AWS_SDK_LOAD_CONFIG&quot;</text>
+      </register>
+      <register name="3" type="2">
+        <text>Add cyclops deployment stage</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIC0gcGFja2FnZV9jeWNsb3BzX3BsYXlncm91bmQK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIC0gZGVwbG95X3N0YWdpbmcK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIC0gZGVwbG95X3BsYXlncm91bmQK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBvbmx5OgogICAgLSBtYXN0ZXI=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgXyA8LSBzcWwiQ1JFQVRFIFRBQkxFIElGIE5PVCBFWElTVFMgZmFjdF91c2VyX3YxX3BhcnRfMCBQQVJUSVRJT04gT0Ygdm9fZGF0YV9hbmFseXRpY3MuZmFjdF91c2VyX3YxIEZPUiBWQUxVRVMgV0lUSCAoTU9EVUxVUyAxLCBSRU1BSU5ERVIgMCkiLnVwZGF0ZS5ydW4K</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhY2tlZF9hdDogT3B0aW9uW0luc3RhbnRdLAo=</text>
+      </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL0NPTExBVEVcIHV0ZjhtYjRfdW5pY29kZV9jaS8vZw==</text>
+        <text>63</text>
       </register>
     </registers>
   </component>
