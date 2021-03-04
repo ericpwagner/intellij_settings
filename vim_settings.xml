@@ -155,7 +155,7 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="2274" />
       </file>
-      <file name="/Dummy.txt" timestamp="1614887277606">
+      <file name="/Dummy.txt" timestamp="1614890646544">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
@@ -195,8 +195,8 @@
         <mark key="." line="33" column="27" />
         <mark key="^" line="33" column="28" />
       </file>
-      <file name="$USER_HOME$/GitLab/data-lambda-refine/sls_config/cyclops_playground.json" timestamp="1614887272718">
-        <mark key="[" line="20" column="33" />
+      <file name="$USER_HOME$/GitLab/data-lambda-refine/sls_config/cyclops_playground.json" timestamp="1614890627300">
+        <mark key="[" line="4" column="66" />
         <mark key="]" line="20" column="34" />
         <mark key="." line="20" column="33" />
         <mark key="^" line="20" column="34" />
