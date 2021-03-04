@@ -135,8 +135,8 @@
       </file>
       <file name="$USER_HOME$/GitLab/data-lambda-refine/sls_config/prod.json" timestamp="1614804238836" />
       <file name="$USER_HOME$/GitLab/data-lambda-refine/serverless.yml" timestamp="1614899121293">
-        <mark key="]" line="106" column="0" />
-        <mark key="." line="106" column="0" />
+        <mark key="]" line="111" column="0" />
+        <mark key="." line="111" column="0" />
       </file>
       <file name="$USER_HOME$/GitLab/platform-reporting/reporting-persistence/src/main/resources/migrations/postgres/V20201222.00__FactUser.sql" timestamp="1608667629970">
         <mark key="'" line="20" column="4" />
