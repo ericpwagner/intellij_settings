@@ -134,11 +134,10 @@
         <mark key="[" line="23" column="129" />
       </file>
       <file name="$USER_HOME$/GitLab/data-lambda-refine/sls_config/prod.json" timestamp="1614804238836" />
-      <file name="$USER_HOME$/GitLab/data-lambda-refine/serverless.yml" timestamp="1614897266635">
-        <mark key="[" line="118" column="0" />
-        <mark key="]" line="118" column="0" />
-        <mark key="." line="118" column="0" />
-        <mark key="^" line="108" column="0" />
+      <file name="$USER_HOME$/GitLab/data-lambda-refine/serverless.yml" timestamp="1614898087135">
+        <mark key="[" line="108" column="0" />
+        <mark key="]" line="108" column="0" />
+        <mark key="." line="108" column="0" />
       </file>
       <file name="/Dummy.json" timestamp="1604684812111">
         <mark key="[" line="0" column="0" />
@@ -155,7 +154,7 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="2274" />
       </file>
-      <file name="/Dummy.txt" timestamp="1614897072252">
+      <file name="/Dummy.txt" timestamp="1614898098045">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
@@ -314,7 +313,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBBZGQgc2VydmVybGVzcyBjb25maWcgZm9yIGluY2lkZW50IHJlZmluZXIgbGFtYmRhIGluIGN5Y2xvcHMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>:</text>
@@ -424,28 +423,28 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBBZGQgc2VydmVybGVzcyBjb25maWcgZm9yIGluY2lkZW50IHJlZmluZXIgbGFtYmRhIGluIGN5Y2xvcHMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICBjeWNsb3BzLWluY2lkZW50OgogICAgbmFtZTogJHtzZWxmOnNlcnZpY2UubmFtZX0KICAgIGhhbmRsZXI6IHZpY3Rvcm9wcy5kYXRhcGlwZWxpbmUubGFtYmRhcy5oYW5kbGVycy5TM0VudHJ5OjpzcXNMYW1iZGFIYW5kbGVyCgogICAgcm9sZTogJHtmaWxlKHNsc19jb25maWcvJHtzZWxmOnByb3ZpZGVyLnN0YWdlfS5qc29uKTppbmNpZGVudF9yb2xlX2Fybn0KCiAgICBldmVudHM6CiAgICAgIC0gc3FzOgogICAgICAgICAgYXJuOiAke2ZpbGUoc2xzX2NvbmZpZy8ke3NlbGY6cHJvdmlkZXIuc3RhZ2V9Lmpzb24pOmluY2lkZW50X3Nxc19hcm59CiAgICAgICAgICBiYXRjaFNpemU6IDE=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAtIGRlcGxveV9jeWNsb3BzX3BsYXlncm91bmQK</text>
+        <text encoding="base64">Pj4+Pj4+PiBBZGQgc2VydmVybGVzcyBjb25maWcgZm9yIGluY2lkZW50IHJlZmluZXIgbGFtYmRhIGluIGN5Y2xvcHMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJhdXRoX2NoYXRfc3FzX2FybiI6ICJhcm46YXdzOnNxczp1cy13ZXN0LTI6MzQzODE1MDY1ODUzOmRhdGEtcmF3X2NoYXQtYXV0aF92MSIK</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJhdXRoX2NoYXRfcmF3X2J1Y2tldCI6ICJwbGF5LnNwbHVuay1zc2Mtdm8tcGxheWdyb3VuZC52aWN0b3JvcHMubmV0LWF1dGgtY2hhdC1kYXRhIiwK</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJhdXRoX2FwcHB1Yl9zcXNfYXJuIjogImFybjphd3M6c3FzOnVzLXdlc3QtMjozNDM4MTUwNjU4NTM6ZGF0YS1yYXdfYXBwcHViLWF1dGhfdjEiLAo=</text>
+        <text encoding="base64">ICAtIGRlcGxveV9jeWNsb3BzX3BsYXlncm91bmQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJhdXRoX2FwcHB1Yl9yYXdfYnVja2V0IjogInBsYXkuc3BsdW5rLXNzYy12by1wbGF5Z3JvdW5kLnZpY3Rvcm9wcy5uZXQtYXV0aC1hcHBwdWItZGF0YSIsCg==</text>
+        <text encoding="base64">ICAgICJhdXRoX2NoYXRfc3FzX2FybiI6ICJhcm46YXdzOnNxczp1cy13ZXN0LTI6MzQzODE1MDY1ODUzOmRhdGEtcmF3X2NoYXQtYXV0aF92MSIK</text>
       </register>
       <register name="x" type="4">
         <keys>
@@ -466,7 +465,7 @@
         </keys>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJhdXRoQXBwcHVibGljX3Jhd19idWNrZXQiOiAicGxheS5zcGx1bmstc3NjLXZvLXBsYXlncm91bmQudmljdG9yb3BzLm5ldC1hdXRoLWFwcHB1Yi1kYXRhIiwK</text>
+        <text encoding="base64">ICAgICJhdXRoX2NoYXRfcmF3X2J1Y2tldCI6ICJwbGF5LnNwbHVuay1zc2Mtdm8tcGxheWdyb3VuZC52aWN0b3JvcHMubmV0LWF1dGgtY2hhdC1kYXRhIiwK</text>
       </register>
       <register name=":" type="4">
         <text>63</text>
