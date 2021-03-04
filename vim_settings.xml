@@ -155,10 +155,9 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="2274" />
       </file>
-      <file name="/Dummy.txt" timestamp="1614811063001">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="/Dummy.txt" timestamp="1614811515714">
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/GitLab/platform-reporting/reporting-persistence/src/main/resources/migrations/mysql/pipelinedb/V20201222.00__FactUser.sql" timestamp="1608660665066">
         <mark key="[" line="0" column="33" />
