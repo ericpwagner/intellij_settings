@@ -155,7 +155,7 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="2274" />
       </file>
-      <file name="/Dummy.txt" timestamp="1614885226467">
+      <file name="/Dummy.txt" timestamp="1614887277606">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
@@ -166,9 +166,9 @@
         <mark key="." line="14" column="52" />
         <mark key="^" line="14" column="53" />
       </file>
-      <file name="$USER_HOME$/GitLab/data-lambda-refine/sls_config/playground.json" timestamp="1614803921685">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
+      <file name="$USER_HOME$/GitLab/data-lambda-refine/sls_config/playground.json" timestamp="1614887148518">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="23" column="95" />
         <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/GitLab/data-lambda-refine/src/test/resources/data/goodIncidentsRefined.json" timestamp="1604942631944">
@@ -195,10 +195,11 @@
         <mark key="." line="33" column="27" />
         <mark key="^" line="33" column="28" />
       </file>
-      <file name="$USER_HOME$/GitLab/data-lambda-refine/sls_config/cyclops_playground.json" timestamp="1614810996988">
-        <mark key="[" line="2" column="57" />
-        <mark key="]" line="8" column="108" />
-        <mark key="." line="8" column="108" />
+      <file name="$USER_HOME$/GitLab/data-lambda-refine/sls_config/cyclops_playground.json" timestamp="1614887272718">
+        <mark key="[" line="20" column="33" />
+        <mark key="]" line="20" column="34" />
+        <mark key="." line="20" column="33" />
+        <mark key="^" line="20" column="34" />
       </file>
       <file name="$USER_HOME$/GitLab/data-lambda-refine/.gitlab-ci.yml" timestamp="1614885216976">
         <mark key="[" line="4" column="0" />
@@ -312,17 +313,17 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAtIGRlcGxveV9jeWNsb3BzX3BsYXlncm91bmQK</text>
+      <register name="&quot;" type="4">
+        <text>play.splunk-ssc-vo-playground.victorops.net-auth-apppub-data</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>play.splunk-ssc-vo-playground.victorops.net-auth-apppub-data</text>
       </register>
       <register name="/" type="4">
         <text>COLLATE\ utf8mb4_unicode_ci</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ZXZlbnRzOgogICAgICAtIHNxczoKICAgICAgICAgIGFybjogJHtmaWxlKHNsc19jb25maWcvJHtzZWxmOnByb3ZpZGVyLnN0YWdlfS5qc29uKTppbmNpZGVudF9zcXNfYXJufQogICAgICAgICAgYmF0Y2hTaXplOiAxCg==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICJsb2dzX3N0cmVhbSI6ICJzdHJlYW0vcGxheS11cy13ZXN0LTItZGF0YS1sYW1iZGEtbG9ncyIsCiAgICAiYWxlcnRfcm9sZV9hcm4iOiAiYXJuOmF3czppYW06OjM0MzgxNTA2NTg1Mzpyb2xlL2RhdGEtbGFtYmRhLXJlZmluZS1hbGVydCIsCiAgICAiYWxlcnRfcmF3X2J1Y2tldCI6ICJwbGF5LnNwbHVuay1zc2Mtdm8tcGxheWdyb3VuZC52aWN0b3JvcHMubmV0LWFsZXJ0IiwKICAgICJhbGVydF9zcXNfYXJuIjogImFybjphd3M6c3FzOnVzLXdlc3QtMjozNDM4MTUwNjU4NTM6ZGF0YS1yYXctYWxlcnRfdjEiLAogICAgImF1dGhDaGF0X3JvbGVfYXJuIjogImFybjphd3M6aWFtOjozNDM4MTUwNjU4NTM6cm9sZS9kYXRhLWxhbWJkYS1yZWZpbmUtYXV0aENoYXQiLAogICAgImF1dGhDaGF0X3Jhd19idWNrZXQiOiAicGxheS5zcGx1bmstc3NjLXZvLXBsYXlncm91bmQudmljdG9yb3BzLm5ldC1hdXRoLWNoYXQtZGF0YSIsCiAgICAiYXV0aEFwcHB1YmxpY19yb2xlX2FybiI6ICJhcm46YXdzOmlhbTo6MzQzODE1MDY1ODUzOnJvbGUvZGF0YS1sYW1iZGEtcmVmaW5lLWF1dGhBcHBwdWJsaWMiLAogICAgImF1dGhBcHBwdWJsaWNfcmF3X2J1Y2tldCI6ICJwbGF5LnNwbHVuay1zc2Mtdm8tcGxheWdyb3VuZC52aWN0b3JvcHMubmV0LWF1dGgtYXBwcHViLWRhdGEiLAo=</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -445,6 +446,24 @@
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICJhdXRoQ2hhdF9yYXdfYnVja2V0IjogInBsYXkuc3BsdW5rLXNzYy12by1wbGF5Z3JvdW5kLnZpY3Rvcm9wcy5uZXQtYXV0aC1jaGF0LWRhdGEiLAo=</text>
+      </register>
+      <register name="x" type="4">
+        <keys>
+          <key char="118" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+        </keys>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICJhdXRoQ2hhdF9yb2xlX2FybiI6ICJhcm46YXdzOmlhbTo6MzQzODE1MDY1ODUzOnJvbGUvZGF0YS1sYW1iZGEtcmVmaW5lLWF1dGhDaGF0IiwK</text>
