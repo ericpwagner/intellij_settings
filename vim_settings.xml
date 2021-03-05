@@ -134,9 +134,9 @@
         <mark key="[" line="23" column="129" />
       </file>
       <file name="$USER_HOME$/GitLab/data-lambda-refine/sls_config/prod.json" timestamp="1614804238836" />
-      <file name="$USER_HOME$/GitLab/data-lambda-refine/serverless.yml" timestamp="1614967009591">
+      <file name="$USER_HOME$/GitLab/data-lambda-refine/serverless.yml" timestamp="1614968004565">
         <mark key="'" line="195" column="0" />
-        <mark key="[" line="124" column="33" />
+        <mark key="[" line="68" column="41" />
         <mark key="]" line="124" column="33" />
         <mark key="." line="124" column="33" />
         <mark key="^" line="45" column="8" />
@@ -153,7 +153,7 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="2274" />
       </file>
-      <file name="/Dummy.txt" timestamp="1614967038715">
+      <file name="/Dummy.txt" timestamp="1614968027298">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
