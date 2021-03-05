@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>pts</entry>
         <entry>RCV</entry>
         <entry>refined</entry>
         <entry>2020-08-21</entry>
@@ -27,9 +26,9 @@
         <entry>datetime</entry>
         <entry>timestampz</entry>
         <entry>COLLATE\ utf8mb4_unicode_ci</entry>
+        <entry>deployToClassic</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zLzIwMjAtMDgtMjEvMjAyMC0wOC0xOS9n</entry>
         <entry encoding="base64">JzwsJz5zLzIwMjAtMDgtMDEvMjAyMC0wOC0xOC9n</entry>
         <entry encoding="base64">JzwsJz5zLzIwMjAtMDgtMjAvMjAyMC0wOC0yMy9nYw==</entry>
         <entry>40</entry>
@@ -49,6 +48,7 @@
         <entry encoding="base64">JzwsJz5zL3RpbWVzdGFtcHovdGltZXN0YW1wdHovZw==</entry>
         <entry encoding="base64">JzwsJz5zL0NPTExBVEVcIHV0ZjhtYjRfdW5pY29kZV9jaS8vZw==</entry>
         <entry>63</entry>
+        <entry encoding="base64">JzwsJz5zL2RlcGxveVRvQ2xhc3NpYy9kZXBsb3k/Zw==</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -134,9 +134,12 @@
         <mark key="[" line="23" column="129" />
       </file>
       <file name="$USER_HOME$/GitLab/data-lambda-refine/sls_config/prod.json" timestamp="1614804238836" />
-      <file name="$USER_HOME$/GitLab/data-lambda-refine/serverless.yml" timestamp="1614899121293">
-        <mark key="]" line="113" column="0" />
-        <mark key="." line="113" column="0" />
+      <file name="$USER_HOME$/GitLab/data-lambda-refine/serverless.yml" timestamp="1614967009591">
+        <mark key="'" line="195" column="0" />
+        <mark key="[" line="124" column="33" />
+        <mark key="]" line="124" column="33" />
+        <mark key="." line="124" column="33" />
+        <mark key="^" line="45" column="8" />
       </file>
       <file name="$USER_HOME$/GitLab/platform-reporting/reporting-persistence/src/main/resources/migrations/postgres/V20201222.00__FactUser.sql" timestamp="1608667629970">
         <mark key="'" line="20" column="4" />
@@ -150,7 +153,7 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="2274" />
       </file>
-      <file name="/Dummy.txt" timestamp="1614899222039">
+      <file name="/Dummy.txt" timestamp="1614967038715">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
@@ -211,8 +214,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="8" filename="$USER_HOME$/GitLab/tox_and_lint_fixes/serverless.yml" />
-      <jump line="11" column="0" filename="$USER_HOME$/GitLab/pts_hec_aggregator/src/process_event.py" />
       <jump line="35" column="0" filename="$USER_HOME$/GitLab/pts_hec_aggregator/src/process_event.py" />
       <jump line="12" column="0" filename="$USER_HOME$/GitLab/pts_hec_aggregator/.envrc" />
       <jump line="15" column="4" filename="$USER_HOME$/GitLab/pts_hec_aggregator/src/process_event.py" />
@@ -311,21 +312,23 @@
       <jump line="0" column="0" filename="$USER_HOME$/GitLab/platform-reporting/reporting-persistence/src/main/resources/migrations/postgres/V20201223.00__FactUser.sql" />
       <jump line="23" column="0" filename="$USER_HOME$/GitLab/platform-reporting/reporting-persistence/src/main/resources/migrations/postgres/V20201223.00__FactUser.sql" />
       <jump line="4" column="57" filename="$USER_HOME$/GitLab/data-lambda-refine/sls_config/cyclops-playground.json" />
+      <jump line="45" column="7" filename="$USER_HOME$/GitLab/data-lambda-refine/serverless.yml" />
+      <jump line="195" column="0" filename="$USER_HOME$/GitLab/data-lambda-refine/serverless.yml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBiMmQ3ZTNhLi4uIGZpeHVwIHRvIHNsc2wgY29uZmlnIGZpbGUK</text>
+      <register name="&quot;" type="4">
+        <text>g</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>g</text>
       </register>
       <register name="/" type="4">
-        <text>COLLATE\ utf8mb4_unicode_ci</text>
+        <text>deployToClassic</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICJ3ZWJob29rX3JvbGVfYXJuIjogImFybjphd3M6aWFtOjozNDM4MTUwNjU4NTM6cm9sZS9kYXRhLWxhbWJkYS1yZWZpbmUtd2ViaG9vayIsCiAgICAid2ViaG9va19yYXdfYnVja2V0IjogInBsYXkuc3BsdW5rLXNzYy12by1wbGF5Z3JvdW5kLnZpY3Rvcm9wcy5uZXQtd2h2My1kZWxpdmVyeS1kYXRhIiwKICAgICJ3ZWJob29rX3Nxc19hcm4iOiAiYXJuOmF3czpzcXM6dXMtd2VzdC0yOjM0MzgxNTA2NTg1MzpkYXRhLXJhdy13ZWJob29rX3YxIgo=</text>
+        <text encoding="base64">ICBpbmNpZGVudDoKICAgIGVuYWJsZWQ6ICR7c2VsZjpjdXN0b20uZGVwbG95VG9DbGFzc2ljLiR7c2VsZi5wcm92aWRlci5zdGFnZX0sIGZhbHNlfQogICAgbmFtZTogJHtzZWxmOnNlcnZpY2UubmFtZX0taW5jaWRlbnQKICAgIGhhbmRsZXI6IHZpY3Rvcm9wcy5kYXRhcGlwZWxpbmUubGFtYmRhcy5oYW5kbGVycy5TM0VudHJ5OjpzcXNMYW1iZGFIYW5kbGVyCgogICAgIyBXZSBuZWVkIGFuIGV4aXN0aW5nIHJvbGUgd2l0aCBhcHByb3ByaWF0ZSBwZXJtaXNzaW9ucyBmb3IgTGFtYmRhIHRvIHJ1biBpbgogICAgIyBGbjo6Sm9pbiBub3QgeWV0IHN1cHBvcnRlZCBoZXJlOiBodHRwczovL2dpdGh1Yi5jb20vc2VydmVybGVzcy9zZXJ2ZXJsZXNzL2lzc3Vlcy80OTE2CiAgICByb2xlOiAke2ZpbGUoc2xzX2NvbmZpZy8ke3NlbGY6cHJvdmlkZXIuc3RhZ2V9Lmpzb24pOmluY2lkZW50X3JvbGVfYXJufQoKICAgIGV2ZW50czoKICAgICAgLSBzcXM6CiAgICAgICAgICBhcm46ICR7ZmlsZShzbHNfY29uZmlnLyR7c2VsZjpwcm92aWRlci5zdGFnZX0uanNvbik6aW5jaWRlbnRfc3FzX2Fybn0KICAgICAgICAgIGJhdGNoU2l6ZTogMQo=</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -426,28 +429,28 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBiMmQ3ZTNhLi4uIGZpeHVwIHRvIHNsc2wgY29uZmlnIGZpbGUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJpbmNpZGVudF9zcXNfYXJuIjogImFybjphd3M6c3FzOnVzLXdlc3QtMjo2MDc2OTIwMDE3MTQ6dmljdG9yb3BzLWRhdGEtYW5hbHl0aWNzLWluY2lkZW50LXJhdy1zcXMtcXVldWUiLAo=</text>
+        <text encoding="base64">ICBkZXBsb3lUb0N5Y2xvcHM6CiAgICB2by1wbGF5OiBmYWxzZQogICAgdm8tc3RhZ2U6IGZhbHNlCiAgICB2by1wcm9kOiBmYWxzZQogICAgcGxheWdyb3VuZDogdHJ1ZQ==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y3VzdG9tOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjeWNsb3BzLWluY2lkZW50OgogICAgbmFtZTogJHtzZWxmOnNlcnZpY2UubmFtZX0KICAgIGhhbmRsZXI6IHZpY3Rvcm9wcy5kYXRhcGlwZWxpbmUubGFtYmRhcy5oYW5kbGVycy5TM0VudHJ5OjpzcXNMYW1iZGFIYW5kbGVyCgogICAgcm9sZTogJHtmaWxlKHNsc19jb25maWcvJHtzZWxmOnByb3ZpZGVyLnN0YWdlfS5qc29uKTppbmNpZGVudF9yb2xlX2Fybn0KCiAgICBldmVudHM6CiAgICAgIC0gc3FzOgogICAgICAgICAgYXJuOiAke2ZpbGUoc2xzX2NvbmZpZy8ke3NlbGY6cHJvdmlkZXIuc3RhZ2V9Lmpzb24pOmluY2lkZW50X3Nxc19hcm59CiAgICAgICAgICBiYXRjaFNpemU6IDE=</text>
+        <text encoding="base64">Y3VzdG9tOgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBBZGQgc2VydmVybGVzcyBjb25maWcgZm9yIGluY2lkZW50IHJlZmluZXIgbGFtYmRhIGluIGN5Y2xvcHMK</text>
+        <text encoding="base64">Pj4+Pj4+PiBiMmQ3ZTNhLi4uIGZpeHVwIHRvIHNsc2wgY29uZmlnIGZpbGUK</text>
       </register>
       <register name="x" type="4">
         <keys>
@@ -468,20 +471,20 @@
         </keys>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAgICJpbmNpZGVudF9zcXNfYXJuIjogImFybjphd3M6c3FzOnVzLXdlc3QtMjo2MDc2OTIwMDE3MTQ6dmljdG9yb3BzLWRhdGEtYW5hbHl0aWNzLWluY2lkZW50LXJhdy1zcXMtcXVldWUiLAo=</text>
       </register>
       <register name=":" type="4">
-        <text>63</text>
+        <text encoding="base64">JzwsJz5zL2RlcGxveVRvQ2xhc3NpYy9kZXBsb3k/Zw==</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>COLLATE\ utf8mb4_unicode_ci</last-search>
+      <last-search>deployToClassic</last-search>
       <last-offset />
-      <last-pattern>COLLATE\ utf8mb4_unicode_ci</last-pattern>
-      <last-replace />
-      <last-substitute>COLLATE\ utf8mb4_unicode_ci</last-substitute>
+      <last-pattern>deployToClassic</last-pattern>
+      <last-replace>deploy?g</last-replace>
+      <last-substitute>deployToClassic</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
