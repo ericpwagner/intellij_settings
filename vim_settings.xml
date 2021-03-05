@@ -106,9 +106,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/GitLab/platform-reporting/reporting-server/app/victorops/reporting/services/PipelineResponseMetricsService.scala" timestamp="1608073289967">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/GitLab/data-lambda-refine/sls_config/lambda_functions_per_env/lambda-functions-vo-cyclops.yml" timestamp="1614974402444">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -135,9 +132,9 @@
         <mark key="]" line="53" column="0" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="$USER_HOME$/GitLab/data-lambda-refine/serverless.yml" timestamp="1614976556639">
+      <file name="$USER_HOME$/GitLab/data-lambda-refine/serverless.yml" timestamp="1614978266331">
         <mark key="'" line="72" column="0" />
-        <mark key="[" line="72" column="54" />
+        <mark key="[" line="73" column="3" />
         <mark key="]" line="72" column="54" />
         <mark key="." line="72" column="54" />
         <mark key="^" line="68" column="12" />
@@ -185,6 +182,7 @@
         <mark key="^" line="24" column="25" />
         <mark key="." line="24" column="0" />
       </file>
+      <file name="$USER_HOME$/GitLab/data-lambda-refine/.serverless/serverless-state.json" timestamp="1614977641079" />
       <file name="$USER_HOME$/GitLab/data-lambda-refine/Makefile" timestamp="1614896918697">
         <mark key="[" line="34" column="28" />
         <mark key="]" line="33" column="28" />
@@ -203,15 +201,14 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="124" column="10" />
       </file>
-      <file name="$USER_HOME$/GitLab/data-lambda-refine/sls_config/lambda_functions_per_env/lambda-resources-vo-cyclops.yml" timestamp="1614975285665">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/GitLab/data-lambda-refine/sls_config/lambda_functions_per_env/lambda-resources-vo-cyclops.yml" timestamp="1614978315157">
+        <mark key="'" line="10" column="16" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="14" />
+        <mark key="." line="10" column="14" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="0" filename="$USER_HOME$/GitLab/pts_hec_aggregator/.envrc" />
-      <jump line="15" column="4" filename="$USER_HOME$/GitLab/pts_hec_aggregator/src/process_event.py" />
       <jump line="10" column="19" filename="$USER_HOME$/GitLab/pts_hec_aggregator/src/process_event.py" />
       <jump line="0" column="0" filename="/Dummy.json" />
       <jump line="63" column="0" filename="$USER_HOME$/GitLab/pts_hec_aggregator/src/process_event.py" />
@@ -310,12 +307,14 @@
       <jump line="45" column="7" filename="$USER_HOME$/GitLab/data-lambda-refine/serverless.yml" />
       <jump line="195" column="0" filename="$USER_HOME$/GitLab/data-lambda-refine/serverless.yml" />
       <jump line="0" column="0" filename="$USER_HOME$/GitLab/data-lambda-refine/sls_config/lambda_functions_per_env/lambda-functions-vo-play.yml" />
+      <jump line="0" column="0" filename="$USER_HOME$/GitLab/data-lambda-refine/sls_config/lambda_functions_per_env/lambda-resources-vo-cyclops.yml" />
+      <jump line="10" column="16" filename="$USER_HOME$/GitLab/data-lambda-refine/sls_config/lambda_functions_per_env/lambda-resources-vo-cyclops.yml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>functions</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>functions</text>
@@ -428,9 +427,15 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
+        <text>Resources:</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgIEFsZXJ0TGFtYmRhRnVuY3Rpb246CiAgICAgIFR5cGU6ICJBV1M6OkxhbWJkYTo6RnVuY3Rpb24iCiAgICAgIFByb3BlcnRpZXM6CiAgICAgICAgRGVhZExldHRlckNvbmZpZzoKICAgICAgICAgIFRhcmdldEFybjoKICAgICAgICAgICAgRm46OkpvaW46CiAgICAgICAgICAgICAgLSAnOicKICAgICAgICAgICAgICAtIC0gJ2Fybjphd3M6c3FzJwogICAgICAgICAgICAgICAgLSBSZWY6ICdBV1M6OlJlZ2lvbicKICAgICAgICAgICAgICAgIC0gUmVmOiAnQVdTOjpBY2NvdW50SWQnCiAgICAgICAgICAgICAgICAtICAnZGF0YS1yYXctYWxlcnRfdjEtZGxxJw==</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>alert:
     enabled: ${self:custom.deploy.${self:provider.stage}, false}
     name: ${self:service.name}-alert
@@ -501,20 +506,14 @@
           arn: ${file(sls_config/${self:provider.stage}.json):webhook_sqs_arn}
           batchSize: 1</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">d2ViaG9vazoKICBuYW1lOiAke3NlbGY6c2VydmljZS5uYW1lfS13ZWJob29rCiAgaGFuZGxlcjogdmljdG9yb3BzLmRhdGFwaXBlbGluZS5sYW1iZGFzLmhhbmRsZXJzLlMzRW50cnk6OnNxc0xhbWJkYUhhbmRsZXIKCiAgIyBXZSBuZWVkIGFuIGV4aXN0aW5nIHJvbGUgd2l0aCBhcHByb3ByaWF0ZSBwZXJtaXNzaW9ucyBmb3IgTGFtYmRhIHRvIHJ1biBpbgogICMgRm46OkpvaW4gbm90IHlldCBzdXBwb3J0ZWQgaGVyZTogaHR0cHM6Ly9naXRodWIuY29tL3NlcnZlcmxlc3Mvc2VydmVybGVzcy9pc3N1ZXMvNDkxNgogIHJvbGU6ICR7ZmlsZShzbHNfY29uZmlnLyR7c2VsZjpwcm92aWRlci5zdGFnZX0uanNvbik6d2ViaG9va19yb2xlX2Fybn0KCiAgZXZlbnRzOgogICAgLSBzcXM6CiAgICAgICAgYXJuOiAke2ZpbGUoc2xzX2NvbmZpZy8ke3NlbGY6cHJvdmlkZXIuc3RhZ2V9Lmpzb24pOndlYmhvb2tfc3FzX2Fybn0KICAgICAgICBiYXRjaFNpemU6IDEK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CndlYmhvb2s6CiAgbmFtZTogJHtzZWxmOnNlcnZpY2UubmFtZX0td2ViaG9vawogIGhhbmRsZXI6IHZpY3Rvcm9wcy5kYXRhcGlwZWxpbmUubGFtYmRhcy5oYW5kbGVycy5TM0VudHJ5OjpzcXNMYW1iZGFIYW5kbGVyCgogICMgV2UgbmVlZCBhbiBleGlzdGluZyByb2xlIHdpdGggYXBwcm9wcmlhdGUgcGVybWlzc2lvbnMgZm9yIExhbWJkYSB0byBydW4gaW4KICAjIEZuOjpKb2luIG5vdCB5ZXQgc3VwcG9ydGVkIGhlcmU6IGh0dHBzOi8vZ2l0aHViLmNvbS9zZXJ2ZXJsZXNzL3NlcnZlcmxlc3MvaXNzdWVzLzQ5MTYKICByb2xlOiAke2ZpbGUoc2xzX2NvbmZpZy8ke3NlbGY6cHJvdmlkZXIuc3RhZ2V9Lmpzb24pOndlYmhvb2tfcm9sZV9hcm59CgogIGV2ZW50czoKICAgIC0gc3FzOgogICAgICAgIGFybjogJHtmaWxlKHNsc19jb25maWcvJHtzZWxmOnByb3ZpZGVyLnN0YWdlfS5qc29uKTp3ZWJob29rX3Nxc19hcm59CiAgICAgICAgYmF0Y2hTaXplOiAxCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">YWxlcnQ6CiAgbmFtZTogJHtzZWxmOnNlcnZpY2UubmFtZX0tYWxlcnQKICBoYW5kbGVyOiB2aWN0b3JvcHMuZGF0YXBpcGVsaW5lLmxhbWJkYXMuaGFuZGxlcnMuUzNFbnRyeTo6c3FzTGFtYmRhSGFuZGxlcgoKICAjIFdlIG5lZWQgYW4gZXhpc3Rpbmcgcm9sZSB3aXRoIGFwcHJvcHJpYXRlIHBlcm1pc3Npb25zIGZvciBMYW1iZGEgdG8gcnVuIGluCiAgIyBGbjo6Sm9pbiBub3QgeWV0IHN1cHBvcnRlZCBoZXJlOiBodHRwczovL2dpdGh1Yi5jb20vc2VydmVybGVzcy9zZXJ2ZXJsZXNzL2lzc3Vlcy80OTE2CiAgcm9sZTogJHtmaWxlKHNsc19jb25maWcvJHtzZWxmOnByb3ZpZGVyLnN0YWdlfS5qc29uKTphbGVydF9yb2xlX2Fybn0KCiAgZXZlbnRzOgogICAgLSBzcXM6CiAgICAgICAgYXJuOiAke2ZpbGUoc2xzX2NvbmZpZy8ke3NlbGY6cHJvdmlkZXIuc3RhZ2V9Lmpzb24pOmFsZXJ0X3Nxc19hcm59CiAgICAgICAgYmF0Y2hTaXplOiAxCgphdXRoQ2hhdDoKICBuYW1lOiAke3NlbGY6c2VydmljZS5uYW1lfS1hdXRoQ2hhdAogIGhhbmRsZXI6IHZpY3Rvcm9wcy5kYXRhcGlwZWxpbmUubGFtYmRhcy5oYW5kbGVycy5TM0VudHJ5OjpzcXNMYW1iZGFIYW5kbGVyCgogICMgV2UgbmVlZCBhbiBleGlzdGluZyByb2xlIHdpdGggYXBwcm9wcmlhdGUgcGVybWlzc2lvbnMgZm9yIExhbWJkYSB0byBydW4gaW4KICAjIEZuOjpKb2luIG5vdCB5ZXQgc3VwcG9ydGVkIGhlcmU6IGh0dHBzOi8vZ2l0aHViLmNvbS9zZXJ2ZXJsZXNzL3NlcnZlcmxlc3MvaXNzdWVzLzQ5MTYKICByb2xlOiAke2ZpbGUoc2xzX2NvbmZpZy8ke3NlbGY6cHJvdmlkZXIuc3RhZ2V9Lmpzb24pOmF1dGhDaGF0X3JvbGVfYXJufQoKICBldmVudHM6CiAgICAtIHNxczoKICAgICAgICBhcm46ICR7ZmlsZShzbHNfY29uZmlnLyR7c2VsZjpwcm92aWRlci5zdGFnZX0uanNvbik6YXV0aF9jaGF0X3Nxc19hcm59CiAgICAgICAgYmF0Y2hTaXplOiAxCgphdXRoQXBwcHVibGljOgogIG5hbWU6ICR7c2VsZjpzZXJ2aWNlLm5hbWV9LWF1dGhBcHBwdWJsaWMKICBoYW5kbGVyOiB2aWN0b3JvcHMuZGF0YXBpcGVsaW5lLmxhbWJkYXMuaGFuZGxlcnMuUzNFbnRyeTo6c3FzTGFtYmRhSGFuZGxlcgoKICAjIFdlIG5lZWQgYW4gZXhpc3Rpbmcgcm9sZSB3aXRoIGFwcHJvcHJpYXRlIHBlcm1pc3Npb25zIGZvciBMYW1iZGEgdG8gcnVuIGluCiAgIyBGbjo6Sm9pbiBub3QgeWV0IHN1cHBvcnRlZCBoZXJlOiBodHRwczovL2dpdGh1Yi5jb20vc2VydmVybGVzcy9zZXJ2ZXJsZXNzL2lzc3Vlcy80OTE2CiAgcm9sZTogJHtmaWxlKHNsc19jb25maWcvJHtzZWxmOnByb3ZpZGVyLnN0YWdlfS5qc29uKTphdXRoQXBwcHVibGljX3JvbGVfYXJufQoKICBldmVudHM6CiAgICAtIHNxczoKICAgICAgICBhcm46ICR7ZmlsZShzbHNfY29uZmlnLyR7c2VsZjpwcm92aWRlci5zdGFnZX0uanNvbik6YXV0aF9hcHBwdWJfc3FzX2Fybn0KICAgICAgICBiYXRjaFNpemU6IDEKCg==</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBlbmFibGVkOiAke3NlbGY6Y3VzdG9tLmRlcGxveS4ke3NlbGY6cHJvdmlkZXIuc3RhZ2V9LCBmYWxzZX0K</text>
+        <text encoding="base64">CndlYmhvb2s6CiAgbmFtZTogJHtzZWxmOnNlcnZpY2UubmFtZX0td2ViaG9vawogIGhhbmRsZXI6IHZpY3Rvcm9wcy5kYXRhcGlwZWxpbmUubGFtYmRhcy5oYW5kbGVycy5TM0VudHJ5OjpzcXNMYW1iZGFIYW5kbGVyCgogICMgV2UgbmVlZCBhbiBleGlzdGluZyByb2xlIHdpdGggYXBwcm9wcmlhdGUgcGVybWlzc2lvbnMgZm9yIExhbWJkYSB0byBydW4gaW4KICAjIEZuOjpKb2luIG5vdCB5ZXQgc3VwcG9ydGVkIGhlcmU6IGh0dHBzOi8vZ2l0aHViLmNvbS9zZXJ2ZXJsZXNzL3NlcnZlcmxlc3MvaXNzdWVzLzQ5MTYKICByb2xlOiAke2ZpbGUoc2xzX2NvbmZpZy8ke3NlbGY6cHJvdmlkZXIuc3RhZ2V9Lmpzb24pOndlYmhvb2tfcm9sZV9hcm59CgogIGV2ZW50czoKICAgIC0gc3FzOgogICAgICAgIGFybjogJHtmaWxlKHNsc19jb25maWcvJHtzZWxmOnByb3ZpZGVyLnN0YWdlfS5qc29uKTp3ZWJob29rX3Nxc19hcm59CiAgICAgICAgYmF0Y2hTaXplOiAxCg==</text>
       </register>
       <register name="x" type="4">
         <keys>
@@ -535,7 +534,7 @@
         </keys>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBlbmFibGVkOiB0cnVlCg==</text>
+        <text encoding="base64">YWxlcnQ6CiAgbmFtZTogJHtzZWxmOnNlcnZpY2UubmFtZX0tYWxlcnQKICBoYW5kbGVyOiB2aWN0b3JvcHMuZGF0YXBpcGVsaW5lLmxhbWJkYXMuaGFuZGxlcnMuUzNFbnRyeTo6c3FzTGFtYmRhSGFuZGxlcgoKICAjIFdlIG5lZWQgYW4gZXhpc3Rpbmcgcm9sZSB3aXRoIGFwcHJvcHJpYXRlIHBlcm1pc3Npb25zIGZvciBMYW1iZGEgdG8gcnVuIGluCiAgIyBGbjo6Sm9pbiBub3QgeWV0IHN1cHBvcnRlZCBoZXJlOiBodHRwczovL2dpdGh1Yi5jb20vc2VydmVybGVzcy9zZXJ2ZXJsZXNzL2lzc3Vlcy80OTE2CiAgcm9sZTogJHtmaWxlKHNsc19jb25maWcvJHtzZWxmOnByb3ZpZGVyLnN0YWdlfS5qc29uKTphbGVydF9yb2xlX2Fybn0KCiAgZXZlbnRzOgogICAgLSBzcXM6CiAgICAgICAgYXJuOiAke2ZpbGUoc2xzX2NvbmZpZy8ke3NlbGY6cHJvdmlkZXIuc3RhZ2V9Lmpzb24pOmFsZXJ0X3Nxc19hcm59CiAgICAgICAgYmF0Y2hTaXplOiAxCgphdXRoQ2hhdDoKICBuYW1lOiAke3NlbGY6c2VydmljZS5uYW1lfS1hdXRoQ2hhdAogIGhhbmRsZXI6IHZpY3Rvcm9wcy5kYXRhcGlwZWxpbmUubGFtYmRhcy5oYW5kbGVycy5TM0VudHJ5OjpzcXNMYW1iZGFIYW5kbGVyCgogICMgV2UgbmVlZCBhbiBleGlzdGluZyByb2xlIHdpdGggYXBwcm9wcmlhdGUgcGVybWlzc2lvbnMgZm9yIExhbWJkYSB0byBydW4gaW4KICAjIEZuOjpKb2luIG5vdCB5ZXQgc3VwcG9ydGVkIGhlcmU6IGh0dHBzOi8vZ2l0aHViLmNvbS9zZXJ2ZXJsZXNzL3NlcnZlcmxlc3MvaXNzdWVzLzQ5MTYKICByb2xlOiAke2ZpbGUoc2xzX2NvbmZpZy8ke3NlbGY6cHJvdmlkZXIuc3RhZ2V9Lmpzb24pOmF1dGhDaGF0X3JvbGVfYXJufQoKICBldmVudHM6CiAgICAtIHNxczoKICAgICAgICBhcm46ICR7ZmlsZShzbHNfY29uZmlnLyR7c2VsZjpwcm92aWRlci5zdGFnZX0uanNvbik6YXV0aF9jaGF0X3Nxc19hcm59CiAgICAgICAgYmF0Y2hTaXplOiAxCgphdXRoQXBwcHVibGljOgogIG5hbWU6ICR7c2VsZjpzZXJ2aWNlLm5hbWV9LWF1dGhBcHBwdWJsaWMKICBoYW5kbGVyOiB2aWN0b3JvcHMuZGF0YXBpcGVsaW5lLmxhbWJkYXMuaGFuZGxlcnMuUzNFbnRyeTo6c3FzTGFtYmRhSGFuZGxlcgoKICAjIFdlIG5lZWQgYW4gZXhpc3Rpbmcgcm9sZSB3aXRoIGFwcHJvcHJpYXRlIHBlcm1pc3Npb25zIGZvciBMYW1iZGEgdG8gcnVuIGluCiAgIyBGbjo6Sm9pbiBub3QgeWV0IHN1cHBvcnRlZCBoZXJlOiBodHRwczovL2dpdGh1Yi5jb20vc2VydmVybGVzcy9zZXJ2ZXJsZXNzL2lzc3Vlcy80OTE2CiAgcm9sZTogJHtmaWxlKHNsc19jb25maWcvJHtzZWxmOnByb3ZpZGVyLnN0YWdlfS5qc29uKTphdXRoQXBwcHVibGljX3JvbGVfYXJufQoKICBldmVudHM6CiAgICAtIHNxczoKICAgICAgICBhcm46ICR7ZmlsZShzbHNfY29uZmlnLyR7c2VsZjpwcm92aWRlci5zdGFnZX0uanNvbik6YXV0aF9hcHBwdWJfc3FzX2Fybn0KICAgICAgICBiYXRjaFNpemU6IDEKCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2RlcGxveVRvQ2xhc3NpYy9kZXBsb3k/Zw==</text>
