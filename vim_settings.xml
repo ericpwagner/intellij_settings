@@ -139,6 +139,9 @@
         <mark key="." line="72" column="54" />
         <mark key="^" line="68" column="12" />
       </file>
+      <file name="/Dummy.json" timestamp="1614979571056">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/GitLab/platform-reporting/reporting-persistence/src/main/resources/migrations/postgres/V20201222.00__FactUser.sql" timestamp="1608667629970">
         <mark key="'" line="20" column="4" />
         <mark key="[" line="0" column="27" />
@@ -146,16 +149,10 @@
         <mark key="." line="20" column="1" />
         <mark key="^" line="20" column="2" />
       </file>
-      <file name="/Dummy.txt" timestamp="1614978487473">
+      <file name="/Dummy.txt" timestamp="1614980581893">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/GitLab/platform-reporting/reporting-persistence/src/main/resources/migrations/mysql/pipelinedb/V20201222.00__FactUser.sql" timestamp="1608660665066">
-        <mark key="[" line="0" column="33" />
-        <mark key="]" line="14" column="53" />
-        <mark key="." line="14" column="52" />
-        <mark key="^" line="14" column="53" />
       </file>
       <file name="$USER_HOME$/GitLab/data-lambda-refine/sls_config/lambda_functions_per_env/lambda-resources-vo-classic.yml" timestamp="1614978348581">
         <mark key="'" line="0" column="0" />
@@ -180,12 +177,12 @@
         <mark key="^" line="32" column="6" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/GitLab/data-lambda-refine/sls_config/cyclops-playground.json" timestamp="1614899355991">
+      <file name="$USER_HOME$/GitLab/data-lambda-refine/sls_config/cyclops-playground.json" timestamp="1614980457245">
         <mark key="'" line="4" column="57" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="^" line="24" column="25" />
-        <mark key="." line="24" column="0" />
+        <mark key="[" line="8" column="109" />
+        <mark key="]" line="8" column="17" />
+        <mark key="^" line="8" column="17" />
+        <mark key="." line="8" column="16" />
       </file>
       <file name="$USER_HOME$/GitLab/data-lambda-refine/.serverless/serverless-state.json" timestamp="1614977641079" />
       <file name="$USER_HOME$/GitLab/data-lambda-refine/Makefile" timestamp="1614896918697">
