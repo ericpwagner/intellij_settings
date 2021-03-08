@@ -106,8 +106,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1614980581893">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1615236749225">
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
@@ -144,12 +143,12 @@
         <mark key="^" line="32" column="6" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/GitLab/data-lambda-refine/sls_config/cyclops-playground.json" timestamp="1615236479329">
+      <file name="$USER_HOME$/GitLab/data-lambda-refine/sls_config/cyclops-playground.json" timestamp="1615236616338">
         <mark key="'" line="4" column="57" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="74" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
         <mark key="^" line="7" column="26" />
-        <mark key="." line="7" column="25" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/GitLab/platform-reporting/reporting-persistence/src/main/resources/migrations/postgres/V20200406.00__Baseline.sql" timestamp="1608754566251">
         <mark key="[" line="206" column="20" />
@@ -315,7 +314,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJsb2dnaW5nX3JvbGUiOiAicm9sZS9kYXRhLWxhbWJkYS1jbG91ZHdhdGNoLWxvZyIsCg==</text>
+        <text encoding="base64">ICAgICJsb2dzX3N0cmVhbSI6ICJ4IiwK</text>
       </register>
       <register name="-" type="4">
         <text>functions</text>
@@ -425,24 +424,27 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB3aGVuOiBtYW51YWwK</text>
+        <text encoding="base64">ICAgICJsb2dzX3N0cmVhbSI6ICJ4IiwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">UmVzb3VyY2VzOgo=</text>
+        <text encoding="base64">ICB3aGVuOiBtYW51YWwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">UmVzb3VyY2VzOgo=</text>
       </register>
       <register name="4" type="2">
-        <text>Resources:</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text>Resources:</text>
+      </register>
       <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgIEFsZXJ0TGFtYmRhRnVuY3Rpb246CiAgICAgIFR5cGU6ICJBV1M6OkxhbWJkYTo6RnVuY3Rpb24iCiAgICAgIFByb3BlcnRpZXM6CiAgICAgICAgRGVhZExldHRlckNvbmZpZzoKICAgICAgICAgIFRhcmdldEFybjoKICAgICAgICAgICAgRm46OkpvaW46CiAgICAgICAgICAgICAgLSAnOicKICAgICAgICAgICAgICAtIC0gJ2Fybjphd3M6c3FzJwogICAgICAgICAgICAgICAgLSBSZWY6ICdBV1M6OlJlZ2lvbicKICAgICAgICAgICAgICAgIC0gUmVmOiAnQVdTOjpBY2NvdW50SWQnCiAgICAgICAgICAgICAgICAtICAnZGF0YS1yYXctYWxlcnRfdjEtZGxxJw==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>alert:
     enabled: ${self:custom.deploy.${self:provider.stage}, false}
     name: ${self:service.name}-alert
@@ -513,9 +515,6 @@
           arn: ${file(sls_config/${self:provider.stage}.json):webhook_sqs_arn}
           batchSize: 1</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="x" type="4">
         <keys>
           <key char="118" code="0" mods="0" />
@@ -535,7 +534,7 @@
         </keys>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">d2ViaG9vazoKICBuYW1lOiAke3NlbGY6c2VydmljZS5uYW1lfS13ZWJob29rCiAgaGFuZGxlcjogdmljdG9yb3BzLmRhdGFwaXBlbGluZS5sYW1iZGFzLmhhbmRsZXJzLlMzRW50cnk6OnNxc0xhbWJkYUhhbmRsZXIKCiAgIyBXZSBuZWVkIGFuIGV4aXN0aW5nIHJvbGUgd2l0aCBhcHByb3ByaWF0ZSBwZXJtaXNzaW9ucyBmb3IgTGFtYmRhIHRvIHJ1biBpbgogICMgRm46OkpvaW4gbm90IHlldCBzdXBwb3J0ZWQgaGVyZTogaHR0cHM6Ly9naXRodWIuY29tL3NlcnZlcmxlc3Mvc2VydmVybGVzcy9pc3N1ZXMvNDkxNgogIHJvbGU6ICR7ZmlsZShzbHNfY29uZmlnLyR7c2VsZjpwcm92aWRlci5zdGFnZX0uanNvbik6d2ViaG9va19yb2xlX2Fybn0KCiAgZXZlbnRzOgogICAgLSBzcXM6CiAgICAgICAgYXJuOiAke2ZpbGUoc2xzX2NvbmZpZy8ke3NlbGY6cHJvdmlkZXIuc3RhZ2V9Lmpzb24pOndlYmhvb2tfc3FzX2Fybn0KICAgICAgICBiYXRjaFNpemU6IDEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
