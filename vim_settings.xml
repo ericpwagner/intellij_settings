@@ -126,22 +126,17 @@
         <mark key="]" line="17" column="54" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/GitLab/data-lambda-refine/.serverless/cloudformation-template-update-stack.json" timestamp="1615233809068">
-        <mark key="[" line="28" column="5" />
-        <mark key="]" line="33" column="6" />
-        <mark key="." line="28" column="0" />
+      <file name="$USER_HOME$/GitLab/data-lambda-refine/.serverless/cloudformation-template-update-stack.json" timestamp="1615242320112">
+        <mark key="[" line="25" column="63" />
+        <mark key="]" line="26" column="11" />
+        <mark key="^" line="26" column="11" />
+        <mark key="." line="26" column="10" />
       </file>
       <file name="$USER_HOME$/GitLab/platform-reporting/reporting-persistence/src/main/resources/migrations/postgres/V20201223.00__FactUser.sql" timestamp="1608754571892">
         <mark key="'" line="23" column="0" />
         <mark key="[" line="15" column="46" />
         <mark key="]" line="4" column="24" />
         <mark key="." line="4" column="24" />
-      </file>
-      <file name="$USER_HOME$/GitLab/platform-reporting/reporting-persistence/src/test/scala/victorops/reporting/persistence/TestDatabases.scala" timestamp="1608679747586">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="^" line="32" column="6" />
-        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/GitLab/data-lambda-refine/sls_config/cyclops-playground.json" timestamp="1615236616338">
         <mark key="'" line="4" column="57" />
@@ -150,6 +145,7 @@
         <mark key="^" line="7" column="26" />
         <mark key="." line="16" column="0" />
       </file>
+      <file name="$USER_HOME$/GitLab/data-lambda-refine/.serverless/serverless-state.json" timestamp="1615240682270" />
       <file name="$USER_HOME$/GitLab/platform-reporting/reporting-persistence/src/main/resources/migrations/postgres/V20200406.00__Baseline.sql" timestamp="1608754566251">
         <mark key="[" line="206" column="20" />
         <mark key="]" line="206" column="41" />
@@ -313,11 +309,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJsb2dzX3N0cmVhbSI6ICJ4IiwK</text>
+      <register name="&quot;" type="4">
+        <text>&quot;/aws/lambda/victorops-data-analytics-g</text>
       </register>
       <register name="-" type="4">
-        <text>functions</text>
+        <text>&quot;/aws/lambda/victorops-data-analytics-g</text>
       </register>
       <register name="/" type="4">
         <text>deployToClassic</text>
@@ -424,96 +420,28 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJsb2dzX3N0cmVhbSI6ICJ4IiwK</text>
+        <text encoding="base64">ICAgIH0sCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB3aGVuOiBtYW51YWwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">UmVzb3VyY2VzOgo=</text>
+        <text encoding="base64">ICAgICJDeWNsb3BzSW5jaWRlbnRMb2dHcm91cCI6IHsKICAgICAgIlR5cGUiOiAiQVdTOjpMb2dzOjpMb2dHcm91cCIsCiAgICAgICJQcm9wZXJ0aWVzIjogewogICAgICAgICJMb2dHcm91cE5hbWUiOiAiL2F3cy9sYW1iZGEvdmljdG9yb3BzLWRhdGEtYW5hbHl0aWNzLWluY2lkZW50LXJlZmluZXItbG9nLWdyb3VwIgogICAgICB9</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJsb2dzX3N0cmVhbSI6ICJ4IiwK</text>
       </register>
       <register name="5" type="2">
-        <text>Resources:</text>
+        <text encoding="base64">ICB3aGVuOiBtYW51YWwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">UmVzb3VyY2VzOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEFsZXJ0TGFtYmRhRnVuY3Rpb246CiAgICAgIFR5cGU6ICJBV1M6OkxhbWJkYTo6RnVuY3Rpb24iCiAgICAgIFByb3BlcnRpZXM6CiAgICAgICAgRGVhZExldHRlckNvbmZpZzoKICAgICAgICAgIFRhcmdldEFybjoKICAgICAgICAgICAgRm46OkpvaW46CiAgICAgICAgICAgICAgLSAnOicKICAgICAgICAgICAgICAtIC0gJ2Fybjphd3M6c3FzJwogICAgICAgICAgICAgICAgLSBSZWY6ICdBV1M6OlJlZ2lvbicKICAgICAgICAgICAgICAgIC0gUmVmOiAnQVdTOjpBY2NvdW50SWQnCiAgICAgICAgICAgICAgICAtICAnZGF0YS1yYXctYWxlcnRfdjEtZGxxJw==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>alert:
-    enabled: ${self:custom.deploy.${self:provider.stage}, false}
-    name: ${self:service.name}-alert
-    handler: victorops.datapipeline.lambdas.handlers.S3Entry::sqsLambdaHandler
-
-    # We need an existing role with appropriate permissions for Lambda to run in
-    # Fn::Join not yet supported here: https://github.com/serverless/serverless/issues/4916
-    role: ${file(sls_config/${self:provider.stage}.json):alert_role_arn}
-
-    events:
-      - sqs:
-          arn: ${file(sls_config/${self:provider.stage}.json):alert_sqs_arn}
-          batchSize: 1
-
-  authChat:
-    enabled: ${self:custom.deploy.${self:provider.stage}, false}
-    name: ${self:service.name}-authChat
-    handler: victorops.datapipeline.lambdas.handlers.S3Entry::sqsLambdaHandler
-
-    # We need an existing role with appropriate permissions for Lambda to run in
-    # Fn::Join not yet supported here: https://github.com/serverless/serverless/issues/4916
-    role: ${file(sls_config/${self:provider.stage}.json):authChat_role_arn}
-
-    events:
-      - sqs:
-          arn: ${file(sls_config/${self:provider.stage}.json):auth_chat_sqs_arn}
-          batchSize: 1
-
-  authApppublic:
-    enabled: ${self:custom.deploy.${self:provider.stage}, false}
-    name: ${self:service.name}-authApppublic
-    handler: victorops.datapipeline.lambdas.handlers.S3Entry::sqsLambdaHandler
-
-    # We need an existing role with appropriate permissions for Lambda to run in
-    # Fn::Join not yet supported here: https://github.com/serverless/serverless/issues/4916
-    role: ${file(sls_config/${self:provider.stage}.json):authApppublic_role_arn}
-
-    events:
-      - sqs:
-          arn: ${file(sls_config/${self:provider.stage}.json):auth_apppub_sqs_arn}
-          batchSize: 1
-
-  incident:
-    enabled: true
-    name: ${self:service.name}-incident
-    handler: victorops.datapipeline.lambdas.handlers.S3Entry::sqsLambdaHandler
-
-    # We need an existing role with appropriate permissions for Lambda to run in
-    # Fn::Join not yet supported here: https://github.com/serverless/serverless/issues/4916
-    role: ${file(sls_config/${self:provider.stage}.json):incident_role_arn}
-
-    events:
-      - sqs:
-          arn: ${file(sls_config/${self:provider.stage}.json):incident_sqs_arn}
-          batchSize: 1
-
-  webhook:
-    enabled: ${self:custom.deploy.${self:provider.stage}, false}
-    name: ${self:service.name}-webhook
-    handler: victorops.datapipeline.lambdas.handlers.S3Entry::sqsLambdaHandler
-
-    # We need an existing role with appropriate permissions for Lambda to run in
-    # Fn::Join not yet supported here: https://github.com/serverless/serverless/issues/4916
-    role: ${file(sls_config/${self:provider.stage}.json):webhook_role_arn}
-
-    events:
-      - sqs:
-          arn: ${file(sls_config/${self:provider.stage}.json):webhook_sqs_arn}
-          batchSize: 1</text>
+      <register name="8" type="2">
+        <text>Resources:</text>
       </register>
       <register name="x" type="4">
         <keys>
