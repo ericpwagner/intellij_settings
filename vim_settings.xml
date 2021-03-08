@@ -111,8 +111,8 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/GitLab/data-lambda-refine/sls_config/lambda_functions_per_env/lambda-functions-vo-cyclops.yml" timestamp="1614974402444">
-        <mark key="[" line="12" column="0" />
+      <file name="$USER_HOME$/GitLab/data-lambda-refine/sls_config/lambda_functions_per_env/lambda-functions-vo-cyclops.yml" timestamp="1615233852866">
+        <mark key="[" line="1" column="9" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
@@ -134,8 +134,10 @@
         <mark key="]" line="16" column="60" />
         <mark key="." line="31" column="172" />
       </file>
-      <file name="$USER_HOME$/GitLab/data-lambda-refine/.serverless/cloudformation-template-update-stack.json" timestamp="1615232747953">
-        <mark key="[" line="25" column="57" />
+      <file name="$USER_HOME$/GitLab/data-lambda-refine/.serverless/cloudformation-template-update-stack.json" timestamp="1615233809068">
+        <mark key="[" line="28" column="5" />
+        <mark key="]" line="33" column="6" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/GitLab/platform-reporting/reporting-persistence/src/main/resources/migrations/postgres/V20201223.00__FactUser.sql" timestamp="1608754571892">
         <mark key="'" line="23" column="0" />
@@ -313,7 +315,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICB3aGVuOiBtYW51YWwK</text>
+        <text encoding="base64">ICAgICJJbmNpZGVudExvZ0dyb3VwIjogewogICAgICAiVHlwZSI6ICJBV1M6OkxvZ3M6OkxvZ0dyb3VwIiwKICAgICAgIlByb3BlcnRpZXMiOiB7CiAgICAgICAgIkxvZ0dyb3VwTmFtZSI6ICIvYXdzL2xhbWJkYS9kYXRhLXJlZmluZS1pbmNpZGVudCIKICAgICAgfQogICAgfSwK</text>
       </register>
       <register name="-" type="4">
         <text>functions</text>
@@ -322,7 +324,7 @@
         <text>deployToClassic</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAtICR7ZmlsZShzbHNfY29uZmlnL2xhbWJkYV9mdW5jdGlvbnNfcGVyX2Vudi9sYW1iZGEtZnVuY3Rpb25zLSR7c2VsZjpjdXN0b20ubGFtYmRhcy1wZXItZW52LiR7c2VsZjpwcm92aWRlci5zdGFnZX19LnltbCl9Cg==</text>
+        <text encoding="base64">ICAgICJJbmNpZGVudExvZ0dyb3VwIjogewogICAgICAiVHlwZSI6ICJBV1M6OkxvZ3M6OkxvZ0dyb3VwIiwKICAgICAgIlByb3BlcnRpZXMiOiB7CiAgICAgICAgIkxvZ0dyb3VwTmFtZSI6ICIvYXdzL2xhbWJkYS9kYXRhLXJlZmluZS1pbmNpZGVudCIKICAgICAgfQogICAgfSwK</text>
       </register>
       <register name="p" type="4">
         <keys>
