@@ -184,6 +184,9 @@
         <mark key="." line="121" column="0" />
         <mark key="^" line="124" column="10" />
       </file>
+      <file name="/sbtShell" timestamp="1615219120777">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/GitLab/data-lambda-refine/serverless.yml" timestamp="1614978266331">
         <mark key="'" line="72" column="0" />
         <mark key="[" line="73" column="3" />
@@ -194,7 +197,6 @@
       <file name="/Dummy.json" timestamp="1614979571056">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GitHub/platform-reporting/.gitlab-ci.yml" timestamp="1615218331933" />
       <file name="$USER_HOME$/GitLab/data-lambda-refine/sls_config/lambda_functions_per_env/lambda-resources-vo-cyclops.yml" timestamp="1614978325790">
         <mark key="'" line="0" column="2" />
         <mark key="[" line="10" column="0" />
