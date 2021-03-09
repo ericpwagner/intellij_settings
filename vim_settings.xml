@@ -126,7 +126,7 @@
         <mark key="]" line="17" column="54" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/GitLab/data-lambda-refine/.serverless/cloudformation-template-update-stack.json" timestamp="1615305455620">
+      <file name="$USER_HOME$/GitLab/data-lambda-refine/.serverless/cloudformation-template-update-stack.json" timestamp="1615307485422">
         <mark key="[" line="25" column="63" />
         <mark key="]" line="26" column="11" />
         <mark key="^" line="26" column="11" />
