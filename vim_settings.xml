@@ -106,7 +106,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1615316831888">
+      <file name="/Dummy.txt" timestamp="1615326860588">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
@@ -116,11 +116,12 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/GitLab/data-lambda-refine/sls_config/lambda_functions_per_env/lambda-resources-vo-classic.yml" timestamp="1614978348581">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="12" />
-        <mark key="." line="54" column="12" />
+      <file name="$USER_HOME$/GitLab/data-lambda-refine/sls_config/lambda_functions_per_env/lambda-resources-vo-classic.yml" timestamp="1615326827876">
+        <mark key="'" line="1" column="8" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="10" />
+        <mark key="." line="55" column="14" />
+        <mark key="^" line="1" column="9" />
       </file>
       <file name="$USER_HOME$/GitLab/data-lambda-refine/sls_config/playground.json" timestamp="1615315583369">
         <mark key="[" line="4" column="0" />
@@ -183,26 +184,24 @@
       <file name="/sbtShell" timestamp="1615219120777">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GitLab/data-lambda-refine/serverless.yml" timestamp="1615316543923">
+      <file name="$USER_HOME$/GitLab/data-lambda-refine/serverless.yml" timestamp="1615326793139">
         <mark key="'" line="71" column="0" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="0" />
         <mark key="^" line="6" column="12" />
-        <mark key="." line="6" column="0" />
+        <mark key="." line="72" column="0" />
       </file>
       <file name="/Dummy.json" timestamp="1614979571056">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GitLab/data-lambda-refine/sls_config/lambda_functions_per_env/lambda-resources-vo-cyclops.yml" timestamp="1614978325790">
-        <mark key="'" line="0" column="2" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="12" />
-        <mark key="." line="10" column="12" />
+      <file name="$USER_HOME$/GitLab/data-lambda-refine/sls_config/lambda_functions_per_env/lambda-resources-vo-cyclops.yml" timestamp="1615326838502">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="14" />
+        <mark key="." line="11" column="14" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="/Dummy.json" />
-      <jump line="63" column="0" filename="$USER_HOME$/GitLab/pts_hec_aggregator/src/process_event.py" />
       <jump line="121" column="15" filename="$USER_HOME$/GitLab/pts_hec_aggregator/src/process_event.py" />
       <jump line="122" column="65" filename="$USER_HOME$/GitLab/pts_hec_aggregator/src/process_event.py" />
       <jump line="116" column="75" filename="$USER_HOME$/GitLab/pts_hec_aggregator/src/process_event.py" />
@@ -298,15 +297,17 @@
       <jump line="45" column="7" filename="$USER_HOME$/GitLab/data-lambda-refine/serverless.yml" />
       <jump line="195" column="0" filename="$USER_HOME$/GitLab/data-lambda-refine/serverless.yml" />
       <jump line="0" column="0" filename="$USER_HOME$/GitLab/data-lambda-refine/sls_config/lambda_functions_per_env/lambda-functions-vo-play.yml" />
-      <jump line="10" column="16" filename="$USER_HOME$/GitLab/data-lambda-refine/sls_config/lambda_functions_per_env/lambda-resources-vo-cyclops.yml" />
       <jump line="0" column="2" filename="$USER_HOME$/GitLab/data-lambda-refine/sls_config/lambda_functions_per_env/lambda-resources-vo-cyclops.yml" />
       <jump line="0" column="0" filename="$USER_HOME$/GitLab/data-lambda-refine/sls_config/lambda_functions_per_env/lambda-resources-vo-classic.yml" />
+      <jump line="1" column="8" filename="$USER_HOME$/GitLab/data-lambda-refine/sls_config/lambda_functions_per_env/lambda-resources-vo-classic.yml" />
+      <jump line="10" column="60" filename="$USER_HOME$/GitLab/data-lambda-refine/sls_config/lambda_functions_per_env/lambda-resources-vo-cyclops.yml" />
+      <jump line="1" column="0" filename="$USER_HOME$/GitLab/data-lambda-refine/sls_config/lambda_functions_per_env/lambda-resources-vo-cyclops.yml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">UmVzb3VyY2VzOgo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">PDw8PDw8PA==</text>
@@ -315,7 +316,7 @@
         <text>deployToClassic</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICJsYW1iZGFfc2VydmljZV9uYW1lIjogImRhdGEtcmVmaW5lIiwK</text>
+        <text encoding="base64">UmVzb3VyY2VzOgo=</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -416,28 +417,28 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICBSZXNvdXJjZXM6Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBiYWMwNDY2Li4uIENyZWF0ZSBzbHMgY29uZmlnIGZvciBjeWNsb3BzIHBsYXlncm91bmQK</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Pj4+Pj4+PiBiYWMwNDY2Li4uIENyZWF0ZSBzbHMgY29uZmlnIGZvciBjeWNsb3BzIHBsYXlncm91bmQK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICJsb2dzX3N0cmVhbSI6ICJ4IiwK</text>
-      </register>
-      <register name="6" type="2">
+      <register name="4" type="2">
         <text encoding="base64">PT09PT09PQo=</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Pj4+Pj4+PiBiYWMwNDY2Li4uIENyZWF0ZSBzbHMgY29uZmlnIGZvciBjeWNsb3BzIHBsYXlncm91bmQK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICJsb2dzX3N0cmVhbSI6ICJ4IiwK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">IEhFQUQK</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">IEhFQUQK</text>
       </register>
       <register name="x" type="4">
         <keys>
@@ -458,7 +459,7 @@
         </keys>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PT09PT09PQogIG5hbWU6IHZpY3Rvcm9wcy1kYXRhLWFuYWx5dGljcy1yZWZpbmVyCj4+Pj4+Pj4gZDY3MjViOC4uLiBBZGQgc2VwYXJhdGUgeWFtbCBmaWxlcyBmb3Igdm8tY2xhc3NpYyBhbmQgdm8tY3ljbG9wcwo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
