@@ -106,15 +106,15 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1615309930083">
+      <file name="/Dummy.txt" timestamp="1615316831888">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/GitLab/data-lambda-refine/sls_config/lambda_functions_per_env/lambda-functions-vo-cyclops.yml" timestamp="1615233852866">
         <mark key="[" line="1" column="9" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/GitLab/data-lambda-refine/sls_config/lambda_functions_per_env/lambda-resources-vo-classic.yml" timestamp="1614978348581">
         <mark key="'" line="0" column="0" />
@@ -122,10 +122,11 @@
         <mark key="]" line="54" column="12" />
         <mark key="." line="54" column="12" />
       </file>
-      <file name="$USER_HOME$/GitLab/data-lambda-refine/sls_config/playground.json" timestamp="1615236500991">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="54" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/GitLab/data-lambda-refine/sls_config/playground.json" timestamp="1615315583369">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="41" />
+        <mark key="." line="4" column="38" />
+        <mark key="^" line="4" column="39" />
       </file>
       <file name="$USER_HOME$/GitLab/data-lambda-refine/.serverless/cloudformation-template-update-stack.json" timestamp="1615308603703">
         <mark key="[" line="25" column="63" />
@@ -139,18 +140,17 @@
         <mark key="]" line="4" column="24" />
         <mark key="." line="4" column="24" />
       </file>
-      <file name="$USER_HOME$/GitLab/data-lambda-refine/sls_config/cyclops-playground.json" timestamp="1615236616338">
+      <file name="$USER_HOME$/GitLab/data-lambda-refine/sls_config/cyclops-playground.json" timestamp="1615316750434">
         <mark key="'" line="4" column="57" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="^" line="7" column="26" />
-        <mark key="." line="16" column="0" />
+        <mark key="[" line="7" column="79" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="4" column="28" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="/lambda-functions-vo-cyclops.yml" timestamp="1615316188216">
+        <mark key="[" line="1" column="33" />
       </file>
       <file name="$USER_HOME$/GitLab/data-lambda-refine/.serverless/serverless-state.json" timestamp="1615240682270" />
-      <file name="$USER_HOME$/GitLab/platform-reporting/reporting-persistence/src/main/resources/migrations/postgres/V20200406.00__Baseline.sql" timestamp="1608754566251">
-        <mark key="[" line="206" column="20" />
-        <mark key="]" line="206" column="41" />
-      </file>
       <file name="$USER_HOME$/GitLab/data-lambda-refine/Makefile" timestamp="1615309359078">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
@@ -163,10 +163,10 @@
         <mark key="." line="2" column="22" />
         <mark key="^" line="20" column="34" />
       </file>
-      <file name="$USER_HOME$/GitLab/data-lambda-refine/sls_config/stg.json" timestamp="1615236511662">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="54" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/GitLab/data-lambda-refine/sls_config/stg.json" timestamp="1615315609755">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="41" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/GitLab/data-lambda-refine/sls_config/lambda_functions_per_env/lambda-functions-vo-play.yml" timestamp="1614974240551">
         <mark key="'" line="0" column="0" />
@@ -174,26 +174,21 @@
         <mark key="]" line="53" column="0" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="$USER_HOME$/GitLab/data-lambda-refine/.gitlab-ci.yml" timestamp="1615309921409">
-        <mark key="[" line="120" column="62" />
-        <mark key="]" line="121" column="10" />
-        <mark key="." line="121" column="9" />
-        <mark key="^" line="121" column="10" />
-      </file>
-      <file name="$USER_HOME$/GitLab/data-lambda-refine/sls_config/prod.json" timestamp="1615236517431">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="54" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/GitLab/data-lambda-refine/.gitlab-ci.yml" timestamp="1615316926946" />
+      <file name="$USER_HOME$/GitLab/data-lambda-refine/sls_config/prod.json" timestamp="1615315598921">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="41" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="/sbtShell" timestamp="1615219120777">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GitLab/data-lambda-refine/serverless.yml" timestamp="1615309608643">
-        <mark key="'" line="72" column="0" />
-        <mark key="[" line="65" column="33" />
-        <mark key="]" line="72" column="54" />
-        <mark key="." line="72" column="54" />
-        <mark key="^" line="68" column="12" />
+      <file name="$USER_HOME$/GitLab/data-lambda-refine/serverless.yml" timestamp="1615316543923">
+        <mark key="'" line="71" column="0" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="6" column="12" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="/Dummy.json" timestamp="1614979571056">
         <mark key="[" line="0" column="0" />
@@ -311,16 +306,16 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGV4cG9ydCAK</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="-" type="4">
-        <text>SLS_DEBUG=*</text>
+        <text encoding="base64">PDw8PDw8PA==</text>
       </register>
       <register name="/" type="4">
         <text>deployToClassic</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICJsb2dnaW5nX3JvbGUiOiAicm9sZS9kYXRhLWxhbWJkYS1jbG91ZHdhdGNoLWxvZyIsCg==</text>
+        <text encoding="base64">ICAgICJsYW1iZGFfc2VydmljZV9uYW1lIjogImRhdGEtcmVmaW5lIiwK</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -421,28 +416,28 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGV4cG9ydCAK</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0sCg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBiYWMwNDY2Li4uIENyZWF0ZSBzbHMgY29uZmlnIGZvciBjeWNsb3BzIHBsYXlncm91bmQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJDeWNsb3BzSW5jaWRlbnRMb2dHcm91cCI6IHsKICAgICAgIlR5cGUiOiAiQVdTOjpMb2dzOjpMb2dHcm91cCIsCiAgICAgICJQcm9wZXJ0aWVzIjogewogICAgICAgICJMb2dHcm91cE5hbWUiOiAiL2F3cy9sYW1iZGEvdmljdG9yb3BzLWRhdGEtYW5hbHl0aWNzLWluY2lkZW50LXJlZmluZXItbG9nLWdyb3VwIgogICAgICB9</text>
+        <text encoding="base64">Pj4+Pj4+PiBiYWMwNDY2Li4uIENyZWF0ZSBzbHMgY29uZmlnIGZvciBjeWNsb3BzIHBsYXlncm91bmQK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICJsb2dzX3N0cmVhbSI6ICJ4IiwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB3aGVuOiBtYW51YWwK</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">UmVzb3VyY2VzOgo=</text>
+        <text encoding="base64">IEhFQUQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="x" type="4">
         <keys>
@@ -463,7 +458,7 @@
         </keys>
       </register>
       <register name="9" type="2">
-        <text>Resources:</text>
+        <text encoding="base64">PT09PT09PQogIG5hbWU6IHZpY3Rvcm9wcy1kYXRhLWFuYWx5dGljcy1yZWZpbmVyCj4+Pj4+Pj4gZDY3MjViOC4uLiBBZGQgc2VwYXJhdGUgeWFtbCBmaWxlcyBmb3Igdm8tY2xhc3NpYyBhbmQgdm8tY3ljbG9wcwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
