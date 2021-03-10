@@ -106,7 +106,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1615334507026">
+      <file name="/Dummy.txt" timestamp="1615404091509">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
@@ -152,8 +152,8 @@
         <mark key="[" line="1" column="33" />
       </file>
       <file name="$USER_HOME$/GitLab/data-lambda-refine/.serverless/serverless-state.json" timestamp="1615240682270" />
-      <file name="$USER_HOME$/GitLab/data-lambda-refine/Makefile" timestamp="1615309359078">
-        <mark key="[" line="33" column="0" />
+      <file name="$USER_HOME$/GitLab/data-lambda-refine/Makefile" timestamp="1615404085042">
+        <mark key="[" line="33" column="15" />
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
         <mark key="^" line="33" column="16" />
