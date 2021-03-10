@@ -106,7 +106,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1615328010377">
+      <file name="/Dummy.txt" timestamp="1615334065741">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
@@ -141,12 +141,12 @@
         <mark key="]" line="4" column="24" />
         <mark key="." line="4" column="24" />
       </file>
-      <file name="$USER_HOME$/GitLab/data-lambda-refine/sls_config/cyclops-playground.json" timestamp="1615328002354">
+      <file name="$USER_HOME$/GitLab/data-lambda-refine/sls_config/cyclops-playground.json" timestamp="1615334484835">
         <mark key="'" line="4" column="57" />
-        <mark key="[" line="7" column="79" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="4" column="28" />
-        <mark key="." line="7" column="0" />
+        <mark key="[" line="2" column="57" />
+        <mark key="]" line="2" column="66" />
+        <mark key="^" line="2" column="66" />
+        <mark key="." line="2" column="65" />
       </file>
       <file name="/lambda-functions-vo-cyclops.yml" timestamp="1615316188216">
         <mark key="[" line="1" column="33" />
