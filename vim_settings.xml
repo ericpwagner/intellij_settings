@@ -141,18 +141,18 @@
         <mark key="]" line="4" column="24" />
         <mark key="." line="4" column="24" />
       </file>
-      <file name="$USER_HOME$/GitLab/data-lambda-refine/sls_config/cyclops-playground.json" timestamp="1615334501844">
+      <file name="$USER_HOME$/GitLab/data-lambda-refine/sls_config/cyclops-playground.json" timestamp="1615568592515">
         <mark key="'" line="4" column="57" />
-        <mark key="[" line="2" column="57" />
-        <mark key="]" line="2" column="57" />
+        <mark key="[" line="7" column="20" />
+        <mark key="]" line="7" column="20" />
         <mark key="^" line="2" column="57" />
-        <mark key="." line="2" column="57" />
+        <mark key="." line="7" column="20" />
       </file>
       <file name="/lambda-functions-vo-cyclops.yml" timestamp="1615316188216">
         <mark key="[" line="1" column="33" />
       </file>
       <file name="$USER_HOME$/GitLab/data-lambda-refine/.serverless/serverless-state.json" timestamp="1615240682270" />
-      <file name="$USER_HOME$/GitLab/data-lambda-refine/Makefile" timestamp="1615566486851">
+      <file name="$USER_HOME$/GitLab/data-lambda-refine/Makefile" timestamp="1615566571815">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
@@ -306,11 +306,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGV4cG9ydCBTTFNfREVCVUc9Kgo=</text>
+      <register name="&quot;" type="4">
+        <text>stream/victorops-data-analytics-incident-refiner-log-stream</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>stream/victorops-data-analytics-incident-refiner-log-stream</text>
       </register>
       <register name="/" type="4">
         <text>deployToClassic</text>
@@ -417,28 +417,28 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGV4cG9ydCBTTFNfREVCVUc9Kgo=</text>
+        <text encoding="base64">Pj4+Pj4+PiA1OWY5YTk0Li4uIEFkZCBNYWtlZmlsZSBjb21tYW5kIGZvciBkZXBsb3lpbmcgdG8gQ3ljbG9wcyBwbGF5Z3JvdW5kCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBSZXNvdXJjZXM6Cg==</text>
+        <text encoding="base64">ICAgIGV4cG9ydCBTTFNfREVCVUc9Kgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBiYWMwNDY2Li4uIENyZWF0ZSBzbHMgY29uZmlnIGZvciBjeWNsb3BzIHBsYXlncm91bmQK</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBlNzc2MTA5Li4uIGZpeHVwIHRvIG1haW4gY29tbWl0Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBiYWMwNDY2Li4uIENyZWF0ZSBzbHMgY29uZmlnIGZvciBjeWNsb3BzIHBsYXlncm91bmQK</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJsb2dzX3N0cmVhbSI6ICJ4IiwK</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAgIGV4cG9ydCBTTFNfREVCVUc9Kgo=</text>
       </register>
       <register name="x" type="4">
         <keys>
@@ -459,7 +459,7 @@
         </keys>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IEhFQUQK</text>
+        <text encoding="base64">ICBSZXNvdXJjZXM6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
