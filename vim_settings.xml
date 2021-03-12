@@ -138,7 +138,7 @@
       <file name="/Dummy.json" timestamp="1614979571056">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1615585445819">
+      <file name="/Dummy.txt" timestamp="1615586856205">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/GitLab/data-lambda-refine/sls_config/lambda_functions_per_env/lambda-resources-vo-classic.yml" timestamp="1615326827876">
@@ -168,8 +168,8 @@
         <mark key="." line="7" column="20" />
       </file>
       <file name="$USER_HOME$/GitLab/data-lambda-refine/.serverless/serverless-state.json" timestamp="1615240682270" />
-      <file name="$USER_HOME$/GitLab/data-lambda-refine/Makefile" timestamp="1615566571815">
-        <mark key="[" line="33" column="0" />
+      <file name="$USER_HOME$/GitLab/data-lambda-refine/Makefile" timestamp="1615586847520">
+        <mark key="[" line="7" column="4" />
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
         <mark key="^" line="33" column="4" />
