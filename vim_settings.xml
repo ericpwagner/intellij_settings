@@ -106,7 +106,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1615565067103">
+      <file name="/Dummy.txt" timestamp="1615566490276">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
@@ -152,11 +152,11 @@
         <mark key="[" line="1" column="33" />
       </file>
       <file name="$USER_HOME$/GitLab/data-lambda-refine/.serverless/serverless-state.json" timestamp="1615240682270" />
-      <file name="$USER_HOME$/GitLab/data-lambda-refine/Makefile" timestamp="1615404085042">
-        <mark key="[" line="33" column="15" />
+      <file name="$USER_HOME$/GitLab/data-lambda-refine/Makefile" timestamp="1615566486851">
+        <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
-        <mark key="^" line="33" column="16" />
+        <mark key="^" line="33" column="4" />
       </file>
       <file name="$USER_HOME$/GitLab/data-lambda-refine/sls_config/cyclops_playground.json" timestamp="1614897223418">
         <mark key="[" line="2" column="57" />
@@ -306,8 +306,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>t</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGV4cG9ydCBTTFNfREVCVUc9Kgo=</text>
       </register>
       <register name="-" type="4">
         <text>t</text>
@@ -417,28 +417,28 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBSZXNvdXJjZXM6Cg==</text>
+        <text encoding="base64">ICAgIGV4cG9ydCBTTFNfREVCVUc9Kgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICBSZXNvdXJjZXM6Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBiYWMwNDY2Li4uIENyZWF0ZSBzbHMgY29uZmlnIGZvciBjeWNsb3BzIHBsYXlncm91bmQK</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Pj4+Pj4+PiBiYWMwNDY2Li4uIENyZWF0ZSBzbHMgY29uZmlnIGZvciBjeWNsb3BzIHBsYXlncm91bmQK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICJsb2dzX3N0cmVhbSI6ICJ4IiwK</text>
-      </register>
-      <register name="7" type="2">
+      <register name="5" type="2">
         <text encoding="base64">PT09PT09PQo=</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">Pj4+Pj4+PiBiYWMwNDY2Li4uIENyZWF0ZSBzbHMgY29uZmlnIGZvciBjeWNsb3BzIHBsYXlncm91bmQK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICJsb2dzX3N0cmVhbSI6ICJ4IiwK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">IEhFQUQK</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="x" type="4">
         <keys>
@@ -459,7 +459,7 @@
         </keys>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">IEhFQUQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
