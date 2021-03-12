@@ -106,13 +106,40 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1615583015932">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/GitLab/data-lambda-refine/sls_config/lambda_functions_per_env/lambda-functions-vo-cyclops.yml" timestamp="1615233852866">
         <mark key="[" line="1" column="9" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
+      </file>
+      <file name="/lambda-functions-vo-cyclops.yml" timestamp="1615316188216">
+        <mark key="[" line="1" column="33" />
+      </file>
+      <file name="$USER_HOME$/GitLab/data-lambda-refine/sls_config/lambda_functions_per_env/lambda-functions-vo-play.yml" timestamp="1614974240551">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
+      </file>
+      <file name="$USER_HOME$/GitLab/data-lambda-refine/sls_config/prod.json" timestamp="1615315598921">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="41" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="/sbtShell" timestamp="1615219120777">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/GitLab/data-lambda-refine/serverless.yml" timestamp="1615582918627">
+        <mark key="'" line="71" column="0" />
+        <mark key="[" line="46" column="7" />
+        <mark key="]" line="46" column="7" />
+        <mark key="^" line="6" column="12" />
+        <mark key="." line="46" column="7" />
+      </file>
+      <file name="/Dummy.json" timestamp="1614979571056">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1615583691298">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/GitLab/data-lambda-refine/sls_config/lambda_functions_per_env/lambda-resources-vo-classic.yml" timestamp="1615326827876">
         <mark key="'" line="1" column="8" />
@@ -133,21 +160,12 @@
         <mark key="^" line="26" column="11" />
         <mark key="." line="26" column="10" />
       </file>
-      <file name="$USER_HOME$/GitLab/platform-reporting/reporting-persistence/src/main/resources/migrations/postgres/V20201223.00__FactUser.sql" timestamp="1608754571892">
-        <mark key="'" line="23" column="0" />
-        <mark key="[" line="15" column="46" />
-        <mark key="]" line="4" column="24" />
-        <mark key="." line="4" column="24" />
-      </file>
       <file name="$USER_HOME$/GitLab/data-lambda-refine/sls_config/cyclops-playground.json" timestamp="1615568592515">
         <mark key="'" line="4" column="57" />
         <mark key="[" line="7" column="20" />
         <mark key="]" line="7" column="20" />
         <mark key="^" line="2" column="57" />
         <mark key="." line="7" column="20" />
-      </file>
-      <file name="/lambda-functions-vo-cyclops.yml" timestamp="1615316188216">
-        <mark key="[" line="1" column="33" />
       </file>
       <file name="$USER_HOME$/GitLab/data-lambda-refine/.serverless/serverless-state.json" timestamp="1615240682270" />
       <file name="$USER_HOME$/GitLab/data-lambda-refine/Makefile" timestamp="1615566571815">
@@ -167,31 +185,8 @@
         <mark key="]" line="4" column="41" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/GitLab/data-lambda-refine/sls_config/lambda_functions_per_env/lambda-functions-vo-play.yml" timestamp="1614974240551">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
-      </file>
       <file name="$USER_HOME$/GitLab/data-lambda-refine/.gitlab-ci.yml" timestamp="1615582566540" />
-      <file name="$USER_HOME$/GitLab/data-lambda-refine/sls_config/prod.json" timestamp="1615315598921">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="41" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="/sbtShell" timestamp="1615219120777">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/GitLab/data-lambda-refine/serverless.yml" timestamp="1615582918627">
-        <mark key="'" line="71" column="0" />
-        <mark key="[" line="46" column="7" />
-        <mark key="]" line="46" column="7" />
-        <mark key="^" line="6" column="12" />
-        <mark key="." line="46" column="7" />
-      </file>
-      <file name="/Dummy.json" timestamp="1614979571056">
-        <mark key="[" line="0" column="0" />
-      </file>
+      <file name="$USER_HOME$/GitLab/data-lambda-refine/sls_config/lambda_functions_per_env/lambda-functions-vo-classic.yml" timestamp="1615584789862" />
       <file name="$USER_HOME$/GitLab/data-lambda-refine/sls_config/lambda_functions_per_env/lambda-resources-vo-cyclops.yml" timestamp="1615326838502">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="11" column="0" />
