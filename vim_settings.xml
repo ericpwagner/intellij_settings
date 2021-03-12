@@ -106,6 +106,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1615583015932">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/GitLab/data-lambda-refine/sls_config/lambda_functions_per_env/lambda-functions-vo-cyclops.yml" timestamp="1615233852866">
         <mark key="[" line="1" column="9" />
         <mark key="]" line="11" column="0" />
@@ -170,7 +173,7 @@
         <mark key="]" line="53" column="0" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="$USER_HOME$/GitLab/data-lambda-refine/.gitlab-ci.yml" timestamp="1615581863646" />
+      <file name="$USER_HOME$/GitLab/data-lambda-refine/.gitlab-ci.yml" timestamp="1615582566540" />
       <file name="$USER_HOME$/GitLab/data-lambda-refine/sls_config/prod.json" timestamp="1615315598921">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="41" />
@@ -179,12 +182,12 @@
       <file name="/sbtShell" timestamp="1615219120777">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GitLab/data-lambda-refine/serverless.yml" timestamp="1615564913457">
+      <file name="$USER_HOME$/GitLab/data-lambda-refine/serverless.yml" timestamp="1615582918627">
         <mark key="'" line="71" column="0" />
-        <mark key="[" line="72" column="0" />
-        <mark key="]" line="72" column="0" />
+        <mark key="[" line="46" column="7" />
+        <mark key="]" line="46" column="7" />
         <mark key="^" line="6" column="12" />
-        <mark key="." line="72" column="0" />
+        <mark key="." line="46" column="7" />
       </file>
       <file name="/Dummy.json" timestamp="1614979571056">
         <mark key="[" line="0" column="0" />
@@ -302,10 +305,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>stream/victorops-data-analytics-incident-refiner-log-stream</text>
+        <text>play</text>
       </register>
       <register name="-" type="4">
-        <text>stream/victorops-data-analytics-incident-refiner-log-stream</text>
+        <text>play</text>
       </register>
       <register name="/" type="4">
         <text>deployToClassic</text>
