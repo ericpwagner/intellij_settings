@@ -176,9 +176,9 @@
         <mark key="]" line="1" column="74" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/GitLab/data-lambda-refine/.gitlab-ci.yml" timestamp="1616099122147">
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="74" column="36" />
+      <file name="$USER_HOME$/GitLab/data-lambda-refine/.gitlab-ci.yml" timestamp="1616444091923">
+        <mark key="[" line="87" column="0" />
+        <mark key="]" line="87" column="36" />
       </file>
       <file name="/sbtShell" timestamp="1615219120777">
         <mark key="[" line="0" column="0" />
@@ -305,8 +305,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>${file(sls_config/${self:provider.stage}.json):lambda_service_name}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIFJPTEVfTkFNRTogdm9fbGFtYmRhX2RlcGxveV9yb2xlCg==</text>
       </register>
       <register name="-" type="4">
         <text>-authApppublic</text>
@@ -314,8 +314,8 @@
       <register name="/" type="4">
         <text>deployToClassic</text>
       </register>
-      <register name="0" type="4">
-        <text>${file(sls_config/${self:provider.stage}.json):lambda_service_name}</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIFJPTEVfTkFNRTogdm9fbGFtYmRhX2RlcGxveV9yb2xlCg==</text>
       </register>
       <register name="p" type="4">
         <keys>
