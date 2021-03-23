@@ -136,7 +136,7 @@
       <file name="/lambda-functions-vo-cyclops.yml" timestamp="1615316188216">
         <mark key="[" line="1" column="33" />
       </file>
-      <file name="$USER_HOME$/GitLab/data-lambda-refine/sls_config/cyclops-playground.json" timestamp="1616454291068">
+      <file name="$USER_HOME$/GitLab/data-lambda-refine/sls_config/cyclops-playground.json" timestamp="1616457225383">
         <mark key="'" line="4" column="57" />
         <mark key="[" line="7" column="20" />
         <mark key="]" line="7" column="20" />
@@ -176,7 +176,7 @@
         <mark key="]" line="1" column="74" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/GitLab/data-lambda-refine/.gitlab-ci.yml" timestamp="1616444091923">
+      <file name="$USER_HOME$/GitLab/data-lambda-refine/.gitlab-ci.yml" timestamp="1616513396841">
         <mark key="[" line="87" column="0" />
         <mark key="]" line="87" column="36" />
       </file>
