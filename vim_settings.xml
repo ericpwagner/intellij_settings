@@ -114,7 +114,7 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/GitLab/data-lambda-refine/sls_config/lambda_functions_per_env/lambda-resources-vo-classic.yml" timestamp="1615591813011">
+      <file name="$USER_HOME$/GitLab/data-lambda-refine/sls_config/lambda_functions_per_env/lambda-resources-vo-classic.yml" timestamp="1616621488560">
         <mark key="'" line="1" column="8" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
@@ -183,7 +183,7 @@
       <file name="/sbtShell" timestamp="1615219120777">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GitLab/data-lambda-refine/serverless.yml" timestamp="1616524276629">
+      <file name="$USER_HOME$/GitLab/data-lambda-refine/serverless.yml" timestamp="1616621538839">
         <mark key="'" line="71" column="0" />
         <mark key="[" line="46" column="7" />
         <mark key="]" line="46" column="7" />
