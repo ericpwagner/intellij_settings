@@ -122,12 +122,12 @@
         <mark key="." line="55" column="14" />
         <mark key="^" line="1" column="9" />
       </file>
-      <file name="$USER_HOME$/GitLab/data-lambda-refine/sls_config/playground.json" timestamp="1617296708892">
+      <file name="$USER_HOME$/GitLab/data-lambda-refine/sls_config/playground.json" timestamp="1617653102229">
         <mark key="a" line="15" column="5" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="41" />
-        <mark key="." line="4" column="38" />
-        <mark key="^" line="4" column="39" />
+        <mark key="[" line="15" column="5" />
+        <mark key="]" line="15" column="5" />
+        <mark key="." line="15" column="4" />
+        <mark key="^" line="15" column="5" />
       </file>
       <file name="$USER_HOME$/GitLab/data-lambda-refine/.serverless/cloudformation-template-update-stack.json" timestamp="1615308603703">
         <mark key="[" line="25" column="63" />
@@ -138,12 +138,12 @@
       <file name="/lambda-functions-vo-cyclops.yml" timestamp="1615316188216">
         <mark key="[" line="1" column="33" />
       </file>
-      <file name="$USER_HOME$/GitLab/data-lambda-refine/sls_config/cyclops-playground.json" timestamp="1616702228738">
+      <file name="$USER_HOME$/GitLab/data-lambda-refine/sls_config/cyclops-playground.json" timestamp="1617653093574">
         <mark key="'" line="4" column="57" />
-        <mark key="[" line="7" column="20" />
-        <mark key="]" line="7" column="20" />
+        <mark key="[" line="16" column="28" />
+        <mark key="]" line="16" column="28" />
         <mark key="^" line="2" column="57" />
-        <mark key="." line="7" column="20" />
+        <mark key="." line="16" column="28" />
       </file>
       <file name="$USER_HOME$/GitLab/data-lambda-refine/Makefile" timestamp="1615586847520">
         <mark key="[" line="7" column="4" />
@@ -307,11 +307,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIFJPTEVfTkFNRTogdm9fbGFtYmRhX2RlcGxveV9yb2xlCg==</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>-authApppublic</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>deployToClassic</text>
