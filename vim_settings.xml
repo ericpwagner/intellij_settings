@@ -138,12 +138,12 @@
       <file name="/lambda-functions-vo-cyclops.yml" timestamp="1615316188216">
         <mark key="[" line="1" column="33" />
       </file>
-      <file name="$USER_HOME$/GitLab/data-lambda-refine/sls_config/cyclops-playground.json" timestamp="1617653093574">
+      <file name="$USER_HOME$/GitLab/data-lambda-refine/sls_config/cyclops-playground.json" timestamp="1617656683319">
         <mark key="'" line="4" column="57" />
         <mark key="[" line="16" column="28" />
         <mark key="]" line="16" column="28" />
-        <mark key="^" line="2" column="57" />
-        <mark key="." line="16" column="28" />
+        <mark key="^" line="16" column="28" />
+        <mark key="." line="16" column="27" />
       </file>
       <file name="$USER_HOME$/GitLab/data-lambda-refine/Makefile" timestamp="1615586847520">
         <mark key="[" line="7" column="4" />
