@@ -1,0 +1,13 @@
+<application>
+  <component name="SettingsState">
+    <option name="gitlabServers">
+      <list>
+        <GitlabServer>
+          <option name="apiToken" value="HGV-LhHkc2EyLvi_8G5M" />
+          <option name="apiUrl" value="https://cd.splunkdev.com/" />
+          <option name="repositoryUrl" value="cd.splunkdev.com" />
+        </GitlabServer>
+      </list>
+    </option>
+  </component>
+</application>
