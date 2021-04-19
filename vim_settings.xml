@@ -106,7 +106,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1618859501570">
+      <file name="/Dummy.txt" timestamp="1618860910013">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/GitLab/data-lambda-refine/sls_config/lambda_functions_per_env/lambda-functions-vo-cyclops.yml" timestamp="1615585402736">
@@ -185,7 +185,7 @@
       <file name="/sbtShell" timestamp="1615219120777">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GitLab/data-lambda-refine/serverless.yml" timestamp="1618859496126">
+      <file name="$USER_HOME$/GitLab/data-lambda-refine/serverless.yml" timestamp="1618860678999">
         <mark key="'" line="71" column="0" />
         <mark key="[" line="9" column="6" />
         <mark key="]" line="9" column="3" />
