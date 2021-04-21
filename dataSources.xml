@@ -26,10 +26,10 @@
       <jdbc-url>jdbc:postgresql://127.0.0.1:4597/vodat</jdbc-url>
     </data-source>
     <data-source source="LOCAL" name="PROD - vo_data_analytics" uuid="e8729eb7-7e90-475c-b5ee-b76b8f7b5577">
-      <driver-ref>mysql.8</driver-ref>
+      <driver-ref>mysql_aurora</driver-ref>
       <synchronize>true</synchronize>
-      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://127.0.0.1:3396/vo_data_analytics</jdbc-url>
+      <jdbc-driver>org.mariadb.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql:aurora://127.0.0.1:3396/vo_data_analytics</jdbc-url>
     </data-source>
     <data-source source="LOCAL" name="STG - vo_data_analytics" uuid="474e0395-a1ff-498b-8c7e-10cd2ffeb7db">
       <driver-ref>mysql.8</driver-ref>
