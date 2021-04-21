@@ -29,7 +29,6 @@
         <entry>deployToClassic</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zLzIwMjAtMDgtMjAvMjAyMC0wOC0yMy9nYw==</entry>
         <entry>40</entry>
         <entry>57</entry>
         <entry>86</entry>
@@ -49,6 +48,7 @@
         <entry encoding="base64">JzwsJz5zL2RlcGxveVRvQ2xhc3NpYy9kZXBsb3k/Zw==</entry>
         <entry>wq</entry>
         <entry>w</entry>
+        <entry>312</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -185,7 +185,7 @@
       <file name="/sbtShell" timestamp="1615219120777">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GitLab/data-lambda-refine/serverless.yml" timestamp="1618869038876">
+      <file name="$USER_HOME$/GitLab/data-lambda-refine/serverless.yml" timestamp="1619023628677">
         <mark key="'" line="71" column="0" />
         <mark key="[" line="59" column="0" />
         <mark key="]" line="59" column="72" />
@@ -463,7 +463,7 @@
         <text encoding="base64">Pj4+Pj4+PiBlNzc2MTA5Li4uIGZpeHVwIHRvIG1haW4gY29tbWl0Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>312</text>
       </register>
     </registers>
   </component>
