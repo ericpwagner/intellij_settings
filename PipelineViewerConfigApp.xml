@@ -1,0 +1,10 @@
+<application>
+  <component name="PipelineViewerConfigApp">
+    <option name="ignoredRemotes">
+      <list>
+        <option value="git@cd.splunkdev.com:victorops/data/data-contracts.git" />
+        <option value="git@cd.splunkdev.com:victorops/data/row-level-recon.git" />
+      </list>
+    </option>
+  </component>
+</application>
