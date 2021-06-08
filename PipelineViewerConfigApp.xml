@@ -4,6 +4,8 @@
       <list>
         <option value="git@cd.splunkdev.com:victorops/data/data-contracts.git" />
         <option value="git@cd.splunkdev.com:victorops/data/row-level-recon.git" />
+        <option value="git@cd.splunkdev.com:victorops/data/python-dev-template.git" />
+        <option value="git@cd.splunkdev.com:victorops/data/lambda-template.git" />
       </list>
     </option>
   </component>
