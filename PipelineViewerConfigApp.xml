@@ -6,6 +6,7 @@
         <option value="git@cd.splunkdev.com:victorops/data/row-level-recon.git" />
         <option value="git@cd.splunkdev.com:victorops/data/python-dev-template.git" />
         <option value="git@cd.splunkdev.com:victorops/data/lambda-template.git" />
+        <option value="git@cd.splunkdev.com:victorops/data/pts_hec_aggregator.git" />
       </list>
     </option>
   </component>
