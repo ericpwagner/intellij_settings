@@ -7,6 +7,7 @@
         <option value="git@cd.splunkdev.com:victorops/data/python-dev-template.git" />
         <option value="git@cd.splunkdev.com:victorops/data/lambda-template.git" />
         <option value="git@cd.splunkdev.com:victorops/data/pts_hec_aggregator.git" />
+        <option value="git@cd.splunkdev.com:victorops/infrastructure/terraform/resources/data.git" />
       </list>
     </option>
   </component>
