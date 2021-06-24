@@ -49,5 +49,17 @@
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mysql://127.0.0.1:3596/vo_data_analytics</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="PROD - vodat - REPLICA-0" uuid="61acc6d3-dba4-4225-915d-5b19327ad88e">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://127.0.0.1:4398/vodat</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="PROD - vodat - REPLICA-1" uuid="af4c787a-7dd4-41ec-b8c7-0db650213a36">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://127.0.0.1:4399/vodat</jdbc-url>
+    </data-source>
   </component>
 </application>
