@@ -4,7 +4,7 @@
     <property name="created">2018-07-30T08:14:20</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2018.1.4.0.0</property>
-    <property name="modified">2021-04-16T08:22:43</property>
+    <property name="modified">2021-06-09T13:54:21</property>
     <property name="originalScheme">Monokai</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Monospaced" />
@@ -794,7 +794,7 @@
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
         <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_COLOR" value="de0909" />
+        <option name="EFFECT_COLOR" value="de5409" />
       </value>
     </option>
     <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES">

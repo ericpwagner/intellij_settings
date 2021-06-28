@@ -1,0 +1,15 @@
+<application>
+  <component name="PipelineViewerConfigApp">
+    <option name="ignoredRemotes">
+      <list>
+        <option value="git@cd.splunkdev.com:victorops/data/data-contracts.git" />
+        <option value="git@cd.splunkdev.com:victorops/data/row-level-recon.git" />
+        <option value="git@cd.splunkdev.com:victorops/data/python-dev-template.git" />
+        <option value="git@cd.splunkdev.com:victorops/data/lambda-template.git" />
+        <option value="git@cd.splunkdev.com:victorops/data/pts_hec_aggregator.git" />
+        <option value="git@cd.splunkdev.com:victorops/infrastructure/terraform/resources/data.git" />
+        <option value="git@cd.splunkdev.com:victorops/data/users_extract_lambda.git" />
+      </list>
+    </option>
+  </component>
+</application>
