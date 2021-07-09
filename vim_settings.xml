@@ -57,49 +57,49 @@
   <component name="VimKeySettings">
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIEQ=</text>
+        <text>ctrl pressed D</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIEk=</text>
+        <text>ctrl pressed I</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIEc=</text>
+        <text>ctrl pressed G</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIFA=</text>
+        <text>ctrl pressed P</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIEE=</text>
+        <text>ctrl pressed A</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIFI=</text>
+        <text>ctrl pressed R</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIE8=</text>
+        <text>ctrl pressed O</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIEI=</text>
+        <text>ctrl pressed B</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIDI=</text>
+        <text>ctrl pressed 2</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIFQ=</text>
+        <text>ctrl pressed T</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIEU=</text>
+        <text>ctrl pressed E</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIEJBQ0tfU0xBU0g=</text>
+        <text>ctrl pressed BACK_SLASH</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIFY=</text>
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIFE=</text>
+        <text>ctrl pressed Q</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIE0=</text>
+        <text>ctrl pressed M</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed J</text>
@@ -172,7 +172,7 @@
         <mark key="." line="16" column="77" />
         <mark key="^" line="16" column="77" />
       </file>
-      <file name="$USER_HOME$/GitLab/perseus-pipeline-poc/data/metrics-generator.csv" timestamp="1625801856638">
+      <file name="$USER_HOME$/GitLab/perseus-pipeline-poc/data/metrics-generator.csv" timestamp="1625836035311">
         <mark key="'" line="68" column="0" />
         <mark key="[" line="53" column="209" />
         <mark key="]" line="53" column="209" />
@@ -199,8 +199,10 @@
         <mark key="." line="13" column="41" />
         <mark key="^" line="13" column="42" />
       </file>
-      <file name="$USER_HOME$/GitLab/perseus-pipeline-poc/gradle/wrapper/gradle-wrapper.properties" timestamp="1625801760213">
-        <mark key="[" line="4" column="26" />
+      <file name="$USER_HOME$/GitLab/perseus-pipeline-poc/gradle/wrapper/gradle-wrapper.properties" timestamp="1625835938876">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="/Dummy.json" timestamp="1625764870315">
         <mark key="[" line="0" column="0" />
@@ -322,8 +324,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">b3JnLmdyYWRsZS5sb2dnaW5nLmxldmVsPWRlYnVnCg==</text>
       </register>
       <register name="-" type="4">
         <text>0</text>
@@ -433,9 +435,12 @@
         </keys>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">b3JnLmdyYWRsZS5sb2dnaW5nLmxldmVsPWRlYnVnCg==</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">IyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjCg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <keys>
           <key char="105" code="0" mods="0" />
           <key char="95" code="0" mods="0" />
@@ -447,20 +452,17 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">IyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjCg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkdFTkNMT0NLID0gIiArIGdlbmVyYXRvckNsb2NrLmluc3RhbnQoKSk7Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIlJBTkRPREVMVCA9ICIgKyByYW5kb0RlbHRhKTsK</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIlJBTkRPREVMVCA9ICIgKyByYW5kb0RlbHRhKTsK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
@@ -503,7 +505,7 @@
     </search>
   </component>
   <component name="VimSettings">
-    <state version="7" enabled="true" />
+    <state version="6" enabled="true" />
     <notifications>
       <idea-join enabled="true" />
       <idea-put enabled="false" />
