@@ -5,15 +5,15 @@
       <mapping ext="py37" type="Dockerfile" />
       <mapping ext="apxc" type="JavaFX" />
       <mapping pattern="variables.tf" type="PLAIN_TEXT" />
-      <mapping pattern="metric_data_classes.py" type="PLAIN_TEXT" />
-      <mapping pattern=".envrc" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern=".envrc" type="PLAIN_TEXT" />
       <mapping ext="tfstate" type="PLAIN_TEXT" />
       <mapping ext="avro" type="PLAIN_TEXT" />
       <mapping ext="0_x5" type="PLAIN_TEXT" />
       <mapping pattern="victorops" type="Python" />
       <mapping ext="lock" type="Python" />
       <mapping ext="tmpl" type="SQL" />
+      <removed_mapping pattern="metric_data_classes.py" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
