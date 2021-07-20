@@ -29,8 +29,6 @@
         <entry>routing_key</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL3RpbWVzdGFtcHovdGltZXN0YW1wdHovZw==</entry>
-        <entry encoding="base64">JzwsJz5zL0NPTExBVEVcIHV0ZjhtYjRfdW5pY29kZV9jaS8vZw==</entry>
         <entry>63</entry>
         <entry encoding="base64">JzwsJz5zL2RlcGxveVRvQ2xhc3NpYy9kZXBsb3k/Zw==</entry>
         <entry>wq</entry>
@@ -49,6 +47,8 @@
         <entry encoding="base64">JzwsJz5zL3Rlc3QyL3Rlc3QzL2c=</entry>
         <entry encoding="base64">JzwsJz5zL3Rlc3QzL3Rlc3Q0L2c=</entry>
         <entry encoding="base64">JzwsJz5zL3RlbmFudF9pZFw6MTIzLy9n</entry>
+        <entry>17</entry>
+        <entry>147</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -529,7 +529,7 @@ splunk_oncall.incident.count.closed.draft_test4,counter,team_name:infrastructure
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL3RlbmFudF9pZFw6MTIzLy9n</text>
+        <text>147</text>
       </register>
     </registers>
   </component>
