@@ -9,6 +9,7 @@
         <option value="git@cd.splunkdev.com:victorops/data/pts_hec_aggregator.git" />
         <option value="git@cd.splunkdev.com:victorops/infrastructure/terraform/resources/data.git" />
         <option value="git@cd.splunkdev.com:victorops/data/users_extract_lambda.git" />
+        <option value="git@cd.splunkdev.com:victorops/data/perseus_metric_store_backfill.git" />
       </list>
     </option>
   </component>
