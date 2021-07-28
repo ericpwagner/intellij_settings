@@ -61,5 +61,11 @@
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://127.0.0.1:4399/vodat</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="PROD - vo_data_analytics [jitterbit]" uuid="89c12e54-a0cf-4cba-b991-fa7e188c9cbb">
+      <driver-ref>mysql_aurora</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.mariadb.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql:aurora://127.0.0.1:3396/vo_reports_data_warehouse</jdbc-url>
+    </data-source>
   </component>
 </application>
