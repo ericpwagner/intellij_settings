@@ -49,6 +49,9 @@
   </action>
   <action id="IntroduceConstant" />
   <action id="IntroduceVariable" />
+  <action id="JShell.Console">
+    <keyboard-shortcut first-keystroke="meta alt c" />
+  </action>
   <action id="Jdbc.OpenConsole.New.Generate">
     <keyboard-shortcut first-keystroke="shift ctrl slash" />
   </action>
