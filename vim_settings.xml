@@ -131,6 +131,12 @@
         <mark key="]" line="0" column="20" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/java_training/src/FortuneTeller.java" timestamp="1633618528558">
+        <mark key="[" line="20" column="27" />
+        <mark key="]" line="21" column="87" />
+        <mark key="^" line="21" column="87" />
+        <mark key="." line="21" column="86" />
+      </file>
       <file name="$USER_HOME$/GitLab/data-lambda-refine/sls_config/lambda_functions_per_env/lambda-resources-vo-classic.yml" timestamp="1616621488560">
         <mark key="'" line="1" column="8" />
         <mark key="[" line="0" column="0" />
@@ -157,12 +163,6 @@
         <mark key="]" line="16" column="28" />
         <mark key="^" line="16" column="28" />
         <mark key="." line="16" column="27" />
-      </file>
-      <file name="$USER_HOME$/GitLab/data-lambda-refine/Makefile" timestamp="1615586847520">
-        <mark key="[" line="7" column="4" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
-        <mark key="^" line="33" column="4" />
       </file>
       <file name="$USER_HOME$/GitLab/data-lambda-refine/sls_config/lambda_functions_per_env/lambda-functions-vo-classic.yml" timestamp="1616099688772">
         <mark key="[" line="1" column="8" />
@@ -332,7 +332,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oc3R1ZGVudEZpcnN0TmFtZSArICIgIiArIHN0dWRlbnRMYXN0TmFtZSArICJoYXMgYSBHUEEgb2YgIiArIHN0dWRlbnRHUEEpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICBpZiAoaW5wdXQgPD0gNSkgewogICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIllvdSB3aWxsIHdpbiB0aGUgbG90dGVyeSB0aGUgZGF5IGJlZm9yZSB5b3VyIGRlYXRoIik7CiAgICAgICAgICAgfQo=</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -346,13 +346,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text encoding="base64">PA==</text>
       </register>
       <register name="/" type="4">
         <text>routing_key</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oc3R1ZGVudEZpcnN0TmFtZSArICIgIiArIHN0dWRlbnRMYXN0TmFtZSArICJoYXMgYSBHUEEgb2YgIiArIHN0dWRlbnRHUEEpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICBpZiAoaW5wdXQgPD0gNSkgewogICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIllvdSB3aWxsIHdpbiB0aGUgbG90dGVyeSB0aGUgZGF5IGJlZm9yZSB5b3VyIGRlYXRoIik7CiAgICAgICAgICAgfQo=</text>
       </register>
       <register name="p" type="4">
         <keys>
