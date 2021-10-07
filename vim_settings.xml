@@ -131,11 +131,11 @@
         <mark key="]" line="0" column="20" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/java_training/src/FortuneTeller.java" timestamp="1633618528558">
-        <mark key="[" line="20" column="27" />
-        <mark key="]" line="21" column="87" />
+      <file name="$USER_HOME$/java_training/src/FortuneTeller.java" timestamp="1633618594036">
+        <mark key="[" line="5" column="38" />
+        <mark key="]" line="5" column="38" />
         <mark key="^" line="21" column="87" />
-        <mark key="." line="21" column="86" />
+        <mark key="." line="5" column="38" />
       </file>
       <file name="$USER_HOME$/GitLab/data-lambda-refine/sls_config/lambda_functions_per_env/lambda-resources-vo-classic.yml" timestamp="1616621488560">
         <mark key="'" line="1" column="8" />
@@ -331,8 +331,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICBpZiAoaW5wdXQgPD0gNSkgewogICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIllvdSB3aWxsIHdpbiB0aGUgbG90dGVyeSB0aGUgZGF5IGJlZm9yZSB5b3VyIGRlYXRoIik7CiAgICAgICAgICAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -346,7 +346,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PA==</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>routing_key</text>
