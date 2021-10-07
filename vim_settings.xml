@@ -112,10 +112,16 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/java_training/src/Main.java" timestamp="1633564903780">
+        <mark key="[" line="2" column="39" />
+        <mark key="]" line="2" column="39" />
+        <mark key="^" line="2" column="48" />
+        <mark key="." line="2" column="39" />
+      </file>
       <file name="/Dummy.txt" timestamp="1625800836103">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GitLab/data-lambda-refine/sls_config/lambda_functions_per_env/lambda-functions-vo-cyclops.yml" timestamp="1615585402736">
+      <file name="$USER_HOME$/java_training/src/HelloWorld.java" timestamp="1633564600677">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
@@ -215,12 +221,6 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="248" />
         <mark key="." line="0" column="248" />
-      </file>
-      <file name="$USER_HOME$/GitLab/data-lambda-refine/sls_config/lambda_functions_per_env/lambda-resources-vo-cyclops.yml" timestamp="1615326838502">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="14" />
-        <mark key="." line="11" column="14" />
       </file>
       <file name="/fragment.java" timestamp="1633563007156">
         <mark key="[" line="0" column="0" />
@@ -332,7 +332,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>routing_key:key_123|</text>
+        <text>i</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -346,7 +346,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>routing_key:key_123|</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text>routing_key</text>
@@ -453,6 +453,24 @@
         </keys>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAKICAgIH0gCg==</text>
+      </register>
+      <register name="r" type="4">
+        <keys>
+          <key char="118" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="124" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Ly8gICAgcHVibGljIHN0YXRpYyB2b2lkIG1haW4oU3RyaW5nW10gYXJncykgewo=</text>
+      </register>
+      <register name="4" type="2">
         <text>splunk_oncall.incident.tta_test4,gauge,team_name:infrastructure|service:staging_zookeeper|routing_key:key_123|monitoring_tool:apm,prop1key:prop1value,3456,12000,900000,263000
 splunk_oncall.incident.tta_test4,gauge,team_name:infrastructure|service:load_balancer|routing_key:key_123|monitoring_tool:prometheus,prop1key:prop1value,3002,10000,900000,300000
 splunk_oncall.incident.tta_test4,gauge,team_name:infrastructure|service:ngnx_server|routing_key:key_123|monitoring_tool:prometheus,prop1key:prop1value,1256,10000,900000,720000
@@ -470,22 +488,13 @@ splunk_oncall.incident.count.draft_test4,counter,team_name:infrastructure|servic
 splunk_oncall.incident.count.closed.draft_test4,counter,team_name:reporting|service:reporting_api|routing_key:key_456|monitoring_tool:custom,prop1key:prop1value,15000,3,75,60000
 splunk_oncall.incident.count.closed.draft_test4,counter,team_name:infrastructure|service:reporting_api|routing_key:key_123|monitoring_tool:prometheus,prop1key:prop1value,15000,3,75,60000</text>
       </register>
-      <register name="2" type="2">
+      <register name="5" type="2">
         <text encoding="base64">b3JnLmdyYWRsZS5sb2dnaW5nLmxldmVsPWRlYnVnCg==</text>
       </register>
-      <register name="r" type="4">
-        <keys>
-          <key char="118" code="0" mods="0" />
-          <key char="102" code="0" mods="0" />
-          <key char="124" code="0" mods="0" />
-          <key char="120" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-        </keys>
-      </register>
-      <register name="3" type="2">
+      <register name="6" type="2">
         <text encoding="base64">IyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjCg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="7" type="4">
         <keys>
           <key char="105" code="0" mods="0" />
           <key char="95" code="0" mods="0" />
@@ -497,17 +506,8 @@ splunk_oncall.incident.count.closed.draft_test4,counter,team_name:infrastructure
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">IyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkdFTkNMT0NLID0gIiArIGdlbmVyYXRvckNsb2NrLmluc3RhbnQoKSk7Cg==</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIlJBTkRPREVMVCA9ICIgKyByYW5kb0RlbHRhKTsK</text>
+        <text encoding="base64">IyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjCg==</text>
       </register>
       <register name="x" type="4">
         <keys>
@@ -528,7 +528,7 @@ splunk_oncall.incident.count.closed.draft_test4,counter,team_name:infrastructure
         </keys>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
       </register>
       <register name=":" type="4">
         <text>147</text>
