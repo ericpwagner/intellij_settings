@@ -150,6 +150,7 @@
         <mark key="." line="15" column="4" />
         <mark key="^" line="15" column="5" />
       </file>
+      <file name="$USER_HOME$/GitLab/perseus/alert-incident-service/README.md" timestamp="1634056670562" />
       <file name="/Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/lib/src.zip!/java.base/java/time/Clock.java" timestamp="1625836632859">
         <mark key="[" line="658" column="30" />
         <mark key="]" line="658" column="30" />
@@ -162,11 +163,6 @@
         <mark key="]" line="16" column="28" />
         <mark key="^" line="16" column="28" />
         <mark key="." line="16" column="27" />
-      </file>
-      <file name="$USER_HOME$/GitLab/data-lambda-refine/sls_config/lambda_functions_per_env/lambda-functions-vo-classic.yml" timestamp="1616099688772">
-        <mark key="[" line="1" column="8" />
-        <mark key="]" line="1" column="74" />
-        <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/GitLab/data-lambda-refine/.gitlab-ci.yml" timestamp="1616513396841">
         <mark key="[" line="87" column="0" />
