@@ -136,13 +136,6 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/GitLab/data-lambda-refine/sls_config/lambda_functions_per_env/lambda-resources-vo-classic.yml" timestamp="1616621488560">
-        <mark key="'" line="1" column="8" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="10" />
-        <mark key="." line="55" column="14" />
-        <mark key="^" line="1" column="9" />
-      </file>
       <file name="$USER_HOME$/GitLab/data-lambda-refine/sls_config/playground.json" timestamp="1617653102229">
         <mark key="a" line="15" column="5" />
         <mark key="[" line="15" column="5" />
@@ -150,7 +143,7 @@
         <mark key="." line="15" column="4" />
         <mark key="^" line="15" column="5" />
       </file>
-      <file name="$USER_HOME$/GitLab/perseus/alert-incident-service/README.md" timestamp="1634056670562" />
+      <file name="$USER_HOME$/GitLab/cargo/okta-aws-setup/okta-aws-setup.sh" timestamp="1634078049024" />
       <file name="/Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/lib/src.zip!/java.base/java/time/Clock.java" timestamp="1625836632859">
         <mark key="[" line="658" column="30" />
         <mark key="]" line="658" column="30" />
@@ -163,10 +156,6 @@
         <mark key="]" line="16" column="28" />
         <mark key="^" line="16" column="28" />
         <mark key="." line="16" column="27" />
-      </file>
-      <file name="$USER_HOME$/GitLab/data-lambda-refine/.gitlab-ci.yml" timestamp="1616513396841">
-        <mark key="[" line="87" column="0" />
-        <mark key="]" line="87" column="36" />
       </file>
       <file name="$USER_HOME$/GitLab/perseus-pipeline-poc/src/main/java/poc/observability/MetricDataGenerator.java" timestamp="1625837297617">
         <mark key="[" line="165" column="101" />
@@ -220,6 +209,7 @@
       <file name="/fragment.java" timestamp="1633563007156">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/GitLab/cargo/sfpkg/sfpkg.py" timestamp="1634077362777" />
     </filemarks>
     <jumps>
       <jump line="30" column="8" filename="$USER_HOME$/GitLab/perseus-pipeline-poc/src/main/java/poc/observability/Metric.java" />
