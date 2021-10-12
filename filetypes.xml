@@ -9,6 +9,7 @@
       <mapping ext="0_x5" type="PLAIN_TEXT" />
       <mapping ext="tfstate" type="PLAIN_TEXT" />
       <mapping ext="lock" type="Python" />
+      <mapping ext="pex" type="Python" />
       <mapping ext="tmpl" type="SQL" />
       <mapping pattern=".envrc" type="Shell Script" />
       <removed_mapping pattern="metric_data_classes.py" approved="true" type="PLAIN_TEXT" />
