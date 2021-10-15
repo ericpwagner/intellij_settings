@@ -200,12 +200,12 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" timestamp="1634330147682">
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" timestamp="1634332282764">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="7" column="10" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="3" column="8" />
-        <mark key="." line="8" column="0" />
+        <mark key="[" line="26" column="17" />
+        <mark key="]" line="24" column="0" />
+        <mark key="^" line="12" column="19" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="/Dummy.json" timestamp="1625764870315">
         <mark key="[" line="0" column="0" />
@@ -321,8 +321,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>(</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -336,13 +336,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text>routing_key</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICBpZiAoaW5wdXQgPD0gNSkgewogICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIllvdSB3aWxsIHdpbiB0aGUgbG90dGVyeSB0aGUgZGF5IGJlZm9yZSB5b3VyIGRlYXRoIik7CiAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ZGIuaW5jaWRlbnRzLmFnZ3JlZ2F0ZSggWwo=</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -443,10 +443,10 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ZGIuY2FrZVNhbGVzLmFnZ3JlZ2F0ZSggWwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHNvcnQ6IHsgYXZnQWxlcnRDb3VudDogLTEgfQo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -458,22 +458,22 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHNvcnQ6IHsgYXZnQWxlcnRDb3VudDogLTEgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgb3V0T2ZCb3VuZHNFcnJvciA9ICJOdW1iZXIgbXVzdCBiZSBhIHdob2xlIG51bWJlciAiOwo=</text>
+        <text encoding="base64">ICAgICAgICB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB3aGlsZSBpbnB1dAo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgb3V0T2ZCb3VuZHNFcnJvciA9ICJOdW1iZXIgbXVzdCBiZSBhIHdob2xlIG51bWJlciAiOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoaW5wdXQgPCAxKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICB3aGlsZSBpbnB1dAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKG91dE9mQm91bmRzRXJyb3IpOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoaW5wdXQgPCAxKSB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKG91dE9mQm91bmRzRXJyb3IpOwo=</text>
       </register>
       <register name="x" type="4">
         <keys>
@@ -494,7 +494,7 @@
         </keys>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlIGlmIChpbnB1dCA+IDEwKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>147</text>
