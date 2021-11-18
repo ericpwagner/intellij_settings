@@ -136,14 +136,11 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/GitLab/data-lambda-refine/sls_config/playground.json" timestamp="1617653102229">
-        <mark key="a" line="15" column="5" />
-        <mark key="[" line="15" column="5" />
-        <mark key="]" line="15" column="5" />
-        <mark key="." line="15" column="4" />
-        <mark key="^" line="15" column="5" />
+      <file name="/result.json" timestamp="1637259863092">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GitLab/perseus/alert-incident-service/README.md" timestamp="1637255083539" />
       <file name="/Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/lib/src.zip!/java.base/java/time/Clock.java" timestamp="1625836632859">
         <mark key="[" line="658" column="30" />
         <mark key="]" line="658" column="30" />
@@ -207,6 +204,9 @@
         <mark key="]" line="24" column="0" />
         <mark key="^" line="12" column="19" />
         <mark key="." line="24" column="0" />
+      </file>
+      <file name="/body.elasticsearch" timestamp="1637259574365">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.json" timestamp="1625764870315">
         <mark key="[" line="0" column="0" />
@@ -322,8 +322,24 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>(</text>
+      <register name="&quot;" type="2">
+        <text>{
+  &quot;name&quot;: &quot;b637c933246f&quot;,
+  &quot;cluster_name&quot;: &quot;docker-cluster&quot;,
+  &quot;cluster_uuid&quot;: &quot;bsAJvxFYRhCDoqcFcA4wRA&quot;,
+  &quot;version&quot;: {
+    &quot;number&quot;: &quot;7.10.1&quot;,
+    &quot;build_flavor&quot;: &quot;default&quot;,
+    &quot;build_type&quot;: &quot;docker&quot;,
+    &quot;build_hash&quot;: &quot;1c34507e66d7db1211f66f3513706fdf548736aa&quot;,
+    &quot;build_date&quot;: &quot;2020-12-05T01:00:33.671820Z&quot;,
+    &quot;build_snapshot&quot;: false,
+    &quot;lucene_version&quot;: &quot;8.7.0&quot;,
+    &quot;minimum_wire_compatibility_version&quot;: &quot;6.8.0&quot;,
+    &quot;minimum_index_compatibility_version&quot;: &quot;6.0.0-beta1&quot;
+  },
+  &quot;tagline&quot;: &quot;You Know, for Search&quot;
+}</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -444,10 +460,26 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGIuY2FrZVNhbGVzLmFnZ3JlZ2F0ZSggWwo=</text>
+        <text>{
+  &quot;name&quot;: &quot;b637c933246f&quot;,
+  &quot;cluster_name&quot;: &quot;docker-cluster&quot;,
+  &quot;cluster_uuid&quot;: &quot;bsAJvxFYRhCDoqcFcA4wRA&quot;,
+  &quot;version&quot;: {
+    &quot;number&quot;: &quot;7.10.1&quot;,
+    &quot;build_flavor&quot;: &quot;default&quot;,
+    &quot;build_type&quot;: &quot;docker&quot;,
+    &quot;build_hash&quot;: &quot;1c34507e66d7db1211f66f3513706fdf548736aa&quot;,
+    &quot;build_date&quot;: &quot;2020-12-05T01:00:33.671820Z&quot;,
+    &quot;build_snapshot&quot;: false,
+    &quot;lucene_version&quot;: &quot;8.7.0&quot;,
+    &quot;minimum_wire_compatibility_version&quot;: &quot;6.8.0&quot;,
+    &quot;minimum_index_compatibility_version&quot;: &quot;6.0.0-beta1&quot;
+  },
+  &quot;tagline&quot;: &quot;You Know, for Search&quot;
+}</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ZGIuY2FrZVNhbGVzLmFnZ3JlZ2F0ZSggWwo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -459,22 +491,22 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHNvcnQ6IHsgYXZnQWxlcnRDb3VudDogLTEgfQo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHNvcnQ6IHsgYXZnQWxlcnRDb3VudDogLTEgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgb3V0T2ZCb3VuZHNFcnJvciA9ICJOdW1iZXIgbXVzdCBiZSBhIHdob2xlIG51bWJlciAiOwo=</text>
+        <text encoding="base64">ICAgICAgICB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB3aGlsZSBpbnB1dAo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgb3V0T2ZCb3VuZHNFcnJvciA9ICJOdW1iZXIgbXVzdCBiZSBhIHdob2xlIG51bWJlciAiOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoaW5wdXQgPCAxKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICB3aGlsZSBpbnB1dAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKG91dE9mQm91bmRzRXJyb3IpOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoaW5wdXQgPCAxKSB7Cg==</text>
       </register>
       <register name="x" type="4">
         <keys>
@@ -495,7 +527,7 @@
         </keys>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKG91dE9mQm91bmRzRXJyb3IpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>147</text>
