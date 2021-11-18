@@ -118,7 +118,7 @@
         <mark key="^" line="26" column="40" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1625800836103">
+      <file name="/Dummy.txt" timestamp="1637263961253">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/java_training/src/HelloWorld.java" timestamp="1633564600677">
@@ -136,6 +136,9 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="/console" timestamp="1637263987749">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/result.json" timestamp="1637263096858">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -147,12 +150,8 @@
         <mark key="^" line="658" column="30" />
         <mark key="." line="658" column="29" />
       </file>
-      <file name="$USER_HOME$/GitLab/data-lambda-refine/sls_config/cyclops-playground.json" timestamp="1617656683319">
-        <mark key="'" line="4" column="57" />
-        <mark key="[" line="16" column="28" />
-        <mark key="]" line="16" column="28" />
-        <mark key="^" line="16" column="28" />
-        <mark key="." line="16" column="27" />
+      <file name="/a.sql" timestamp="1637263966440">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/GitLab/perseus-pipeline-poc/src/main/java/poc/observability/MetricDataGenerator.java" timestamp="1625837297617">
         <mark key="[" line="165" column="101" />
