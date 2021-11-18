@@ -112,10 +112,16 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/java_training/src/Main.java" timestamp="1633617166547">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="100" />
+        <mark key="^" line="26" column="40" />
+        <mark key="." line="27" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1625800836103">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GitLab/data-lambda-refine/sls_config/lambda_functions_per_env/lambda-functions-vo-cyclops.yml" timestamp="1615585402736">
+      <file name="$USER_HOME$/java_training/src/HelloWorld.java" timestamp="1633564600677">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
@@ -125,19 +131,15 @@
         <mark key="]" line="0" column="20" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GitLab/data-lambda-refine/sls_config/lambda_functions_per_env/lambda-resources-vo-classic.yml" timestamp="1616621488560">
-        <mark key="'" line="1" column="8" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="10" />
-        <mark key="." line="55" column="14" />
-        <mark key="^" line="1" column="9" />
+      <file name="$USER_HOME$/java_training/src/FortuneTeller.java" timestamp="1633638709987">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/GitLab/data-lambda-refine/sls_config/playground.json" timestamp="1617653102229">
-        <mark key="a" line="15" column="5" />
-        <mark key="[" line="15" column="5" />
-        <mark key="]" line="15" column="5" />
-        <mark key="." line="15" column="4" />
-        <mark key="^" line="15" column="5" />
+      <file name="/result.json" timestamp="1637263096858">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/lib/src.zip!/java.base/java/time/Clock.java" timestamp="1625836632859">
         <mark key="[" line="658" column="30" />
@@ -151,21 +153,6 @@
         <mark key="]" line="16" column="28" />
         <mark key="^" line="16" column="28" />
         <mark key="." line="16" column="27" />
-      </file>
-      <file name="$USER_HOME$/GitLab/data-lambda-refine/Makefile" timestamp="1615586847520">
-        <mark key="[" line="7" column="4" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
-        <mark key="^" line="33" column="4" />
-      </file>
-      <file name="$USER_HOME$/GitLab/data-lambda-refine/sls_config/lambda_functions_per_env/lambda-functions-vo-classic.yml" timestamp="1616099688772">
-        <mark key="[" line="1" column="8" />
-        <mark key="]" line="1" column="74" />
-        <mark key="." line="40" column="0" />
-      </file>
-      <file name="$USER_HOME$/GitLab/data-lambda-refine/.gitlab-ci.yml" timestamp="1616513396841">
-        <mark key="[" line="87" column="0" />
-        <mark key="]" line="87" column="36" />
       </file>
       <file name="$USER_HOME$/GitLab/perseus-pipeline-poc/src/main/java/poc/observability/MetricDataGenerator.java" timestamp="1625837297617">
         <mark key="[" line="165" column="101" />
@@ -211,23 +198,26 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" timestamp="1634332282764">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="26" column="17" />
+        <mark key="]" line="24" column="0" />
+        <mark key="^" line="12" column="19" />
+        <mark key="." line="24" column="0" />
+      </file>
+      <file name="/body.elasticsearch" timestamp="1637263096772">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/Dummy.json" timestamp="1625764870315">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="248" />
         <mark key="." line="0" column="248" />
       </file>
-      <file name="$USER_HOME$/GitLab/data-lambda-refine/sls_config/lambda_functions_per_env/lambda-resources-vo-cyclops.yml" timestamp="1615326838502">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="14" />
-        <mark key="." line="11" column="14" />
-      </file>
-      <file name="/fragment.java" timestamp="1633563007156">
+      <file name="/fragment.java" timestamp="1637253946035">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="8" filename="$USER_HOME$/GitLab/perseus-pipeline-poc/src/main/java/poc/observability/Metric.java" />
       <jump line="164" column="27" filename="$USER_HOME$/GitLab/perseus-pipeline-poc/src/main/java/poc/observability/MetricDataGenerator.java" />
       <jump line="54" column="86" filename="$USER_HOME$/GitLab/perseus-pipeline-poc/data/metrics-generator.csv" />
       <jump line="55" column="84" filename="$USER_HOME$/GitLab/perseus-pipeline-poc/data/metrics-generator.csv" />
@@ -327,12 +317,29 @@
       <jump line="43" column="77" filename="$USER_HOME$/GitLab/perseus-pipeline-poc/data/metrics-generator.csv" />
       <jump line="59" column="92" filename="$USER_HOME$/GitLab/perseus-pipeline-poc/data/metrics-generator.csv" />
       <jump line="61" column="86" filename="$USER_HOME$/GitLab/perseus-pipeline-poc/data/metrics-generator.csv" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>routing_key:key_123|</text>
+      <register name="&quot;" type="2">
+        <text>{
+  &quot;name&quot;: &quot;b637c933246f&quot;,
+  &quot;cluster_name&quot;: &quot;docker-cluster&quot;,
+  &quot;cluster_uuid&quot;: &quot;bsAJvxFYRhCDoqcFcA4wRA&quot;,
+  &quot;version&quot;: {
+    &quot;number&quot;: &quot;7.10.1&quot;,
+    &quot;build_flavor&quot;: &quot;default&quot;,
+    &quot;build_type&quot;: &quot;docker&quot;,
+    &quot;build_hash&quot;: &quot;1c34507e66d7db1211f66f3513706fdf548736aa&quot;,
+    &quot;build_date&quot;: &quot;2020-12-05T01:00:33.671820Z&quot;,
+    &quot;build_snapshot&quot;: false,
+    &quot;lucene_version&quot;: &quot;8.7.0&quot;,
+    &quot;minimum_wire_compatibility_version&quot;: &quot;6.8.0&quot;,
+    &quot;minimum_index_compatibility_version&quot;: &quot;6.0.0-beta1&quot;
+  },
+  &quot;tagline&quot;: &quot;You Know, for Search&quot;
+}</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -346,13 +353,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>routing_key:key_123|</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text>routing_key</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiXG4gSW5pdGlhbCBHZW5lcmF0b3IgQ2xvY2sgPSAiICsgZ2VuZXJhdG9yQ2xvY2sudG9TdHJpbmcoKSkK</text>
+        <text encoding="base64">ZGIuaW5jaWRlbnRzLmFnZ3JlZ2F0ZSggWwo=</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -453,25 +460,26 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text>splunk_oncall.incident.tta_test4,gauge,team_name:infrastructure|service:staging_zookeeper|routing_key:key_123|monitoring_tool:apm,prop1key:prop1value,3456,12000,900000,263000
-splunk_oncall.incident.tta_test4,gauge,team_name:infrastructure|service:load_balancer|routing_key:key_123|monitoring_tool:prometheus,prop1key:prop1value,3002,10000,900000,300000
-splunk_oncall.incident.tta_test4,gauge,team_name:infrastructure|service:ngnx_server|routing_key:key_123|monitoring_tool:prometheus,prop1key:prop1value,1256,10000,900000,720000
-splunk_oncall.incident.tta_test4,gauge,team_name:reporting|service:postgres_server|routing_key:key_456|monitoring_tool:cloudwatch,prop1key:prop1value,235,12000,9000000,3920000
-splunk_oncall.incident.tta_test4,gauge,team_name:reporting|service:reconciliation|routing_key:key_456|monitoring_tool:cloudwatch,prop1key:prop1value,2034,19000,800000,450000
-splunk_oncall.incident.tta_test4,gauge,team_name:reporting|service:reporting_api|routing_key:key_456|monitoring_tool:custom,prop1key:prop1value,598,21000,10000000,1500000
-splunk_oncall.incident.ttr.2_test4,gauge,team_name:infrastructure|service:staging_zookeeper|routing_key:key_123|monitoring_tool:apm,prop1key:prop1value,1789,12000,9000000,499800
-splunk_oncall.incident.ttr.2_test4,gauge,team_name:infrastructure|service:load_balancer|routing_key:key_123|monitoring_tool:prometheus,prop1key:prop1value,345,20000,900000,2630000
-splunk_oncall.incident.ttr.2_test4,gauge,team_name:infrastructure|service:ngnx_server|routing_key:key_123|monitoring_tool:prometheus,prop1key:prop1value,8018,90000,900000,125000
-splunk_oncall.incident.ttr.2_test4,gauge,team_name:reporting|service:postgres_server|routing_key:key_456|monitoring_tool:cloudwatch,prop1key:prop1value,36,78000,9000000,24880000
-splunk_oncall.incident.ttr.2_test4,gauge,team_name:reporting|service:reconciliation|routing_key:key_456|monitoring_tool:cloudwatch,prop1key:prop1value,987,59000,800000,930000
-splunk_oncall.incident.ttr.2_test4,gauge,team_name:reporting|service:reporting_api|routing_key:key_456|monitoring_tool:custom,prop1key:prop1value,3987,81000,10000000,218800
-splunk_oncall.incident.count.draft_test4,counter,team_name:reporting|service:kafka_zookeeper|routing_key:key_456|monitoring_tool:custom,prop1key:prop1value,500,1,4,1600000
-splunk_oncall.incident.count.draft_test4,counter,team_name:infrastructure|service:reporting_api|routing_key:key_123|monitoring_tool:prometheus,prop1key:prop1value,323,1,3,2800000
-splunk_oncall.incident.count.closed.draft_test4,counter,team_name:reporting|service:reporting_api|routing_key:key_456|monitoring_tool:custom,prop1key:prop1value,15000,3,75,60000
-splunk_oncall.incident.count.closed.draft_test4,counter,team_name:infrastructure|service:reporting_api|routing_key:key_123|monitoring_tool:prometheus,prop1key:prop1value,15000,3,75,60000</text>
+        <text>{
+  &quot;name&quot;: &quot;b637c933246f&quot;,
+  &quot;cluster_name&quot;: &quot;docker-cluster&quot;,
+  &quot;cluster_uuid&quot;: &quot;bsAJvxFYRhCDoqcFcA4wRA&quot;,
+  &quot;version&quot;: {
+    &quot;number&quot;: &quot;7.10.1&quot;,
+    &quot;build_flavor&quot;: &quot;default&quot;,
+    &quot;build_type&quot;: &quot;docker&quot;,
+    &quot;build_hash&quot;: &quot;1c34507e66d7db1211f66f3513706fdf548736aa&quot;,
+    &quot;build_date&quot;: &quot;2020-12-05T01:00:33.671820Z&quot;,
+    &quot;build_snapshot&quot;: false,
+    &quot;lucene_version&quot;: &quot;8.7.0&quot;,
+    &quot;minimum_wire_compatibility_version&quot;: &quot;6.8.0&quot;,
+    &quot;minimum_index_compatibility_version&quot;: &quot;6.0.0-beta1&quot;
+  },
+  &quot;tagline&quot;: &quot;You Know, for Search&quot;
+}</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">b3JnLmdyYWRsZS5sb2dnaW5nLmxldmVsPWRlYnVnCg==</text>
+        <text encoding="base64">ZGIuY2FrZVNhbGVzLmFnZ3JlZ2F0ZSggWwo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -483,31 +491,22 @@ splunk_oncall.incident.count.closed.draft_test4,counter,team_name:infrastructure
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
-      <register name="4" type="4">
-        <keys>
-          <key char="105" code="0" mods="0" />
-          <key char="95" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="114" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="99" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="65535" code="27" mods="0" />
-        </keys>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJHNvcnQ6IHsgYXZnQWxlcnRDb3VudDogLTEgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjCg==</text>
+        <text encoding="base64">ICAgICAgICB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgb3V0T2ZCb3VuZHNFcnJvciA9ICJOdW1iZXIgbXVzdCBiZSBhIHdob2xlIG51bWJlciAiOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkdFTkNMT0NLID0gIiArIGdlbmVyYXRvckNsb2NrLmluc3RhbnQoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB3aGlsZSBpbnB1dAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIlJBTkRPREVMVCA9ICIgKyByYW5kb0RlbHRhKTsK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoaW5wdXQgPCAxKSB7Cg==</text>
       </register>
       <register name="x" type="4">
         <keys>
@@ -528,7 +527,7 @@ splunk_oncall.incident.count.closed.draft_test4,counter,team_name:infrastructure
         </keys>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKG91dE9mQm91bmRzRXJyb3IpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>147</text>
