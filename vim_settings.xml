@@ -118,7 +118,7 @@
         <mark key="^" line="26" column="40" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1625800836103">
+      <file name="/Dummy.txt" timestamp="1637265825594">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/java_training/src/HelloWorld.java" timestamp="1633564600677">
@@ -136,7 +136,13 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="/result.json" timestamp="1637263096858">
+      <file name="/console" timestamp="1637264318464">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.java" timestamp="1637278162401">
+        <mark key="[" line="2" column="0" />
+      </file>
+      <file name="/result.json" timestamp="1637339410295">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -147,12 +153,8 @@
         <mark key="^" line="658" column="30" />
         <mark key="." line="658" column="29" />
       </file>
-      <file name="$USER_HOME$/GitLab/data-lambda-refine/sls_config/cyclops-playground.json" timestamp="1617656683319">
-        <mark key="'" line="4" column="57" />
-        <mark key="[" line="16" column="28" />
-        <mark key="]" line="16" column="28" />
-        <mark key="^" line="16" column="28" />
-        <mark key="." line="16" column="27" />
+      <file name="/a.sql" timestamp="1637266276493">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/GitLab/perseus-pipeline-poc/src/main/java/poc/observability/MetricDataGenerator.java" timestamp="1625837297617">
         <mark key="[" line="165" column="101" />
@@ -160,11 +162,10 @@
         <mark key="." line="165" column="24" />
         <mark key="^" line="164" column="39" />
       </file>
-      <file name="$USER_HOME$/GitLab/perseus-pipeline-poc/src/main/java/poc/ApplicationProperties.java" timestamp="1625245054701">
-        <mark key="[" line="16" column="77" />
-        <mark key="]" line="16" column="77" />
-        <mark key="." line="16" column="77" />
-        <mark key="^" line="16" column="77" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c7032118-98c7-4f4b-96a8-bf91ee73512b/console.sql" timestamp="1637264323867">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/GitLab/perseus-pipeline-poc/data/metrics-generator.csv" timestamp="1626291727659">
         <mark key="'" line="61" column="86" />
@@ -179,13 +180,6 @@
         <mark key="]" line="65" column="34" />
         <mark key="." line="65" column="34" />
         <mark key="^" line="65" column="35" />
-      </file>
-      <file name="$USER_HOME$/GitLab/data-lambda-refine/serverless.yml" timestamp="1619023628677">
-        <mark key="'" line="71" column="0" />
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="72" />
-        <mark key="^" line="9" column="3" />
-        <mark key="." line="59" column="72" />
       </file>
       <file name="$USER_HOME$/GitLab/perseus-pipeline-poc/src/main/resources/poc-lab.properties" timestamp="1625800798131">
         <mark key="[" line="13" column="40" />
@@ -205,7 +199,7 @@
         <mark key="^" line="12" column="19" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="/body.elasticsearch" timestamp="1637263096772">
+      <file name="/body.elasticsearch" timestamp="1637339365512">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.json" timestamp="1625764870315">
@@ -353,7 +347,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>routing_key</text>
@@ -479,7 +473,23 @@
 }</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGIuY2FrZVNhbGVzLmFnZ3JlZ2F0ZSggWwo=</text>
+        <text>{
+  &quot;name&quot;: &quot;b637c933246f&quot;,
+  &quot;cluster_name&quot;: &quot;docker-cluster&quot;,
+  &quot;cluster_uuid&quot;: &quot;bsAJvxFYRhCDoqcFcA4wRA&quot;,
+  &quot;version&quot;: {
+    &quot;number&quot;: &quot;7.10.1&quot;,
+    &quot;build_flavor&quot;: &quot;default&quot;,
+    &quot;build_type&quot;: &quot;docker&quot;,
+    &quot;build_hash&quot;: &quot;1c34507e66d7db1211f66f3513706fdf548736aa&quot;,
+    &quot;build_date&quot;: &quot;2020-12-05T01:00:33.671820Z&quot;,
+    &quot;build_snapshot&quot;: false,
+    &quot;lucene_version&quot;: &quot;8.7.0&quot;,
+    &quot;minimum_wire_compatibility_version&quot;: &quot;6.8.0&quot;,
+    &quot;minimum_index_compatibility_version&quot;: &quot;6.0.0-beta1&quot;
+  },
+  &quot;tagline&quot;: &quot;You Know, for Search&quot;
+}</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -491,22 +501,22 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ZGIuY2FrZVNhbGVzLmFnZ3JlZ2F0ZSggWwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHNvcnQ6IHsgYXZnQWxlcnRDb3VudDogLTEgfQo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHNvcnQ6IHsgYXZnQWxlcnRDb3VudDogLTEgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgb3V0T2ZCb3VuZHNFcnJvciA9ICJOdW1iZXIgbXVzdCBiZSBhIHdob2xlIG51bWJlciAiOwo=</text>
+        <text encoding="base64">ICAgICAgICB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB3aGlsZSBpbnB1dAo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgb3V0T2ZCb3VuZHNFcnJvciA9ICJOdW1iZXIgbXVzdCBiZSBhIHdob2xlIG51bWJlciAiOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoaW5wdXQgPCAxKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICB3aGlsZSBpbnB1dAo=</text>
       </register>
       <register name="x" type="4">
         <keys>
@@ -527,7 +537,7 @@
         </keys>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKG91dE9mQm91bmRzRXJyb3IpOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoaW5wdXQgPCAxKSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>147</text>
