@@ -142,11 +142,12 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.java" timestamp="1637278162401">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="/result.json" timestamp="1637608848950">
+      <file name="/result.json" timestamp="1637625842946">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/GitLab/perseus/alert-incident-service/README.md" timestamp="1637625842923" />
       <file name="/Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/lib/src.zip!/java.base/java/time/Clock.java" timestamp="1625836632859">
         <mark key="[" line="658" column="30" />
         <mark key="]" line="658" column="30" />
@@ -174,13 +175,6 @@
         <mark key="^" line="54" column="85" />
         <mark key="." line="66" column="96" />
       </file>
-      <file name="$USER_HOME$/GitLab/perseus-pipeline-poc/src/main/java/poc/observability/Metric.java" timestamp="1625248153873">
-        <mark key="'" line="31" column="8" />
-        <mark key="[" line="65" column="34" />
-        <mark key="]" line="65" column="34" />
-        <mark key="." line="65" column="34" />
-        <mark key="^" line="65" column="35" />
-      </file>
       <file name="$USER_HOME$/GitLab/perseus-pipeline-poc/src/main/resources/poc-lab.properties" timestamp="1625800798131">
         <mark key="[" line="13" column="40" />
         <mark key="]" line="13" column="42" />
@@ -199,10 +193,9 @@
         <mark key="^" line="12" column="19" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="/body.elasticsearch" timestamp="1637616717537">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+      <file name="/body.elasticsearch" timestamp="1637626748045">
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="/Dummy.json" timestamp="1625764870315">
         <mark key="[" line="0" column="0" />
