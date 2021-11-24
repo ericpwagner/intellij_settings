@@ -126,13 +126,7 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/GitLab/perseus/alert-incident-service/src/main/resources/application.properties" timestamp="1637770058040">
-        <mark key="'" line="15" column="63" />
-        <mark key="[" line="14" column="100" />
-        <mark key="]" line="15" column="64" />
-        <mark key="^" line="15" column="64" />
-        <mark key="." line="15" column="63" />
-      </file>
+      <file name="$USER_HOME$/GitLab/perseus/alert-incident-service/src/main/resources/application.properties" timestamp="1637770058040" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/jshell/jshell_console_3.snippet" timestamp="1633563509845">
         <mark key="[" line="0" column="12" />
         <mark key="]" line="0" column="20" />
