@@ -185,10 +185,10 @@
         <mark key="^" line="12" column="19" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="/body.elasticsearch" timestamp="1638206613109">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="18" column="18" />
-        <mark key="." line="18" column="18" />
+      <file name="/body.elasticsearch" timestamp="1638219812738">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/GitLab/perseus/alert-incident-service/docker-compose.yml" timestamp="1637772655360">
         <mark key="[" line="9" column="8" />
@@ -303,8 +303,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -425,10 +425,10 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJxdWVyeSI6IHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAiZnJvbSI6IDEwLAogICJzaXplIjogMTAs</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -440,6 +440,12 @@
         </keys>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICJxdWVyeSI6IHsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="5" type="2">
         <text>{
   &quot;_shards&quot;: {
     &quot;total&quot;: 2,
@@ -951,52 +957,46 @@
   }
 }</text>
       </register>
-      <register name="4" type="2">
-        <text>{
-  &quot;name&quot;: &quot;b637c933246f&quot;,
-  &quot;cluster_name&quot;: &quot;docker-cluster&quot;,
-  &quot;cluster_uuid&quot;: &quot;bsAJvxFYRhCDoqcFcA4wRA&quot;,
-  &quot;version&quot;: {
-    &quot;number&quot;: &quot;7.10.1&quot;,
-    &quot;build_flavor&quot;: &quot;default&quot;,
-    &quot;build_type&quot;: &quot;docker&quot;,
-    &quot;build_hash&quot;: &quot;1c34507e66d7db1211f66f3513706fdf548736aa&quot;,
-    &quot;build_date&quot;: &quot;2020-12-05T01:00:33.671820Z&quot;,
-    &quot;build_snapshot&quot;: false,
-    &quot;lucene_version&quot;: &quot;8.7.0&quot;,
-    &quot;minimum_wire_compatibility_version&quot;: &quot;6.8.0&quot;,
-    &quot;minimum_index_compatibility_version&quot;: &quot;6.0.0-beta1&quot;
-  },
-  &quot;tagline&quot;: &quot;You Know, for Search&quot;
-}</text>
-      </register>
-      <register name="5" type="2">
-        <text>{
-  &quot;name&quot;: &quot;b637c933246f&quot;,
-  &quot;cluster_name&quot;: &quot;docker-cluster&quot;,
-  &quot;cluster_uuid&quot;: &quot;bsAJvxFYRhCDoqcFcA4wRA&quot;,
-  &quot;version&quot;: {
-    &quot;number&quot;: &quot;7.10.1&quot;,
-    &quot;build_flavor&quot;: &quot;default&quot;,
-    &quot;build_type&quot;: &quot;docker&quot;,
-    &quot;build_hash&quot;: &quot;1c34507e66d7db1211f66f3513706fdf548736aa&quot;,
-    &quot;build_date&quot;: &quot;2020-12-05T01:00:33.671820Z&quot;,
-    &quot;build_snapshot&quot;: false,
-    &quot;lucene_version&quot;: &quot;8.7.0&quot;,
-    &quot;minimum_wire_compatibility_version&quot;: &quot;6.8.0&quot;,
-    &quot;minimum_index_compatibility_version&quot;: &quot;6.0.0-beta1&quot;
-  },
-  &quot;tagline&quot;: &quot;You Know, for Search&quot;
-}</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGIuY2FrZVNhbGVzLmFnZ3JlZ2F0ZSggWwo=</text>
+        <text>{
+  &quot;name&quot;: &quot;b637c933246f&quot;,
+  &quot;cluster_name&quot;: &quot;docker-cluster&quot;,
+  &quot;cluster_uuid&quot;: &quot;bsAJvxFYRhCDoqcFcA4wRA&quot;,
+  &quot;version&quot;: {
+    &quot;number&quot;: &quot;7.10.1&quot;,
+    &quot;build_flavor&quot;: &quot;default&quot;,
+    &quot;build_type&quot;: &quot;docker&quot;,
+    &quot;build_hash&quot;: &quot;1c34507e66d7db1211f66f3513706fdf548736aa&quot;,
+    &quot;build_date&quot;: &quot;2020-12-05T01:00:33.671820Z&quot;,
+    &quot;build_snapshot&quot;: false,
+    &quot;lucene_version&quot;: &quot;8.7.0&quot;,
+    &quot;minimum_wire_compatibility_version&quot;: &quot;6.8.0&quot;,
+    &quot;minimum_index_compatibility_version&quot;: &quot;6.0.0-beta1&quot;
+  },
+  &quot;tagline&quot;: &quot;You Know, for Search&quot;
+}</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text>{
+  &quot;name&quot;: &quot;b637c933246f&quot;,
+  &quot;cluster_name&quot;: &quot;docker-cluster&quot;,
+  &quot;cluster_uuid&quot;: &quot;bsAJvxFYRhCDoqcFcA4wRA&quot;,
+  &quot;version&quot;: {
+    &quot;number&quot;: &quot;7.10.1&quot;,
+    &quot;build_flavor&quot;: &quot;default&quot;,
+    &quot;build_type&quot;: &quot;docker&quot;,
+    &quot;build_hash&quot;: &quot;1c34507e66d7db1211f66f3513706fdf548736aa&quot;,
+    &quot;build_date&quot;: &quot;2020-12-05T01:00:33.671820Z&quot;,
+    &quot;build_snapshot&quot;: false,
+    &quot;lucene_version&quot;: &quot;8.7.0&quot;,
+    &quot;minimum_wire_compatibility_version&quot;: &quot;6.8.0&quot;,
+    &quot;minimum_index_compatibility_version&quot;: &quot;6.0.0-beta1&quot;
+  },
+  &quot;tagline&quot;: &quot;You Know, for Search&quot;
+}</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHNvcnQ6IHsgYXZnQWxlcnRDb3VudDogLTEgfQo=</text>
+        <text encoding="base64">ZGIuY2FrZVNhbGVzLmFnZ3JlZ2F0ZSggWwo=</text>
       </register>
       <register name="x" type="4">
         <keys>
@@ -1017,7 +1017,7 @@
         </keys>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>147</text>
