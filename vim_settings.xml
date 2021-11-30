@@ -166,12 +166,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GitLab/perseus-pipeline-poc/src/main/java/poc/observability/MetricDataGenerator.java" timestamp="1625837297617">
-        <mark key="[" line="165" column="101" />
-        <mark key="]" line="165" column="24" />
-        <mark key="." line="165" column="24" />
-        <mark key="^" line="164" column="39" />
-      </file>
       <file name="$USER_HOME$/GitLab/perseus-pipeline-poc/data/metrics-generator.csv" timestamp="1626291727659">
         <mark key="'" line="61" column="86" />
         <mark key="[" line="67" column="150" />
