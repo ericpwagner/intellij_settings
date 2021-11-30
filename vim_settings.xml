@@ -112,25 +112,24 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/java_training/src/Main.java" timestamp="1633617166547">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="100" />
-        <mark key="^" line="26" column="40" />
-        <mark key="." line="27" column="0" />
-      </file>
       <file name="/console" timestamp="1637264318464">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.java" timestamp="1637278162401">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/GitLab/perseus/alert-incident-service/src/main/java/splunk/observability/incidentintelligence/alertincidentservice/models/incident/Incident.java" timestamp="1638226156694" />
+      <file name="$USER_HOME$/GitLab/perseus/alert-incident-service/src/main/java/splunk/observability/incidentintelligence/alertincidentservice/models/incident/Incident.java" timestamp="1638300739676">
+        <mark key="[" line="56" column="34" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
+      </file>
       <file name="$USER_HOME$/GitLab/perseus/alert-incident-service/README.md" timestamp="1638232155085" />
-      <file name="$USER_HOME$/GitLab/perseus/alert-incident-service/src/main/java/splunk/observability/incidentintelligence/alertincidentservice/services/IncidentService.java" timestamp="1638297709543">
-        <mark key="[" line="94" column="17" />
-        <mark key="]" line="100" column="3" />
+      <file name="$USER_HOME$/GitLab/perseus/alert-incident-service/src/main/java/splunk/observability/incidentintelligence/alertincidentservice/services/IncidentService.java" timestamp="1638300319550">
+        <mark key="[" line="99" column="0" />
+        <mark key="]" line="100" column="16" />
         <mark key="m" line="86" column="0" />
-        <mark key="." line="94" column="0" />
+        <mark key="." line="100" column="15" />
+        <mark key="^" line="100" column="16" />
       </file>
       <file name="/a.sql" timestamp="1637266276493">
         <mark key="[" line="0" column="0" />
@@ -144,7 +143,11 @@
       <file name="/body.elasticsearch" timestamp="1638227069704">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GitLab/perseus/alert-incident-service/src/main/java/splunk/observability/incidentintelligence/alertincidentservice/repositories/IncidentRepository.java" timestamp="1638297243205" />
+      <file name="$USER_HOME$/GitLab/perseus/alert-incident-service/src/main/java/splunk/observability/incidentintelligence/alertincidentservice/repositories/IncidentRepository.java" timestamp="1638300120907">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+      </file>
       <file name="$USER_HOME$/GitLab/perseus/alert-incident-service/docker-compose.yml" timestamp="1637772655360">
         <mark key="[" line="9" column="8" />
       </file>
@@ -164,6 +167,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/GitLab/perseus/alert-incident-service/src/main/java/splunk/observability/incidentintelligence/alertincidentservice/models/incident/IncidentTimeToFirstAck.java" timestamp="1638300070404">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" timestamp="1634332282764">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="26" column="17" />
@@ -171,7 +179,7 @@
         <mark key="^" line="12" column="19" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1637253946035">
+      <file name="/fragment.java" timestamp="1638299883641">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/GitLab/perseus/alert-incident-service/src/main/java/splunk/observability/incidentintelligence/alertincidentservice/models/incident/updates/IncidentAcknowledge.java" timestamp="1637696438236" />
@@ -282,7 +290,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -296,13 +304,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">ICAgIHJldHVybiA=</text>
       </register>
       <register name="/" type="4">
         <text>localhost</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBNb25vPEluY2lkZW50PiBmaW5kQnlJbmNpZGVudElkQW5kT3JnSWQoVVVJRCBpbmNpZGVudElkLCBTdHJpbmcgb3JnSWQpOwoKICBAQWdncmVnYXRpb24ocGlwZWxpbmUgPSB7CiAgICAgICJ7ICckbWF0Y2gnOiB7ICdvcmdJZCc6ID8wIH0gfSIsCiAgICAgICJ7ICckZ3JvdXAnOiB7ICBfaWQ6ICckPzEnLCBjb3VudDogeyAkc3VtOiAxIH0gfSB9IiwKICAgICAgInsgJyRwcm9qZWN0JzogeyBfaWQ6IDAsIGdyb3VwaW5nOiAnPzEnLCBsYWJlbDogJyRfaWQnLCBjb3VudDogMSB9IH0iCiAgfSkKICBGbHV4PENvdW50QWdncmVnYXRlPiBjb3VudEJ5T3JnSWRBbmRHcm91cGluZyhTdHJpbmcgb3JnSWQsIFN0cmluZyBncm91cGluZyk7Cg==</text>
+        <text encoding="base64">ICBGbHV4PENvdW50QWdncmVnYXRlPiBjb3VudEJ5T3JnSWRBbmRHcm91cGluZyhTdHJpbmcgb3JnSWQsIFN0cmluZyBncm91cGluZyk7Cg==</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -403,10 +411,10 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAKICBwdWJsaWMgSW50ZWdlciBnZXRUaW1lVG9GaXJzdEFjaygpIHsKICAgIAogIH0K</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -418,531 +426,22 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAvKioKICAqIEdldCBpbmNpZGVudCBieSBpbmNpZGVudElkLgogICovCiAgIEBHZXRNYXBwaW5nKHBhdGggPSAiaW5jaWRlbnRzL3tpbmNpZGVudElkfS90aW1lVG9GaXJzdEFjayIsIHByb2R1Y2VzID0gTWVkaWFUeXBlLkFQUExJQ0FUSU9OX0pTT05fVkFMVUUpCiAgIEBQYXJhbWV0ZXIobmFtZSA9ICJpbmNpZGVudElkIiwgZGVzY3JpcHRpb24gPSAiVW5pcXVlIGlkZW50aWZpZXIgZm9yIGFuIEluY2lkZW50IiwgcmVxdWlyZWQgPSB0cnVlKQogICBwdWJsaWMgTW9ubzxJbmNpZGVudD4gZ2V0SW5jaWRlbnQoQFJlcXVlc3RIZWFkZXIodmFsdWUgPSBPUkdfSUQpIFN0cmluZyBvcmdJZCwgQFBhdGhWYXJpYWJsZSBVVUlEIGluY2lkZW50SWQpIHsKICAgICAgIExvZ0hlbHBlci53aGVuRGVidWcobG9nZ2VyLAogICAgICAgICAgICAgICAobG9nZ2VyKSAtPiBsb2dnZXIuZGVidWcoIlF1ZXJ5aW5nIGluY2lkZW50IGJ5IGlkOiB7fSwgb3JnSWQ6IHt9IiwKICAgICAgICAgICAgICAgICAgICAgICBMb2dIZWxwZXIuQXJncy5rdigiaW5jaWRlbnRJZCIsIGluY2lkZW50SWQpLCBMb2dIZWxwZXIuQXJncy5rdihPUkdfSUQsIG9yZ0lkKSkpOwogICAgICAgcmV0dXJuIGluY2lkZW50U2VydmljZS5nZXRJbmNpZGVudChpbmNpZGVudElkLCBvcmdJZCkKICAgICAgICAgICAgICAgLnN3aXRjaElmRW1wdHkoCiAgICAgICAgICAgICAgICAgICAgICAgTW9uby5lcnJvcigKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5ldyBSZXNwb25zZVN0YXR1c0V4Y2VwdGlvbigKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgSHR0cFN0YXR1cy5OT1RfRk9VTkQsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFN0cmluZy5mb3JtYXQoIkluY2lkZW50SWQgJXMgbm90IGZvdW5kIiwgaW5jaWRlbnRJZCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgICAgICAgICAgICApCiAgICAgICAgICAgICAgICkKICAgICAgICAgICAgICAgLmRvT25FYWNoKExvZ0hlbHBlci5sb2dPbk5leHQoKGluY2lkZW50KSAtPiBsb2dnZXIuaW5mbygiRm91bmQgaW5jaWRlbnQge30gYnkgaWQiLCBpbmNpZGVudC5nZXRJbmNpZGVudElkKCkpKSkKICAgICAgICAgICAgICAgLmRvT25FYWNoKExvZ0hlbHBlci5sb2dPbkVycm9yKChlcnIpIC0+IGxvZ2dlci5pbmZvKCJObyBpbmNpZGVudCBmb3VuZCBmb3IgaWQge30iLCBpbmNpZGVudElkKSkpCiAgICAgICAgICAgICAgIC5zdWJzY3JpYmVyQ29udGV4dChMb2dIZWxwZXIucHV0TWFwKE1hcC5vZigiaW5jaWRlbnRJZCIsIGluY2lkZW50SWQudG9TdHJpbmcoKSwgT1JHX0lELCBvcmdJZCkpKTsKICAgfQ==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAiZnJvbSI6IDEwLAogICJzaXplIjogMTAs</text>
+        <text encoding="base64">ICBAQWdncmVnYXRpb24ocGlwZWxpbmUgPSB7CiAgICAgICJ7ICckbWF0Y2gnOiB7ICdvcmdJZCc6ID8wIH0gfSIsCiAgfSkKICBGbHV4PENvdW50QWdncmVnYXRlPiBnZXRJbmNpZGVudFRpbWVUb0ZpcnN0QWNrKFVVRCBpbmNpZGVudElkLCBTdHJpbmcgb3JnSWQpOw==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJxdWVyeSI6IHsK</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIHJldHVybiBjb2xsYWJvcmF0aW9uVG9vbHMgPT0gbnVsbCA/IFNldC5vZigpIDogY29sbGFib3JhdGlvblRvb2xzOwo=</text>
       </register>
       <register name="8" type="2">
-        <text>{
-  &quot;_shards&quot;: {
-    &quot;total&quot;: 2,
-    &quot;successful&quot;: 1,
-    &quot;failed&quot;: 0
-  },
-  &quot;_all&quot;: {
-    &quot;primaries&quot;: {
-      &quot;docs&quot;: {
-        &quot;count&quot;: 138,
-        &quot;deleted&quot;: 0
-      },
-      &quot;store&quot;: {
-        &quot;size_in_bytes&quot;: 612508,
-        &quot;reserved_in_bytes&quot;: 0
-      },
-      &quot;indexing&quot;: {
-        &quot;index_total&quot;: 138,
-        &quot;index_time_in_millis&quot;: 291,
-        &quot;index_current&quot;: 0,
-        &quot;index_failed&quot;: 0,
-        &quot;delete_total&quot;: 0,
-        &quot;delete_time_in_millis&quot;: 0,
-        &quot;delete_current&quot;: 0,
-        &quot;noop_update_total&quot;: 0,
-        &quot;is_throttled&quot;: false,
-        &quot;throttle_time_in_millis&quot;: 0
-      },
-      &quot;get&quot;: {
-        &quot;total&quot;: 0,
-        &quot;time_in_millis&quot;: 0,
-        &quot;exists_total&quot;: 0,
-        &quot;exists_time_in_millis&quot;: 0,
-        &quot;missing_total&quot;: 0,
-        &quot;missing_time_in_millis&quot;: 0,
-        &quot;current&quot;: 0
-      },
-      &quot;search&quot;: {
-        &quot;open_contexts&quot;: 0,
-        &quot;query_total&quot;: 0,
-        &quot;query_time_in_millis&quot;: 0,
-        &quot;query_current&quot;: 0,
-        &quot;fetch_total&quot;: 0,
-        &quot;fetch_time_in_millis&quot;: 0,
-        &quot;fetch_current&quot;: 0,
-        &quot;scroll_total&quot;: 0,
-        &quot;scroll_time_in_millis&quot;: 0,
-        &quot;scroll_current&quot;: 0,
-        &quot;suggest_total&quot;: 0,
-        &quot;suggest_time_in_millis&quot;: 0,
-        &quot;suggest_current&quot;: 0
-      },
-      &quot;merges&quot;: {
-        &quot;current&quot;: 0,
-        &quot;current_docs&quot;: 0,
-        &quot;current_size_in_bytes&quot;: 0,
-        &quot;total&quot;: 0,
-        &quot;total_time_in_millis&quot;: 0,
-        &quot;total_docs&quot;: 0,
-        &quot;total_size_in_bytes&quot;: 0,
-        &quot;total_stopped_time_in_millis&quot;: 0,
-        &quot;total_throttled_time_in_millis&quot;: 0,
-        &quot;total_auto_throttle_in_bytes&quot;: 20971520
-      },
-      &quot;refresh&quot;: {
-        &quot;total&quot;: 11,
-        &quot;total_time_in_millis&quot;: 637,
-        &quot;external_total&quot;: 10,
-        &quot;external_total_time_in_millis&quot;: 642,
-        &quot;listeners&quot;: 0
-      },
-      &quot;flush&quot;: {
-        &quot;total&quot;: 1,
-        &quot;periodic&quot;: 0,
-        &quot;total_time_in_millis&quot;: 88
-      },
-      &quot;warmer&quot;: {
-        &quot;current&quot;: 0,
-        &quot;total&quot;: 9,
-        &quot;total_time_in_millis&quot;: 5
-      },
-      &quot;query_cache&quot;: {
-        &quot;memory_size_in_bytes&quot;: 0,
-        &quot;total_count&quot;: 0,
-        &quot;hit_count&quot;: 0,
-        &quot;miss_count&quot;: 0,
-        &quot;cache_size&quot;: 0,
-        &quot;cache_count&quot;: 0,
-        &quot;evictions&quot;: 0
-      },
-      &quot;fielddata&quot;: {
-        &quot;memory_size_in_bytes&quot;: 0,
-        &quot;evictions&quot;: 0
-      },
-      &quot;completion&quot;: {
-        &quot;size_in_bytes&quot;: 0
-      },
-      &quot;segments&quot;: {
-        &quot;count&quot;: 8,
-        &quot;memory_in_bytes&quot;: 278152,
-        &quot;terms_memory_in_bytes&quot;: 230784,
-        &quot;stored_fields_memory_in_bytes&quot;: 3904,
-        &quot;term_vectors_memory_in_bytes&quot;: 0,
-        &quot;norms_memory_in_bytes&quot;: 32640,
-        &quot;points_memory_in_bytes&quot;: 0,
-        &quot;doc_values_memory_in_bytes&quot;: 10824,
-        &quot;index_writer_memory_in_bytes&quot;: 0,
-        &quot;version_map_memory_in_bytes&quot;: 0,
-        &quot;fixed_bit_set_memory_in_bytes&quot;: 0,
-        &quot;max_unsafe_auto_id_timestamp&quot;: -1,
-        &quot;file_sizes&quot;: {}
-      },
-      &quot;translog&quot;: {
-        &quot;operations&quot;: 0,
-        &quot;size_in_bytes&quot;: 55,
-        &quot;uncommitted_operations&quot;: 0,
-        &quot;uncommitted_size_in_bytes&quot;: 55,
-        &quot;earliest_last_modified_age&quot;: 677863
-      },
-      &quot;request_cache&quot;: {
-        &quot;memory_size_in_bytes&quot;: 0,
-        &quot;evictions&quot;: 0,
-        &quot;hit_count&quot;: 0,
-        &quot;miss_count&quot;: 0
-      },
-      &quot;recovery&quot;: {
-        &quot;current_as_source&quot;: 0,
-        &quot;current_as_target&quot;: 0,
-        &quot;throttle_time_in_millis&quot;: 0
-      }
-    },
-    &quot;total&quot;: {
-      &quot;docs&quot;: {
-        &quot;count&quot;: 138,
-        &quot;deleted&quot;: 0
-      },
-      &quot;store&quot;: {
-        &quot;size_in_bytes&quot;: 612508,
-        &quot;reserved_in_bytes&quot;: 0
-      },
-      &quot;indexing&quot;: {
-        &quot;index_total&quot;: 138,
-        &quot;index_time_in_millis&quot;: 291,
-        &quot;index_current&quot;: 0,
-        &quot;index_failed&quot;: 0,
-        &quot;delete_total&quot;: 0,
-        &quot;delete_time_in_millis&quot;: 0,
-        &quot;delete_current&quot;: 0,
-        &quot;noop_update_total&quot;: 0,
-        &quot;is_throttled&quot;: false,
-        &quot;throttle_time_in_millis&quot;: 0
-      },
-      &quot;get&quot;: {
-        &quot;total&quot;: 0,
-        &quot;time_in_millis&quot;: 0,
-        &quot;exists_total&quot;: 0,
-        &quot;exists_time_in_millis&quot;: 0,
-        &quot;missing_total&quot;: 0,
-        &quot;missing_time_in_millis&quot;: 0,
-        &quot;current&quot;: 0
-      },
-      &quot;search&quot;: {
-        &quot;open_contexts&quot;: 0,
-        &quot;query_total&quot;: 0,
-        &quot;query_time_in_millis&quot;: 0,
-        &quot;query_current&quot;: 0,
-        &quot;fetch_total&quot;: 0,
-        &quot;fetch_time_in_millis&quot;: 0,
-        &quot;fetch_current&quot;: 0,
-        &quot;scroll_total&quot;: 0,
-        &quot;scroll_time_in_millis&quot;: 0,
-        &quot;scroll_current&quot;: 0,
-        &quot;suggest_total&quot;: 0,
-        &quot;suggest_time_in_millis&quot;: 0,
-        &quot;suggest_current&quot;: 0
-      },
-      &quot;merges&quot;: {
-        &quot;current&quot;: 0,
-        &quot;current_docs&quot;: 0,
-        &quot;current_size_in_bytes&quot;: 0,
-        &quot;total&quot;: 0,
-        &quot;total_time_in_millis&quot;: 0,
-        &quot;total_docs&quot;: 0,
-        &quot;total_size_in_bytes&quot;: 0,
-        &quot;total_stopped_time_in_millis&quot;: 0,
-        &quot;total_throttled_time_in_millis&quot;: 0,
-        &quot;total_auto_throttle_in_bytes&quot;: 20971520
-      },
-      &quot;refresh&quot;: {
-        &quot;total&quot;: 11,
-        &quot;total_time_in_millis&quot;: 637,
-        &quot;external_total&quot;: 10,
-        &quot;external_total_time_in_millis&quot;: 642,
-        &quot;listeners&quot;: 0
-      },
-      &quot;flush&quot;: {
-        &quot;total&quot;: 1,
-        &quot;periodic&quot;: 0,
-        &quot;total_time_in_millis&quot;: 88
-      },
-      &quot;warmer&quot;: {
-        &quot;current&quot;: 0,
-        &quot;total&quot;: 9,
-        &quot;total_time_in_millis&quot;: 5
-      },
-      &quot;query_cache&quot;: {
-        &quot;memory_size_in_bytes&quot;: 0,
-        &quot;total_count&quot;: 0,
-        &quot;hit_count&quot;: 0,
-        &quot;miss_count&quot;: 0,
-        &quot;cache_size&quot;: 0,
-        &quot;cache_count&quot;: 0,
-        &quot;evictions&quot;: 0
-      },
-      &quot;fielddata&quot;: {
-        &quot;memory_size_in_bytes&quot;: 0,
-        &quot;evictions&quot;: 0
-      },
-      &quot;completion&quot;: {
-        &quot;size_in_bytes&quot;: 0
-      },
-      &quot;segments&quot;: {
-        &quot;count&quot;: 8,
-        &quot;memory_in_bytes&quot;: 278152,
-        &quot;terms_memory_in_bytes&quot;: 230784,
-        &quot;stored_fields_memory_in_bytes&quot;: 3904,
-        &quot;term_vectors_memory_in_bytes&quot;: 0,
-        &quot;norms_memory_in_bytes&quot;: 32640,
-        &quot;points_memory_in_bytes&quot;: 0,
-        &quot;doc_values_memory_in_bytes&quot;: 10824,
-        &quot;index_writer_memory_in_bytes&quot;: 0,
-        &quot;version_map_memory_in_bytes&quot;: 0,
-        &quot;fixed_bit_set_memory_in_bytes&quot;: 0,
-        &quot;max_unsafe_auto_id_timestamp&quot;: -1,
-        &quot;file_sizes&quot;: {}
-      },
-      &quot;translog&quot;: {
-        &quot;operations&quot;: 0,
-        &quot;size_in_bytes&quot;: 55,
-        &quot;uncommitted_operations&quot;: 0,
-        &quot;uncommitted_size_in_bytes&quot;: 55,
-        &quot;earliest_last_modified_age&quot;: 677863
-      },
-      &quot;request_cache&quot;: {
-        &quot;memory_size_in_bytes&quot;: 0,
-        &quot;evictions&quot;: 0,
-        &quot;hit_count&quot;: 0,
-        &quot;miss_count&quot;: 0
-      },
-      &quot;recovery&quot;: {
-        &quot;current_as_source&quot;: 0,
-        &quot;current_as_target&quot;: 0,
-        &quot;throttle_time_in_millis&quot;: 0
-      }
-    }
-  },
-  &quot;indices&quot;: {
-    &quot;incidents&quot;: {
-      &quot;uuid&quot;: &quot;3xkrgfMgSzOOFRoPAp4AeA&quot;,
-      &quot;primaries&quot;: {
-        &quot;docs&quot;: {
-          &quot;count&quot;: 138,
-          &quot;deleted&quot;: 0
-        },
-        &quot;store&quot;: {
-          &quot;size_in_bytes&quot;: 612508,
-          &quot;reserved_in_bytes&quot;: 0
-        },
-        &quot;indexing&quot;: {
-          &quot;index_total&quot;: 138,
-          &quot;index_time_in_millis&quot;: 291,
-          &quot;index_current&quot;: 0,
-          &quot;index_failed&quot;: 0,
-          &quot;delete_total&quot;: 0,
-          &quot;delete_time_in_millis&quot;: 0,
-          &quot;delete_current&quot;: 0,
-          &quot;noop_update_total&quot;: 0,
-          &quot;is_throttled&quot;: false,
-          &quot;throttle_time_in_millis&quot;: 0
-        },
-        &quot;get&quot;: {
-          &quot;total&quot;: 0,
-          &quot;time_in_millis&quot;: 0,
-          &quot;exists_total&quot;: 0,
-          &quot;exists_time_in_millis&quot;: 0,
-          &quot;missing_total&quot;: 0,
-          &quot;missing_time_in_millis&quot;: 0,
-          &quot;current&quot;: 0
-        },
-        &quot;search&quot;: {
-          &quot;open_contexts&quot;: 0,
-          &quot;query_total&quot;: 0,
-          &quot;query_time_in_millis&quot;: 0,
-          &quot;query_current&quot;: 0,
-          &quot;fetch_total&quot;: 0,
-          &quot;fetch_time_in_millis&quot;: 0,
-          &quot;fetch_current&quot;: 0,
-          &quot;scroll_total&quot;: 0,
-          &quot;scroll_time_in_millis&quot;: 0,
-          &quot;scroll_current&quot;: 0,
-          &quot;suggest_total&quot;: 0,
-          &quot;suggest_time_in_millis&quot;: 0,
-          &quot;suggest_current&quot;: 0
-        },
-        &quot;merges&quot;: {
-          &quot;current&quot;: 0,
-          &quot;current_docs&quot;: 0,
-          &quot;current_size_in_bytes&quot;: 0,
-          &quot;total&quot;: 0,
-          &quot;total_time_in_millis&quot;: 0,
-          &quot;total_docs&quot;: 0,
-          &quot;total_size_in_bytes&quot;: 0,
-          &quot;total_stopped_time_in_millis&quot;: 0,
-          &quot;total_throttled_time_in_millis&quot;: 0,
-          &quot;total_auto_throttle_in_bytes&quot;: 20971520
-        },
-        &quot;refresh&quot;: {
-          &quot;total&quot;: 11,
-          &quot;total_time_in_millis&quot;: 637,
-          &quot;external_total&quot;: 10,
-          &quot;external_total_time_in_millis&quot;: 642,
-          &quot;listeners&quot;: 0
-        },
-        &quot;flush&quot;: {
-          &quot;total&quot;: 1,
-          &quot;periodic&quot;: 0,
-          &quot;total_time_in_millis&quot;: 88
-        },
-        &quot;warmer&quot;: {
-          &quot;current&quot;: 0,
-          &quot;total&quot;: 9,
-          &quot;total_time_in_millis&quot;: 5
-        },
-        &quot;query_cache&quot;: {
-          &quot;memory_size_in_bytes&quot;: 0,
-          &quot;total_count&quot;: 0,
-          &quot;hit_count&quot;: 0,
-          &quot;miss_count&quot;: 0,
-          &quot;cache_size&quot;: 0,
-          &quot;cache_count&quot;: 0,
-          &quot;evictions&quot;: 0
-        },
-        &quot;fielddata&quot;: {
-          &quot;memory_size_in_bytes&quot;: 0,
-          &quot;evictions&quot;: 0
-        },
-        &quot;completion&quot;: {
-          &quot;size_in_bytes&quot;: 0
-        },
-        &quot;segments&quot;: {
-          &quot;count&quot;: 8,
-          &quot;memory_in_bytes&quot;: 278152,
-          &quot;terms_memory_in_bytes&quot;: 230784,
-          &quot;stored_fields_memory_in_bytes&quot;: 3904,
-          &quot;term_vectors_memory_in_bytes&quot;: 0,
-          &quot;norms_memory_in_bytes&quot;: 32640,
-          &quot;points_memory_in_bytes&quot;: 0,
-          &quot;doc_values_memory_in_bytes&quot;: 10824,
-          &quot;index_writer_memory_in_bytes&quot;: 0,
-          &quot;version_map_memory_in_bytes&quot;: 0,
-          &quot;fixed_bit_set_memory_in_bytes&quot;: 0,
-          &quot;max_unsafe_auto_id_timestamp&quot;: -1,
-          &quot;file_sizes&quot;: {}
-        },
-        &quot;translog&quot;: {
-          &quot;operations&quot;: 0,
-          &quot;size_in_bytes&quot;: 55,
-          &quot;uncommitted_operations&quot;: 0,
-          &quot;uncommitted_size_in_bytes&quot;: 55,
-          &quot;earliest_last_modified_age&quot;: 677863
-        },
-        &quot;request_cache&quot;: {
-          &quot;memory_size_in_bytes&quot;: 0,
-          &quot;evictions&quot;: 0,
-          &quot;hit_count&quot;: 0,
-          &quot;miss_count&quot;: 0
-        },
-        &quot;recovery&quot;: {
-          &quot;current_as_source&quot;: 0,
-          &quot;current_as_target&quot;: 0,
-          &quot;throttle_time_in_millis&quot;: 0
-        }
-      },
-      &quot;total&quot;: {
-        &quot;docs&quot;: {
-          &quot;count&quot;: 138,
-          &quot;deleted&quot;: 0
-        },
-        &quot;store&quot;: {
-          &quot;size_in_bytes&quot;: 612508,
-          &quot;reserved_in_bytes&quot;: 0
-        },
-        &quot;indexing&quot;: {
-          &quot;index_total&quot;: 138,
-          &quot;index_time_in_millis&quot;: 291,
-          &quot;index_current&quot;: 0,
-          &quot;index_failed&quot;: 0,
-          &quot;delete_total&quot;: 0,
-          &quot;delete_time_in_millis&quot;: 0,
-          &quot;delete_current&quot;: 0,
-          &quot;noop_update_total&quot;: 0,
-          &quot;is_throttled&quot;: false,
-          &quot;throttle_time_in_millis&quot;: 0
-        },
-        &quot;get&quot;: {
-          &quot;total&quot;: 0,
-          &quot;time_in_millis&quot;: 0,
-          &quot;exists_total&quot;: 0,
-          &quot;exists_time_in_millis&quot;: 0,
-          &quot;missing_total&quot;: 0,
-          &quot;missing_time_in_millis&quot;: 0,
-          &quot;current&quot;: 0
-        },
-        &quot;search&quot;: {
-          &quot;open_contexts&quot;: 0,
-          &quot;query_total&quot;: 0,
-          &quot;query_time_in_millis&quot;: 0,
-          &quot;query_current&quot;: 0,
-          &quot;fetch_total&quot;: 0,
-          &quot;fetch_time_in_millis&quot;: 0,
-          &quot;fetch_current&quot;: 0,
-          &quot;scroll_total&quot;: 0,
-          &quot;scroll_time_in_millis&quot;: 0,
-          &quot;scroll_current&quot;: 0,
-          &quot;suggest_total&quot;: 0,
-          &quot;suggest_time_in_millis&quot;: 0,
-          &quot;suggest_current&quot;: 0
-        },
-        &quot;merges&quot;: {
-          &quot;current&quot;: 0,
-          &quot;current_docs&quot;: 0,
-          &quot;current_size_in_bytes&quot;: 0,
-          &quot;total&quot;: 0,
-          &quot;total_time_in_millis&quot;: 0,
-          &quot;total_docs&quot;: 0,
-          &quot;total_size_in_bytes&quot;: 0,
-          &quot;total_stopped_time_in_millis&quot;: 0,
-          &quot;total_throttled_time_in_millis&quot;: 0,
-          &quot;total_auto_throttle_in_bytes&quot;: 20971520
-        },
-        &quot;refresh&quot;: {
-          &quot;total&quot;: 11,
-          &quot;total_time_in_millis&quot;: 637,
-          &quot;external_total&quot;: 10,
-          &quot;external_total_time_in_millis&quot;: 642,
-          &quot;listeners&quot;: 0
-        },
-        &quot;flush&quot;: {
-          &quot;total&quot;: 1,
-          &quot;periodic&quot;: 0,
-          &quot;total_time_in_millis&quot;: 88
-        },
-        &quot;warmer&quot;: {
-          &quot;current&quot;: 0,
-          &quot;total&quot;: 9,
-          &quot;total_time_in_millis&quot;: 5
-        },
-        &quot;query_cache&quot;: {
-          &quot;memory_size_in_bytes&quot;: 0,
-          &quot;total_count&quot;: 0,
-          &quot;hit_count&quot;: 0,
-          &quot;miss_count&quot;: 0,
-          &quot;cache_size&quot;: 0,
-          &quot;cache_count&quot;: 0,
-          &quot;evictions&quot;: 0
-        },
-        &quot;fielddata&quot;: {
-          &quot;memory_size_in_bytes&quot;: 0,
-          &quot;evictions&quot;: 0
-        },
-        &quot;completion&quot;: {
-          &quot;size_in_bytes&quot;: 0
-        },
-        &quot;segments&quot;: {
-          &quot;count&quot;: 8,
-          &quot;memory_in_bytes&quot;: 278152,
-          &quot;terms_memory_in_bytes&quot;: 230784,
-          &quot;stored_fields_memory_in_bytes&quot;: 3904,
-          &quot;term_vectors_memory_in_bytes&quot;: 0,
-          &quot;norms_memory_in_bytes&quot;: 32640,
-          &quot;points_memory_in_bytes&quot;: 0,
-          &quot;doc_values_memory_in_bytes&quot;: 10824,
-          &quot;index_writer_memory_in_bytes&quot;: 0,
-          &quot;version_map_memory_in_bytes&quot;: 0,
-          &quot;fixed_bit_set_memory_in_bytes&quot;: 0,
-          &quot;max_unsafe_auto_id_timestamp&quot;: -1,
-          &quot;file_sizes&quot;: {}
-        },
-        &quot;translog&quot;: {
-          &quot;operations&quot;: 0,
-          &quot;size_in_bytes&quot;: 55,
-          &quot;uncommitted_operations&quot;: 0,
-          &quot;uncommitted_size_in_bytes&quot;: 55,
-          &quot;earliest_last_modified_age&quot;: 677863
-        },
-        &quot;request_cache&quot;: {
-          &quot;memory_size_in_bytes&quot;: 0,
-          &quot;evictions&quot;: 0,
-          &quot;hit_count&quot;: 0,
-          &quot;miss_count&quot;: 0
-        },
-        &quot;recovery&quot;: {
-          &quot;current_as_source&quot;: 0,
-          &quot;current_as_target&quot;: 0,
-          &quot;throttle_time_in_millis&quot;: 0
-        }
-      }
-    }
-  }
-}</text>
+        <text encoding="base64">ICBwdWJsaWMgU2V0PENvbGxhYm9yYXRpb25Ub29sPiBnZXRDb2xsYWJvcmF0aW9uVG9vbHMoKSB7Cg==</text>
       </register>
       <register name="x" type="4">
         <keys>
@@ -963,23 +462,7 @@
         </keys>
       </register>
       <register name="9" type="2">
-        <text>{
-  &quot;name&quot;: &quot;b637c933246f&quot;,
-  &quot;cluster_name&quot;: &quot;docker-cluster&quot;,
-  &quot;cluster_uuid&quot;: &quot;bsAJvxFYRhCDoqcFcA4wRA&quot;,
-  &quot;version&quot;: {
-    &quot;number&quot;: &quot;7.10.1&quot;,
-    &quot;build_flavor&quot;: &quot;default&quot;,
-    &quot;build_type&quot;: &quot;docker&quot;,
-    &quot;build_hash&quot;: &quot;1c34507e66d7db1211f66f3513706fdf548736aa&quot;,
-    &quot;build_date&quot;: &quot;2020-12-05T01:00:33.671820Z&quot;,
-    &quot;build_snapshot&quot;: false,
-    &quot;lucene_version&quot;: &quot;8.7.0&quot;,
-    &quot;minimum_wire_compatibility_version&quot;: &quot;6.8.0&quot;,
-    &quot;minimum_index_compatibility_version&quot;: &quot;6.0.0-beta1&quot;
-  },
-  &quot;tagline&quot;: &quot;You Know, for Search&quot;
-}</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>147</text>
