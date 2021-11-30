@@ -120,11 +120,11 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.java" timestamp="1637278162401">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/GitLab/perseus/alert-incident-service/src/main/java/splunk/observability/incidentintelligence/alertincidentservice/models/incident/Incident.java" timestamp="1638308304388">
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="63" column="0" />
-        <mark key="." line="63" column="0" />
-        <mark key="^" line="75" column="39" />
+      <file name="$USER_HOME$/GitLab/perseus/alert-incident-service/src/main/java/splunk/observability/incidentintelligence/alertincidentservice/models/incident/Incident.java" timestamp="1638309442113">
+        <mark key="[" line="76" column="5" />
+        <mark key="]" line="76" column="5" />
+        <mark key="." line="76" column="5" />
+        <mark key="^" line="73" column="0" />
       </file>
       <file name="$USER_HOME$/GitLab/perseus/alert-incident-service/README.md" timestamp="1638232155085" />
       <file name="$USER_HOME$/GitLab/perseus/alert-incident-service/src/main/java/splunk/observability/incidentintelligence/alertincidentservice/services/IncidentService.java" timestamp="1638300319550">
@@ -283,8 +283,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBAU3VwcHJlc3NXYXJuaW5ncygiY2hlY2tzdHlsZTpJbmRlbnRhdGlvbiIpCg==</text>
+      <register name="&quot;" type="4">
+        <text>Calculate and return the seconds between the creation of the incident and the first acknowledgement.</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -298,13 +298,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>A single incident could have multiple ack events in the userActions object, so sort them and return the earliest</text>
+        <text>Calculate and return the seconds between the creation of the incident and the first acknowledgement.</text>
       </register>
       <register name="/" type="4">
         <text>localhost</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkR1cmF0aW9uID0iICsgRHVyYXRpb24uYmV0d2Vlbih4LmdldCgwKSwgeC5nZXQoMikpKTsK</text>
+        <text encoding="base64">CiAgLyoqCiAgICogQ2FsY3VsYXRlIGFuZCByZXR1cm4gdGhlIHNlY29uZHMgYmV0d2VlbiB0aGUgY3JlYXRpb24gb2YgdGhlIGluY2lkZW50IGFuZCB0aGUgZmlyc3QgYWNrbm93bGVkZ2VtZW50LgogICAqIEluY2lkZW50cyBjYW4gaGF2ZSBtdWx0aXBsZSBhY2sgZXZlbnRzLCBzbyBoZXJlIHdlIGZldGNoIGFuZCBzb3J0IHRoZW0gdG8gZ2V0IHRoZSBmaXJzdCAoZWFybGllc3QpLgogICAqIEByZXR1cm4gbG9uZyAtIFRoZSBudW1iZXIgb2Ygc2Vjb25kcyByZXByZXNlbnRpbmcgdGltZSB0byBmaXJzdCBhY2tub3dsZWRnZW1lbnQuCiAgICovCg==</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -405,10 +405,10 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBAU3VwcHJlc3NXYXJuaW5ncygiY2hlY2tzdHlsZTpJbmRlbnRhdGlvbiIpCg==</text>
+        <text encoding="base64">ICAgKiBJbmNpZGVudHMgY2FuIGhhdmUgbXVsdGlwbGUgYWNrIGV2ZW50cywgc28gaGVyZSB3ZSBmZXRjaCBhbmQgc29ydCB0aGVtIHRvIGdldCB0aGUgZmlyc3QgKGVhcmxpZXN0KS4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgKiBhY2tub3dsZWRnZW1lbnQgdGltZQo=</text>
+        <text encoding="base64">ICAgICAgICAgIHJldHVybiBmCg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -420,22 +420,22 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudGltZS5EdXJhdGlvbjsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEluc3RhbnQgZmlyc3RBY2tJbnN0YW50ID0gZ2V0Rmlyc3RBY2tJbnN0YW50KCk7ZGQK</text>
+        <text encoding="base64">ICAgIH0gIGVsc2Ugewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBUaW1lVW5pdC5TRUNPTkRTLnNsZWVwKDIpOwo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgIG8gCg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIGZhbHNlOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="x" type="4">
         <keys>
@@ -456,7 +456,7 @@
         </keys>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0gZWxzZSB7Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiAK</text>
       </register>
       <register name=":" type="4">
         <text>147</text>
