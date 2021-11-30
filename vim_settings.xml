@@ -126,11 +126,12 @@
         <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/GitLab/perseus/alert-incident-service/README.md" timestamp="1638232155085" />
-      <file name="$USER_HOME$/GitLab/perseus/alert-incident-service/src/main/java/splunk/observability/incidentintelligence/alertincidentservice/services/IncidentService.java" timestamp="1638313681625">
-        <mark key="[" line="121" column="32" />
-        <mark key="m" line="91" column="0" />
-        <mark key="]" line="8" column="29" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/GitLab/perseus/alert-incident-service/src/main/java/splunk/observability/incidentintelligence/alertincidentservice/services/IncidentService.java" timestamp="1638316025770">
+        <mark key="[" line="117" column="61" />
+        <mark key="m" line="92" column="0" />
+        <mark key="]" line="117" column="61" />
+        <mark key="." line="117" column="61" />
+        <mark key="^" line="117" column="64" />
       </file>
       <file name="/a.sql" timestamp="1637266276493">
         <mark key="[" line="0" column="0" />
@@ -287,8 +288,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5Db2xsZWN0aW9uczsK</text>
+      <register name="&quot;" type="4">
+        <text>action</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -302,13 +303,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>orgId</text>
+        <text>action</text>
       </register>
       <register name="/" type="4">
         <text>localhost</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5BcnJheUxpc3Q7Cg==</text>
+        <text encoding="base64">ICAgICAgICBGaWVsZCBhY3Rpb25UeXBlID0gYWN0LmdldENsYXNzKCkuZ2V0RGVjbGFyZWRGaWVsZCgiYWN0aW9uIik7Cg==</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -409,10 +410,10 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5Db2xsZWN0aW9uczsK</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIG51bGw7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudGltZS5EdXJhdGlvbjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -424,22 +425,22 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudGltZS5EdXJhdGlvbjsK</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5Db2xsZWN0aW9uczsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5BcnJheUxpc3Q7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudGltZS5EdXJhdGlvbjsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5BcnJheUxpc3Q7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudGltZS5EdXJhdGlvbjsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmICghdXNlckFjdGlvbnMuaXNFbXB0eSgpKSB7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5BcnJheUxpc3Q7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5BcnJheUxpc3Q7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBNb25vPExvbmc+IGdldFRpbWVUb0ZpcnN0QWNrU2Vjb25kcyhVVUlEIGluY2lkZW50SWQsIFN0cmluZyBvcmdJZCk7Cg==</text>
+        <text encoding="base64">ICAgIGlmICghdXNlckFjdGlvbnMuaXNFbXB0eSgpKSB7Cg==</text>
       </register>
       <register name="x" type="4">
         <keys>
@@ -460,7 +461,7 @@
         </keys>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEubGFuZy5Mb25nOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>107</text>
