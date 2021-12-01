@@ -135,11 +135,10 @@
       <file name="/a.sql" timestamp="1637266276493">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GitLab/perseus/alert-incident-service/src/main/java/splunk/observability/incidentintelligence/alertincidentservice/controllers/IncidentController.java" timestamp="1638318012870">
-        <mark key="[" line="220" column="95" />
-        <mark key="]" line="18" column="22" />
-        <mark key="." line="18" column="0" />
-        <mark key="^" line="17" column="10" />
+      <file name="$USER_HOME$/GitLab/perseus/alert-incident-service/src/main/java/splunk/observability/incidentintelligence/alertincidentservice/controllers/IncidentController.java" timestamp="1638319082762">
+        <mark key="[" line="219" column="80" />
+        <mark key="]" line="218" column="0" />
+        <mark key="." line="218" column="0" />
       </file>
       <file name="/body.elasticsearch" timestamp="1638227069704">
         <mark key="[" line="0" column="0" />
@@ -288,7 +287,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwZXJmb3JtZWRBdC5zZXRBY2Nlc3NpYmxlKHRydWUpOwo=</text>
+        <text encoding="base64">ICBAT3BlcmF0aW9uKHN1bW1hcnkgPSAiR2V0IFRpbWUgdG8gRmlyc3QgQWNrbm93bGVkZ2VtZW50IChzZWNvbmRzKSBmb3IgcGFydGljdWxhciBpbmNpZGVudC4iKQo=</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -409,10 +408,10 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwZXJmb3JtZWRBdC5zZXRBY2Nlc3NpYmxlKHRydWUpOwo=</text>
+        <text encoding="base64">ICBAT3BlcmF0aW9uKHN1bW1hcnkgPSAiR2V0IFRpbWUgdG8gRmlyc3QgQWNrbm93bGVkZ2VtZW50IChzZWNvbmRzKSBmb3IgcGFydGljdWxhciBpbmNpZGVudC4iKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIlBlcmZvcm1lZCBhdCA9ICIgKyBwZXJmb3JtZWRBdCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwZXJmb3JtZWRBdC5zZXRBY2Nlc3NpYmxlKHRydWUpOwo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -424,19 +423,19 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBGaWVsZCBwZXJmb3JtZWRBdCA9IGFjdC5nZXRDbGFzcygpLmdldERlY2xhcmVkRmllbGQoInBlcmZvcm1lZEF0Iik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIlBlcmZvcm1lZCBhdCA9ICIgKyBwZXJmb3JtZWRBdCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIG51bGw7Cg==</text>
+        <text encoding="base64">ICAgICAgICBGaWVsZCBwZXJmb3JtZWRBdCA9IGFjdC5nZXRDbGFzcygpLmdldERlY2xhcmVkRmllbGQoInBlcmZvcm1lZEF0Iik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIG51bGw7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5Db2xsZWN0aW9uczsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudGltZS5EdXJhdGlvbjsK</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5Db2xsZWN0aW9uczsK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">aW1wb3J0IGphdmEudGltZS5EdXJhdGlvbjsK</text>
@@ -460,7 +459,7 @@
         </keys>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5BcnJheUxpc3Q7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudGltZS5EdXJhdGlvbjsK</text>
       </register>
       <register name=":" type="4">
         <text>226</text>
