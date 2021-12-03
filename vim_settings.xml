@@ -57,58 +57,55 @@
   <component name="VimKeySettings">
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIEQ=</text>
+        <text>ctrl pressed D</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIEk=</text>
+        <text>ctrl pressed I</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIEc=</text>
+        <text>ctrl pressed G</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIFA=</text>
+        <text>ctrl pressed P</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIEE=</text>
+        <text>ctrl pressed A</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIFI=</text>
+        <text>ctrl pressed R</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIE8=</text>
+        <text>ctrl pressed O</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIEI=</text>
+        <text>ctrl pressed B</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIDI=</text>
+        <text>ctrl pressed 2</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIFQ=</text>
+        <text>ctrl pressed T</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIEU=</text>
+        <text>ctrl pressed E</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIEJBQ0tfU0xBU0g=</text>
+        <text>ctrl pressed BACK_SLASH</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIFY=</text>
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIFE=</text>
+        <text>ctrl pressed Q</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIE0=</text>
+        <text>ctrl pressed M</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIEo=</text>
+        <text>ctrl pressed J</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIE4=</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIFM=</text>
+        <text>ctrl pressed N</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
@@ -129,10 +126,11 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
+      <file name="$USER_HOME$/GitLab/perseus/alert-incident-service/src/main/java/splunk/observability/incidentintelligence/alertincidentservice/models/incident/UserAction.java" timestamp="1638549731228" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.java" timestamp="1637278162401">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/GitLab/perseus/alert-incident-service/src/main/java/splunk/observability/incidentintelligence/alertincidentservice/models/incident/Incident.java" timestamp="1638385723158">
+      <file name="$USER_HOME$/GitLab/perseus/alert-incident-service/src/main/java/splunk/observability/incidentintelligence/alertincidentservice/models/incident/Incident.java" timestamp="1638548548250">
         <mark key="[" line="56" column="8" />
         <mark key="]" line="56" column="8" />
         <mark key="." line="56" column="7" />
@@ -143,19 +141,17 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GitLab/perseus/alert-incident-service/src/main/java/splunk/observability/incidentintelligence/alertincidentservice/models/incident/IncidentTimeToFirstAck.java" timestamp="1638300070404">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
+      <file name="$USER_HOME$/GitLab/perseus/alert-incident-service/src/main/java/splunk/observability/incidentintelligence/alertincidentservice/models/incident/IncidentTimeToFirstAck.java" timestamp="1638549966147">
+        <mark key="[" line="13" column="21" />
+        <mark key="]" line="13" column="21" />
+        <mark key="." line="13" column="21" />
       </file>
-      <file name="$USER_HOME$/GitLab/perseus/alert-incident-service/src/main/java/splunk/observability/incidentintelligence/alertincidentservice/services/IncidentService.java" timestamp="1638459915018">
-        <mark key="[" line="40" column="0" />
+      <file name="$USER_HOME$/GitLab/perseus/alert-incident-service/src/main/java/splunk/observability/incidentintelligence/alertincidentservice/services/IncidentService.java" timestamp="1638549902617">
+        <mark key="[" line="4" column="0" />
         <mark key="m" line="92" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
-      </file>
-      <file name="/a.sql" timestamp="1637266276493">
-        <mark key="[" line="0" column="0" />
+        <mark key="]" line="4" column="22" />
+        <mark key="." line="4" column="15" />
+        <mark key="^" line="4" column="16" />
       </file>
       <file name="$USER_HOME$/GitLab/perseus/alert-incident-service/src/main/java/splunk/observability/incidentintelligence/alertincidentservice/controllers/IncidentController.java" timestamp="1638392984892">
         <mark key="[" line="219" column="24" />
@@ -289,8 +285,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBwcml2YXRlIEluY2lkZW50IHJhd0luY2lkZW50Owo=</text>
+      <register name="&quot;" type="4">
+        <text>firstAckAt</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -304,13 +300,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>iincidentMono.subscribe(Incident::getCreatedAt);</text>
+        <text>firstAckAt</text>
       </register>
       <register name="/" type="4">
         <text>localhost</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFNldDxVc2VyQWN0aW9uPiB1c2VyQWN0aW9ucyA9IHJlcG9zaXRvcnkuZmluZEJ5SW5jaWRlbnRJZEFuZE9yZ0lkKGluY2lkZW50SWQsIG9yZ0lkKQogICAgICAgICAgICAubWFwKGkgLT4geyByZXR1cm4gaS5nZXRVc2VyQWN0aW9ucygpIH0pOwo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEubGFuZy5Mb25nOwo=</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -411,10 +407,10 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBwcml2YXRlIEluY2lkZW50IHJhd0luY2lkZW50Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnN1YnNjcmliZSgpLjsK</text>
+        <text encoding="base64">ICBASnNvbkluY2x1ZGUoSW5jbHVkZS5OT05fTlVMTCkK</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -426,22 +422,22 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmRvT25TdWJzY3JpYmUoaSAtPiB7cmV0dXJuIGkuO30pCg==</text>
+        <text encoding="base64">ICBwcml2YXRlIGZpbmFsIE9iamVjdCBhY3Rpb25EZXRhaWw7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">aW1wb3J0IHNwbHVuay5vYnNlcnZhYmlsaXR5LmluY2lkZW50aW50ZWxsaWdlbmNlLmFsZXJ0aW5jaWRlbnRzZXJ2aWNlLm1vZGVscy5rYWZrYS5jb25zdGFudHMuSW5jaWRlbnRDb21tYW5kOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLm1hcChpIC0+IHsgcmV0dXJuIGkuZ2V0VXNlckFjdGlvbnMoKSB9KTsK</text>
+        <text encoding="base64">ICBwcml2YXRlIGZpbmFsIFN0cmluZyBwZXJmb3JtZWRCeTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICA9IHJhd0luY2lkZW50LmdldFVzZXJBY3Rpb25zKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <keys>
@@ -462,7 +458,7 @@
         </keys>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnN1YnNjcmliZShyZXN1bHQgLT4gU3lzdGVtLm91dC5wcmludGxuKCJIZXJlIGlzIGEgcmVzdWx0OiAiICsgcmVzdWx0KSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>226</text>
@@ -481,7 +477,7 @@
     </search>
   </component>
   <component name="VimSettings">
-    <state version="7" enabled="true" />
+    <state version="6" enabled="true" />
     <notifications>
       <idea-join enabled="true" />
       <idea-put enabled="false" />
