@@ -5,18 +5,19 @@
       <mapping ext="py37" type="Dockerfile" />
       <mapping ext="apxc" type="JavaFX" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern="date_window.py" type="PLAIN_TEXT" />
+      <mapping ext="tfstate" type="PLAIN_TEXT" />
       <mapping ext="avro" type="PLAIN_TEXT" />
       <mapping ext="0_x5" type="PLAIN_TEXT" />
-      <mapping ext="tfstate" type="PLAIN_TEXT" />
-      <mapping ext="lock" type="Python" />
       <mapping ext="pex" type="Python" />
+      <mapping ext="lock" type="Python" />
       <mapping ext="tmpl" type="SQL" />
       <mapping pattern=".envrc" type="Shell Script" />
+      <mapping pattern="variables.tf" type="Terraform" />
       <removed_mapping pattern="metric_data_classes.py" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".envrc" approved="true" type="YAML" />
       <removed_mapping pattern="victorops" approved="true" type="Python" />
       <removed_mapping pattern="variables.tf" approved="true" type="PLAIN_TEXT" />
-      <mapping pattern="variables.tf" type="Terraform" />
     </extensionMap>
   </component>
 </application>

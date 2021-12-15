@@ -101,5 +101,6 @@
     <driver id="vertica">
       <option name="auto-sync" value="true" />
     </driver>
+    <driver id="com.simba.athena.jdbc42.Driver" name="com.simba.athena.jdbc42.Driver" driver-class="com.simba.athena.jdbc42.Driver" />
   </component>
 </application>
