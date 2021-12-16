@@ -141,16 +141,8 @@
         <mark key="^" line="172" column="1" />
         <mark key="." line="172" column="0" />
       </file>
-      <file name="$USER_HOME$/GitLab/perseus/alert-incident-service/src/main/java/splunk/observability/incidentintelligence/alertincidentservice/services/IncidentService.java" timestamp="1639076432761">
-        <mark key="m" line="92" column="0" />
-      </file>
       <file name="$USER_HOME$/GitLab/data-lambda-refine/sls_config/cyclops-playground.json" timestamp="1639601264141" />
-      <file name="$USER_HOME$/GitLab/perseus/alert-incident-service/src/main/java/splunk/observability/incidentintelligence/alertincidentservice/controllers/IncidentController.java" timestamp="1638392984892">
-        <mark key="[" line="219" column="24" />
-        <mark key="]" line="218" column="0" />
-        <mark key="." line="218" column="0" />
-      </file>
-      <file name="$USER_HOME$/GitLab/perseus/alert-incident-service/src/test/java/splunk/observability/incidentintelligence/alertincidentservice/services/IncidentServiceTestIT.java" timestamp="1639076059683">
+      <file name="$USER_HOME$/GitLab/perseus/alert-incident-service/src/test/java/splunk/observability/incidentintelligence/alertincidentservice/services/IncidentServiceTestIT.java" timestamp="1639673391497">
         <mark key="[" line="37" column="48" />
         <mark key="]" line="37" column="48" />
         <mark key="." line="37" column="48" />
@@ -158,9 +150,6 @@
       <file name="$USER_HOME$/GitLab/perseus/alert-incident-service/src/main/java/splunk/observability/incidentintelligence/alertincidentservice/controllers/AlertController.java" timestamp="1638312404378">
         <mark key="[" line="149" column="0" />
         <mark key="]" line="149" column="84" />
-      </file>
-      <file name="/body.elasticsearch" timestamp="1638227069704">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/GitLab/perseus/alert-incident-service/src/main/java/splunk/observability/incidentintelligence/alertincidentservice/repositories/IncidentRepository.java" timestamp="1638311818681">
         <mark key="[" line="38" column="0" />
